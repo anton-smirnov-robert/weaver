@@ -8,3 +8,4 @@ tags:
 
 
 Try [closure of constraints](notes/concepts/closure%20of%20constraints.md) .
+
