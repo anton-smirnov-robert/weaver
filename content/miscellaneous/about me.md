@@ -1,5 +1,5 @@
 ---
-title: "about_me"
+title: "about me"
 ---
 
 I'm Anton Robert. 
