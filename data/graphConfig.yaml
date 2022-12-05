@@ -24,7 +24,7 @@ globalGraph:
     enableDrag: true
     enableZoom: true
     depth: -1 # set to -1 to show full graph
-    scale: 2
+    scale: 1
     repelForce: 1
     centerForce: 1
     linkDistance: 1
@@ -34,10 +34,10 @@ globalGraph:
 ### For all graphs ###
 
 paths:
-  - /references: "#27AE60"
+  - /references: "#F39C12"
   - /concepts: "#3498DB"
   - /readings: "#C0392B"
-  - /definitions: "#F39C12"
+  - /definitions: "#9B59B6"
   - /quotes: "#F4D03F"
-  - "/miscellaneous/about me": "#33FF00"
-  - /miscellaneous/explanations: "#FF00FF"
+  - /miscellaneous/about: "#33FF00"
+  - /miscellaneous/where: "#FF00FF"

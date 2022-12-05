@@ -1,7 +1,7 @@
 ---
-title: "Montevil2016"
+title: "Montevil2016" 
 tags:
-- bib
+- reference
 ---
 
 - Title: Theoretical principles for biology: Variation
