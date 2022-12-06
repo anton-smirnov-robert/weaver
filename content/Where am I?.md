@@ -14,6 +14,7 @@ At any moment you can go back to the global graph containing all pages by clikin
 
 If you are here for the first time, let me introduce you to the project in four steps. Let's proceed to [step 1](step%201.md).
 
+[Longo et al, 2012](unread/Longo%20et%20al,%202012.md)
 
 >[!warning]  
 >
