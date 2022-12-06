@@ -1,5 +1,5 @@
 ---
-title: "Montévil et al., 2016"
+title: "Montévil et al, 2016"
 date: 2022-12-06
 draft: false
 tags:
@@ -14,8 +14,8 @@ tags:
 - Year: 2016 
 - DOI: 10.1016/j.pbiomolbio.2016.08.005
 - URL: https://linkinghub.elsevier.com/retrieve/pii/S0079610716300967
-- Link : [Zotero](zotero://select/library/items/AAVRKGPM) 
-- File : [Montévil et al. - 2016 - Theoretical principles for biology Variation.pdf](file:////Users/robert/Zotero/storage/9C2PA3VN/Mont%C3%A9vil%20et%20al.%20-%202016%20-%20Theoretical%20principles%20for%20biology%20Variation.pdf)
+
+
 
 
 ## Introduction
@@ -26,7 +26,7 @@ tags:
 
 > [!quote] 
 >
->“In this paper, we elaborate on the Darwinian idea of “chance” variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology.” —  (p. 2) 
+>*“In this paper, we elaborate on the Darwinian idea of “chance” variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology.”* —  (p. 2) 
 
 > [!note] 
 >
@@ -34,7 +34,8 @@ tags:
 
 ## Invariance and symmetries: physics as the domain of generic objects
 
-![[Montevil2016_QXLVPV6Q.png]] (p. 4)
+
+
 
 > [!note] 
 >

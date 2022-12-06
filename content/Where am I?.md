@@ -14,7 +14,10 @@ In fact, this entire website relies on forward and backward links (backlinks) be
 At any moment you can go back to the global graph containing all pages by cliking on **complexus** at the top of the page or **Home** at the bottom.
 
 If you are here for the first time, let me introduce you to the project in four steps. Let's proceed to [step 1](step%201.md)
-[Montevil2016](unread/Montevil2016.md)
+
+In the text, I can cite as ([Montévil et al, 2016](unread/Montévil%20et%20al,%202016.md))
+
+
 >[!example]  Example
 >
 >Can i say something here ? 
