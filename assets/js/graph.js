@@ -116,7 +116,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr('viewBox', [-width / 2 * 1 / scale, -height / 2 * 1 / scale, width * 1 / scale, height * 1 / scale])
 
   if (enableLegend) {
-    const legend = [{ Current: "var(--g-node-active)" }, { Note: "var(--g-node)" }, ...pathColors]
+    //const legend = [{ Current: "var(--g-node-active)" }, { Note: "var(--g-node)" }, ...pathColors] 
+    const legend = [...pathColors]
     legend.forEach((legendEntry, i) => {
       const key = Object.keys(legendEntry)[0]
       const colour = legendEntry[key]

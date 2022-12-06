@@ -14,13 +14,13 @@ localGraph:
     repelForce: 2
     centerForce: 1
     linkDistance: 1
-    fontSize: 0.6
+    fontSize: .5
     opacityScale: 3
 
 ### Global Graph ###
 
 globalGraph:
-    enableLegend: false
+    enableLegend: true
     enableDrag: true
     enableZoom: true
     depth: -1 # set to -1 to show full graph
@@ -38,6 +38,6 @@ paths:
   - /concepts: "#3498DB"
   - /readings: "#C0392B"
   - /definitions: "#9B59B6"
-  - /quotes: "#F4D03F"
-  - /miscellaneous/about: "#33FF00"
-  - /miscellaneous/where: "#FF00FF"
+  - /about_me: "#33FF00"
+  - /where_am_i?: "#FF00FF"
+

@@ -11,5 +11,4 @@ tags:
 ---
 
 
-Some categories. 
-[step 3](miscellaneous/step%203.md)
+Some categories. [step 3](step%203.md)

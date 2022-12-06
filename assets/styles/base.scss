@@ -21,9 +21,9 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
-  @media all and (max-width: 1200px) {
-    padding: 25px 5vw;
+  padding: 1vh 8vw;
+  @media all and (max-width: 5000px) {
+    padding: 1vh 4vw;
   }
 }
 
@@ -322,13 +322,13 @@ hr {
   & > .backlinks-container {
     & > ul {
       list-style: none;
-      padding: 0;
-      margin: 0;
+      padding: 0em;
+      margin: 1em, 0;
 
       & > li {
-        margin: 0.5em 0;
+        margin: 0em 0em;
         padding: 0.25em 1em;
-        border: var(--outlinegray) 1px solid;
+        border: var(--outlinegray) 0px solid;
         border-radius: 5px
       }
     }
@@ -338,8 +338,8 @@ hr {
     border: var(--outlinegray) 1px solid;
     border-radius: 5px;
     box-sizing: border-box;
-    min-height: 250px;
-    margin: 0.5em 0;
+    min-height: 80vh ;
+    margin: 0 0;
 
     & > svg {
       margin-bottom: -5px;
