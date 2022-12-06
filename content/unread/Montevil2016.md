@@ -12,4 +12,20 @@ tags:
 - Year: 2016 
 - DOI: 10.1016/j.pbiomolbio.2016.08.005
 - URL: https://linkinghub.elsevier.com/retrieve/pii/S0079610716300967
+- 
+Annotations(06/12/2022 à 17:18:50)
 
+- *“« In this paper, we elaborate on the Darwinian idea of “chance” variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology. »”* [(Montévil et al., 2016, p. 2)](zotero://open-pdf/library/items/9C2PA3VN?page=3&annotation=N54KUPVU) 
+
+- *“« Biological variation occurs at all levels of organization, from the molecular level to large scale structures and functions (West-Eberhard, 2003; Dueck et al., 2016). »”* [(Montévil et al., 2016, p. 2)](zotero://open-pdf/library/items/9C2PA3VN?page=3&annotation=SDAUFR3Z) 
+
+- *“« However, the intuitive idea is quite simple: generic »”* [(Montévil et al., 2016, p. 3)](zotero://open-pdf/library/items/9C2PA3VN?page=4&annotation=XBUW7HIU) 
+
+- *“« objects are objects which are all of the same kind from the point of view of the theory (they typically obey the same equations). »”* [(Montévil et al., 2016, p. 3)](zotero://open-pdf/library/items/9C2PA3VN?page=4&annotation=NWUB8MMK) 
+
+
+
+- {{Yellow}, - *“« However, the intuitive idea is quite simple: generic »”* [(Montévil et al., 2016, p. 3)](zotero://open-pdf/library/items/9C2PA3VN?page=4&annotation=XBUW7HIU) 
+- *“« objects are objects which are all of the same kind from the point of view of the theory (they typically obey the same equations). »”* [(Montévil et al., 2016, p. 3)](zotero://open-pdf/library/items/9C2PA3VN?page=4&annotation=NWUB8MMK) , , {{Black}, , , , - *“« Biological variation occurs at all levels of organization, from the molecular level to large scale structures and functions (West-Eberhard, 2003; Dueck et al., 2016). »”* [(Montévil et al., 2016, p. 2)](zotero://open-pdf/library/items/9C2PA3VN?page=3&annotation=SDAUFR3Z) , - *“« In this paper, we elaborate on the Darwinian idea of “chance” variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology. »”* [(Montévil et al., 2016, p. 2)](zotero://open-pdf/library/items/9C2PA3VN?page=3&annotation=N54KUPVU) 
+- [Zotero](zotero://select/library/items/AAVRKGPM)
+- [Montévil et al. - 2016 - Theoretical principles for biology Variation.pdf](file:////Users/robert/Zotero/storage/9C2PA3VN/Mont%C3%A9vil%20et%20al.%20-%202016%20-%20Theoretical%20principles%20for%20biology%20Variation.pdf)
