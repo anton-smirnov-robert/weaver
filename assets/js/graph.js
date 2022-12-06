@@ -62,6 +62,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       if (d.id.startsWith(path)) {
         return colour
       }
+      if ( d.id == "/Where-am-I" ) { return "#FF00FF" }
+      if ( d.id == "/about-me" ) { return "#33FF00" }
     }
 
     return "var(--g-node)"
@@ -117,7 +119,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   if (enableLegend) {
     //const legend = [{ Current: "var(--g-node-active)" }, { Note: "var(--g-node)" }, ...pathColors] 
-    const legend = [{ oothers: "var(--g-node)" }, ...pathColors]
+    const legend = [...pathColors]
     legend.forEach((legendEntry, i) => {
       const key = Object.keys(legendEntry)[0]
       const colour = legendEntry[key]
@@ -156,6 +158,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const nodeRadius = (d) => {
     const numOut = index.links[d.id]?.length || 0
     const numIn = index.backlinks[d.id]?.length || 0
+    if ( d.id == "/Where-am-I" ) { return 20 }
+    if ( d.id == "/about-me" ) { return 10 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 

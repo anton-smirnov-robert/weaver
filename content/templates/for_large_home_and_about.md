@@ -4,5 +4,5 @@ date: <% tp.date.now() %>
 draft: true
 ---
 
-[Home](Home.md)
-[about](about.md)
+[Where am I?](Where%20am%20I?.md)
+[about me](about%20me.md)

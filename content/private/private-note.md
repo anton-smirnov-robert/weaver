@@ -2,6 +2,6 @@
 title: "Private Stuff"
 ---
 
-[Home](Home.md)
+[Where am I?](Where%20am%20I?.md)
 
 
