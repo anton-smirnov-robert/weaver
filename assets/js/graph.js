@@ -121,9 +121,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     legend.forEach((legendEntry, i) => {
       const key = Object.keys(legendEntry)[0]
       const colour = legendEntry[key]
-      if (d.id === "where_am_i") {
-         key = "Where am I ?"; 
-      }
       svg
         .append("circle")
         .attr("cx", -width / 2 + 20)
