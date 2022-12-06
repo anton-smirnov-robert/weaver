@@ -14,3 +14,22 @@ In fact, this entire website relies on forward and backward links (backlinks) be
 At any moment you can go back to the global graph containing all pages by cliking on **complexus** at the top of the page or **Home** at the bottom.
 
 If you are here for the first time, let me introduce you to the project in four steps. Let's proceed to [step 1](step%201.md)
+
+>[!example]  Example
+>
+>Can i say something here ? 
+
+
+> [!quote] Quote
+> 
+> "Here I can quote." — [Montevil2016](references/Montevil2016.md)
+
+
+
+> 
+
+
+ 
+
+
+
