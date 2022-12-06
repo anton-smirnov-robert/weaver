@@ -22,14 +22,8 @@ If you are here for the first time, let me introduce you to the project in four 
 
 > [!quote] Quote
 > 
-> "Here I can quote." — [Montevil2016](unread/Montevil2016.md)
+> "Here I can quote." 
 
-
-
-> 
-
-
- 
 
 
 

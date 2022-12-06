@@ -64,6 +64,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       }
       if ( d.id == "/Where-am-I" ) { return "#FF00FF" }
       if ( d.id == "/about-me" ) { return "#33FF00" }
+      if ( d.id == "/manifesto" ) { return "#76D1F9" }
     }
 
     return "var(--g-node)"
@@ -158,8 +159,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const nodeRadius = (d) => {
     const numOut = index.links[d.id]?.length || 0
     const numIn = index.backlinks[d.id]?.length || 0
-    if ( d.id == "/Where-am-I" ) { return 20 }
-    if ( d.id == "/about-me" ) { return 10 }
+    if ( d.id == "/Where-am-I" ) { return 25 }
+    if ( d.id == "/about-me" ) { return 15 }
+    if ( d.id == "/manifesto" ) { return 10 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 
