@@ -1,5 +1,5 @@
 ---
-title: "where_am_i?"
+title: "where_am_i"
 date: 2022-12-05
 draft: false
 enabletoc: false

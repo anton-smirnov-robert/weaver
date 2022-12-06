@@ -117,10 +117,13 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   if (enableLegend) {
     //const legend = [{ Current: "var(--g-node-active)" }, { Note: "var(--g-node)" }, ...pathColors] 
-    const legend = [...pathColors]
+    const legend = [{ oothers: "var(--g-node)" }, ...pathColors]
     legend.forEach((legendEntry, i) => {
       const key = Object.keys(legendEntry)[0]
       const colour = legendEntry[key]
+      if (d.id === "where_am_i") {
+         key = "Where am I ?"; 
+      }
       svg
         .append("circle")
         .attr("cx", -width / 2 + 20)
@@ -131,7 +134,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .append("text")
         .attr("x", -width / 2 + 40)
         .attr("y", height / 2 - 30 * (i + 1))
-        .text(key)
+        .text( key.slice(1))
         .style("font-size", "15px")
         .attr("alignment-baseline", "middle")
     })

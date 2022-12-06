@@ -39,5 +39,5 @@ paths:
   - /readings: "#C0392B"
   - /definitions: "#9B59B6"
   - /about_me: "#33FF00"
-  - /where_am_i?: "#FF00FF"
+  - /where_am_i: "#FF00FF"
 
