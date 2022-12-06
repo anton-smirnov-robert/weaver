@@ -1,5 +1,6 @@
 ---
 title: "Montevil2016" 
+enabletoc: true
 tags:
 - unread
 ---
@@ -18,15 +19,59 @@ tags:
 
 
 
-## « 1. Introduction »[ ](zotero://open-pdf/library/items/9C2PA3VN?page=3&annotation=52TELMTJ)
+## Introduction
 
+> [!note] 
+>
+>Here is a comment.   
 
 > [!quote] 
 >
->==Ici on pourra penser à commenter sur le fait que ça fait penser à...==SPACE « In this paper, we elaborate on the Darwinian idea of “chance” variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology. » [(Montévil et al., 2016, p. 2)](zotero://open-pdf/library/items/9C2PA3VN?page=3&annotation=W6MIVH95) 
+>“In this paper, we elaborate on the Darwinian idea of “chance” variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology.” —  (p. 2) 
 
-![[Montevil2016_TJHLRDCF.png]] [(Montévil et al., 2016, p. 4)](zotero://open-pdf/library/items/9C2PA3VN?page=5&annotation=DCUEBCV8)
+> [!note] 
+>
+>Ça me fait penser à ça.   
 
-==Commentaire de l'image==SPACE [ ](zotero://open-pdf/library/items/9C2PA3VN?page=5&annotation=DCUEBCV8) 
+## Invariance and symmetries: physics as the domain of generic objects
+
+![[Montevil2016_QXLVPV6Q.png]] (p. 4)
+
+
+> [!note] 
+>
+>Commentaire de l'image  
+
+## Variation and symmetry changes: biology as the domain of specific objects
+
+### Randomness proper to specific objects
+
+### Constraints and specific objects
+
+### Constraints and randomness
+
+### Historicity
+
+### Contextuality
+
+### Variability
+
+### Modelization and specific objects
+
+### Conclusive remarks on the principle of variation
+
+## Bringing organization into the picture
+
+### Organization grounds constraints in specific objects
+
+### The epistemological status of closure under variation
+
+### Relevant variation with respect to closure
+
+### Closure remains closure under variation
+
+## Non-identical iteration of morphogenetic processes
+
+## Conclusions: back to theoretical principles
 
 
