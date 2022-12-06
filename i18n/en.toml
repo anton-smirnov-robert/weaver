@@ -26,7 +26,7 @@ other = "Backlinks"
 other = "No backlinks found"
 
 [home]
-other = "Home"
+other = "back to the graphview"
 
 [light_mode]
 other = "Light Mode"
