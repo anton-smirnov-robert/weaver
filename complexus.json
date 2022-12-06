@@ -94,7 +94,7 @@
       "exportNotes": true,
       "exportFileData": false,
       "keepUpdated": false,
-      "worker": true
+      "worker": false
     }
   },
   "version": {
@@ -104,7 +104,6 @@
   "collections": {},
   "items": [
     {
-      "key": "TJCNAYBL",
       "version": 0,
       "itemType": "newspaperArticle",
       "url": "https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system",
@@ -223,7 +222,6 @@
       "dateAdded": "2022-10-28T18:17:15Z",
       "dateModified": "2022-10-28T18:17:15Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/TJCNAYBL",
-      "itemID": 5596,
       "attachments": [
         {
           "itemType": "attachment",
@@ -240,12 +238,12 @@
       "notes": [],
       "citationKey": "Aitkenhead2013",
       "citekey": "Aitkenhead2013",
+      "itemID": 5596,
       "itemKey": "TJCNAYBL",
       "libraryID": 1,
       "select": "zotero://select/library/items/TJCNAYBL"
     },
     {
-      "key": "GL5JK9FW",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1177/2158244019829575",
@@ -285,7 +283,6 @@
       "dateAdded": "2022-11-03T22:17:13Z",
       "dateModified": "2022-11-03T22:17:13Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/GL5JK9FW",
-      "itemID": 5638,
       "attachments": [
         {
           "itemType": "attachment",
@@ -302,12 +299,12 @@
       "notes": [],
       "citationKey": "Aksnes2019",
       "citekey": "Aksnes2019",
+      "itemID": 5638,
       "itemKey": "GL5JK9FW",
       "libraryID": 1,
       "select": "zotero://select/library/items/GL5JK9FW"
     },
     {
-      "key": "AWZWB5RJ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.pnas.org/doi/10.1073/pnas.1404402111",
@@ -349,7 +346,6 @@
       "dateAdded": "2022-10-28T18:05:25Z",
       "dateModified": "2022-10-28T18:05:25Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AWZWB5RJ",
-      "itemID": 5592,
       "attachments": [
         {
           "itemType": "attachment",
@@ -366,12 +362,12 @@
       "notes": [],
       "citationKey": "Alberts2014",
       "citekey": "Alberts2014",
+      "itemID": 5592,
       "itemKey": "AWZWB5RJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/AWZWB5RJ"
     },
     {
-      "key": "RSVGRT9W",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://journals.openedition.org/appareil/3752",
@@ -402,7 +398,6 @@
       "dateAdded": "2022-11-20T10:18:06Z",
       "dateModified": "2022-11-20T10:18:06Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RSVGRT9W",
-      "itemID": 5667,
       "attachments": [
         {
           "itemType": "attachment",
@@ -419,12 +414,12 @@
       "notes": [],
       "citationKey": "Alombert2021",
       "citekey": "Alombert2021",
+      "itemID": 5667,
       "itemKey": "RSVGRT9W",
       "libraryID": 1,
       "select": "zotero://select/library/items/RSVGRT9W"
     },
     {
-      "key": "CGN3ITLW",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1007/s11948-007-9042-5",
@@ -485,7 +480,6 @@
       "dateAdded": "2022-10-30T19:02:44Z",
       "dateModified": "2022-10-30T19:02:44Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/CGN3ITLW",
-      "itemID": 5618,
       "attachments": [
         {
           "itemType": "attachment",
@@ -502,12 +496,12 @@
       "notes": [],
       "citationKey": "Anderson2007",
       "citekey": "Anderson2007",
+      "itemID": 5618,
       "itemKey": "CGN3ITLW",
       "libraryID": 1,
       "select": "zotero://select/library/items/CGN3ITLW"
     },
     {
-      "key": "HDWLW4FC",
       "version": 0,
       "itemType": "magazineArticle",
       "url": "https://www.wired.com/2008/06/pb-theory/",
@@ -542,7 +536,6 @@
       "dateAdded": "2022-10-20T17:52:49Z",
       "dateModified": "2022-10-20T17:54:03Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/HDWLW4FC",
-      "itemID": 5523,
       "attachments": [
         {
           "itemType": "attachment",
@@ -559,12 +552,12 @@
       "notes": [],
       "citationKey": "Anderson2008",
       "citekey": "Anderson2008",
+      "itemID": 5523,
       "itemKey": "HDWLW4FC",
       "libraryID": 1,
       "select": "zotero://select/library/items/HDWLW4FC"
     },
     {
-      "key": "YBSRRHEW",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "181",
@@ -664,10 +657,8 @@
       "dateAdded": "2022-08-11T14:27:04Z",
       "dateModified": "2022-08-11T14:27:04Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/YBSRRHEW",
-      "itemID": 5379,
       "attachments": [
         {
-          "key": "VLAK4MJ4",
           "version": 0,
           "itemType": "attachment",
           "url": "http://www.ncbi.nlm.nih.gov/pubmed/4124164",
@@ -681,18 +672,21 @@
           "relations": {},
           "dateAdded": "2022-08-11T14:27:14Z",
           "dateModified": "2022-08-11T14:27:14Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/VLAK4MJ4"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VLAK4MJ4",
+          "itemID": 5380,
+          "itemKey": "VLAK4MJ4",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Anfinsen1973",
       "citekey": "Anfinsen1973",
+      "itemID": 5379,
       "itemKey": "YBSRRHEW",
       "libraryID": 1,
       "select": "zotero://select/library/items/YBSRRHEW"
     },
     {
-      "key": "K3EXP4BC",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "19",
@@ -711,17 +705,16 @@
       "dateAdded": "2022-11-24T11:56:10Z",
       "dateModified": "2022-11-24T11:56:11Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/K3EXP4BC",
-      "itemID": 5672,
       "attachments": [],
       "notes": [],
       "citationKey": "Arrow",
       "citekey": "Arrow",
+      "itemID": 5672,
       "itemKey": "K3EXP4BC",
       "libraryID": 1,
       "select": "zotero://select/library/items/K3EXP4BC"
     },
     {
-      "key": "MXR4WWYM",
       "version": 0,
       "itemType": "report",
       "url": "https://econpapers.repec.org/bookchap/nbrnberch/2144.htm",
@@ -742,7 +735,6 @@
       "dateAdded": "2022-11-24T11:58:43Z",
       "dateModified": "2022-11-24T11:58:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/MXR4WWYM",
-      "itemID": 5676,
       "attachments": [
         {
           "itemType": "attachment",
@@ -770,6 +762,7 @@
       "notes": [],
       "citationKey": "Arrow1962",
       "citekey": "Arrow1962",
+      "itemID": 5676,
       "itemKey": "MXR4WWYM",
       "libraryID": 1,
       "select": "zotero://select/library/items/MXR4WWYM",
@@ -777,7 +770,6 @@
       "publisher": "National Bureau of Economic Research, Inc"
     },
     {
-      "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
       "date": "2015",
@@ -797,17 +789,16 @@
       "dateAdded": "2022-10-20T11:12:51Z",
       "dateModified": "2022-10-20T11:12:51Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/DNV5ID3G",
-      "itemID": 5479,
       "attachments": [],
       "notes": [],
       "citationKey": "Audetat2015",
       "citekey": "Audetat2015",
+      "itemID": 5479,
       "itemKey": "DNV5ID3G",
       "libraryID": 1,
       "select": "zotero://select/library/items/DNV5ID3G"
     },
     {
-      "key": "TT3LUI2H",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0048733310000764",
@@ -840,7 +831,6 @@
       "dateAdded": "2022-10-27T19:03:56Z",
       "dateModified": "2022-10-27T19:03:56Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/TT3LUI2H",
-      "itemID": 5572,
       "attachments": [
         {
           "itemType": "attachment",
@@ -857,12 +847,12 @@
       "notes": [],
       "citationKey": "Auranen2010",
       "citekey": "Auranen2010",
+      "itemID": 5572,
       "itemKey": "TT3LUI2H",
       "libraryID": 1,
       "select": "zotero://select/library/items/TT3LUI2H"
     },
     {
-      "key": "XS9W4N4C",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "135",
@@ -882,7 +872,6 @@
       "dateAdded": "2022-07-29T18:19:27Z",
       "dateModified": "2022-07-29T18:19:27Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/XS9W4N4C",
-      "itemID": 5333,
       "attachments": [
         {
           "itemType": "attachment",
@@ -899,12 +888,12 @@
       "notes": [],
       "citationKey": "Bachelard1934",
       "citekey": "Bachelard1934",
+      "itemID": 5333,
       "itemKey": "XS9W4N4C",
       "libraryID": 1,
       "select": "zotero://select/library/items/XS9W4N4C"
     },
     {
-      "key": "AM379XZA",
       "version": 0,
       "itemType": "book",
       "series": "Advances in computer science and engineering: Texts",
@@ -954,7 +943,6 @@
       "dateAdded": "2022-08-24T11:55:24Z",
       "dateModified": "2022-08-24T11:55:25Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AM379XZA",
-      "itemID": 5399,
       "attachments": [
         {
           "itemType": "attachment",
@@ -971,12 +959,12 @@
       "notes": [],
       "citationKey": "Bailly2011",
       "citekey": "Bailly2011",
+      "itemID": 5399,
       "itemKey": "AM379XZA",
       "libraryID": 1,
       "select": "zotero://select/library/items/AM379XZA"
     },
     {
-      "key": "9RAD4QHF",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.nature.com/articles/533452a",
@@ -1019,7 +1007,6 @@
       "dateAdded": "2022-10-20T14:19:58Z",
       "dateModified": "2022-10-20T14:19:58Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/9RAD4QHF",
-      "itemID": 5490,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1047,12 +1034,12 @@
       "notes": [],
       "citationKey": "Baker2016",
       "citekey": "Baker2016",
+      "itemID": 5490,
       "itemKey": "9RAD4QHF",
       "libraryID": 1,
       "select": "zotero://select/library/items/9RAD4QHF"
     },
     {
-      "key": "VVZEEB6E",
       "version": 0,
       "itemType": "book",
       "publisher": "Elsevier",
@@ -1071,7 +1058,6 @@
       "dateAdded": "2022-07-26T14:20:02Z",
       "dateModified": "2022-07-26T14:20:02Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/VVZEEB6E",
-      "itemID": 5288,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1099,12 +1085,12 @@
       "notes": [],
       "citationKey": "Barwise1982",
       "citekey": "Barwise1982",
+      "itemID": 5288,
       "itemKey": "VVZEEB6E",
       "libraryID": 1,
       "select": "zotero://select/library/items/VVZEEB6E"
     },
     {
-      "key": "EVNWIC2N",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://iopscience.iop.org/article/10.1088/0305-4470/14/11/006",
@@ -1141,7 +1127,6 @@
       "dateAdded": "2022-07-22T16:49:03Z",
       "dateModified": "2022-07-25T12:46:18Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/EVNWIC2N",
-      "itemID": 5246,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1158,12 +1143,12 @@
       "notes": [],
       "citationKey": "Benzi1981",
       "citekey": "Benzi1981",
+      "itemID": 5246,
       "itemKey": "EVNWIC2N",
       "libraryID": 1,
       "select": "zotero://select/library/items/EVNWIC2N"
     },
     {
-      "key": "9PQ856ZQ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://www.tandfonline.com/doi/abs/10.1080/01621459.1942.10501760",
@@ -1191,7 +1176,6 @@
       "dateAdded": "2022-10-27T20:18:41Z",
       "dateModified": "2022-10-27T20:18:41Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/9PQ856ZQ",
-      "itemID": 5578,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1208,12 +1192,12 @@
       "notes": [],
       "citationKey": "Berkson1942",
       "citekey": "Berkson1942",
+      "itemID": 5578,
       "itemKey": "9PQ856ZQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/9PQ856ZQ"
     },
     {
-      "key": "HGJ359QW",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://direct.mit.edu/neco/article/13/11/2409-2463/6472",
@@ -1252,7 +1236,6 @@
       "dateAdded": "2022-07-22T16:53:17Z",
       "dateModified": "2022-07-22T16:53:17Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/HGJ359QW",
-      "itemID": 5249,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1269,12 +1252,12 @@
       "notes": [],
       "citationKey": "Bialek2001",
       "citekey": "Bialek2001",
+      "itemID": 5249,
       "itemKey": "HGJ359QW",
       "libraryID": 1,
       "select": "zotero://select/library/items/HGJ359QW"
     },
     {
-      "key": "ZQ9N6FS8",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1093/restud/rdw038",
@@ -1312,7 +1295,6 @@
       "dateAdded": "2022-11-02T19:06:09Z",
       "dateModified": "2022-11-02T19:06:09Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ZQ9N6FS8",
-      "itemID": 5633,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1340,12 +1322,12 @@
       "notes": [],
       "citationKey": "Bobtcheff2017",
       "citekey": "Bobtcheff2017",
+      "itemID": 5633,
       "itemKey": "ZQ9N6FS8",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZQ9N6FS8"
     },
     {
-      "key": "4TTSY8T4",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0370157301000254",
@@ -1372,7 +1354,6 @@
       "dateAdded": "2022-07-22T16:49:49Z",
       "dateModified": "2022-07-22T16:49:49Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/4TTSY8T4",
-      "itemID": 5247,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1389,12 +1370,12 @@
       "notes": [],
       "citationKey": "Boffetta2002",
       "citekey": "Boffetta2002",
+      "itemID": 5247,
       "itemKey": "4TTSY8T4",
       "libraryID": 1,
       "select": "zotero://select/library/items/4TTSY8T4"
     },
     {
-      "key": "8K595NQB",
       "version": 0,
       "itemType": "book",
       "url": "https://www.cambridge.org/core/books/computability-and-logic/440B4178B7CBF1C241694233716AB271",
@@ -1430,7 +1411,6 @@
       "dateAdded": "2022-07-26T15:27:57Z",
       "dateModified": "2022-07-26T15:27:57Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/8K595NQB",
-      "itemID": 5293,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1458,12 +1438,12 @@
       "notes": [],
       "citationKey": "Boolos2007",
       "citekey": "Boolos2007",
+      "itemID": 5293,
       "itemKey": "8K595NQB",
       "libraryID": 1,
       "select": "zotero://select/library/items/8K595NQB"
     },
     {
-      "key": "AF8LL93U",
       "version": 0,
       "itemType": "thesis",
       "url": "https://tel.archives-ouvertes.fr/tel-00293000",
@@ -1485,7 +1465,6 @@
       "dateAdded": "2022-09-08T13:34:38Z",
       "dateModified": "2022-09-08T13:34:38Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AF8LL93U",
-      "itemID": 5444,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1513,6 +1492,7 @@
       "notes": [],
       "citationKey": "Boudes2008",
       "citekey": "Boudes2008",
+      "itemID": 5444,
       "itemKey": "AF8LL93U",
       "libraryID": 1,
       "select": "zotero://select/library/items/AF8LL93U",
@@ -1520,7 +1500,6 @@
       "type": "phdthesis"
     },
     {
-      "key": "YD2XZY4K",
       "version": 0,
       "itemType": "book",
       "publisher": "Presses Universitaires de France",
@@ -1540,7 +1519,6 @@
       "dateAdded": "2022-11-06T16:22:14Z",
       "dateModified": "2022-11-06T16:22:14Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/YD2XZY4K",
-      "itemID": 5653,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1557,12 +1535,12 @@
       "notes": [],
       "citationKey": "Bouleau2021",
       "citekey": "Bouleau2021",
+      "itemID": 5653,
       "itemKey": "YD2XZY4K",
       "libraryID": 1,
       "select": "zotero://select/library/items/YD2XZY4K"
     },
     {
-      "key": "E7YP4U4L",
       "version": 0,
       "itemType": "newspaperArticle",
       "publicationTitle": "Le Monde diplomatique",
@@ -1580,17 +1558,16 @@
       "dateAdded": "2022-10-25T22:29:56Z",
       "dateModified": "2022-10-25T22:31:02Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/E7YP4U4L",
-      "itemID": 5558,
       "attachments": [],
       "notes": [],
       "citationKey": "Bourdieu1998",
       "citekey": "Bourdieu1998",
+      "itemID": 5558,
       "itemKey": "E7YP4U4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/E7YP4U4L"
     },
     {
-      "key": "6NJIC5JR",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://aip.scitation.org/doi/10.1063/1.1699951",
@@ -1619,7 +1596,6 @@
       "dateAdded": "2022-07-29T10:41:43Z",
       "dateModified": "2022-07-29T10:41:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6NJIC5JR",
-      "itemID": 5325,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1636,12 +1612,12 @@
       "notes": [],
       "citationKey": "Brillouin1951",
       "citekey": "Brillouin1951",
+      "itemID": 5325,
       "itemKey": "6NJIC5JR",
       "libraryID": 1,
       "select": "zotero://select/library/items/6NJIC5JR"
     },
     {
-      "key": "ZY4EK8TQ",
       "version": 0,
       "itemType": "book",
       "place": "New York",
@@ -1661,7 +1637,6 @@
       "dateAdded": "2022-07-29T11:23:34Z",
       "dateModified": "2022-07-29T11:26:26Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ZY4EK8TQ",
-      "itemID": 5330,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1689,12 +1664,12 @@
       "notes": [],
       "citationKey": "Brillouin1956",
       "citekey": "Brillouin1956",
+      "itemID": 5330,
       "itemKey": "ZY4EK8TQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZY4EK8TQ"
     },
     {
-      "key": "ZAXFIK5I",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1057/s41286-017-0043-9",
@@ -1757,7 +1732,6 @@
       "dateAdded": "2022-10-28T19:20:04Z",
       "dateModified": "2022-10-28T19:20:04Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ZAXFIK5I",
-      "itemID": 5612,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1774,12 +1748,12 @@
       "notes": [],
       "citationKey": "Brunila2018",
       "citekey": "Brunila2018",
+      "itemID": 5612,
       "itemKey": "ZAXFIK5I",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZAXFIK5I"
     },
     {
-      "key": "8RY5Q7D7",
       "version": 0,
       "itemType": "journalArticle",
       "publicationTitle": "DC: US Government",
@@ -1799,17 +1773,16 @@
       "dateAdded": "2022-10-26T10:39:45Z",
       "dateModified": "2022-10-26T10:39:45Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/8RY5Q7D7",
-      "itemID": 5561,
       "attachments": [],
       "notes": [],
       "citationKey": "Bush1945",
       "citekey": "Bush1945",
+      "itemID": 5561,
       "itemKey": "8RY5Q7D7",
       "libraryID": 1,
       "select": "zotero://select/library/items/8RY5Q7D7"
     },
     {
-      "key": "BC9AIIBI",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "15",
@@ -1829,7 +1802,6 @@
       "dateAdded": "2022-08-11T09:17:40Z",
       "dateModified": "2022-08-11T09:17:40Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/BC9AIIBI",
-      "itemID": 5374,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1846,12 +1818,12 @@
       "notes": [],
       "citationKey": "Calude",
       "citekey": "Calude",
+      "itemID": 5374,
       "itemKey": "BC9AIIBI",
       "libraryID": 1,
       "select": "zotero://select/library/items/BC9AIIBI"
     },
     {
-      "key": "Y6J7USB6",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "22",
@@ -1879,17 +1851,16 @@
       "dateAdded": "2022-07-23T09:40:25Z",
       "dateModified": "2022-07-23T09:40:25Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/Y6J7USB6",
-      "itemID": 5272,
       "attachments": [],
       "notes": [],
       "citationKey": "Calude2017",
       "citekey": "Calude2017",
+      "itemID": 5272,
       "itemKey": "Y6J7USB6",
       "libraryID": 1,
       "select": "zotero://select/library/items/Y6J7USB6"
     },
     {
-      "key": "6YA2XP79",
       "version": 0,
       "itemType": "videoRecording",
       "url": "https://www.youtube.com/watch?v=b7YZmNPnxPY",
@@ -1909,17 +1880,16 @@
       "dateAdded": "2022-09-10T12:51:29Z",
       "dateModified": "2022-09-10T12:51:29Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6YA2XP79",
-      "itemID": 5449,
       "attachments": [],
       "notes": [],
       "citationKey": "CenterLeoApostelVUB2022",
       "citekey": "CenterLeoApostelVUB2022",
+      "itemID": 5449,
       "itemKey": "6YA2XP79",
       "libraryID": 1,
       "select": "zotero://select/library/items/6YA2XP79"
     },
     {
-      "key": "93FZT4QK",
       "version": 0,
       "itemType": "book",
       "volume": "8",
@@ -1940,7 +1910,6 @@
       "dateAdded": "2022-08-11T09:11:27Z",
       "dateModified": "2022-08-11T09:11:27Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/93FZT4QK",
-      "itemID": 5371,
       "attachments": [
         {
           "itemType": "attachment",
@@ -1968,12 +1937,12 @@
       "notes": [],
       "citationKey": "Chaitin1990",
       "citekey": "Chaitin1990",
+      "itemID": 5371,
       "itemKey": "93FZT4QK",
       "libraryID": 1,
       "select": "zotero://select/library/items/93FZT4QK"
     },
     {
-      "key": "2NCRZMKH",
       "version": 0,
       "itemType": "preprint",
       "url": "http://arxiv.org/abs/chao-dyn/9304002",
@@ -2001,7 +1970,6 @@
       "dateAdded": "2022-08-11T10:36:28Z",
       "dateModified": "2022-08-11T10:36:28Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/2NCRZMKH",
-      "itemID": 5377,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2031,6 +1999,7 @@
       ],
       "citationKey": "Chaitin1993",
       "citekey": "Chaitin1993",
+      "itemID": 5377,
       "itemKey": "2NCRZMKH",
       "libraryID": 1,
       "select": "zotero://select/library/items/2NCRZMKH",
@@ -2038,7 +2007,6 @@
       "publisher": "arXiv"
     },
     {
-      "key": "4RPRVPHR",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1007/s11192-016-2109-9",
@@ -2120,7 +2088,6 @@
       "dateAdded": "2022-10-28T17:40:56Z",
       "dateModified": "2022-10-28T17:41:51Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/4RPRVPHR",
-      "itemID": 5587,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2137,12 +2104,12 @@
       "notes": [],
       "citationKey": "Chavalarias2016",
       "citekey": "Chavalarias2016",
+      "itemID": 5587,
       "itemKey": "4RPRVPHR",
       "libraryID": 1,
       "select": "zotero://select/library/items/4RPRVPHR"
     },
     {
-      "key": "Q8BI6FTN",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0329",
@@ -2171,7 +2138,6 @@
       "dateAdded": "2022-08-11T08:43:59Z",
       "dateModified": "2022-08-11T08:43:59Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/Q8BI6FTN",
-      "itemID": 5370,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2188,12 +2154,12 @@
       "notes": [],
       "citationKey": "Chavalarias2020",
       "citekey": "Chavalarias2020",
+      "itemID": 5370,
       "itemKey": "Q8BI6FTN",
       "libraryID": 1,
       "select": "zotero://select/library/items/Q8BI6FTN"
     },
     {
-      "key": "RZRWTUWZ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://hal.archives-ouvertes.fr/hal-03103192",
@@ -2220,7 +2186,6 @@
       "dateAdded": "2022-10-20T16:04:32Z",
       "dateModified": "2022-10-20T16:04:32Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RZRWTUWZ",
-      "itemID": 5515,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2237,12 +2202,12 @@
       "notes": [],
       "citationKey": "Chavalarias2020a",
       "citekey": "Chavalarias2020a",
+      "itemID": 5515,
       "itemKey": "RZRWTUWZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/RZRWTUWZ"
     },
     {
-      "key": "RE5CDG97",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "22",
@@ -2268,7 +2233,6 @@
       "dateAdded": "2022-11-25T17:34:47Z",
       "dateModified": "2022-11-25T17:34:47Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RE5CDG97",
-      "itemID": 5693,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2285,12 +2249,12 @@
       "notes": [],
       "citationKey": "Chollat-Namy2022",
       "citekey": "Chollat-Namy2022",
+      "itemID": 5693,
       "itemKey": "RE5CDG97",
       "libraryID": 1,
       "select": "zotero://select/library/items/RE5CDG97"
     },
     {
-      "key": "2MK9QRXL",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.nature.com/articles/542139a",
@@ -2329,7 +2293,6 @@
       "dateAdded": "2022-10-20T15:26:32Z",
       "dateModified": "2022-10-20T15:26:32Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/2MK9QRXL",
-      "itemID": 5512,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2357,12 +2320,12 @@
       "notes": [],
       "citationKey": "Clark2017",
       "citekey": "Clark2017",
+      "itemID": 5512,
       "itemKey": "2MK9QRXL",
       "libraryID": 1,
       "select": "zotero://select/library/items/2MK9QRXL"
     },
     {
-      "key": "GB32SD29",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.18541691202",
@@ -2390,7 +2353,6 @@
       "dateAdded": "2022-07-29T10:55:51Z",
       "dateModified": "2022-07-29T10:55:51Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/GB32SD29",
-      "itemID": 5326,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2418,12 +2380,12 @@
       "notes": [],
       "citationKey": "Clausius1854",
       "citekey": "Clausius1854",
+      "itemID": 5326,
       "itemKey": "GB32SD29",
       "libraryID": 1,
       "select": "zotero://select/library/items/GB32SD29"
     },
     {
-      "key": "8QKR5PA5",
       "version": 0,
       "itemType": "book",
       "url": "https://www.degruyter.com/document/doi/10.1051/978-2-7598-0205-0/html",
@@ -2453,7 +2415,6 @@
       "dateAdded": "2022-09-07T22:34:30Z",
       "dateModified": "2022-09-07T22:34:30Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/8QKR5PA5",
-      "itemID": 5442,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2470,12 +2431,12 @@
       "notes": [],
       "citationKey": "Cohen-Tannoudji2003",
       "citekey": "Cohen-Tannoudji2003",
+      "itemID": 5442,
       "itemKey": "8QKR5PA5",
       "libraryID": 1,
       "select": "zotero://select/library/items/8QKR5PA5"
     },
     {
-      "key": "9IHMW5V6",
       "version": 0,
       "itemType": "conferencePaper",
       "volume": "12",
@@ -2496,7 +2457,6 @@
       "dateAdded": "2022-07-22T17:33:10Z",
       "dateModified": "2022-07-22T17:33:10Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/9IHMW5V6",
-      "itemID": 5267,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2513,13 +2473,13 @@
       "notes": [],
       "citationKey": "Crick1958",
       "citekey": "Crick1958",
+      "itemID": 5267,
       "itemKey": "9IHMW5V6",
       "libraryID": 1,
       "select": "zotero://select/library/items/9IHMW5V6",
       "publicationTitle": "Symp Soc Exp Biol"
     },
     {
-      "key": "4PATJMDM",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.nature.com/articles/227561a0",
@@ -2562,7 +2522,6 @@
       "dateAdded": "2022-07-22T17:33:59Z",
       "dateModified": "2022-07-22T17:33:59Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/4PATJMDM",
-      "itemID": 5269,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2579,12 +2538,12 @@
       "notes": [],
       "citationKey": "Crick1970",
       "citekey": "Crick1970",
+      "itemID": 5269,
       "itemKey": "4PATJMDM",
       "libraryID": 1,
       "select": "zotero://select/library/items/4PATJMDM"
     },
     {
-      "key": "WRL2FZGW",
       "version": 0,
       "itemType": "book",
       "publisher": "Harvard University Press",
@@ -2623,10 +2582,8 @@
       "dateAdded": "2022-07-22T12:20:14Z",
       "dateModified": "2022-07-22T12:20:14Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/WRL2FZGW",
-      "itemID": 5223,
       "attachments": [
         {
-          "key": "I2JPWKT3",
           "version": 0,
           "itemType": "attachment",
           "url": "https://books.google.fr/books?id=9nDH8rxLFJUC",
@@ -2640,18 +2597,21 @@
           "relations": {},
           "dateAdded": "2022-07-22T12:20:15Z",
           "dateModified": "2022-07-22T12:20:15Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/I2JPWKT3"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/I2JPWKT3",
+          "itemID": 5224,
+          "itemKey": "I2JPWKT3",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Danchin2002",
       "citekey": "Danchin2002",
+      "itemID": 5223,
       "itemKey": "WRL2FZGW",
       "libraryID": 1,
       "select": "zotero://select/library/items/WRL2FZGW"
     },
     {
-      "key": "UBFGXP9Q",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/0048733394010021",
@@ -2684,7 +2644,6 @@
       "dateAdded": "2022-10-30T18:32:41Z",
       "dateModified": "2022-10-30T18:52:48Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/UBFGXP9Q",
-      "itemID": 5617,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2701,12 +2660,12 @@
       "notes": [],
       "citationKey": "Dasgupta1994",
       "citekey": "Dasgupta1994",
+      "itemID": 5617,
       "itemKey": "UBFGXP9Q",
       "libraryID": 1,
       "select": "zotero://select/library/items/UBFGXP9Q"
     },
     {
-      "key": "HRHGT9AW",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-3435.2006.00261.x",
@@ -2745,7 +2704,6 @@
       "dateAdded": "2022-10-28T19:12:07Z",
       "dateModified": "2022-10-28T19:12:07Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/HRHGT9AW",
-      "itemID": 5609,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2773,12 +2731,12 @@
       "notes": [],
       "citationKey": "Davies2006",
       "citekey": "Davies2006",
+      "itemID": 5609,
       "itemKey": "HRHGT9AW",
       "libraryID": 1,
       "select": "zotero://select/library/items/HRHGT9AW"
     },
     {
-      "key": "AM3X3W85",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.200900044",
@@ -2868,7 +2826,6 @@
       "dateAdded": "2022-07-22T16:00:44Z",
       "dateModified": "2022-07-22T16:00:44Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AM3X3W85",
-      "itemID": 5235,
       "attachments": [
         {
           "itemType": "attachment",
@@ -2896,12 +2853,12 @@
       "notes": [],
       "citationKey": "Davies2009",
       "citekey": "Davies2009",
+      "itemID": 5235,
       "itemKey": "AM3X3W85",
       "libraryID": 1,
       "select": "zotero://select/library/items/AM3X3W85"
     },
     {
-      "key": "YNFWFK5J",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.nss-journal.org/articles/nss/abs/2015/01/nss150007/nss150007.html",
@@ -2977,7 +2934,6 @@
       "dateAdded": "2022-08-26T08:39:24Z",
       "dateModified": "2022-08-26T08:39:24Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/YNFWFK5J",
-      "itemID": 5408,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3005,12 +2961,12 @@
       "notes": [],
       "citationKey": "Deffuant2015",
       "citekey": "Deffuant2015",
+      "itemID": 5408,
       "itemKey": "YNFWFK5J",
       "libraryID": 1,
       "select": "zotero://select/library/items/YNFWFK5J"
     },
     {
-      "key": "7JVGIGAI",
       "version": 0,
       "itemType": "webpage",
       "url": "https://www.dialogic.nl/2014/06/30/the-effectiveness-of-national-research-funding-systems/",
@@ -3036,7 +2992,6 @@
       "dateAdded": "2022-10-27T20:47:23Z",
       "dateModified": "2022-10-28T15:43:04Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/7JVGIGAI",
-      "itemID": 5582,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3064,13 +3019,13 @@
       "notes": [],
       "citationKey": "Dialogic2014",
       "citekey": "Dialogic2014",
+      "itemID": 5582,
       "itemKey": "7JVGIGAI",
       "libraryID": 1,
       "select": "zotero://select/library/items/7JVGIGAI",
       "publicationTitle": "Dialogic"
     },
     {
-      "key": "JTQ6TG6W",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.liebertpub.com/doi/full/10.1089/ees.2016.0223",
@@ -3124,7 +3079,6 @@
       "dateAdded": "2022-10-20T14:12:29Z",
       "dateModified": "2022-10-20T14:12:29Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/JTQ6TG6W",
-      "itemID": 5488,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3141,12 +3095,12 @@
       "notes": [],
       "citationKey": "Edwards2017",
       "citekey": "Edwards2017",
+      "itemID": 5488,
       "itemKey": "JTQ6TG6W",
       "libraryID": 1,
       "select": "zotero://select/library/items/JTQ6TG6W"
     },
     {
-      "key": "CBWU4UFA",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "53",
@@ -3166,7 +3120,6 @@
       "dateAdded": "2022-08-24T10:13:11Z",
       "dateModified": "2022-08-24T10:15:30Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/CBWU4UFA",
-      "itemID": 5397,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3183,12 +3136,12 @@
       "notes": [],
       "citationKey": "Estrada2013",
       "citekey": "Estrada2013",
+      "itemID": 5397,
       "itemKey": "CBWU4UFA",
       "libraryID": 1,
       "select": "zotero://select/library/items/CBWU4UFA"
     },
     {
-      "key": "2ZCZJJIS",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "79",
@@ -3250,10 +3203,8 @@
       "dateAdded": "2022-10-19T13:51:49Z",
       "dateModified": "2022-10-19T13:51:49Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/2ZCZJJIS",
-      "itemID": 5476,
       "attachments": [
         {
-          "key": "RKXQJCFX",
           "version": 0,
           "itemType": "attachment",
           "url": "http://www.ncbi.nlm.nih.gov/pubmed/21825063",
@@ -3267,7 +3218,10 @@
           "relations": {},
           "dateAdded": "2022-10-19T13:51:50Z",
           "dateModified": "2022-10-19T13:51:50Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/RKXQJCFX"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/RKXQJCFX",
+          "itemID": 5477,
+          "itemKey": "RKXQJCFX",
+          "libraryID": 1
         },
         {
           "itemType": "attachment",
@@ -3284,12 +3238,12 @@
       "notes": [],
       "citationKey": "Fang2011",
       "citekey": "Fang2011",
+      "itemID": 5476,
       "itemKey": "2ZCZJJIS",
       "libraryID": 1,
       "select": "zotero://select/library/items/2ZCZJJIS"
     },
     {
-      "key": "Q6UWQ4XF",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1212247109",
@@ -3325,7 +3279,6 @@
       "dateAdded": "2022-10-20T13:43:05Z",
       "dateModified": "2022-10-20T13:43:05Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/Q6UWQ4XF",
-      "itemID": 5484,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3342,12 +3295,12 @@
       "notes": [],
       "citationKey": "Fang2012",
       "citekey": "Fang2012",
+      "itemID": 5484,
       "itemKey": "Q6UWQ4XF",
       "libraryID": 1,
       "select": "zotero://select/library/items/Q6UWQ4XF"
     },
     {
-      "key": "2ZDQTK7Z",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "13",
@@ -3436,7 +3389,6 @@
       "dateAdded": "2022-07-22T16:17:19Z",
       "dateModified": "2022-07-22T16:17:19Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/2ZDQTK7Z",
-      "itemID": 5240,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3450,7 +3402,6 @@
           "select": "zotero://select/library/items/6AAIU97A"
         },
         {
-          "key": "65VWZVE6",
           "version": 0,
           "itemType": "attachment",
           "url": "http://www.ncbi.nlm.nih.gov/pubmed/12932320",
@@ -3464,18 +3415,21 @@
           "relations": {},
           "dateAdded": "2022-07-22T16:17:22Z",
           "dateModified": "2022-07-22T16:17:22Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/65VWZVE6"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/65VWZVE6",
+          "itemID": 5241,
+          "itemKey": "65VWZVE6",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Farge2003",
       "citekey": "Farge2003",
+      "itemID": 5240,
       "itemKey": "2ZDQTK7Z",
       "libraryID": 1,
       "select": "zotero://select/library/items/2ZDQTK7Z"
     },
     {
-      "key": "ZDGVZ4XX",
       "version": 0,
       "itemType": "journalArticle",
       "date": "2020",
@@ -3498,7 +3452,6 @@
       "dateAdded": "2022-11-02T14:14:04Z",
       "dateModified": "2022-11-02T14:14:04Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ZDGVZ4XX",
-      "itemID": 5630,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3526,12 +3479,12 @@
       "notes": [],
       "citationKey": "Festre2020",
       "citekey": "Festre2020",
+      "itemID": 5630,
       "itemKey": "ZDGVZ4XX",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZDGVZ4XX"
     },
     {
-      "key": "GJLNHP5X",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giz053/5506490",
@@ -3565,7 +3518,6 @@
       "dateAdded": "2022-11-16T13:49:40Z",
       "dateModified": "2022-11-16T13:49:41Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/GJLNHP5X",
-      "itemID": 5665,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3582,12 +3534,12 @@
       "notes": [],
       "citationKey": "Fire2019",
       "citekey": "Fire2019",
+      "itemID": 5665,
       "itemKey": "GJLNHP5X",
       "libraryID": 1,
       "select": "zotero://select/library/items/GJLNHP5X"
     },
     {
-      "key": "GLPECEET",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1080/09505430802705889",
@@ -3682,7 +3634,6 @@
       "dateAdded": "2022-11-02T22:27:48Z",
       "dateModified": "2022-11-02T22:27:48Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/GLPECEET",
-      "itemID": 5636,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3699,12 +3650,12 @@
       "notes": [],
       "citationKey": "Fischer2009",
       "citekey": "Fischer2009",
+      "itemID": 5636,
       "itemKey": "GLPECEET",
       "libraryID": 1,
       "select": "zotero://select/library/items/GLPECEET"
     },
     {
-      "key": "NWZ6KTDI",
       "version": 0,
       "itemType": "videoRecording",
       "url": "https://www.youtube.com/watch?v=waxxpCHLFxY",
@@ -3725,17 +3676,16 @@
       "dateAdded": "2022-09-17T07:38:46Z",
       "dateModified": "2022-09-17T07:38:46Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/NWZ6KTDI",
-      "itemID": 5451,
       "attachments": [],
       "notes": [],
       "citationKey": "FrancoisNicolas2022",
       "citekey": "FrancoisNicolas2022",
+      "itemID": 5451,
       "itemKey": "NWZ6KTDI",
       "libraryID": 1,
       "select": "zotero://select/library/items/NWZ6KTDI"
     },
     {
-      "key": "X7DBBPIJ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/10.1126/science.1197286",
@@ -3774,7 +3724,6 @@
       "dateAdded": "2022-10-20T18:21:43Z",
       "dateModified": "2022-10-20T18:21:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/X7DBBPIJ",
-      "itemID": 5530,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3791,12 +3740,12 @@
       "notes": [],
       "citationKey": "Franzoni2011",
       "citekey": "Franzoni2011",
+      "itemID": 5530,
       "itemKey": "X7DBBPIJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/X7DBBPIJ"
     },
     {
-      "key": "M7QRGYTW",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/10.1126/science.1067477",
@@ -3842,7 +3791,6 @@
       "dateAdded": "2022-10-20T20:41:26Z",
       "dateModified": "2022-10-20T20:41:26Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/M7QRGYTW",
-      "itemID": 5543,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3859,12 +3807,12 @@
       "notes": [],
       "citationKey": "Freeman2001",
       "citekey": "Freeman2001",
+      "itemID": 5543,
       "itemKey": "M7QRGYTW",
       "libraryID": 1,
       "select": "zotero://select/library/items/M7QRGYTW"
     },
     {
-      "key": "MJU4B4FW",
       "version": 0,
       "itemType": "bookSection",
       "url": "https://plato.stanford.edu/archives/sum2016/entries/information-biological/",
@@ -3934,7 +3882,6 @@
       "dateAdded": "2022-07-22T11:44:42Z",
       "dateModified": "2022-07-22T11:44:42Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/MJU4B4FW",
-      "itemID": 5219,
       "attachments": [
         {
           "itemType": "attachment",
@@ -3951,13 +3898,13 @@
       "notes": [],
       "citationKey": "Godfrey-Smith2016",
       "citekey": "Godfrey-Smith2016",
+      "itemID": 5219,
       "itemKey": "MJU4B4FW",
       "libraryID": 1,
       "select": "zotero://select/library/items/MJU4B4FW",
       "publicationTitle": "The Stanford Encyclopedia of Philosophy"
     },
     {
-      "key": "INX97ID8",
       "version": 0,
       "itemType": "book",
       "publisher": "Harvard University Press",
@@ -4004,10 +3951,8 @@
       "dateAdded": "2022-07-22T11:47:10Z",
       "dateModified": "2022-07-22T11:47:10Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/INX97ID8",
-      "itemID": 5221,
       "attachments": [
         {
-          "key": "GG4K9LIY",
           "version": 0,
           "itemType": "attachment",
           "url": "https://books.google.fr/books?id=XkCR1p2YMRwC",
@@ -4021,18 +3966,21 @@
           "relations": {},
           "dateAdded": "2022-07-22T11:47:12Z",
           "dateModified": "2022-07-22T11:47:12Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/GG4K9LIY"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GG4K9LIY",
+          "itemID": 5222,
+          "itemKey": "GG4K9LIY",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Hacking1999",
       "citekey": "Hacking1999",
+      "itemID": 5221,
       "itemKey": "INX97ID8",
       "libraryID": 1,
       "select": "zotero://select/library/items/INX97ID8"
     },
     {
-      "key": "8HHU8ATJ",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "144",
@@ -4095,7 +4043,6 @@
       "dateAdded": "2022-07-22T16:19:19Z",
       "dateModified": "2022-07-22T16:19:19Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/8HHU8ATJ",
-      "itemID": 5243,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4109,7 +4056,6 @@
           "select": "zotero://select/library/items/6J6L42CW"
         },
         {
-          "key": "LXSVRYNR",
           "version": 0,
           "itemType": "attachment",
           "url": "http://www.ncbi.nlm.nih.gov/pubmed/21376230",
@@ -4123,18 +4069,21 @@
           "relations": {},
           "dateAdded": "2022-07-22T16:19:21Z",
           "dateModified": "2022-07-22T16:19:21Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/LXSVRYNR"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LXSVRYNR",
+          "itemID": 5244,
+          "itemKey": "LXSVRYNR",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Hanahan2011",
       "citekey": "Hanahan2011",
+      "itemID": 5243,
       "itemKey": "8HHU8ATJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/8HHU8ATJ"
     },
     {
-      "key": "99UTAVDR",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://rosa.uniroma1.it/rosa04/organisms/article/view/16440",
@@ -4164,7 +4113,6 @@
       "dateAdded": "2022-10-19T13:40:23Z",
       "dateModified": "2022-10-19T13:40:23Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/99UTAVDR",
-      "itemID": 5472,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4181,12 +4129,12 @@
       "notes": [],
       "citationKey": "Hasan2019",
       "citekey": "Hasan2019",
+      "itemID": 5472,
       "itemKey": "99UTAVDR",
       "libraryID": 1,
       "select": "zotero://select/library/items/99UTAVDR"
     },
     {
-      "key": "E8YTNF7F",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "35",
@@ -4208,7 +4156,6 @@
       "dateAdded": "2022-10-31T18:47:49Z",
       "dateModified": "2022-10-31T18:47:49Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/E8YTNF7F",
-      "itemID": 5625,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4225,12 +4172,12 @@
       "notes": [],
       "citationKey": "Hayek1945",
       "citekey": "Hayek1945",
+      "itemID": 5625,
       "itemKey": "E8YTNF7F",
       "libraryID": 1,
       "select": "zotero://select/library/items/E8YTNF7F"
     },
     {
-      "key": "HR74LT2T",
       "version": 0,
       "itemType": "book",
       "series": "Studies in economic policy",
@@ -4260,7 +4207,6 @@
       "dateAdded": "2022-10-25T22:23:44Z",
       "dateModified": "2022-10-25T22:23:44Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/HR74LT2T",
-      "itemID": 5557,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4277,12 +4223,12 @@
       "notes": [],
       "citationKey": "Hayek1979",
       "citekey": "Hayek1979",
+      "itemID": 5557,
       "itemKey": "HR74LT2T",
       "libraryID": 1,
       "select": "zotero://select/library/items/HR74LT2T"
     },
     {
-      "key": "NSTZ3MGG",
       "version": 0,
       "itemType": "book",
       "publisher": "Allen & Unwin London",
@@ -4301,7 +4247,6 @@
       "dateAdded": "2022-11-06T15:23:44Z",
       "dateModified": "2022-11-06T15:23:44Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/NSTZ3MGG",
-      "itemID": 5651,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4318,12 +4263,12 @@
       "notes": [],
       "citationKey": "Heisenberg1971",
       "citekey": "Heisenberg1971",
+      "itemID": 5651,
       "itemKey": "NSTZ3MGG",
       "libraryID": 1,
       "select": "zotero://select/library/items/NSTZ3MGG"
     },
     {
-      "key": "B2DWLUXY",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0048733312002120",
@@ -4358,7 +4303,6 @@
       "dateAdded": "2022-11-23T13:25:36Z",
       "dateModified": "2022-11-23T13:25:36Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/B2DWLUXY",
-      "itemID": 5669,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4375,12 +4319,12 @@
       "notes": [],
       "citationKey": "Henriques2013",
       "citekey": "Henriques2013",
+      "itemID": 5669,
       "itemKey": "B2DWLUXY",
       "libraryID": 1,
       "select": "zotero://select/library/items/B2DWLUXY"
     },
     {
-      "key": "33CCB3XQ",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "78",
@@ -4406,7 +4350,6 @@
       "dateAdded": "2022-10-28T17:23:39Z",
       "dateModified": "2022-10-28T17:25:15Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/33CCB3XQ",
-      "itemID": 5586,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4423,12 +4366,12 @@
       "notes": [],
       "citationKey": "Hill2020",
       "citekey": "Hill2020",
+      "itemID": 5586,
       "itemKey": "33CCB3XQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/33CCB3XQ"
     },
     {
-      "key": "2BR47MBC",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/10.1126/science.188.4186.328",
@@ -4454,7 +4397,6 @@
       "dateAdded": "2022-07-30T18:04:13Z",
       "dateModified": "2022-07-30T18:04:13Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/2BR47MBC",
-      "itemID": 5346,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4471,12 +4413,12 @@
       "notes": [],
       "citationKey": "Holton1975",
       "citekey": "Holton1975",
+      "itemID": 5346,
       "itemKey": "2BR47MBC",
       "libraryID": 1,
       "select": "zotero://select/library/items/2BR47MBC"
     },
     {
-      "key": "FW4ETXGQ",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "272",
@@ -4499,7 +4441,6 @@
       "dateAdded": "2022-08-24T10:04:09Z",
       "dateModified": "2022-08-24T10:04:12Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/FW4ETXGQ",
-      "itemID": 5393,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4527,12 +4468,12 @@
       "notes": [],
       "citationKey": "Horgan1995",
       "citekey": "Horgan1995",
+      "itemID": 5393,
       "itemKey": "FW4ETXGQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/FW4ETXGQ"
     },
     {
-      "key": "6EEFK46G",
       "version": 0,
       "itemType": "newspaperArticle",
       "url": "http://theconversation.com/chercheurs-vs-managers-de-la-recherche-la-guerre-des-mots-138384",
@@ -4555,7 +4496,6 @@
       "dateAdded": "2022-10-23T18:15:17Z",
       "dateModified": "2022-10-28T18:23:08Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6EEFK46G",
-      "itemID": 5544,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4572,12 +4512,12 @@
       "notes": [],
       "citationKey": "Huneman2020",
       "citekey": "Huneman2020",
+      "itemID": 5544,
       "itemKey": "6EEFK46G",
       "libraryID": 1,
       "select": "zotero://select/library/items/6EEFK46G"
     },
     {
-      "key": "E4LSUPE4",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.cambridge.org/core/journals/science-in-context/article/abs/science-of-complexity-epistemological-problems-and-perspectives/267FD9CD58A43096608A87EC4AEF82E5",
@@ -4607,7 +4547,6 @@
       "dateAdded": "2022-08-25T12:48:18Z",
       "dateModified": "2022-08-25T12:48:21Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/E4LSUPE4",
-      "itemID": 5400,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4635,12 +4574,12 @@
       "notes": [],
       "citationKey": "Israel2005",
       "citekey": "Israel2005",
+      "itemID": 5400,
       "itemKey": "E4LSUPE4",
       "libraryID": 1,
       "select": "zotero://select/library/items/E4LSUPE4"
     },
     {
-      "key": "INDGGC5S",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443340/",
@@ -4667,7 +4606,6 @@
       "dateAdded": "2022-07-28T16:16:02Z",
       "dateModified": "2022-07-28T16:16:02Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/INDGGC5S",
-      "itemID": 5299,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4681,7 +4619,6 @@
           "select": "zotero://select/library/items/9C9EN398"
         },
         {
-          "key": "ASUN8P3Y",
           "version": 0,
           "itemType": "attachment",
           "url": "http://www.ncbi.nlm.nih.gov/pubmed/28580126",
@@ -4695,7 +4632,10 @@
           "relations": {},
           "dateAdded": "2022-07-28T16:16:03Z",
           "dateModified": "2022-07-28T16:16:03Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/ASUN8P3Y"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ASUN8P3Y",
+          "itemID": 5300,
+          "itemKey": "ASUN8P3Y",
+          "libraryID": 1
         },
         {
           "itemType": "attachment",
@@ -4712,12 +4652,12 @@
       "notes": [],
       "citationKey": "Jarvis2016",
       "citekey": "Jarvis2016",
+      "itemID": 5299,
       "itemKey": "INDGGC5S",
       "libraryID": 1,
       "select": "zotero://select/library/items/INDGGC5S"
     },
     {
-      "key": "7I6Y2WJ2",
       "version": 0,
       "itemType": "report",
       "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC101043",
@@ -4745,7 +4685,6 @@
       "dateAdded": "2022-10-27T20:43:35Z",
       "dateModified": "2022-10-28T18:21:09Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/7I6Y2WJ2",
-      "itemID": 5579,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4773,12 +4712,12 @@
       "notes": [],
       "citationKey": "Jonkers2016",
       "citekey": "Jonkers2016",
+      "itemID": 5579,
       "itemKey": "7I6Y2WJ2",
       "libraryID": 1,
       "select": "zotero://select/library/items/7I6Y2WJ2"
     },
     {
-      "key": "E6KEYQN3",
       "version": 0,
       "itemType": "book",
       "publisher": "Little, Brown",
@@ -4808,7 +4747,6 @@
       "dateAdded": "2022-08-26T11:37:13Z",
       "dateModified": "2022-08-26T11:37:13Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/E6KEYQN3",
-      "itemID": 5411,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4825,12 +4763,12 @@
       "notes": [],
       "citationKey": "Kahneman2021",
       "citekey": "Kahneman2021",
+      "itemID": 5411,
       "itemKey": "E6KEYQN3",
       "libraryID": 1,
       "select": "zotero://select/library/items/E6KEYQN3"
     },
     {
-      "key": "HY5R8L4U",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.sciencedirect.com/science/article/pii/S0079610709000790",
@@ -4892,7 +4830,6 @@
       "dateAdded": "2022-08-11T15:40:03Z",
       "dateModified": "2022-08-11T15:40:03Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/HY5R8L4U",
-      "itemID": 5388,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4909,12 +4846,12 @@
       "notes": [],
       "citationKey": "Kupiec2010",
       "citekey": "Kupiec2010",
+      "itemID": 5388,
       "itemKey": "HY5R8L4U",
       "libraryID": 1,
       "select": "zotero://select/library/items/HY5R8L4U"
     },
     {
-      "key": "3TFPI3SG",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1093/jleo/ewp031",
@@ -4947,7 +4884,6 @@
       "dateAdded": "2022-10-28T18:30:01Z",
       "dateModified": "2022-10-28T18:30:01Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/3TFPI3SG",
-      "itemID": 5600,
       "attachments": [
         {
           "itemType": "attachment",
@@ -4975,12 +4911,12 @@
       "notes": [],
       "citationKey": "Lacetera2011",
       "citekey": "Lacetera2011",
+      "itemID": 5600,
       "itemKey": "3TFPI3SG",
       "libraryID": 1,
       "select": "zotero://select/library/items/3TFPI3SG"
     },
     {
-      "key": "3ENVXMML",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://rosa.uniroma1.it/rosa04/organisms/article/view/14445",
@@ -5007,7 +4943,6 @@
       "dateAdded": "2022-10-13T15:21:31Z",
       "dateModified": "2022-10-13T15:21:31Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/3ENVXMML",
-      "itemID": 5453,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5037,12 +4972,12 @@
       ],
       "citationKey": "Lazebnik2018",
       "citekey": "Lazebnik2018",
+      "itemID": 5453,
       "itemKey": "3ENVXMML",
       "libraryID": 1,
       "select": "zotero://select/library/items/3ENVXMML"
     },
     {
-      "key": "ST2CHFJ6",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.22784",
@@ -5099,7 +5034,6 @@
       "dateAdded": "2022-11-03T22:23:25Z",
       "dateModified": "2022-11-03T22:23:25Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ST2CHFJ6",
-      "itemID": 5641,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5127,12 +5061,12 @@
       "notes": [],
       "citationKey": "Lee2013",
       "citekey": "Lee2013",
+      "itemID": 5641,
       "itemKey": "ST2CHFJ6",
       "libraryID": 1,
       "select": "zotero://select/library/items/ST2CHFJ6"
     },
     {
-      "key": "6HDNSVJV",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.sciencedirect.com/science/article/pii/S0048733317300422",
@@ -5202,7 +5136,6 @@
       "dateAdded": "2022-11-01T16:27:21Z",
       "dateModified": "2022-11-01T16:27:21Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6HDNSVJV",
-      "itemID": 5627,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5230,12 +5163,12 @@
       "notes": [],
       "citationKey": "Levecque2017",
       "citekey": "Levecque2017",
+      "itemID": 5627,
       "itemKey": "6HDNSVJV",
       "libraryID": 1,
       "select": "zotero://select/library/items/6HDNSVJV"
     },
     {
-      "key": "RLA5VI3C",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/abs/10.1126/science.1207018",
@@ -5291,7 +5224,6 @@
       "dateAdded": "2022-07-22T15:40:32Z",
       "dateModified": "2022-07-22T15:40:32Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RLA5VI3C",
-      "itemID": 5229,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5308,12 +5240,12 @@
       "notes": [],
       "citationKey": "Li2011",
       "citekey": "Li2011",
+      "itemID": 5229,
       "itemKey": "RLA5VI3C",
       "libraryID": 1,
       "select": "zotero://select/library/items/RLA5VI3C"
     },
     {
-      "key": "PLFQ7697",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://journals.openedition.org/philosophiascientiae/2201",
@@ -5342,7 +5274,6 @@
       "dateAdded": "2022-08-25T13:24:16Z",
       "dateModified": "2022-08-25T13:24:16Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/PLFQ7697",
-      "itemID": 5406,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5359,12 +5290,12 @@
       "notes": [],
       "citationKey": "LiVigni2020",
       "citekey": "LiVigni2020",
+      "itemID": 5406,
       "itemKey": "PLFQ7697",
       "libraryID": 1,
       "select": "zotero://select/library/items/PLFQ7697"
     },
     {
-      "key": "6VPN3ZEW",
       "version": 0,
       "itemType": "book",
       "publisher": "\u00c9ditions Mat\u00e9riologiques",
@@ -5382,17 +5313,16 @@
       "dateAdded": "2022-08-21T21:14:49Z",
       "dateModified": "2022-08-21T21:14:49Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6VPN3ZEW",
-      "itemID": 5392,
       "attachments": [],
       "notes": [],
       "citationKey": "LiVigni2021",
       "citekey": "LiVigni2021",
+      "itemID": 5392,
       "itemKey": "6VPN3ZEW",
       "libraryID": 1,
       "select": "zotero://select/library/items/6VPN3ZEW"
     },
     {
-      "key": "78IEXIEL",
       "version": 0,
       "itemType": "journalArticle",
       "pages": "9",
@@ -5411,7 +5341,6 @@
       "dateAdded": "2022-10-13T15:29:42Z",
       "dateModified": "2022-10-13T15:29:42Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/78IEXIEL",
-      "itemID": 5456,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5428,12 +5357,12 @@
       "notes": [],
       "citationKey": "Longo",
       "citekey": "Longo",
+      "itemID": 5456,
       "itemKey": "78IEXIEL",
       "libraryID": 1,
       "select": "zotero://select/library/items/78IEXIEL"
     },
     {
-      "key": "WW88NISJ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953560/",
@@ -5477,7 +5406,6 @@
       "dateAdded": "2022-07-21T19:52:51Z",
       "dateModified": "2022-07-21T19:52:51Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/WW88NISJ",
-      "itemID": 5195,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5491,7 +5419,6 @@
           "select": "zotero://select/library/items/KTZP8LXN"
         },
         {
-          "key": "EE3WEKCX",
           "version": 0,
           "itemType": "attachment",
           "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3953560/",
@@ -5505,18 +5432,21 @@
           "relations": {},
           "dateAdded": "2022-07-21T19:52:51Z",
           "dateModified": "2022-07-21T19:52:51Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/EE3WEKCX"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/EE3WEKCX",
+          "itemID": 5196,
+          "itemKey": "EE3WEKCX",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Longo2012",
       "citekey": "Longo2012",
+      "itemID": 5195,
       "itemKey": "WW88NISJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/WW88NISJ"
     },
     {
-      "key": "MSVWMQ7M",
       "version": 0,
       "itemType": "bookSection",
       "url": "http://link.springer.com/10.1007/978-3-642-27654-5_22",
@@ -5564,7 +5494,6 @@
       "dateAdded": "2022-07-30T12:28:40Z",
       "dateModified": "2022-07-30T12:28:41Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/MSVWMQ7M",
-      "itemID": 5335,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5581,13 +5510,13 @@
       "notes": [],
       "citationKey": "Longo2012a",
       "citekey": "Longo2012a",
+      "itemID": 5335,
       "itemKey": "MSVWMQ7M",
       "libraryID": 1,
       "select": "zotero://select/library/items/MSVWMQ7M",
       "publicationTitle": "Computation, Physics and Beyond"
     },
     {
-      "key": "MW5XJ3L8",
       "version": 0,
       "itemType": "conferencePaper",
       "date": "2013",
@@ -5605,7 +5534,6 @@
       "dateAdded": "2022-10-20T15:10:33Z",
       "dateModified": "2022-10-20T15:10:33Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/MW5XJ3L8",
-      "itemID": 5509,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5633,13 +5561,13 @@
       "notes": [],
       "citationKey": "Longo2013",
       "citekey": "Longo2013",
+      "itemID": 5509,
       "itemKey": "MW5XJ3L8",
       "libraryID": 1,
       "select": "zotero://select/library/items/MW5XJ3L8",
       "publicationTitle": "Academia European Conference on\" Use and Abuse of Bibliometrics\""
     },
     {
-      "key": "RMM46DQ7",
       "version": 0,
       "itemType": "bookSection",
       "url": "http://link.springer.com/10.1007/978-3-030-44018-3_5",
@@ -5672,7 +5600,6 @@
       "dateAdded": "2022-07-25T12:08:26Z",
       "dateModified": "2022-07-25T12:08:26Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RMM46DQ7",
-      "itemID": 5282,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5689,13 +5616,13 @@
       "notes": [],
       "citationKey": "Longo2020",
       "citekey": "Longo2020",
+      "itemID": 5282,
       "itemKey": "RMM46DQ7",
       "libraryID": 1,
       "select": "zotero://select/library/items/RMM46DQ7",
       "publicationTitle": "Trust"
     },
     {
-      "key": "ZVJ6Z9KN",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S193459091830300X",
@@ -5729,7 +5656,6 @@
       "dateAdded": "2022-07-28T16:49:58Z",
       "dateModified": "2022-07-28T16:49:58Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ZVJ6Z9KN",
-      "itemID": 5303,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5746,12 +5672,12 @@
       "notes": [],
       "citationKey": "Matoba2018",
       "citekey": "Matoba2018",
+      "itemID": 5303,
       "itemKey": "ZVJ6Z9KN",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZVJ6Z9KN"
     },
     {
-      "key": "KE4ZQCWT",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.nature.com/articles/d41586-019-00564-5",
@@ -5803,7 +5729,6 @@
       "dateAdded": "2022-10-19T13:49:58Z",
       "dateModified": "2022-10-19T13:49:58Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/KE4ZQCWT",
-      "itemID": 5474,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5820,12 +5745,12 @@
       "notes": [],
       "citationKey": "Maxmen2019",
       "citekey": "Maxmen2019",
+      "itemID": 5474,
       "itemKey": "KE4ZQCWT",
       "libraryID": 1,
       "select": "zotero://select/library/items/KE4ZQCWT"
     },
     {
-      "key": "37MF8WTA",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/10.1126/science.134.3489.1501",
@@ -5854,7 +5779,6 @@
       "dateAdded": "2022-07-28T17:24:31Z",
       "dateModified": "2022-07-28T17:24:31Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/37MF8WTA",
-      "itemID": 5305,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5871,12 +5795,12 @@
       "notes": [],
       "citationKey": "Mayr1961",
       "citekey": "Mayr1961",
+      "itemID": 5305,
       "itemKey": "37MF8WTA",
       "libraryID": 1,
       "select": "zotero://select/library/items/37MF8WTA"
     },
     {
-      "key": "LRWV5JKX",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://www.jstor.org/stable/2089193?origin=crossref",
@@ -5905,7 +5829,6 @@
       "dateAdded": "2022-10-27T11:23:17Z",
       "dateModified": "2022-10-27T11:23:17Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/LRWV5JKX",
-      "itemID": 5570,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5922,12 +5845,12 @@
       "notes": [],
       "citationKey": "Merton1957",
       "citekey": "Merton1957",
+      "itemID": 5570,
       "itemKey": "LRWV5JKX",
       "libraryID": 1,
       "select": "zotero://select/library/items/LRWV5JKX"
     },
     {
-      "key": "L5QYGRFC",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ajes.12370",
@@ -5957,7 +5880,6 @@
       "dateAdded": "2022-10-28T18:58:33Z",
       "dateModified": "2022-10-28T18:58:33Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/L5QYGRFC",
-      "itemID": 5606,
       "attachments": [
         {
           "itemType": "attachment",
@@ -5985,12 +5907,12 @@
       "notes": [],
       "citationKey": "Mintz2021",
       "citekey": "Mintz2021",
+      "itemID": 5606,
       "itemKey": "L5QYGRFC",
       "libraryID": 1,
       "select": "zotero://select/library/items/L5QYGRFC"
     },
     {
-      "key": "QRM647BV",
       "version": 0,
       "itemType": "book",
       "publisher": "Harvard University Press",
@@ -6009,17 +5931,16 @@
       "dateAdded": "2022-11-10T18:13:43Z",
       "dateModified": "2022-11-10T18:13:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/QRM647BV",
-      "itemID": 5658,
       "attachments": [],
       "notes": [],
       "citationKey": "Mirowski2011",
       "citekey": "Mirowski2011",
+      "itemID": 5658,
       "itemKey": "QRM647BV",
       "libraryID": 1,
       "select": "zotero://select/library/items/QRM647BV"
     },
     {
-      "key": "LGEXTE4L",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://www.ssrn.com/abstract=2682892",
@@ -6046,7 +5967,6 @@
       "dateAdded": "2022-10-20T14:40:56Z",
       "dateModified": "2022-10-20T14:40:56Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/LGEXTE4L",
-      "itemID": 5499,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6063,12 +5983,12 @@
       "notes": [],
       "citationKey": "Mirowski2014",
       "citekey": "Mirowski2014",
+      "itemID": 5499,
       "itemKey": "LGEXTE4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/LGEXTE4L"
     },
     {
-      "key": "MAADTJ9N",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0022519315001009",
@@ -6101,7 +6021,6 @@
       "dateAdded": "2022-11-15T17:38:33Z",
       "dateModified": "2022-11-15T17:38:33Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/MAADTJ9N",
-      "itemID": 5663,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6118,12 +6037,12 @@
       "notes": [],
       "citationKey": "Montevil2015",
       "citekey": "Montevil2015",
+      "itemID": 5663,
       "itemKey": "MAADTJ9N",
       "libraryID": 1,
       "select": "zotero://select/library/items/MAADTJ9N"
     },
     {
-      "key": "AAVRKGPM",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079610716300967",
@@ -6168,7 +6087,6 @@
       "dateAdded": "2022-11-25T17:07:05Z",
       "dateModified": "2022-11-25T17:07:05Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AAVRKGPM",
-      "itemID": 5689,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6184,26 +6102,26 @@
       ],
       "notes": [
         {
-          "key": "C2DFNDKK",
+          "key": "E2UUXWQ3",
           "version": 0,
           "itemType": "note",
           "parentItem": "AAVRKGPM",
-          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22Darwin%20introduced%20the%20concept%20that%20random%20variation%20generates%20new%20living%20forms.%20In%20this%20paper%2C%20we%20elaborate%20on%20Darwin%E2%80%99s%20notion%20of%20random%20variation%20to%20propose%20that%20biological%20variation%20should%20be%20given%20the%20status%20of%20a%20fundamental%20theoretical%20principle%20in%20biology.%20We%20state%20that%20biological%20objects%20such%20as%20organisms%20are%20speci%EF%AC%81c%20objects.%20Speci%EF%AC%81c%20objects%20are%20special%20in%20that%20they%20are%20qualitatively%20di%EF%AC%80erent%20from%20each%20other.%20They%20can%20undergo%20unpredictable%20qualitative%20changes%2C%20some%20of%20which%20are%20not%20de%EF%AC%81ned%20before%20they%20happen.%20We%20express%20the%20principle%20of%20variation%20in%20terms%20of%20symmetry%20changes%2C%20where%20symmetries%20underlie%20the%20theoretical%20determination%20of%20the%20object.%20We%20contrast%20the%20biological%20situation%20with%20the%20physical%20situation%2C%20where%20objects%20are%20generic%20(that%20is%2C%20di%EF%AC%80erent%20objects%20can%20be%20assumed%20to%20be%20identical)%20and%20evolve%20in%20well-de%EF%AC%81ned%20state%20spaces.%20We%20derive%20several%20implications%20of%20the%20principle%20of%20variation%2C%20in%20particular%2C%20biological%20objects%20show%20randomness%2C%20historicity%20and%20contextuality.%20We%20elaborate%20on%20the%20articulation%20between%20this%20principle%20and%20the%20two%20other%20principles%20proposed%20in%20this%20special%20issue%3A%20the%20principle%20of%20default%20state%20and%20the%20principle%20of%20organization.%22%2C%22container-title%22%3A%22Progress%20in%20Biophysics%20and%20Molecular%20Biology%22%2C%22DOI%22%3A%2210.1016%2Fj.pbiomolbio.2016.08.005%22%2C%22ISSN%22%3A%2200796107%22%2C%22issue%22%3A%221%22%2C%22journalAbbreviation%22%3A%22Progress%20in%20Biophysics%20and%20Molecular%20Biology%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%2236-50%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Theoretical%20principles%20for%20biology%3A%20Variation%22%2C%22title-short%22%3A%22Theoretical%20principles%20for%20biology%22%2C%22URL%22%3A%22https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0079610716300967%22%2C%22volume%22%3A%22122%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Mont%C3%A9vil%22%2C%22given%22%3A%22Ma%C3%ABl%22%7D%2C%7B%22family%22%3A%22Mossio%22%2C%22given%22%3A%22Matteo%22%7D%2C%7B%22family%22%3A%22Pocheville%22%2C%22given%22%3A%22Arnaud%22%7D%2C%7B%22family%22%3A%22Longo%22%2C%22given%22%3A%22Giuseppe%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C11%2C25%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222016%22%2C10%5D%5D%7D%2C%22citation-key%22%3A%22Montevil2016%22%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br/>(06/12/2022 \u00e0 16:47:25)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F9C2PA3VN%22%2C%22annotationKey%22%3A%22N54KUPVU%22%2C%22color%22%3A%22%23facd5a%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B52.557%2C452.327%2C288.684%2C462.29%5D%2C%5B37.613%2C440.372%2C288.678%2C450.335%5D%2C%5B37.613%2C428.416%2C288.682%2C438.379%5D%2C%5B37.613%2C416.461%2C136.993%2C426.424%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u00ab In this paper, we elaborate on the Darwinian idea of \u201cchance\u201d variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology. \u00bb</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Mont\u00e9vil et al., 2016, p. 2</span>)</span> Ceci est un test.</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F9C2PA3VN%22%2C%22annotationKey%22%3A%22AS8QXIEL%22%2C%22color%22%3A%22%23c885da%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B321.548%2C270.01%2C557.674%2C279.973%5D%2C%5B306.604%2C258.055%2C557.674%2C268.018%5D%2C%5B306.604%2C246.1%2C524.133%2C256.063%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u00ab Biological variation occurs at all levels of organization, from the molecular level to large scale structures and functions (West-Eberhard, 2003; Dueck et al., 2016). \u00bb</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Mont\u00e9vil et al., 2016, p. 2</span>)</span> Ceci est le deuxi\u00e8me test.</p>\n</div>",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22Darwin%20introduced%20the%20concept%20that%20random%20variation%20generates%20new%20living%20forms.%20In%20this%20paper%2C%20we%20elaborate%20on%20Darwin%E2%80%99s%20notion%20of%20random%20variation%20to%20propose%20that%20biological%20variation%20should%20be%20given%20the%20status%20of%20a%20fundamental%20theoretical%20principle%20in%20biology.%20We%20state%20that%20biological%20objects%20such%20as%20organisms%20are%20speci%EF%AC%81c%20objects.%20Speci%EF%AC%81c%20objects%20are%20special%20in%20that%20they%20are%20qualitatively%20di%EF%AC%80erent%20from%20each%20other.%20They%20can%20undergo%20unpredictable%20qualitative%20changes%2C%20some%20of%20which%20are%20not%20de%EF%AC%81ned%20before%20they%20happen.%20We%20express%20the%20principle%20of%20variation%20in%20terms%20of%20symmetry%20changes%2C%20where%20symmetries%20underlie%20the%20theoretical%20determination%20of%20the%20object.%20We%20contrast%20the%20biological%20situation%20with%20the%20physical%20situation%2C%20where%20objects%20are%20generic%20(that%20is%2C%20di%EF%AC%80erent%20objects%20can%20be%20assumed%20to%20be%20identical)%20and%20evolve%20in%20well-de%EF%AC%81ned%20state%20spaces.%20We%20derive%20several%20implications%20of%20the%20principle%20of%20variation%2C%20in%20particular%2C%20biological%20objects%20show%20randomness%2C%20historicity%20and%20contextuality.%20We%20elaborate%20on%20the%20articulation%20between%20this%20principle%20and%20the%20two%20other%20principles%20proposed%20in%20this%20special%20issue%3A%20the%20principle%20of%20default%20state%20and%20the%20principle%20of%20organization.%22%2C%22container-title%22%3A%22Progress%20in%20Biophysics%20and%20Molecular%20Biology%22%2C%22DOI%22%3A%2210.1016%2Fj.pbiomolbio.2016.08.005%22%2C%22ISSN%22%3A%2200796107%22%2C%22issue%22%3A%221%22%2C%22journalAbbreviation%22%3A%22Progress%20in%20Biophysics%20and%20Molecular%20Biology%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%2236-50%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Theoretical%20principles%20for%20biology%3A%20Variation%22%2C%22title-short%22%3A%22Theoretical%20principles%20for%20biology%22%2C%22URL%22%3A%22https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0079610716300967%22%2C%22volume%22%3A%22122%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Mont%C3%A9vil%22%2C%22given%22%3A%22Ma%C3%ABl%22%7D%2C%7B%22family%22%3A%22Mossio%22%2C%22given%22%3A%22Matteo%22%7D%2C%7B%22family%22%3A%22Pocheville%22%2C%22given%22%3A%22Arnaud%22%7D%2C%7B%22family%22%3A%22Longo%22%2C%22given%22%3A%22Giuseppe%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C11%2C25%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222016%22%2C10%5D%5D%7D%2C%22citation-key%22%3A%22Montevil2016%22%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br>(06/12/2022 \u00e0 17:18:50)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F9C2PA3VN%22%2C%22annotationKey%22%3A%22N54KUPVU%22%2C%22color%22%3A%22%23facd5a%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B52.557%2C452.327%2C288.684%2C462.29%5D%2C%5B37.613%2C440.372%2C288.678%2C450.335%5D%2C%5B37.613%2C428.416%2C288.682%2C438.379%5D%2C%5B37.613%2C416.461%2C136.993%2C426.424%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u00ab In this paper, we elaborate on the Darwinian idea of \u201cchance\u201d variation. We argue that variation should be given the status of a principle in biology, and in particular organismal biology. \u00bb</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Mont\u00e9vil et al., 2016, p. 2</span>)</span> Ceci est un test.</p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F9C2PA3VN%22%2C%22annotationKey%22%3A%22SDAUFR3Z%22%2C%22color%22%3A%22%23c885da%22%2C%22pageLabel%22%3A%222%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B321.548%2C270.01%2C557.674%2C279.973%5D%2C%5B306.604%2C258.055%2C557.674%2C268.018%5D%2C%5B306.604%2C246.1%2C524.133%2C256.063%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%7D\">\u00ab Biological variation occurs at all levels of organization, from the molecular level to large scale structures and functions (West-Eberhard, 2003; Dueck et al., 2016). \u00bb</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%222%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Mont\u00e9vil et al., 2016, p. 2</span>)</span> Ceci est le deuxi\u00e8me test.</p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F9C2PA3VN%22%2C%22annotationKey%22%3A%22XBUW7HIU%22%2C%22color%22%3A%22%23fb5c89%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A3%2C%22rects%22%3A%5B%5B72.276%2C114.638%2C288.68%2C124.601%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%223%22%7D%7D\">\u00ab However, the intuitive idea is quite simple: generic \u00bb</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Mont\u00e9vil et al., 2016, p. 3</span>)</span></p>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F9C2PA3VN%22%2C%22annotationKey%22%3A%22NWUB8MMK%22%2C%22color%22%3A%22%23fb5c89%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A3%2C%22rects%22%3A%5B%5B306.604%2C748.217%2C557.671%2C758.18%5D%2C%5B306.604%2C736.262%2C557.671%2C746.225%5D%2C%5B306.604%2C724.307%2C354.538%2C734.27%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%223%22%7D%7D\">\u00ab objects are objects which are all of the same kind from the point of view of the theory (they typically obey the same equations). \u00bb</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FAAVRKGPM%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Mont\u00e9vil et al., 2016, p. 3</span>)</span> test num\u00e9ro 3.</p>\n</div>",
           "tags": [],
           "relations": {},
-          "dateAdded": "2022-12-06T15:47:25Z",
-          "dateModified": "2022-12-06T15:47:25Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/C2DFNDKK"
+          "dateAdded": "2022-12-06T16:18:50Z",
+          "dateModified": "2022-12-06T16:18:57Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/E2UUXWQ3"
         }
       ],
       "citationKey": "Montevil2016",
       "citekey": "Montevil2016",
+      "itemID": 5689,
       "itemKey": "AAVRKGPM",
       "libraryID": 1,
       "select": "zotero://select/library/items/AAVRKGPM"
     },
     {
-      "key": "6NHCR8DU",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0079610716300931",
@@ -6248,7 +6166,6 @@
       "dateAdded": "2022-11-26T08:00:50Z",
       "dateModified": "2022-11-26T08:00:50Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6NHCR8DU",
-      "itemID": 5697,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6265,12 +6182,12 @@
       "notes": [],
       "citationKey": "Montevil2016a",
       "citekey": "Montevil2016a",
+      "itemID": 5697,
       "itemKey": "6NHCR8DU",
       "libraryID": 1,
       "select": "zotero://select/library/items/6NHCR8DU"
     },
     {
-      "key": "NVDHTXQT",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://link.springer.com/10.1007/s10539-019-9687-x",
@@ -6299,7 +6216,6 @@
       "dateAdded": "2022-10-20T14:30:52Z",
       "dateModified": "2022-10-20T14:30:52Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/NVDHTXQT",
-      "itemID": 5494,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6316,12 +6232,12 @@
       "notes": [],
       "citationKey": "Montevil2019",
       "citekey": "Montevil2019",
+      "itemID": 5494,
       "itemKey": "NVDHTXQT",
       "libraryID": 1,
       "select": "zotero://select/library/items/NVDHTXQT"
     },
     {
-      "key": "K2QW76TC",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://link.springer.com/10.1007/s11229-017-1668-5",
@@ -6350,7 +6266,6 @@
       "dateAdded": "2022-11-25T22:37:40Z",
       "dateModified": "2022-11-25T22:37:40Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/K2QW76TC",
-      "itemID": 5695,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6367,12 +6282,12 @@
       "notes": [],
       "citationKey": "Montevil2019a",
       "citekey": "Montevil2019a",
+      "itemID": 5695,
       "itemKey": "K2QW76TC",
       "libraryID": 1,
       "select": "zotero://select/library/items/K2QW76TC"
     },
     {
-      "key": "NCUMR4Y3",
       "version": 0,
       "itemType": "bookSection",
       "date": "2020",
@@ -6410,7 +6325,6 @@
       "dateAdded": "2022-07-30T12:30:19Z",
       "dateModified": "2022-07-30T12:30:19Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/NCUMR4Y3",
-      "itemID": 5343,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6427,13 +6341,13 @@
       "notes": [],
       "citationKey": "Montevil2020",
       "citekey": "Montevil2020",
+      "itemID": 5343,
       "itemKey": "NCUMR4Y3",
       "libraryID": 1,
       "select": "zotero://select/library/items/NCUMR4Y3",
       "publicationTitle": "On transition: in response to Antonio Guterres"
     },
     {
-      "key": "RNYNY633",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.frontiersin.org/article/10.3389/fphys.2020.00611/full",
@@ -6467,7 +6381,6 @@
       "dateAdded": "2022-11-25T17:11:57Z",
       "dateModified": "2022-11-25T17:11:57Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RNYNY633",
-      "itemID": 5691,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6484,12 +6397,12 @@
       "notes": [],
       "citationKey": "Montevil2020a",
       "citekey": "Montevil2020a",
+      "itemID": 5691,
       "itemKey": "RNYNY633",
       "libraryID": 1,
       "select": "zotero://select/library/items/RNYNY633"
     },
     {
-      "key": "D2QQ5LP6",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://montevil.org/publications/articles/2021-montevil-episteme-computational-empiricism/",
@@ -6513,7 +6426,6 @@
       "dateAdded": "2022-10-20T14:31:51Z",
       "dateModified": "2022-10-20T14:31:51Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/D2QQ5LP6",
-      "itemID": 5495,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6541,12 +6453,12 @@
       "notes": [],
       "citationKey": "Montevil2021",
       "citekey": "Montevil2021",
+      "itemID": 5495,
       "itemKey": "D2QQ5LP6",
       "libraryID": 1,
       "select": "zotero://select/library/items/D2QQ5LP6"
     },
     {
-      "key": "XK88APPS",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://www.nature.com/articles/palcomms2016105",
@@ -6596,7 +6508,6 @@
       "dateAdded": "2022-10-28T17:54:21Z",
       "dateModified": "2022-10-28T17:54:21Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/XK88APPS",
-      "itemID": 5590,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6613,12 +6524,12 @@
       "notes": [],
       "citationKey": "Moore2017",
       "citekey": "Moore2017",
+      "itemID": 5590,
       "itemKey": "XK88APPS",
       "libraryID": 1,
       "select": "zotero://select/library/items/XK88APPS"
     },
     {
-      "key": "CNAY8K4L",
       "version": 0,
       "itemType": "journalArticle",
       "date": "1982",
@@ -6636,7 +6547,6 @@
       "dateAdded": "2022-11-06T14:39:02Z",
       "dateModified": "2022-11-06T14:39:02Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/CNAY8K4L",
-      "itemID": 5649,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6653,12 +6563,12 @@
       "notes": [],
       "citationKey": "Morin1982",
       "citekey": "Morin1982",
+      "itemID": 5649,
       "itemKey": "CNAY8K4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/CNAY8K4L"
     },
     {
-      "key": "QEE5Q7AJ",
       "version": 0,
       "itemType": "bookSection",
       "url": "https://www.cairn.info/intelligence-de-la-complexite--9782705687137-p-28.htm",
@@ -6686,7 +6596,6 @@
       "dateAdded": "2022-08-11T08:34:06Z",
       "dateModified": "2022-08-11T08:34:06Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/QEE5Q7AJ",
-      "itemID": 5367,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6714,13 +6623,13 @@
       "notes": [],
       "citationKey": "Morin2013",
       "citekey": "Morin2013",
+      "itemID": 5367,
       "itemKey": "QEE5Q7AJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/QEE5Q7AJ",
       "publicationTitle": "Intelligence de la complexit\u00e9"
     },
     {
-      "key": "5G37W6AM",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S007961071630089X",
@@ -6760,7 +6669,6 @@
       "dateAdded": "2022-11-25T17:05:44Z",
       "dateModified": "2022-11-25T17:05:44Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/5G37W6AM",
-      "itemID": 5687,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6777,12 +6685,12 @@
       "notes": [],
       "citationKey": "Mossio2016",
       "citekey": "Mossio2016",
+      "itemID": 5687,
       "itemKey": "5G37W6AM",
       "libraryID": 1,
       "select": "zotero://select/library/items/5G37W6AM"
     },
     {
-      "key": "XRHS2XWQ",
       "version": 0,
       "itemType": "journalArticle",
       "issue": "118",
@@ -6802,17 +6710,16 @@
       "dateAdded": "2022-11-11T10:55:11Z",
       "dateModified": "2022-11-11T10:55:11Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/XRHS2XWQ",
-      "itemID": 5661,
       "attachments": [],
       "notes": [],
       "citationKey": "Motors1945",
       "citekey": "Motors1945",
+      "itemID": 5661,
       "itemKey": "XRHS2XWQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/XRHS2XWQ"
     },
     {
-      "key": "4TRGBUDU",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.cambridge.org/core/product/identifier/S0960129508007391/type/journal_article",
@@ -6841,7 +6748,6 @@
       "dateAdded": "2022-10-20T11:20:39Z",
       "dateModified": "2022-10-20T11:20:39Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/4TRGBUDU",
-      "itemID": 5481,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6858,12 +6764,12 @@
       "notes": [],
       "citationKey": "MSCSEditorialBoard2009",
       "citekey": "MSCSEditorialBoard2009",
+      "itemID": 5481,
       "itemKey": "4TRGBUDU",
       "libraryID": 1,
       "select": "zotero://select/library/items/4TRGBUDU"
     },
     {
-      "key": "HST2G4NN",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://www.nature.com/articles/s41562-018-0522-1",
@@ -6896,7 +6802,6 @@
       "dateAdded": "2022-10-19T13:11:13Z",
       "dateModified": "2022-10-19T13:11:13Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/HST2G4NN",
-      "itemID": 5466,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6913,12 +6818,12 @@
       "notes": [],
       "citationKey": "Muthukrishna2019",
       "citekey": "Muthukrishna2019",
+      "itemID": 5466,
       "itemKey": "HST2G4NN",
       "libraryID": 1,
       "select": "zotero://select/library/items/HST2G4NN"
     },
     {
-      "key": "JZHBZMEL",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://www.tandfonline.com/doi/full/10.1080/08109020600877667",
@@ -6953,7 +6858,6 @@
       "dateAdded": "2022-11-04T16:43:24Z",
       "dateModified": "2022-11-04T16:43:24Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/JZHBZMEL",
-      "itemID": 5647,
       "attachments": [
         {
           "itemType": "attachment",
@@ -6970,12 +6874,12 @@
       "notes": [],
       "citationKey": "Nedeva2006",
       "citekey": "Nedeva2006",
+      "itemID": 5647,
       "itemKey": "JZHBZMEL",
       "libraryID": 1,
       "select": "zotero://select/library/items/JZHBZMEL"
     },
     {
-      "key": "7PH7C9SY",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.journals.uchicago.edu/doi/10.1086/258177",
@@ -7002,7 +6906,6 @@
       "dateAdded": "2022-11-24T11:56:29Z",
       "dateModified": "2022-11-24T11:56:29Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/7PH7C9SY",
-      "itemID": 5673,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7030,12 +6933,12 @@
       "notes": [],
       "citationKey": "Nelson1959",
       "citekey": "Nelson1959",
+      "itemID": 5673,
       "itemKey": "7PH7C9SY",
       "libraryID": 1,
       "select": "zotero://select/library/items/7PH7C9SY"
     },
     {
-      "key": "UHF7HCMP",
       "version": 0,
       "itemType": "book",
       "publisher": "Harvard University Press",
@@ -7076,10 +6979,8 @@
       "dateAdded": "2022-10-29T15:01:44Z",
       "dateModified": "2022-10-29T15:01:44Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/UHF7HCMP",
-      "itemID": 5614,
       "attachments": [
         {
-          "key": "EN9WU4T2",
           "version": 0,
           "itemType": "attachment",
           "url": "https://books.google.fr/books?id=6Kx7s_HXxrkC",
@@ -7093,18 +6994,21 @@
           "relations": {},
           "dateAdded": "2022-10-29T15:01:46Z",
           "dateModified": "2022-10-29T15:01:46Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/EN9WU4T2"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/EN9WU4T2",
+          "itemID": 5615,
+          "itemKey": "EN9WU4T2",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Nelson1985",
       "citekey": "Nelson1985",
+      "itemID": 5614,
       "itemKey": "UHF7HCMP",
       "libraryID": 1,
       "select": "zotero://select/library/items/UHF7HCMP"
     },
     {
-      "key": "VQ6BA7I4",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "218",
@@ -7178,7 +7082,6 @@
       "dateAdded": "2022-11-07T20:06:41Z",
       "dateModified": "2022-11-07T20:06:41Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/VQ6BA7I4",
-      "itemID": 5655,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7192,7 +7095,6 @@
           "select": "zotero://select/library/items/8IMSNDQF"
         },
         {
-          "key": "MIGFZTAH",
           "version": 0,
           "itemType": "attachment",
           "url": "http://www.ncbi.nlm.nih.gov/pubmed/25568446",
@@ -7206,18 +7108,21 @@
           "relations": {},
           "dateAdded": "2022-11-07T20:06:46Z",
           "dateModified": "2022-11-07T20:06:46Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/MIGFZTAH"
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/MIGFZTAH",
+          "itemID": 5656,
+          "itemKey": "MIGFZTAH",
+          "libraryID": 1
         }
       ],
       "notes": [],
       "citationKey": "Noble2015",
       "citekey": "Noble2015",
+      "itemID": 5655,
       "itemKey": "VQ6BA7I4",
       "libraryID": 1,
       "select": "zotero://select/library/items/VQ6BA7I4"
     },
     {
-      "key": "VBK4YYRV",
       "version": 0,
       "itemType": "report",
       "url": "https://www.oecd-ilibrary.org/science-and-technology/making-life-richer-easier-and-healthier_5ea15d01-en",
@@ -7242,7 +7147,6 @@
       "dateAdded": "2022-11-25T13:41:43Z",
       "dateModified": "2022-11-25T13:41:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/VBK4YYRV",
-      "itemID": 5681,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7259,13 +7163,13 @@
       "notes": [],
       "citationKey": "Nolan2021",
       "citekey": "Nolan2021",
+      "itemID": 5681,
       "itemKey": "VBK4YYRV",
       "libraryID": 1,
       "select": "zotero://select/library/items/VBK4YYRV",
       "publisher": "OECD"
     },
     {
-      "key": "IAKGQKHD",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.frontiersin.org/articles/10.3389/fevo.2019.00219",
@@ -7315,7 +7219,6 @@
       "dateAdded": "2022-10-19T13:16:24Z",
       "dateModified": "2022-10-19T13:16:24Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/IAKGQKHD",
-      "itemID": 5470,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7332,12 +7235,12 @@
       "notes": [],
       "citationKey": "OConnor2019",
       "citekey": "OConnor2019",
+      "itemID": 5470,
       "itemKey": "IAKGQKHD",
       "libraryID": 1,
       "select": "zotero://select/library/items/IAKGQKHD"
     },
     {
-      "key": "D7NM3S6V",
       "version": 0,
       "itemType": "report",
       "url": "https://www.oecd-ilibrary.org/industry-and-services/effective-operation-of-competitive-research-funding-systems_2ae8c0dc-en",
@@ -7361,7 +7264,6 @@
       "dateAdded": "2022-10-20T19:50:43Z",
       "dateModified": "2022-10-20T19:50:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/D7NM3S6V",
-      "itemID": 5536,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7378,13 +7280,13 @@
       "notes": [],
       "citationKey": "OECD2018",
       "citekey": "OECD2018",
+      "itemID": 5536,
       "itemKey": "D7NM3S6V",
       "libraryID": 1,
       "select": "zotero://select/library/items/D7NM3S6V",
       "publisher": "OECD"
     },
     {
-      "key": "EP5LJ9GY",
       "version": 0,
       "itemType": "report",
       "url": "https://www.oecd-ilibrary.org/science-and-technology/building-digital-workforce-capacity-and-skills-for-data-intensive-science_e08aa3bb-en",
@@ -7408,7 +7310,6 @@
       "dateAdded": "2022-10-20T17:55:10Z",
       "dateModified": "2022-10-20T17:55:10Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/EP5LJ9GY",
-      "itemID": 5525,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7425,13 +7326,13 @@
       "notes": [],
       "citationKey": "OECD2020",
       "citekey": "OECD2020",
+      "itemID": 5525,
       "itemKey": "EP5LJ9GY",
       "libraryID": 1,
       "select": "zotero://select/library/items/EP5LJ9GY",
       "publisher": "OECD"
     },
     {
-      "key": "V4TZDIXL",
       "version": 0,
       "itemType": "report",
       "url": "https://www.oecd-ilibrary.org/science-and-technology/effective-policies-to-foster-high-risk-high-reward-research_06913b3b-en",
@@ -7455,7 +7356,6 @@
       "dateAdded": "2022-10-20T18:02:53Z",
       "dateModified": "2022-10-20T18:02:53Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/V4TZDIXL",
-      "itemID": 5527,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7472,13 +7372,13 @@
       "notes": [],
       "citationKey": "OECD2021",
       "citekey": "OECD2021",
+      "itemID": 5527,
       "itemKey": "V4TZDIXL",
       "libraryID": 1,
       "select": "zotero://select/library/items/V4TZDIXL",
       "publisher": "OECD"
     },
     {
-      "key": "PCR4RU73",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1080/02680930500108718",
@@ -7512,7 +7412,6 @@
       "dateAdded": "2022-10-28T18:52:53Z",
       "dateModified": "2022-10-28T18:53:45Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/PCR4RU73",
-      "itemID": 5603,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7529,12 +7428,12 @@
       "notes": [],
       "citationKey": "Olssen2005",
       "citekey": "Olssen2005",
+      "itemID": 5603,
       "itemKey": "PCR4RU73",
       "libraryID": 1,
       "select": "zotero://select/library/items/PCR4RU73"
     },
     {
-      "key": "VC52MK4D",
       "version": 0,
       "itemType": "report",
       "url": "https://www.oecd-ilibrary.org/science-and-technology/governance-of-science-and-technology-policies_2b3bc558-en",
@@ -7563,7 +7462,6 @@
       "dateAdded": "2022-11-25T13:42:23Z",
       "dateModified": "2022-11-25T13:42:23Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/VC52MK4D",
-      "itemID": 5683,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7580,13 +7478,13 @@
       "notes": [],
       "citationKey": "Paic2019",
       "citekey": "Paic2019",
+      "itemID": 5683,
       "itemKey": "VC52MK4D",
       "libraryID": 1,
       "select": "zotero://select/library/items/VC52MK4D",
       "publisher": "OECD"
     },
     {
-      "key": "AJC5XR85",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.cairn.info/revue-communications-2022-1-page-5.htm",
@@ -7620,7 +7518,6 @@
       "dateAdded": "2022-09-08T13:46:33Z",
       "dateModified": "2022-09-08T13:46:33Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AJC5XR85",
-      "itemID": 5447,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7637,12 +7534,12 @@
       "notes": [],
       "citationKey": "Paillard2022",
       "citekey": "Paillard2022",
+      "itemID": 5447,
       "itemKey": "AJC5XR85",
       "libraryID": 1,
       "select": "zotero://select/library/items/AJC5XR85"
     },
     {
-      "key": "ID89RBWZ",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "1",
@@ -7672,7 +7569,6 @@
       "dateAdded": "2022-10-20T19:51:58Z",
       "dateModified": "2022-10-20T19:51:58Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/ID89RBWZ",
-      "itemID": 5539,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7689,12 +7585,12 @@
       "notes": [],
       "citationKey": "Petit2019",
       "citekey": "Petit2019",
+      "itemID": 5539,
       "itemKey": "ID89RBWZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/ID89RBWZ"
     },
     {
-      "key": "7QNTSA9T",
       "version": 0,
       "itemType": "newspaperArticle",
       "url": "https://www.lesechos.fr/idees-debats/sciences-prospective/la-recherche-une-arme-pour-les-combats-du-futur-1150759",
@@ -7717,7 +7613,6 @@
       "dateAdded": "2022-10-28T18:18:35Z",
       "dateModified": "2022-10-28T18:20:22Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/7QNTSA9T",
-      "itemID": 5598,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7734,12 +7629,12 @@
       "notes": [],
       "citationKey": "Petit2019a",
       "citekey": "Petit2019a",
+      "itemID": 5598,
       "itemKey": "7QNTSA9T",
       "libraryID": 1,
       "select": "zotero://select/library/items/7QNTSA9T"
     },
     {
-      "key": "GEAHTQ8T",
       "version": 0,
       "itemType": "book",
       "place": "New York",
@@ -7763,17 +7658,16 @@
       "dateAdded": "2022-08-27T09:20:23Z",
       "dateModified": "2022-08-27T09:22:39Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/GEAHTQ8T",
-      "itemID": 5419,
       "attachments": [],
       "notes": [],
       "citationKey": "Pines1988",
       "citekey": "Pines1988",
+      "itemID": 5419,
       "itemKey": "GEAHTQ8T",
       "libraryID": 1,
       "select": "zotero://select/library/items/GEAHTQ8T"
     },
     {
-      "key": "92C5E87I",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1007/BF01101453",
@@ -7801,7 +7695,6 @@
       "dateAdded": "2022-10-26T11:19:26Z",
       "dateModified": "2022-10-26T11:19:26Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/92C5E87I",
-      "itemID": 5564,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7829,12 +7722,12 @@
       "notes": [],
       "citationKey": "Polanyi1962",
       "citekey": "Polanyi1962",
+      "itemID": 5564,
       "itemKey": "92C5E87I",
       "libraryID": 1,
       "select": "zotero://select/library/items/92C5E87I"
     },
     {
-      "key": "U4MMFDT4",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.journals.uchicago.edu/doi/10.1086/498330",
@@ -7862,7 +7755,6 @@
       "dateAdded": "2022-10-27T10:45:15Z",
       "dateModified": "2022-10-27T10:45:15Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/U4MMFDT4",
-      "itemID": 5568,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7879,12 +7771,12 @@
       "notes": [],
       "citationKey": "Pritchard2006",
       "citekey": "Pritchard2006",
+      "itemID": 5568,
       "itemKey": "U4MMFDT4",
       "libraryID": 1,
       "select": "zotero://select/library/items/U4MMFDT4"
     },
     {
-      "key": "H2EPATD5",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://ejournals.ph/article.php?id=3981",
@@ -7910,7 +7802,6 @@
       "dateAdded": "2022-10-24T09:32:39Z",
       "dateModified": "2022-10-24T09:33:22Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/H2EPATD5",
-      "itemID": 5547,
       "attachments": [
         {
           "itemType": "attachment",
@@ -7949,12 +7840,12 @@
       "notes": [],
       "citationKey": "Pulmones2010",
       "citekey": "Pulmones2010",
+      "itemID": 5547,
       "itemKey": "H2EPATD5",
       "libraryID": 1,
       "select": "zotero://select/library/items/H2EPATD5"
     },
     {
-      "key": "GCB8ATNP",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0040309",
@@ -8037,7 +7928,6 @@
       "dateAdded": "2022-07-22T15:56:25Z",
       "dateModified": "2022-07-22T15:56:25Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/GCB8ATNP",
-      "itemID": 5232,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8065,12 +7955,12 @@
       "notes": [],
       "citationKey": "Raj2006",
       "citekey": "Raj2006",
+      "itemID": 5232,
       "itemKey": "GCB8ATNP",
       "libraryID": 1,
       "select": "zotero://select/library/items/GCB8ATNP"
     },
     {
-      "key": "TLMY2CWD",
       "version": 0,
       "itemType": "book",
       "publisher": "Seuil",
@@ -8089,7 +7979,6 @@
       "dateAdded": "2022-07-28T19:36:34Z",
       "dateModified": "2022-07-28T19:45:14Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/TLMY2CWD",
-      "itemID": 5309,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8106,12 +7995,12 @@
       "notes": [],
       "citationKey": "Ricoeur1975",
       "citekey": "Ricoeur1975",
+      "itemID": 5309,
       "itemKey": "TLMY2CWD",
       "libraryID": 1,
       "select": "zotero://select/library/items/TLMY2CWD"
     },
     {
-      "key": "YCX7DYQY",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.sciencedirect.com/science/article/pii/S1751157717302882",
@@ -8170,7 +8059,6 @@
       "dateAdded": "2022-10-27T19:04:36Z",
       "dateModified": "2022-10-27T19:04:36Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/YCX7DYQY",
-      "itemID": 5573,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8198,12 +8086,12 @@
       "notes": [],
       "citationKey": "Sandstrom2018",
       "citekey": "Sandstrom2018",
+      "itemID": 5573,
       "itemKey": "YCX7DYQY",
       "libraryID": 1,
       "select": "zotero://select/library/items/YCX7DYQY"
     },
     {
-      "key": "SZDW5WZX",
       "version": 0,
       "itemType": "book",
       "url": "https://www.cambridge.org/core/books/what-is-life/A876185F2DB06FF5C2CC67C9A60DAD7F",
@@ -8229,7 +8117,6 @@
       "dateAdded": "2022-07-22T17:14:45Z",
       "dateModified": "2022-07-22T17:15:41Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/SZDW5WZX",
-      "itemID": 5256,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8246,12 +8133,12 @@
       "notes": [],
       "citationKey": "Schrodinger1944",
       "citekey": "Schrodinger1944",
+      "itemID": 5256,
       "itemKey": "SZDW5WZX",
       "libraryID": 1,
       "select": "zotero://select/library/items/SZDW5WZX"
     },
     {
-      "key": "DBVR2JX2",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "27",
@@ -8274,7 +8161,6 @@
       "dateAdded": "2022-07-28T20:27:37Z",
       "dateModified": "2022-07-28T20:27:37Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/DBVR2JX2",
-      "itemID": 5321,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8302,12 +8188,12 @@
       "notes": [],
       "citationKey": "Shannon1948",
       "citekey": "Shannon1948",
+      "itemID": 5321,
       "itemKey": "DBVR2JX2",
       "libraryID": 1,
       "select": "zotero://select/library/items/DBVR2JX2"
     },
     {
-      "key": "6KS9ZLQY",
       "version": 0,
       "itemType": "thesis",
       "place": "Grenoble",
@@ -8334,7 +8220,6 @@
       "dateAdded": "2022-10-14T15:19:22Z",
       "dateModified": "2022-10-14T15:19:22Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/6KS9ZLQY",
-      "itemID": 5464,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8351,13 +8236,13 @@
       "notes": [],
       "citationKey": "Simondon2017",
       "citekey": "Simondon2017",
+      "itemID": 5464,
       "itemKey": "6KS9ZLQY",
       "libraryID": 1,
       "select": "zotero://select/library/items/6KS9ZLQY",
       "publisher": "Millon"
     },
     {
-      "key": "3ZXZHAKC",
       "version": 0,
       "itemType": "book",
       "edition": "Third edition, international edition",
@@ -8381,7 +8266,6 @@
       "dateAdded": "2022-07-24T12:14:05Z",
       "dateModified": "2022-07-24T12:14:05Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/3ZXZHAKC",
-      "itemID": 5275,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8398,12 +8282,12 @@
       "notes": [],
       "citationKey": "Sipser2013",
       "citekey": "Sipser2013",
+      "itemID": 5275,
       "itemKey": "3ZXZHAKC",
       "libraryID": 1,
       "select": "zotero://select/library/items/3ZXZHAKC"
     },
     {
-      "key": "YS5RLBHH",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.160384",
@@ -8460,7 +8344,6 @@
       "dateAdded": "2022-10-20T13:51:52Z",
       "dateModified": "2022-10-20T13:53:54Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/YS5RLBHH",
-      "itemID": 5486,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8477,12 +8360,12 @@
       "notes": [],
       "citationKey": "Smaldino2016",
       "citekey": "Smaldino2016",
+      "itemID": 5486,
       "itemKey": "YS5RLBHH",
       "libraryID": 1,
       "select": "zotero://select/library/items/YS5RLBHH"
     },
     {
-      "key": "73MGTM4C",
       "version": 0,
       "itemType": "journalArticle",
       "url": "http://link.springer.com/10.1007/s10441-008-9052-y",
@@ -8520,7 +8403,6 @@
       "dateAdded": "2022-07-22T16:10:43Z",
       "dateModified": "2022-07-22T16:10:43Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/73MGTM4C",
-      "itemID": 5238,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8537,12 +8419,12 @@
       "notes": [],
       "citationKey": "Soto2008",
       "citekey": "Soto2008",
+      "itemID": 5238,
       "itemKey": "73MGTM4C",
       "libraryID": 1,
       "select": "zotero://select/library/items/73MGTM4C"
     },
     {
-      "key": "AR42GHSU",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.tandfonline.com/doi/full/10.1080/03080188.2020.1794389",
@@ -8577,7 +8459,6 @@
       "dateAdded": "2022-08-11T15:03:15Z",
       "dateModified": "2022-08-11T15:03:15Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AR42GHSU",
-      "itemID": 5385,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8594,12 +8475,12 @@
       "notes": [],
       "citationKey": "Soto2020",
       "citekey": "Soto2020",
+      "itemID": 5385,
       "itemKey": "AR42GHSU",
       "libraryID": 1,
       "select": "zotero://select/library/items/AR42GHSU"
     },
     {
-      "key": "9DUDMYDH",
       "version": 0,
       "itemType": "journalArticle",
       "publicationTitle": "Philosophy World Democracy",
@@ -8622,17 +8503,16 @@
       "dateAdded": "2022-10-20T14:43:34Z",
       "dateModified": "2022-10-20T14:44:54Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/9DUDMYDH",
-      "itemID": 5506,
       "attachments": [],
       "notes": [],
       "citationKey": "Soto2021",
       "citekey": "Soto2021",
+      "itemID": 5506,
       "itemKey": "9DUDMYDH",
       "libraryID": 1,
       "select": "zotero://select/library/items/9DUDMYDH"
     },
     {
-      "key": "RX4SX8QZ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.nature.com/articles/484029a",
@@ -8675,7 +8555,6 @@
       "dateAdded": "2022-10-20T18:53:13Z",
       "dateModified": "2022-10-20T18:53:13Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RX4SX8QZ",
-      "itemID": 5531,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8703,12 +8582,12 @@
       "notes": [],
       "citationKey": "Stephan2012",
       "citekey": "Stephan2012",
+      "itemID": 5531,
       "itemKey": "RX4SX8QZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/RX4SX8QZ"
     },
     {
-      "key": "7Z82UYSI",
       "version": 0,
       "itemType": "book",
       "publisher": "Harvard University Press",
@@ -8727,7 +8606,6 @@
       "dateAdded": "2022-10-20T18:09:31Z",
       "dateModified": "2022-10-20T18:09:31Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/7Z82UYSI",
-      "itemID": 5529,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8744,12 +8622,12 @@
       "notes": [],
       "citationKey": "Stephan2015",
       "citekey": "Stephan2015",
+      "itemID": 5529,
       "itemKey": "7Z82UYSI",
       "libraryID": 1,
       "select": "zotero://select/library/items/7Z82UYSI"
     },
     {
-      "key": "YPD6X7FL",
       "version": 0,
       "itemType": "book",
       "publisher": "Gallimard",
@@ -8768,7 +8646,6 @@
       "dateAdded": "2022-10-28T18:15:28Z",
       "dateModified": "2022-10-28T18:15:28Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/YPD6X7FL",
-      "itemID": 5594,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8785,12 +8662,12 @@
       "notes": [],
       "citationKey": "Stiegler2019",
       "citekey": "Stiegler2019",
+      "itemID": 5594,
       "itemKey": "YPD6X7FL",
       "libraryID": 1,
       "select": "zotero://select/library/items/YPD6X7FL"
     },
     {
-      "key": "RK844GNE",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/10.1126/science.1188308",
@@ -8851,7 +8728,6 @@
       "dateAdded": "2022-08-11T15:26:49Z",
       "dateModified": "2022-08-11T15:26:49Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RK844GNE",
-      "itemID": 5386,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8868,12 +8744,12 @@
       "notes": [],
       "citationKey": "Taniguchi2010",
       "citekey": "Taniguchi2010",
+      "itemID": 5386,
       "itemKey": "RK844GNE",
       "libraryID": 1,
       "select": "zotero://select/library/items/RK844GNE"
     },
     {
-      "key": "WW5XM7SE",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1007/s11127-020-00807-4",
@@ -8932,7 +8808,6 @@
       "dateAdded": "2022-11-03T23:02:58Z",
       "dateModified": "2022-11-03T23:02:58Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/WW5XM7SE",
-      "itemID": 5644,
       "attachments": [
         {
           "itemType": "attachment",
@@ -8949,12 +8824,12 @@
       "notes": [],
       "citationKey": "Thomas2020",
       "citekey": "Thomas2020",
+      "itemID": 5644,
       "itemKey": "WW5XM7SE",
       "libraryID": 1,
       "select": "zotero://select/library/items/WW5XM7SE"
     },
     {
-      "key": "43F7PIPQ",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://doi.org/10.1177/1556264614552421",
@@ -8993,17 +8868,16 @@
       "dateAdded": "2022-10-28T17:54:51Z",
       "dateModified": "2022-10-28T17:54:51Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/43F7PIPQ",
-      "itemID": 5591,
       "attachments": [],
       "notes": [],
       "citationKey": "Tijdink2014",
       "citekey": "Tijdink2014",
+      "itemID": 5591,
       "itemKey": "43F7PIPQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/43F7PIPQ"
     },
     {
-      "key": "MXWJJ2RP",
       "version": 0,
       "itemType": "journalArticle",
       "volume": "58",
@@ -9025,7 +8899,6 @@
       "dateAdded": "2022-07-24T18:16:02Z",
       "dateModified": "2022-07-24T18:16:02Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/MXWJJ2RP",
-      "itemID": 5276,
       "attachments": [
         {
           "itemType": "attachment",
@@ -9042,12 +8915,12 @@
       "notes": [],
       "citationKey": "Turing1936",
       "citekey": "Turing1936",
+      "itemID": 5276,
       "itemKey": "MXWJJ2RP",
       "libraryID": 1,
       "select": "zotero://select/library/items/MXWJJ2RP"
     },
     {
-      "key": "RAJ6H6KH",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/abs/10.1126/science.1194036",
@@ -9073,17 +8946,16 @@
       "dateAdded": "2022-07-22T15:49:50Z",
       "dateModified": "2022-07-22T15:49:50Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/RAJ6H6KH",
-      "itemID": 5231,
       "attachments": [],
       "notes": [],
       "citationKey": "Tyagi2010",
       "citekey": "Tyagi2010",
+      "itemID": 5231,
       "itemKey": "RAJ6H6KH",
       "libraryID": 1,
       "select": "zotero://select/library/items/RAJ6H6KH"
     },
     {
-      "key": "F6D63FR8",
       "version": 0,
       "itemType": "newspaperArticle",
       "publicationTitle": "The Atlantic",
@@ -9101,17 +8973,16 @@
       "dateAdded": "2022-10-30T19:32:26Z",
       "dateModified": "2022-10-30T19:33:33Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/F6D63FR8",
-      "itemID": 5620,
       "attachments": [],
       "notes": [],
       "citationKey": "Yong2018",
       "citekey": "Yong2018",
+      "itemID": 5620,
       "itemKey": "F6D63FR8",
       "libraryID": 1,
       "select": "zotero://select/library/items/F6D63FR8"
     },
     {
-      "key": "J87GICY5",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.science.org/doi/10.1126/science.1101176",
@@ -9155,17 +9026,16 @@
       "dateAdded": "2022-11-26T14:29:47Z",
       "dateModified": "2022-11-26T14:29:47Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/J87GICY5",
-      "itemID": 5698,
       "attachments": [],
       "notes": [],
       "citationKey": "Zhou2004",
       "citekey": "Zhou2004",
+      "itemID": 5698,
       "itemKey": "J87GICY5",
       "libraryID": 1,
       "select": "zotero://select/library/items/J87GICY5"
     },
     {
-      "key": "4GA7FV8V",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://www.pnas.org/doi/10.1073/pnas.89.1.20",
@@ -9201,7 +9071,6 @@
       "dateAdded": "2022-08-11T14:45:20Z",
       "dateModified": "2022-08-11T14:45:20Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/4GA7FV8V",
-      "itemID": 5382,
       "attachments": [
         {
           "itemType": "attachment",
@@ -9218,6 +9087,7 @@
       "notes": [],
       "citationKey": "Zwanzig1992",
       "citekey": "Zwanzig1992",
+      "itemID": 5382,
       "itemKey": "4GA7FV8V",
       "libraryID": 1,
       "select": "zotero://select/library/items/4GA7FV8V"
