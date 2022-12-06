@@ -26,7 +26,7 @@ other = "Backlinks"
 other = "No backlinks found"
 
 [home]
-other = "back to the graphview"
+other = "Back to global graph"
 
 [light_mode]
 other = "Light Mode"
@@ -38,7 +38,7 @@ other = "Dark Mode"
 other = "Edit Source"
 
 [interactive_graph]
-other = "Interactive Graph"
+other = "Local graph"
 
 [search]
 other = "Search"
