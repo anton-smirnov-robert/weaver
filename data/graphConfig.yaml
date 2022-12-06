@@ -38,6 +38,6 @@ paths:
   - /concepts: "#3498DB"
   - /readings: "#C0392B"
   - /definitions: "#9B59B6"
-  - /about me: "#33FF00"
-  - /where am i: "#FF00FF"
+  - /about: "#33FF00"
+  - /home: "#FF00FF"
 
