@@ -1,6 +1,6 @@
 ---
 title: "<% tp.file.title %>"
-date: <% tp.date.yesterday() %>
+date: <% tp.date.now() %>
 draft: false
 enabletoc: false
 tags:

@@ -14,7 +14,7 @@ At any moment you can go back to the global graph containing all pages by clikin
 
 If you are here for the first time, let me introduce you to the project in four steps.r
 
-[how to make this website](how%20to%20make%20this%20website.md)
+[about the website](about%20the%20website.md)
 
 >[!warning]  
 >
