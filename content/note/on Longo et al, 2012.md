@@ -1,6 +1,5 @@
 ---
 title: "on Longo et al, 2012"
-date: 2022-12-06
 draft: false
 enabletoc: false
 tags:
@@ -8,8 +7,8 @@ tags:
 ---
 
 
-### **Is Information a proper observable for biological organization?**   
-by Longo G., Miquel P., Sonnenschein C., Soto A.M.
+**Is Information a proper observable for biological organization?**    
+by Longo G., Miquel P., Sonnenschein C., Soto A.M.     
 2012
 
 Reference: [Longo et al, 2012](reference/Longo%20et%20al,%202012.md)

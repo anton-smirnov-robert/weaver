@@ -1,5 +1,6 @@
 ---
 title: "Schrödinger, 1944"
+date: false 
 draft: false
 enabletoc: false
 tags:
