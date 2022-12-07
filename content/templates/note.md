@@ -2,7 +2,9 @@
 title: "<% tp.file.title %>"
 date: <% tp.date.now() %>
 draft: false
-enabletoc: false
+showthedate: true
+enabletoc: true
 tags:
-- note
+- lecture-note
 ---
+

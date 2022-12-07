@@ -4,7 +4,7 @@ name: Anton Robert
 # whether to globally show the table of contents on each page
 # this can be turned off on a per-page basis by adding this to the
 # front-matter of that note
-enableToc: true
+enableToc: false
 
 # whether to by-default open or close the table of contents on each page
 openToc: true

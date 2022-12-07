@@ -10,7 +10,9 @@
     <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
+      {{ if .Params.showthedate }}
         {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} 
+      {{ end }}
           {{ partial "github.html" . }}
       </p>
       <ul class="tags">
