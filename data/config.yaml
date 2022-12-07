@@ -61,7 +61,7 @@ description:
 
 # title of the home page (also for SEO)
 page_title:
-  "Complexus"
+  "Weaver"
 
 # links to show in the footer
 #links:
@@ -69,4 +69,5 @@ page_title:
 #    link: https://scholar.google.com/citations?user=i5YQTPMAAAAJ&hl=en
 
 favicon:
-  - { rel: "shortcut icon", href: "logo.png", type: "image/png" }
+  - { rel: "shortcut icon", href: "weaver.png", type: "image/png" }
+

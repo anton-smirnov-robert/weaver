@@ -62,9 +62,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       if (d.id.startsWith(path)) {
         return colour
       }
-      if ( d.id == "/Where-am-I" ) { return "#B048B5" }
-      if ( d.id == "/about-me" ) { return "#4169E1" }
-      if ( d.id == "/manifesto" ) { return "#FA8072" }
+      if ( d.id == "/Where-am-I" ) { return "#513b16" }
+      if ( d.id == "/about-me" ) { return "#ffcf11" }
+      if ( d.id == "/manifesto" ) { return "#9b4f2e" }
     }
 
     return "var(--g-node)"
