@@ -7,16 +7,16 @@ tags:
 ---
 
 Three notions of computability are equivalent: 
-- The existence of a [[concept/Turing machine]] computing the function.
-- The [[definition/abacus]]-computability.
-- A [[definition/recursive function]]. 
-A function is computable on a [[concept/Turing machine]] if and only if it is a [[definition/recursive function]].
+- The existence of a [Turing machine](concept/Turing%20machine.md) computing the function.
+- The [abacus](definition/abacus.md)-computability.
+- A [recursive function](definition/recursive%20function.md)
 
-[[concept/Church-Turing thesis]] assumes that it is the same thing as [[definition/effectively computable]]. 
-Some functions are however [[definition/uncomputable]]. 
+A function is computable on a [Turing machine](concept/Turing%20machine.md) if and only if it is a [recursive function](definition/recursive%20function.md)
 
-#### Exemple(s) 
+[Church-Turing thesis](concept/Church-Turing%20thesis.md) assumes that it is the same thing as [effectively computable](definition/effectively%20computable.md).
+Some functions are however [uncomputable](definition/uncomputable.md).
+
 
 #### Sources 
 
-[Boolos et al, 2007](reference/Boolos%20et%20al,%202007.md)
+[Boolos2007](reference/Boolos2007.md)

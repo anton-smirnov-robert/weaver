@@ -1,7 +1,9 @@
 ---
 title: "automaton"
-date: 2022-12-06
+date: 2022-12-07
 draft: false
+showthedate: false
+enabletoc: false
 tags:
 - definition
 ---

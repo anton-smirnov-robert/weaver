@@ -161,7 +161,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     const numIn = index.backlinks[d.id]?.length || 0
     if ( d.id == "/Where-am-I" ) { return 20 }
     if ( d.id == "/about-me" ) { return 20 }
-    if ( d.id == "/manifesto" ) { return 20 }
+    if ( d.id == "/manifesto" ) { return 10 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 
@@ -197,7 +197,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--g-link-active)")
 
-      const bigFont = fontSize*1.5
+      const bigFont = fontSize*2
 
       // show text for self
       d3.select(this.parentNode)

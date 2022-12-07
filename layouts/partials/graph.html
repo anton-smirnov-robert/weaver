@@ -8,10 +8,10 @@
 <style>
   :root {
     --g-node: var(--secondary);
-    --g-node-active: #FF00FF;
+    --g-node-active: var(--primary);
     --g-node-inactive: var(--visited);
     --g-link: var(--outlinegray);
-    --g-link-active: #FF00FF;
+    --g-link-active: var(--primary);
   }
 </style>
 {{ $js := resources.Get "js/graph.js" | resources.Fingerprint "md5" }}

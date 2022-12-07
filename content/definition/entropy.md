@@ -1,12 +1,14 @@
 ---
 title: "entropy"
-date: 2022-12-06
+date: 2022-12-07
 draft: false
+showthedate: false
+enabletoc: false
 tags:
 - definition
 ---
 
-For a given phase space and Hamiltonian, entropies quantifies the number of micro-states available, for a given energy.
+For a given phase space, Hamiltonian and energy, entropy quantifies the number of micro-states available.
 
 #### Details 
 

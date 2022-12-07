@@ -21,9 +21,9 @@ html {
 }
 
 .singlePage {
-  padding: 1vh 8vw;
-  @media all and (max-width: 5000px) {
-    padding: 1vh 4vw;
+  padding: 1em 30vw;
+  @media all and (max-width: 1200px) {
+    padding: 1em 5vw;
   }
 }
 
