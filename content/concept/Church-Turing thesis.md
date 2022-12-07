@@ -6,12 +6,11 @@ tags:
 - concept
 ---
 
-*An [[definition/arithmetic function]] is [[definition/effectively computable]] if and only if it is computable by a [[concept/Turing machine]] (or — using the [[definition/computable]] equivalence — if it is is a [[definition/recursive function]])*.
+*An [arithmetic function](definition/arithmetic%20function.md) is [effectively computable](definition/effectively%20computable.md) if and only if it is computable by a [[concept/Turing machine]] (or — using the [computable](definition/computable.md) equivalence — if it is is a [recursive function](definition/recursive%20function.md))*.
 
-This is a thesis because it is not provable because it refers to the informal [[definition/effectively computable]] notion. We know for sure one way (the return) because a Turing machine is computation is a type of effective computation.
+This is a thesis because it is not provable because it refers to the informal [effectively computable](definition/effectively%20computable.md) notion. We know for sure one way (the return) because a Turing machine is computation is a type of effective computation.
 
-*Why believe it?* 
-All attempts to give an exact analysis of the intuitive notion of an effectively calculable function have turned out to be _equivalent_, in the sense that each analysis offered has been proved to pick out the same class of functions, namely those that are computable by Turing machine.
+Why believe it? All attempts to give an exact analysis of the intuitive notion of an effectively calculable function have turned out to be _equivalent_, in the sense that each analysis offered has been proved to pick out the same class of functions, namely those that are computable by Turing machine.
 Church has made such an hypothesis independently with other sort of computation (abacus machine).
 
 #### Sources 

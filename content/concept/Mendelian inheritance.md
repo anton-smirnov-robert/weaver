@@ -1,0 +1,20 @@
+---
+title: "Mendelian inheritance"
+date: 2022-12-07
+draft: false
+showthedate: true
+enabletoc: false
+tags:
+- concept
+---
+
+In 1865, the monk and botanist Gregor Mendel find that a trait can different forms (alleles) and suggested three laws:
+
+- Some alleles are dominant while others are recessive.
+- Each gamete carries only one allele for each gene.
+- Genes of different traits can segregate independently during the formation of gametes (meiose).
+
+#### Sources 
+
+[Wikipedia](https://en.wikipedia.org/wiki/Mendelian_inheritance)
+

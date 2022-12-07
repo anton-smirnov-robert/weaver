@@ -26,8 +26,8 @@ An instruction can be written $q_i S_i S_j R q_m$  or  $q_i S_i S_j L q_m$. We e
 #### Sources 
 [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/turing-machine/#TuriDefi)   
 [MIT Open courses](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/)     
-[Sipser, 2013](reference/Sipser,%202013.md)
+[Sipser2013](reference/Sipser2013.md)
 note [on Longo2012](note/on%20Longo2012.md)     
 [Youtube](https://www.youtube.com/watch?v=P66h8D5Lkwk)         
 [Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)       
-[Turing, 1936](reference/Turing,%201936.md)
+[Turing1936](reference/Turing1936.md)

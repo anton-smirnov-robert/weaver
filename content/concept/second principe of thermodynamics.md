@@ -8,7 +8,7 @@ tags:
 - concept
 ---
 
-The [[entropy]] of a **closed system** with **fixed volume** can only increase. 
+The [entropy](definition/entropy.md) of a **closed system** with **fixed volume** can only increase. 
 
 It is maximum at equilibrium for a system at constant energy. In other words, the system evolves (if not already equilibrated) towards the macro-state that is invariant under the most number of microstates. 
 

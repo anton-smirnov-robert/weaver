@@ -6,10 +6,10 @@ tags:
 - definition
 ---
 
-An abacus is a "higher-level" (more flexible) [[concept/Turing machine]] for computation.
+An abacus is a "higher-level" (more flexible) [Turing machine](concept/Turing%20machine.md) for computation.
 Every abacus-computable function is Turing computable. 
-All [[definition/recursive function]]s are abacus-computable. 
+All [recursive function](definition/recursive%20function.md)s are abacus-computable. 
 
 #### Source(s)
 
-[Boolos et al, 2007](reference/Boolos%20et%20al,%202007.md)
+[Boolos2007](reference/Boolos2007.md)

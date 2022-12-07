@@ -159,6 +159,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const nodeRadius = (d) => {
     const numOut = index.links[d.id]?.length || 0
     const numIn = index.backlinks[d.id]?.length || 0
+    if (d.id === curPage || (d.id === "/" && curPage === "")) {
+      return 15
+    }
     if ( d.id == "/Where-am-I" ) { return 20 }
     if ( d.id == "/about-me" ) { return 20 }
     if ( d.id == "/manifesto" ) { return 10 }

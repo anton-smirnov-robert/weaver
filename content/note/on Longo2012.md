@@ -4,7 +4,7 @@ title: "on Longo2012"
 date: 2022-12-07
 draft: false
 showthedate: true
-enabletoc: false
+enabletoc: true
 tags:
 - lecture-note
 ---
@@ -16,9 +16,10 @@ DOI: 10.1016/j.pbiomolbio.2012.06.004
 
 Reference: [Longo2012](reference/Longo2012.md)
 
-## Section 
 
-**DNA was discovered in times that proned an informational metaphor for biological organization**. The discovery of DNA by Crick and Watson in 1953 happened just after an flourishing era of mathematical logic and computation. The concepts of (hardware and software-independent) [computable](definition/computable.md), elaboration of information (reading and programming) with [Turing machine](concept/Turing%20machine.md)s were developped in 1930-1936. At the end of WW2 (were cryptography played a major role), [Schrödinger's code-script aperiodic crystal](concept/Schrödinger's%20code-script%20aperiodic%20crystal.md) hints at informational encoding in chromosomes, such as *programs*. In 1948, [[Shannon's theory of information transmission]], which is still crucial nowadays also poped up. The informational metaphor for biological organization (without the hypothesis of the abstract model of mathematical logic) laid out the groundwork for a simplistic explanation of [[Mendel's laws of inheritance]] with the four bases discovered in the DNA. This metaphor is at the core of [[Crick's central dogma]]. 
+#### DNA was discovered in times that proned an informational metaphor to describe biological organization.
+
+The discovery of DNA by Crick and Watson in 1953 happened just after an flourishing era of mathematical logic and computation. The concepts of (hardware and software-independent) [computable](definition/computable.md), elaboration of information (reading and programming) with [Turing machine](concept/Turing%20machine.md)s were developped in 1930-1936. At the end of WW2 (were cryptography played a major role), [Schrödinger's code-script aperiodic crystal](concept/Schrödinger's%20code-script%20aperiodic%20crystal.md) hints at informational encoding in chromosomes, such as *programs*. In 1948, [Shannon's theory of information transmission](concept/Shannon's%20theory%20of%20information%20transmission.md), which is still crucial nowadays also poped up. The informational metaphor for biological organization (without the hypothesis of the abstract model of mathematical logic) laid out the groundwork for a simplistic explanation of [Mendelian inheritance](concept/Mendelian%20inheritance.md) with the four bases discovered in the DNA. This metaphor is at the core of [Crick's central dogma](concept/Crick's%20central%20dogma.md). 
 
 
 

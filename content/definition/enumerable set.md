@@ -6,11 +6,11 @@ tags:
 - definition
 ---
 
-A set is enumerable if and only if it is the range of some [[definition/arithmetic function]].
+A set is enumerable if and only if it is the range of some [arithmetic function](definition/arithmetic%20function.md).
 
 (The range is the set of the function's values.
 The domain is the set of the functions's argument.)
 
 #### Source(s)
 
-[Boolos et al, 2007](reference/Boolos%20et%20al,%202007.md)
+[Boolos2007](reference/Boolos2007.md)
