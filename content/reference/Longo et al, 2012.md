@@ -1,11 +1,18 @@
 ---
 title: "Longo et al, 2012"
-date: 2022-12-06
+date: 2022-12-07
 draft: false
+showthedate: false
+enabletoc: false
 tags:
 - reference
 ---
-- Longo G., Miquel P., Sonnenschein C., Soto A.M. (2012). "Is Information a proper observable for biological organization?." *Progress in biophysics and molecular biology* 109: 108-114. doi: 10.1016/j.pbiomolbio.2012.06.004
+
+**Is Information a proper observable for biological organization?**     
+by Longo G., Miquel P., Sonnenschein C., Soto A.M. (2012).
+*Progress in biophysics and molecular biology* 109: 108-114    
+DOI: 10.1016/j.pbiomolbio.2012.06.004
+
 
 > [!quote] 
 >
