@@ -4,4 +4,4 @@ Non-observable continuous fluctuations (below any physical instrument precision)
 
 #### Sources
 
-[lecture note of Longo2012](note/lecture%20note%20of%20Longo2012.md)
+[literature note of Longo2012](note/literature%20note%20of%20Longo2012.md)
