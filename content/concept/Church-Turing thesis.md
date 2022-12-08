@@ -6,7 +6,7 @@ tags:
 - concept
 ---
 
-*An [arithmetic function](definition/arithmetic%20function.md) is [effectively computable](definition/effectively%20computable.md) if and only if it is computable by a [[concept/Turing machine]] (or — using the [computable](definition/computable.md) equivalence — if it is is a [recursive function](definition/recursive%20function.md))*.
+*An [arithmetic function](definition/arithmetic%20function.md) is [effectively computable](definition/effectively%20computable.md) if and only if it is computable (see [computability](concept/computability.md)).*
 
 This is a thesis because it is not provable because it refers to the informal [effectively computable](definition/effectively%20computable.md) notion. We know for sure one way (the return) because a Turing machine is computation is a type of effective computation.
 

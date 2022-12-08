@@ -1,9 +1,11 @@
 ---
-title: "computable"
-date: 2022-12-06
+title: "computability"
+date: 2022-12-07
 draft: false
+showthedate: true
+enabletoc: false
 tags:
-- definition
+- concept
 ---
 
 Three notions of computability are equivalent: 
@@ -15,7 +17,6 @@ A function is computable on a [Turing machine](concept/Turing%20machine.md) if a
 
 [Church-Turing thesis](concept/Church-Turing%20thesis.md) assumes that it is the same thing as [effectively computable](definition/effectively%20computable.md).
 Some functions are however [uncomputable](definition/uncomputable.md).
-
 
 #### Sources 
 

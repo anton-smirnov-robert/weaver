@@ -8,4 +8,4 @@ tags:
 - concept
 ---
 
-It was suggested in 1867 by Maxwell. A 'finite being' can open or close a door between two boxes. Depending on the velocity of the particle that is coming close to the door, he lets fast particles go to one side and slow ones on the other side. Therefore, he cools down one box and heats up the other one and "violates" [second principe of thermodynamics](concept/second%20principe%20of%20thermodynamics.md). This paradox was tackled by [Brillouin's relation between entropy and information](concept/Brillouin's%20relation%20between%20entropy%20and%20information.md). 
+It was suggested in 1867 by Maxwell. A 'finite being' can open or close a door between two boxes. Depending on the velocity of the particle that is coming close to the door, he lets fast particles go to one side and slow ones on the other side. Therefore, he cools down one box and heats up the other one and "violates" [second principle of thermodynamics](concept/second%20principle%20of%20thermodynamics.md). This paradox was tackled by [Brillouin's relation between entropy and information](concept/Brillouin's%20relation%20between%20entropy%20and%20information.md). 

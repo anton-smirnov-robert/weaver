@@ -6,4 +6,8 @@ tags:
 - concept
 ---
 
-Given a [[concept/Turing machine]] and an initial binary strings, the problem consists in knowing if it will halt or not. This problem cannot be solve on a [[concept/Turing machine]] because the halting function is [[definition/uncomputable]]. 
+Given a [Turing machine](concept/Turing%20machine.md) and an initial binary strings, the problem consists in knowing if it will halt or not. This problem cannot be solve on a [Turing machine](concept/Turing%20machine.md) because the halting function is [uncomputable](definition/uncomputable.md). 
+
+#### Sources
+
+[Boolos2007](reference/Boolos2007.md)
