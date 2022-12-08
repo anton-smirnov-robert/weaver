@@ -12,4 +12,4 @@ A demiurge could predict the future with solely position and velocity of all par
 
 #### Sources
 
-[literature note of Longo2012](note/literature%20note%20of%20Longo2012.md)
+[literature note on Longo2012](note/literature%20note%20on%20Longo2012.md)
