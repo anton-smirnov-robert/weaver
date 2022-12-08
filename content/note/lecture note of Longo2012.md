@@ -1,6 +1,6 @@
 
 ---
-title: "about Longo2012"
+title: "lecture note about Longo2012"
 date: 2022-12-07
 draft: false
 showthedate: true
