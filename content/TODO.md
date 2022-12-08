@@ -10,5 +10,5 @@ tags:
 ---
 
 
-- []  note on statistical gene expression using [Kupiec2020](reference/Kupiec2020.md), [Tyagi2010](reference/Tyagi2010.md) and [Taniguchi2010](reference/Taniguchi2010.md) and [about Longo2012](note/about%20Longo2012.md).
-
+- [ ]  note on **statistical gene expression** using [Kupiec2020](reference/Kupiec2020.md), [Tyagi2010](reference/Tyagi2010.md) and [Taniguchi2010](reference/Taniguchi2010.md) and [about Longo2012](note/about%20Longo2012.md).
+	
