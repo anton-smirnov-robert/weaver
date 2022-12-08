@@ -7,6 +7,8 @@ tags:
 - reference
 ---
 
-**Science and information theory**     
-by Brillouin L. (1956)
-Academic Press
+#### **Science and information theory**     
+by Brillouin L. (1956)         
+Academic Press      
+
+

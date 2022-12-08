@@ -7,6 +7,8 @@ tags:
 - reference
 ---
 
-**Introduction to the theory of computation**     
-by Sipser M. (2013)
-Cengage Learning
+#### **Introduction to the theory of computation**     
+by Sipser M. (2013)         
+Cengage Learning      
+
+

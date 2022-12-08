@@ -7,6 +7,8 @@ tags:
 - reference
 ---
 
-**A mathematical theory of communication**     
-by Shannon C.E. (1948)
-*The Bell system technical journal* 27: 379–423    
+#### **A mathematical theory of communication**     
+by Shannon C.E. (1948)         
+*The Bell system technical journal* 27: 379–423       
+
+

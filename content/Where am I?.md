@@ -14,6 +14,9 @@ At any moment you can go back to the global graph containing all pages by clikin
 
 If you are here for the first time, let me introduce you to the project in four steps.
 
+[TODO](TODO.md)
+
+
 >[!warning]  
 >
 >Can i say something here ? 

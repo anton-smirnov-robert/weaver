@@ -7,6 +7,8 @@ tags:
 - reference
 ---
 
-**On protein synthesis**     
-by Crick F.H. (1958)
-*Symp Soc Exp Biol* 12: 8    
+#### **On protein synthesis**     
+by Crick F.H. (1958)         
+*Symp Soc Exp Biol* 12: 8       
+
+

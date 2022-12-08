@@ -7,6 +7,8 @@ tags:
 - reference
 ---
 
-**On computable numbers, with an application to the Entscheidungsproblem**     
-by Turing A.M. (1936)
-*J. of Math* 58: 5    
+#### **On computable numbers, with an application to the Entscheidungsproblem**     
+by Turing A.M. (1936)         
+*J. of Math* 58: 5       
+
+
