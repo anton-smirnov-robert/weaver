@@ -9,17 +9,23 @@ Welcome!
 
 You are on my personal website. You can find out [about me](about%20me.md) by clicking on the (colored) bold link.
 
-[Weaver](/) is a I use to organize my literature notes. 
+I built [Weaver](/) to organize and access my literature notes, but also to prompt me to read academic articles/books properly. 
+Essentially, this website is the product of my using of the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method. It takes the form a local [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) with a graphical interface. 
+It is public to give an example of an original academic workflow, and because I'm thinking about peer-reviewed collaborative work in the future.
+It is always in construction, but I try to be consistent when deploying online. Here are the technical aspects [[about the website]].
 
-relies on forward and backward links (backlinks) between pages as you can see on the local graph just below. 
-At any moment you can go back to the global graph containing all pages by cliking on **complexus** at the top of the page or **Home** at the bottom.
+I split the entries in four types (pages are tagged with their type):
 
-If you are here for the first time, let me introduce you to the project in four steps.
+- **definitions**: words that I did not know or common words whose meaning is worth specifying in a given context. 
+- **concepts**: definitions more conceptually involved or concepts that can usually be attributed to a given author.
+- **references**: automatically generated pages with reference to a document and the quotes I highlighted in the PDF document. 
+- **notes**: litterature notes that are augmented summaries which are organized in terms of atomized and linked definitions, concepts, and references. 
 
-[TODO](TODO.md)
+At the end of each page, you can access the local graph (with depth 2) around your location.
+To get the big picture, you can also navigate by drag and zoom on the global graph that contains all entries in the home page. 
+The latter can always be accessed by clicking on the name of the website, in the top-left corner of the page. 
 
+As an example, you can check [about Longo2012](note/about%20Longo2012.md). 
 
->[!warning]  
->
->Can i say something here ? 
+Why did I choose this name? You can take a look at the definition of [weaver](https://www.merriam-webster.com/dictionary/weaver) (*tisserand* in french). 
 
