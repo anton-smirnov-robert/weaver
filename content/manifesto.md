@@ -18,7 +18,7 @@ Ma participation active aux enjeux contemporains consiste à l’élaboration ac
 
 Contre le scientisme qui plaque avec la même autorité scientifique des théories en dehors de leur cadre d'application (comme, par exemple, la plupart des économistes revendiquant vulgairement les "lois" du marché en faisant référence à des théories physique), c'est la puissance d'un concept clair et rigoureux qui s'accroche irréversiblement à nos idées et change la manière dont on pense de nouveaux problèmes. 
 
-Si les dernières décénnies ont déconstruits nos mythes et ont montré la contingence de la plupart de nos croyances, elles ont aussi montré leur nécessité. Il s'agit de maintenant rebatîr du sens, de l'imaginaire individuel et collectif, de se laisser reconquérir par des absolu que l'oon sans fondement. Le mythe du fondement est déconstruit mais il s'agit 
+Si les dernières décénnies ont déconstruits nos mythes et ont montré la contingence de la plupart de nos croyances, elles ont aussi montré leur nécessité. Il s'agit de maintenant de rebatîr du sens, de l'imaginaire individuel et collectif, de se laisser reconquérir par des absolu que l'oon sans fondement. Le mythe du fondement est déconstruit mais il s'agit 
 
 sans fondement.
 
