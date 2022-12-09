@@ -64,7 +64,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       }
       if ( d.id == "/TODO" ) { return "#000000" }
       if ( d.id == "/Where-am-I" ) { return "#ffcf11" }
-      if ( d.id == "/about-me" ) { return "#9b4f2e" } 
+      if ( d.id == "/About-me" ) { return "#9b4f2e" } 
       if ( d.id == "/manifesto" ) { return "#513b16" } 
     }
 
@@ -164,7 +164,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       return 15
     }
     if ( d.id == "/Where-am-I" ) { return 20 }
-    if ( d.id == "/about-me" ) { return 20 }
+    if ( d.id == "/About-me" ) { return 20 }
     if ( d.id == "/manifesto" ) { return 10 }
     return 2 + Math.sqrt(numOut + numIn)
   }
