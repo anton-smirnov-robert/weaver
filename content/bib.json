@@ -1052,6 +1052,136 @@
       "select": "zotero://select/library/items/9RAD4QHF"
     },
     {
+      "key": "E9TZRFFE",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "142",
+      "issue": "4",
+      "pages": "1871\u20131881",
+      "publicationTitle": "Journal of the American Chemical Society",
+      "date": "2020",
+      "extra": "Publisher: ACS Publications",
+      "libraryCatalog": "Google Scholar",
+      "title": "On-surface synthesis of nonmetal porphyrins",
+      "creators": [
+        {
+          "firstName": "Aleksandr",
+          "lastName": "Baklanov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Manuela",
+          "lastName": "Garnica",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marie-Laure",
+          "lastName": "Bocquet",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Knud",
+          "lastName": "Seufert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Johannes T.",
+          "lastName": "K\u00fcchle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Paul TP",
+          "lastName": "Ryan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Felix",
+          "lastName": "Haag",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Reza",
+          "lastName": "Kakavandi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Francesco",
+          "lastName": "Allegretti",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:38:05Z",
+      "dateModified": "2022-12-09T16:38:05Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/E9TZRFFE",
+      "itemID": 5859,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Baklanov2020a",
+      "citekey": "Baklanov2020a",
+      "itemKey": "E9TZRFFE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/E9TZRFFE"
+    },
+    {
+      "key": "RAJPSANY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "4",
+      "pages": "256",
+      "publicationTitle": "Quantum",
+      "date": "2020",
+      "extra": "Publisher: Verein zur F\u00f6rderung des Open Access Publizierens in den Quantenwissenschaften",
+      "libraryCatalog": "Google Scholar",
+      "title": "Improving variational quantum optimization using CVaR",
+      "creators": [
+        {
+          "firstName": "Panagiotis Kl",
+          "lastName": "Barkoutsos",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Giacomo",
+          "lastName": "Nannicini",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ivano",
+          "lastName": "Tavernelli",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stefan",
+          "lastName": "Woerner",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:37:35Z",
+      "dateModified": "2022-12-09T16:37:35Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/RAJPSANY",
+      "itemID": 5857,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Barkoutsos2020a",
+      "citekey": "Barkoutsos2020a",
+      "itemKey": "RAJPSANY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RAJPSANY"
+    },
+    {
       "key": "VVZEEB6E",
       "version": 0,
       "itemType": "book",
@@ -2584,6 +2714,79 @@
       "select": "zotero://select/library/items/4PATJMDM"
     },
     {
+      "key": "7UYMQWLS",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "7",
+      "issue": "45",
+      "pages": "eabk1490",
+      "publicationTitle": "Science advances",
+      "date": "2021",
+      "extra": "Publisher: American Association for the Advancement of Science",
+      "libraryCatalog": "Google Scholar",
+      "title": "Borophenes made easy",
+      "creators": [
+        {
+          "firstName": "Marc G.",
+          "lastName": "Cuxart",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Knud",
+          "lastName": "Seufert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Valeria",
+          "lastName": "Chesnyak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Wajahat A.",
+          "lastName": "Waqas",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marie-Laure",
+          "lastName": "Bocquet",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Georg S.",
+          "lastName": "Duesberg",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hermann",
+          "lastName": "Sachdev",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Willi",
+          "lastName": "Auw\u00e4rter",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:38:13Z",
+      "dateModified": "2022-12-09T16:38:13Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/7UYMQWLS",
+      "itemID": 5860,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Cuxart2021a",
+      "citekey": "Cuxart2021a",
+      "itemKey": "7UYMQWLS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7UYMQWLS"
+    },
+    {
       "key": "WRL2FZGW",
       "version": 0,
       "itemType": "book",
@@ -4002,6 +4205,54 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/MJU4B4FW",
       "publicationTitle": "The Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "key": "U697RFRL",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "22",
+      "issue": "19",
+      "pages": "10710\u201310716",
+      "publicationTitle": "Physical Chemistry Chemical Physics",
+      "date": "2020",
+      "extra": "Publisher: Royal Society of Chemistry",
+      "libraryCatalog": "Google Scholar",
+      "title": "Spontaneous liquid water dissociation on hybridised boron nitride and graphene atomic layers from ab initio molecular dynamics simulations",
+      "creators": [
+        {
+          "firstName": "Beno\u00eet",
+          "lastName": "Grosjean",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rodolphe",
+          "lastName": "Vuilleumier",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marie-Laure",
+          "lastName": "Bocquet",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:38:21Z",
+      "dateModified": "2022-12-09T16:38:21Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/U697RFRL",
+      "itemID": 5861,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Grosjean2020a",
+      "citekey": "Grosjean2020a",
+      "itemKey": "U697RFRL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/U697RFRL"
     },
     {
       "key": "INX97ID8",
@@ -8479,6 +8730,342 @@
       "select": "zotero://select/library/items/TLMY2CWD"
     },
     {
+      "key": "HVDP8HK5",
+      "version": 0,
+      "itemType": "patent",
+      "url": "https://patents.google.com/patent/US10671696B2/en",
+      "accessDate": "2022-12-09T16:35:24Z",
+      "assignee": "International Business Machines Corp",
+      "language": "en",
+      "country": "US",
+      "applicationNumber": "US16151444",
+      "title": "Enhancing hybrid quantum-classical algorithms for optimization",
+      "issuingAuthority": "United States",
+      "filingDate": "2018-10-04",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Panagiotis",
+          "lastName": "Barkoutsos",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Giacomo",
+          "lastName": "Nannicini",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Ivano",
+          "lastName": "Tavernelli",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Stefan",
+          "lastName": "Woerner",
+          "creatorType": "inventor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "program instructions",
+          "type": 1
+        },
+        {
+          "tag": "quantum",
+          "type": 1
+        },
+        {
+          "tag": "solutions",
+          "type": 1
+        },
+        {
+          "tag": "subset",
+          "type": 1
+        },
+        {
+          "tag": "value",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:35:24Z",
+      "dateModified": "2022-12-09T16:35:24Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/HVDP8HK5",
+      "itemID": 5853,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-09T16:35:28Z",
+          "dateModified": "2022-12-09T16:35:28Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/C6WZBNIV",
+          "path": "/Users/robert/Zotero/storage/C6WZBNIV/Robert et al. - 2020 - Enhancing hybrid quantum-classical algorithms for .pdf",
+          "select": "zotero://select/library/items/C6WZBNIV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Robert2020a",
+      "citekey": "Robert2020a",
+      "itemKey": "HVDP8HK5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HVDP8HK5",
+      "date": "2020-06-02",
+      "number": "US10671696B2"
+    },
+    {
+      "key": "WVK5G6D4",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "152",
+      "issue": "19",
+      "pages": "191103",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "date": "2020",
+      "extra": "Publisher: AIP Publishing LLC",
+      "libraryCatalog": "Google Scholar",
+      "title": "Pressure correction for solvation theories",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sohvi",
+          "lastName": "Luukkonen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maximilien",
+          "lastName": "Levesque",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:38:27Z",
+      "dateModified": "2022-12-09T16:38:27Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WVK5G6D4",
+      "itemID": 5862,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Robert2020b",
+      "citekey": "Robert2020b",
+      "itemKey": "WVK5G6D4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WVK5G6D4"
+    },
+    {
+      "key": "8HM78S3F",
+      "version": 0,
+      "itemType": "patent",
+      "url": "https://patents.google.com/patent/US20210035003A1/en",
+      "accessDate": "2022-12-09T16:35:42Z",
+      "assignee": "International Business Machines Corp",
+      "country": "US",
+      "applicationNumber": "US16526382",
+      "title": "Branched heteropolymer lattice model for quantum optimization",
+      "issuingAuthority": "United States",
+      "filingDate": "2019-07-30",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Panagiotis",
+          "lastName": "Barkoutsos",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Stefan",
+          "lastName": "Woerner",
+          "creatorType": "inventor"
+        },
+        {
+          "firstName": "Ivano",
+          "lastName": "Tavernelli",
+          "creatorType": "inventor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "computer",
+          "type": 1
+        },
+        {
+          "tag": "heteropolymer",
+          "type": 1
+        },
+        {
+          "tag": "lattice",
+          "type": 1
+        },
+        {
+          "tag": "qubit",
+          "type": 1
+        },
+        {
+          "tag": "registry",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:35:42Z",
+      "dateModified": "2022-12-09T16:35:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/8HM78S3F",
+      "itemID": 5855,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-09T16:35:44Z",
+          "dateModified": "2022-12-09T16:35:44Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/QXCVBKA3",
+          "path": "/Users/robert/Zotero/storage/QXCVBKA3/Robert et al. - 2021 - Branched heteropolymer lattice model for quantum o.pdf",
+          "select": "zotero://select/library/items/QXCVBKA3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Robert2021a",
+      "citekey": "Robert2021a",
+      "itemKey": "8HM78S3F",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8HM78S3F",
+      "date": "2021-02-04",
+      "number": "US20210035003A1"
+    },
+    {
+      "key": "Z4WNPARM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "7",
+      "issue": "1",
+      "pages": "1\u20135",
+      "publicationTitle": "npj Quantum Information",
+      "date": "2021",
+      "extra": "Publisher: Nature Publishing Group",
+      "libraryCatalog": "Google Scholar",
+      "title": "Resource-efficient quantum algorithm for protein folding",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Panagiotis Kl",
+          "lastName": "Barkoutsos",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stefan",
+          "lastName": "Woerner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ivano",
+          "lastName": "Tavernelli",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T16:37:44Z",
+      "dateModified": "2022-12-09T16:37:44Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/Z4WNPARM",
+      "itemID": 5858,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Robert2021b",
+      "citekey": "Robert2021b",
+      "itemKey": "Z4WNPARM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z4WNPARM"
+    },
+    {
+      "key": "5AMJ6TM6",
+      "version": 0,
+      "itemType": "preprint",
+      "url": "http://arxiv.org/abs/2204.08779",
+      "date": "2022-04-19",
+      "extra": "arXiv:2204.08779 [cond-mat]",
+      "DOI": "10.48550/arXiv.2204.08779",
+      "accessDate": "2022-12-09T17:11:06Z",
+      "libraryCatalog": "arXiv.org",
+      "abstractNote": "We compute ionic free energy adsorption profiles at aqueous graphene interface by developing a self-consistent approach. To do so, we design a microscopic model for water and put the liquid on an equal footing with the graphene described by its electronic band structure. By evaluating progressively the electronic/dipolar coupled electrostatic interactions, we show that the coupling level including mutual graphene/water screening permits to recover remarkably the precision of extensive quantum simulations. We further derive the potential of mean force evolution of several alkali cations to gain insight on the ionic size effects.",
+      "title": "Coupled interactions at the ionic graphene/water interface",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "H\u00e9l\u00e8ne",
+          "lastName": "Berthoumieux",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marie-Laure",
+          "lastName": "Bocquet",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Condensed Matter - Soft Condensed Matter",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2022-12-09T17:11:06Z",
+      "dateModified": "2022-12-09T17:11:06Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/5AMJ6TM6",
+      "itemID": 5868,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv Fulltext PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-09T17:13:17Z",
+          "dateModified": "2022-12-09T17:13:17Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/SCZN5U7W",
+          "path": "/Users/robert/Zotero/storage/SCZN5U7W/Robert et al. - 2022 - Coupled interactions at the ionic graphenewater i.pdf",
+          "select": "zotero://select/library/items/SCZN5U7W"
+        },
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-09T17:13:24Z",
+          "dateModified": "2022-12-09T17:13:24Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8N2FV6NQ",
+          "path": "/Users/robert/Zotero/storage/8N2FV6NQ/2204.html",
+          "select": "zotero://select/library/items/8N2FV6NQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Robert2022a",
+      "citekey": "Robert2022a",
+      "itemKey": "5AMJ6TM6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5AMJ6TM6",
+      "number": "arXiv:2204.08779",
+      "publisher": "arXiv"
+    },
+    {
       "key": "JJZIC3J7",
       "version": 0,
       "itemType": "journalArticle",
@@ -9666,6 +10253,41 @@
       "itemKey": "J87GICY5",
       "libraryID": 1,
       "select": "zotero://select/library/items/J87GICY5"
+    },
+    {
+      "key": "WFQFE336",
+      "version": 0,
+      "itemType": "webpage",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=i5YQTPMAAAAJ&citation_for_view=i5YQTPMAAAAJ:Se3iqnhoufwC",
+      "accessDate": "2022-12-09T17:10:45Z",
+      "abstractNote": "\u202aA Robert, H Berthoumieux, ML Bocquet\u202c, \u202aarXiv e-prints, 2022\u202c",
+      "title": "\u202aCoupled interactions at the ionic graphene/water interface\u202c",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T17:10:45Z",
+      "dateModified": "2022-12-09T17:10:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WFQFE336",
+      "itemID": 5866,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-09T17:10:50Z",
+          "dateModified": "2022-12-09T17:10:50Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/BZD9WAI9",
+          "path": "/Users/robert/Zotero/storage/BZD9WAI9/citations.html",
+          "select": "zotero://select/library/items/BZD9WAI9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-5866",
+      "citekey": "zotero-5866",
+      "itemKey": "WFQFE336",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WFQFE336"
     },
     {
       "key": "4GA7FV8V",

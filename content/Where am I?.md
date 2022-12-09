@@ -29,5 +29,5 @@ The website is always in construction, but I try to be consistent when deploying
 Here are the technical aspects [[about the website]]. 
 
 
-![](images/Pasted%20image%2020221208165129.png)
+![](images/weaver.png)
 <p style="text-align: center;"> <sub> Image: Village weaver (Ploceus cucullatus). Credits: K.B. Newman—NHPA/Encyclopædia Britannica, Inc. </sub></p>

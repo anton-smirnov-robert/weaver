@@ -3,12 +3,12 @@ title: "effectively computable"
 date: 2022-12-06
 draft: false
 tags:
-- definition
+- concept
 ---
 
 This *informal notion* also refers to: 
-- procedure 
-- paper-and-pencil method or 
+- a procedure 
+- a paper-and-pencil method or 
 - to a mechanical method 
 
 It is specific to a type of problem but we can state:
