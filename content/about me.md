@@ -1,31 +1,20 @@
 ---
-title: "about me"
+title: "About me"
+date: 2022-12-06
+showthedate: true
 ---
 
-Hello, I'm Anton Robert. 
-
-|  I am a **physical chemist**, highly interested in **theoretical biology**.  | <p align="right"><img src="http://localhost:1313/images/profil.png" height=250px /></p>     |
+|  <p align="left">   Hello, I'm Anton Robert. <br> I am a **physical chemist**, highly interested in **theoretical biology**. <br> You can take a look at my [manifesto](manifesto.md) to understand why. </b> <br> <br> **Contact**: [anton.smirnov.robert@gmail.com](About%20me.md) </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=200px /></p>     |
 |  ---  |  --- |
-
-
-
-
-
-
-
-
-**Contact**: [anton.smirnov.robert@gmail.com](about%20me.md)
 
 You can download my [CV](/cv_francais_09_22_no_hyperlink.pdf). Here are the main points: 
 - I graduated from the **École Normale Supérieure** (ENS) of Paris with a major in chemistry in 2019.
 - The same year, I obtained a **master's degree in analytical, physical and theoretical chemistry** **at** **Sorbonne Université**. 
 - My **PhD thesis** that was conducted at the ENS was validated recently (2019-2022). 
 
-I had the chance to work in the [Theoretical Quantum Computing](https://www.zurich.ibm.com/st/quantum/applications.html) group at **IBM Research in Zürich** so that my first (modest) contributions were in the field of quantum algorithms for chemistry. 
-Later I've work on various topics such as *in silico* drug-design, molecule adsorption on surfaces, and electrostatics at interfaces during my PhD. 
+I had the chance to work in the [Theoretical Quantum Computing](https://www.zurich.ibm.com/st/quantum/applications.html) group at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work on various typical topics in physical chemistry such as *in silico* drug-design, molecule adsorption on surfaces, and electrostatics at interfaces during my PhD. 
 
 #### List of publications (📄) and patents (💡)
-
 
 - 📄 Robert, Anton, Hélène Berthoumieux, and Marie-Laure Bocquet. 2022. ‘Coupled Interactions at the Ionic Graphene/Water Interface’. *preprint*: see on [arXiv](https://doi.org/10.48550/arXiv.2204.0877). 
 
@@ -44,8 +33,6 @@ Later I've work on various topics such as *in silico* drug-design, molecule adso
 - 💡 Robert, Anton, Panagiotis Barkoutsos, Giacomo Nannicini, Ivano Tavernelli, and Stefan Woerner. 2020. Enhancing hybrid quantum-classical algorithms for optimization. United States US10671696B2, 2020. 
 
 -  📄 Grosjean, Benoît, Anton Robert, Rodolphe Vuilleumier, and Marie-Laure Bocquet. 2020. ‘Spontaneous Liquid Water Dissociation on Hybridised Boron Nitride and Graphene Atomic Layers from Ab Initio Molecular Dynamics Simulations’. _Physical Chemistry Chemical Physics_ 22 (19): 10710–16.
-
-
 
 
 
