@@ -4,19 +4,14 @@ title: "about me"
 
 Hello, I'm Anton Robert. 
 
-
-<div class="h-card wrap">
-	<p align="center">
-		<img src="http://localhost:1313/images/profil.png" height=250px />
-	</p>
-	<div class="p-note lead">
-	<p> I am a **physical chemist**, highly interested in **theoretical biology**. Take a look at my [manifesto](manifesto.md) to understand why. </p>
-	</div>
-</div>
+|  I am a **physical chemist**, highly interested in **theoretical biology**.  | <p align="right"><img src="http://localhost:1313/images/profil.png" height=250px /></p>     |
+|  ---  |  --- |
 
 
-I am a **physical chemist**, highly interested in **theoretical biology**. 
-Take a look at my [manifesto](manifesto.md) to understand why.
+
+
+
+
 
 
 **Contact**: [anton.smirnov.robert@gmail.com](about%20me.md)

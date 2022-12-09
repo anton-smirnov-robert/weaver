@@ -115,7 +115,8 @@ tbody, li, p {
 }
 
 table {
-  border: 1px solid var(--outlinegray);
+  border: 1px solid #000000;
+  //border: 1px solid var(--outlinegray);
   width: 100%;
   padding: 1.5em;
   border-collapse: collapse;
