@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About me.md",
+                "file": "note/literature note on Longo2012.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About me.md",
+                "file": "note/literature note on Longo2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About me.md",
+                "file": "note/literature note on Longo2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About me.md"
+                "file": "note/literature note on Longo2012.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "ab0949da29af5304",
   "lastOpenFiles": [
-    "about the website.md",
     "About me.md",
+    "about the website.md",
     "manifesto.md",
     "Where am I?.md",
     "_index.md",
