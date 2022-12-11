@@ -25,7 +25,7 @@ It relies on an informational metaphor and states linear causation from the DNA 
 
 > [!quote] 
 >
->*There is, however, one feature of the control of development which closely resembles both a computer program, and verbal instructions. This is the symbolic nature of the process* —  ([MaynardSmith1999](reference/MaynardSmith1999.md), p. 398)  
+>There is, however, one feature of the control of development which closely resembles both a computer program, and verbal instructions. This is the symbolic nature of the process (...) —  ([MaynardSmith1999](reference/MaynardSmith1999.md), p. 398)  
  
 #### However, programs rely on a very specific structure of determination.
 Programming or encoding/decoding in cryptography implies the writing and reading of **symbols** on **discrete** entities. The concept of [computability](concept/computability.md) requires **identical iterations**,  **portability** (software on hardware), **linear causation**, **predictability** (because of discreteness) and therefore implies [Laplacian determinism](concept/Laplacian%20determinism.md). 
@@ -35,7 +35,7 @@ The DNA "software" taken from one cell (the "hardware") is not portable. For exa
 
 > [!quote] 
 >
->*If a wire or a computer are compressed, pulled or twisted, these actions will not increase the information that they are transmitting or elaborating, neither in practice nor in principle.* —  ([Longo2012](reference/Longo2012.md), p. 6) 
+>If a wire or a computer are compressed, pulled or twisted, these actions will not increase the information that they are transmitting or elaborating, neither in practice nor in principle. —  ([Longo2012](reference/Longo2012.md), p. 6) 
 
  For example, [Anfinsen's dogma](concept/Anfinsen's%20dogma.md) has narrowed the research activity regarding the [protein folding problem](concept/protein%20folding%20problem.md). Moreover, [Crick's central dogma](concept/Crick's%20central%20dogma.md) suggests that isogenic cells are identical whereas protein and mRNA copy numbers vary from cells to cells, and are uncorrelated in the same cell ([Taniguchi2010](reference/Taniguchi2010.md)).  Biomechanical forces (hemodynamics forces, tensions, stresses) are therefore ignored in this framework althought crucial ([Lucitti2007](reference/Lucitti2007.md), [Tang2004](reference/Tang2004.md), [Muller2003](reference/Muller2003.md), [Rot-Nikcevic2007](reference/Rot-Nikcevic2007.md), [Jakkaraju2003](reference/Jakkaraju2003.md)).  
 

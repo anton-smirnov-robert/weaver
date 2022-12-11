@@ -29,7 +29,7 @@
   "keyH6": "######",
   "keyKeyword": "=",
   "keyTask": "todo",
-  "isHighlightItalic": true,
+  "isHighlightItalic": false,
   "isHighlightBold": false,
   "isHighlightHighlighted": false,
   "isHighlightBullet": false,
