@@ -34,8 +34,8 @@ globalGraph:
 ### For all graphs ###
 
 paths:
-  - /reference: "#F39C12"
-  - /concept: "#3498DB"
-  - /note: "#C0392B"
-  - /definition: "#9B59B6"
+  - /reference: "#32936F"
+  - /concept: "#623CEA"
+  - /note: "#C44539"
+  - /definition: "#BA9800"
 

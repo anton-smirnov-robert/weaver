@@ -20,8 +20,6 @@ I split the entries in **four tags**:
 - **references**: automatically generated pages with reference to a document and the quotes I highlighted in the PDF document. You might find annotations (coming from the PDF) between quotes, don't pay attention to that.
 - **notes**: they are augmented summaries of documents, organized in terms of atomized and linked definitions, concepts, and references. 
 
-As an example, you can check the [literature note on Longo2012](note/literature%20note%20on%20Longo2012.md). 
-
 At the end of each page, you can access the local graph (with depth 2) around your location.
 To get the big picture, you can also navigate by drag and zoom on the graph that contains all entries. 
 To do so, click on the name of the website in the top-left corner of the page. 
