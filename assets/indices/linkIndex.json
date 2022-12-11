@@ -13,6 +13,30 @@
           "text": "anton.smirnov.robert@gmail.com"
         }
       ],
+      "/Chaitins-algorithmic-randomness": [
+        {
+          "source": "/Chaitins-algorithmic-randomness",
+          "target": "/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/Chaitins-algorithmic-randomness",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
+        {
+          "source": "/Chaitins-algorithmic-randomness",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
+        }
+      ],
+      "/Kolmogorovs-incompressibility": [
+        {
+          "source": "/Kolmogorovs-incompressibility",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        }
+      ],
       "/Where-am-I": [
         {
           "source": "/Where-am-I",
@@ -473,6 +497,46 @@
         },
         {
           "source": "/note/literature-note-on-Longo2012",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/negentropy",
+          "text": "negentropy"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/Chaitins-algorithmic-randomness",
+          "text": "Chaitin's algorithmic randomness"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Matoba2018",
           "text": "Matoba2018"
         },
@@ -566,6 +630,25 @@
           "text": "about me"
         }
       ],
+      "/Chaitins-algorithmic-randomness": [
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/Chaitins-algorithmic-randomness",
+          "text": "Chaitin's algorithmic randomness"
+        }
+      ],
+      "/Kolmogorovs-incompressibility": [
+        {
+          "source": "/Chaitins-algorithmic-randomness",
+          "target": "/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        }
+      ],
       "/about-the-website": [
         {
           "source": "/Where-am-I",
@@ -598,6 +681,16 @@
         },
         {
           "source": "/concept/negentropy",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         }
@@ -670,6 +763,11 @@
       ],
       "/concept/Turing-machine": [
         {
+          "source": "/Kolmogorovs-incompressibility",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
           "source": "/concept/computability",
           "target": "/concept/Turing-machine",
           "text": "Turing machine"
@@ -701,6 +799,11 @@
         }
       ],
       "/concept/computability": [
+        {
+          "source": "/Chaitins-algorithmic-randomness",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
         {
           "source": "/concept/Church-Turing-thesis",
           "target": "/concept/computability",
@@ -746,6 +849,11 @@
       ],
       "/concept/halting-problem": [
         {
+          "source": "/Chaitins-algorithmic-randomness",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
+        },
+        {
           "source": "/concept/computability",
           "target": "/concept/halting-problem",
           "text": "halting problem"
@@ -754,6 +862,11 @@
       "/concept/negentropy": [
         {
           "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/negentropy",
+          "text": "negentropy"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/negentropy",
           "text": "negentropy"
         }
@@ -783,6 +896,11 @@
         },
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         },
@@ -843,6 +961,11 @@
         },
         {
           "source": "/concept/second-principle-of-thermodynamics",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
           "target": "/definition/entropy",
           "text": "entropy"
         }
@@ -1106,6 +1229,11 @@
           "source": "/concept/negentropy",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
         }
       ],
       "/reference/Shannon1948": [
@@ -1177,6 +1305,26 @@
       "source": "/About-me",
       "target": "/About-me",
       "text": "anton.smirnov.robert@gmail.com"
+    },
+    {
+      "source": "/Chaitins-algorithmic-randomness",
+      "target": "/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/Chaitins-algorithmic-randomness",
+      "target": "/concept/computability",
+      "text": "computability"
+    },
+    {
+      "source": "/Chaitins-algorithmic-randomness",
+      "target": "/concept/halting-problem",
+      "text": "halting problem"
+    },
+    {
+      "source": "/Kolmogorovs-incompressibility",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
     },
     {
       "source": "/Where-am-I",
@@ -1592,6 +1740,46 @@
       "source": "/note/literature-note-on-Longo2012",
       "target": "/concept/Laplacian-determinism",
       "text": "Laplacian determinism"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/definition/entropy",
+      "text": "entropy"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/concept/Brillouins-relation-between-entropy-and-information",
+      "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/concept/negentropy",
+      "text": "negentropy"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/Chaitins-algorithmic-randomness",
+      "text": "Chaitin's algorithmic randomness"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/concept/Brillouins-relation-between-entropy-and-information",
+      "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/note/literature-note-on-Longo2012",
+      "target": "/concept/second-principle-of-thermodynamics",
+      "text": "second principle of thermodynamics"
     },
     {
       "source": "/note/literature-note-on-Longo2012",
