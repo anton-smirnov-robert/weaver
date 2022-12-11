@@ -166,7 +166,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     }
     if ( d.id == "/Where-am-I" ) { return 10 }
     if ( d.id == "/About-me" ) { return 10 }
-    if ( d.id == "/manifesto" ) { return 10 }
+    if ( d.id == "/about-the-website" ) { return 5 }
+    if ( d.id == "/manifesto" ) { return 5 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 
