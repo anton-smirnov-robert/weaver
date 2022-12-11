@@ -1,5 +1,5 @@
 ---
-title: "second principe of thermodynamic"
+title: "second principle of thermodynamic"
 date: 2022-12-07
 draft: false
 showthedate: true
