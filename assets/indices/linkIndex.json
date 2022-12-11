@@ -21,11 +21,6 @@
         },
         {
           "source": "/Where-am-I",
-          "target": "/manifesto",
-          "text": "manifesto"
-        },
-        {
-          "source": "/Where-am-I",
           "target": "/about-the-website",
           "text": "about the website"
         }
@@ -915,11 +910,6 @@
           "source": "/About-me",
           "target": "/manifesto",
           "text": "manifesto"
-        },
-        {
-          "source": "/Where-am-I",
-          "target": "/manifesto",
-          "text": "manifesto"
         }
       ],
       "/note/literature-note-on-Longo2012": [
@@ -1192,11 +1182,6 @@
       "source": "/Where-am-I",
       "target": "/About-me",
       "text": "about me"
-    },
-    {
-      "source": "/Where-am-I",
-      "target": "/manifesto",
-      "text": "manifesto"
     },
     {
       "source": "/Where-am-I",
