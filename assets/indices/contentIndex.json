@@ -19,8 +19,8 @@
   },
   "/about-the-website": {
     "title": "about the website",
-    "content": "\n\nTo build this website I use several open-source software/plugins. Each one represent a step of my workflow:\n- [Zotero](https://www.zotero.org/) and [Better BibTex](https://retorque.re/zotero-better-bibtex/) to reference, annotate documents locally.\n- [BibNotes Formatter](https://github.com/stefanopagliari/bibnotes) to import references and PDF quotes/notes in [Obsidian](https://obsidian.md/).\n- [Quartz](https://github.com/jackyzha0/quartz) to publish my Obsidian vault and [Hugo](https://gohugo.io/templates/) for design refinements. \n- Everything is synchronized on [Github](https://github.com/) that also hosts the webpage. \n\nI'm very thankful to all the developpers whose work allow this website to exist, especially to [jackyzha0](https://github.com/jackyzha0). \nOK?",
-    "lastmodified": "2022-12-11T18:09:19.525440156+01:00",
+    "content": "\n\nTo build this website I use several open-source software/plugins. Each one represent a step of my workflow:\n- [Zotero](https://www.zotero.org/) and [Better BibTex](https://retorque.re/zotero-better-bibtex/) to reference, annotate documents locally.\n- [BibNotes Formatter](https://github.com/stefanopagliari/bibnotes) to import references and PDF quotes/notes in [Obsidian](https://obsidian.md/).\n- [Quartz](https://github.com/jackyzha0/quartz) to publish my Obsidian vault and [Hugo](https://gohugo.io/templates/) for design refinements. \n- Everything is synchronized on [Github](https://github.com/) that also hosts the webpage. \n\nI'm very thankful to all the developpers whose work allow this website to exist, especially to [jackyzha0](https://github.com/jackyzha0). \n",
+    "lastmodified": "2022-12-11T18:09:54.676017181+01:00",
     "tags": null
   },
   "/concept/Anfinsens-dogma": {

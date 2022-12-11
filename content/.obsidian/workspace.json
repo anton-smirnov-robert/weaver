@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about the website.md",
+                "file": "About me.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about the website.md",
+                "file": "About me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about the website.md",
+                "file": "About me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about the website.md"
+                "file": "About me.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "ab0949da29af5304",
   "lastOpenFiles": [
+    "about the website.md",
     "About me.md",
     "manifesto.md",
     "Where am I?.md",
@@ -146,7 +147,6 @@
     "reference/Matoba2018.md",
     "reference/Crick1958.md",
     "reference/Doudna2017.md",
-    "about the website.md",
     "private/TODO.md"
   ]
 }
