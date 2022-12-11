@@ -4,7 +4,7 @@ date: 2022-12-06
 showthedate: true
 ---
 
-|  <p align="left">   Hello, I'm Anton Robert. <br> I am a **physical chemist**, highly interested in **theoretical biology**. <br> You can take a look at my [manifesto](manifesto.md) to understand why. </b> <br> <br> **Contact**: [anton.smirnov.robert@gmail.com](bout%20me.md) </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=200px /></p>     |
+|  <p align="left">   Hello, I'm Anton Robert. <br> I am a **physical chemist**, highly interested in **theoretical biology**. <br> You can take a look at my [manifesto](manifesto.md) to understand why. </b> <br> <br> **Contact**: [anton.smirnov.robert@gmail.com](About%20me.md) </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=200px /></p>     |
 |  ---  |  --- |
 
 Here are the main points of my resume: 

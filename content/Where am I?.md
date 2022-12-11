@@ -7,13 +7,13 @@ enabletoc: false
 
 Welcome!
 
-You are on my personal website. You can find out [about me](bout%20me.md) by clicking on the (colored) bold link.
+You are on my personal website. You can find out [about me](About%20me.md) by clicking on the (colored) bold link.
 
 I built **Weaver** (*tisserand*/*tisserin* in french) to organize and access my literature notes, but also to prompt me to read academic articles/books properly. 
 Essentially, this website is the product of my use of the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method. It takes the form a local [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) with a graphical interface. 
 It is public to give an example of an original academic workflow, and because I'm thinking about peer-reviewed collaborative work in the future.
 
-The content of this website naturally reflects the topic I'm the most interested in, which is in **theoretical biology**. Read my [manifesto](manifesto.md) to know why. 
+This website mostly contain entries related to **theoretical biology**, **epistemology**, and **history and philosophy of science**.
 I split the entries in **four tags**:
 - **definitions**: words that I did not know or common words whose meaning is worth specifying in a given context. 
 - **concepts**: definitions more conceptually involved or concepts that can usually be attributed to a given author.
