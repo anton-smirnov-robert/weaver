@@ -4,15 +4,17 @@ date: 2022-12-06
 showthedate: true
 ---
 
-|  <p align="left">   Hello, I'm Anton Robert. <br> I am a **physical chemist**, highly interested in **theoretical biology**. <br> You can take a look at my [manifesto](manifesto.md) to understand why. </b> <br> <br> **Contact**: [anton.smirnov.robert@gmail.com](About%20me.md) </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=250px /></p>     |
+|  <p align="left">   Hello, I'm Anton Robert. <br> I am a **physical chemist**, highly interested in **theoretical biology**. <br> You can take a look at my [manifesto](manifesto.md) to understand why. </b> <br> <br> **Contact**: [anton.smirnov.robert@gmail.com](About%20me.md) </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=200px /></p>     |
 |  ---  |  --- |
 
-You can download my [CV](/cv_francais_09_22_no_hyperlink.pdf). Here are the main points: 
+Here are the main points of my resume: 
 - I graduated from the **École Normale Supérieure** (ENS) of Paris with a major in chemistry in 2019.
 - I have a **master's degree in analytical, physical and theoretical chemistry** from Sorbonne Université. 
 - My **PhD thesis** that was conducted at the ENS was validated recently (2019-2022). 
 
 I had the chance to work at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work at the **ENS** on various topics more related to physical chemistry such as *in silico* drug-design, molecular adsorption on surfaces, or electrostatics at interfaces. 
+
+<object data="cv.pdf" type="application/pdf" width="100%" height="100%"> <p>You can download my <a href="static/cv_francais_09_22_no_hyperlink.pdf">CV</a>.</p></object> 
 
 #### List of publications (📄) and patents (💡)
 

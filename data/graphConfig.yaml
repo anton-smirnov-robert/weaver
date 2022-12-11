@@ -36,6 +36,6 @@ globalGraph:
 paths:
   - /reference: "#32936F"
   - /concept: "#623CEA"
-  - /note: "#C44539"
-  - /definition: "#BA9800"
+  - /note: "#FFC145"
+  - /definition: "#C44539"
 
