@@ -12,17 +12,17 @@ You can download my [CV](/cv_francais_09_22_no_hyperlink.pdf). Here are the main
 - I have a **master's degree in analytical, physical and theoretical chemistry** from Sorbonne Université. 
 - My **PhD thesis** that was conducted at the ENS was validated recently (2019-2022). 
 
-I had the chance to work in the [Theoretical Quantum Computing](https://www.zurich.ibm.com/st/quantum/applications.html) group at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work on various typical topics in physical chemistry such as *in silico* drug-design, molecule adsorption on surfaces, and electrostatics at interfaces. 
+I had the chance to work at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work at the **ENS** on various topics more related to physical chemistry such as *in silico* drug-design, molecular adsorption on surfaces, or electrostatics at interfaces. 
 
 #### List of publications (📄) and patents (💡)
 
-- 📄 Robert, Anton, Hélène Berthoumieux, and Marie-Laure Bocquet. 2022. ‘Coupled Interactions at the Ionic Graphene/Water Interface’. *preprint*: see on [arXiv](https://doi.org/10.48550/arXiv.2204.0877). 
+- 📄 Robert, Anton, Hélène Berthoumieux, and Marie-Laure Bocquet. 2022. ‘Coupled Interactions at the Ionic Graphene/Water Interface’. *preprint* [arXiv](https://doi.org/10.48550/arXiv.2204.0877). 
 
 - 📄 Robert, Anton, Panagiotis Kl Barkoutsos, Stefan Woerner, and Ivano Tavernelli. 2021. ‘Resource-Efficient Quantum Algorithm for Protein Folding’. _Npj Quantum Information_ 7 (1): 1–5.
 
 - 📄 Cuxart, Marc G., Knud Seufert, Valeria Chesnyak, Wajahat A. Waqas, Anton Robert, Marie-Laure Bocquet, Georg S. Duesberg, Hermann Sachdev, and Willi Auwärter. 2021. ‘Borophenes Made Easy’. _Science Advances_ 7 (45): eabk1490.
 
-- 💡Robert, Anton, Panagiotis Barkoutsos, Stefan Woerner, and Ivano Tavernelli. 2021b. Branched heteropolymer lattice model for quantum optimization. United States US20210035003A1, 2021. 
+- 💡Robert, Anton, Panagiotis Barkoutsos, Stefan Woerner, and Ivano Tavernelli. 2021. Branched heteropolymer lattice model for quantum optimization. United States US20210035003A1, 2021. 
 
 - 📄 Baklanov, Aleksandr, Manuela Garnica, Anton Robert, Marie-Laure Bocquet, Knud Seufert, Johannes T. Küchle, Paul TP Ryan, Felix Haag, Reza Kakavandi, and Francesco Allegretti. 2020. ‘On-Surface Synthesis of Nonmetal Porphyrins’. _Journal of the American Chemical Society_ 142 (4): 1871–81.
 
