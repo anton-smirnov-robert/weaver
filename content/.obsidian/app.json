@@ -1,0 +1,8 @@
+{
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "spellcheck": false,
+  "readableLineLength": false,
+  "newFileLocation": "root"
+}
