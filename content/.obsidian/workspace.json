@@ -11,8 +11,12 @@
             "id": "ab0949da29af5304",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "concept/Chaitin's algorithmic randomness.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "concept/Chaitin's algorithmic randomness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "concept/Chaitin's algorithmic randomness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "concept/Chaitin's algorithmic randomness.md"
+              }
             }
           }
         ]
@@ -130,15 +138,15 @@
   },
   "active": "ab0949da29af5304",
   "lastOpenFiles": [
+    "concept/Schrodinger's code-script aperiodic crystal.md",
     "note/literature note on Longo2012.md",
-    "Chaitin's algorithmic randomness.md",
-    "Kolmogorov's incompressibility.md",
+    "concept/Chaitin's algorithmic randomness.md",
+    "concept/Kolmogorov's incompressibility.md",
     "About me.md",
     "about the website.md",
     "manifesto.md",
     "Where am I?.md",
     "_index.md",
-    "reference/Muller2003.md",
-    "reference/Matoba2018.md"
+    "reference/Muller2003.md"
   ]
 }

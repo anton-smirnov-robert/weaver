@@ -13,30 +13,6 @@
           "text": "anton.smirnov.robert@gmail.com"
         }
       ],
-      "/Chaitins-algorithmic-randomness": [
-        {
-          "source": "/Chaitins-algorithmic-randomness",
-          "target": "/Kolmogorovs-incompressibility",
-          "text": "Kolmogorov's incompressibility"
-        },
-        {
-          "source": "/Chaitins-algorithmic-randomness",
-          "target": "/concept/computability",
-          "text": "computability"
-        },
-        {
-          "source": "/Chaitins-algorithmic-randomness",
-          "target": "/concept/halting-problem",
-          "text": "halting problem"
-        }
-      ],
-      "/Kolmogorovs-incompressibility": [
-        {
-          "source": "/Kolmogorovs-incompressibility",
-          "target": "/concept/Turing-machine",
-          "text": "Turing machine"
-        }
-      ],
       "/Where-am-I": [
         {
           "source": "/Where-am-I",
@@ -120,6 +96,23 @@
           "text": "Boolos2007"
         }
       ],
+      "/concept/Chaitins-algorithmic-randomness": [
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
+        }
+      ],
       "/concept/Church-Turing-thesis": [
         {
           "source": "/concept/Church-Turing-thesis",
@@ -152,6 +145,13 @@
           "source": "/concept/Cricks-central-dogma",
           "target": "/reference/Crick1970",
           "text": "Crick1970"
+        }
+      ],
+      "/concept/Kolmogorovs-incompressibility": [
+        {
+          "source": "/concept/Kolmogorovs-incompressibility",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
         }
       ],
       "/concept/Laplacian-determinism": [
@@ -512,13 +512,13 @@
         },
         {
           "source": "/note/literature-note-on-Longo2012",
-          "target": "/Kolmogorovs-incompressibility",
+          "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         },
         {
           "source": "/note/literature-note-on-Longo2012",
-          "target": "/Chaitins-algorithmic-randomness",
-          "text": "Chaitin's algorithmic randomness"
+          "target": "/concept/Chaitins-algorithmic-randomness",
+          "text": "concept/Chaitin's algorithmic randomness"
         },
         {
           "source": "/note/literature-note-on-Longo2012",
@@ -630,25 +630,6 @@
           "text": "about me"
         }
       ],
-      "/Chaitins-algorithmic-randomness": [
-        {
-          "source": "/note/literature-note-on-Longo2012",
-          "target": "/Chaitins-algorithmic-randomness",
-          "text": "Chaitin's algorithmic randomness"
-        }
-      ],
-      "/Kolmogorovs-incompressibility": [
-        {
-          "source": "/Chaitins-algorithmic-randomness",
-          "target": "/Kolmogorovs-incompressibility",
-          "text": "Kolmogorov's incompressibility"
-        },
-        {
-          "source": "/note/literature-note-on-Longo2012",
-          "target": "/Kolmogorovs-incompressibility",
-          "text": "Kolmogorov's incompressibility"
-        }
-      ],
       "/about-the-website": [
         {
           "source": "/Where-am-I",
@@ -702,6 +683,13 @@
           "text": "Cantor's diagonal argument"
         }
       ],
+      "/concept/Chaitins-algorithmic-randomness": [
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/Chaitins-algorithmic-randomness",
+          "text": "concept/Chaitin's algorithmic randomness"
+        }
+      ],
       "/concept/Cricks-central-dogma": [
         {
           "source": "/note/literature-note-on-Longo2012",
@@ -712,6 +700,18 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
+        }
+      ],
+      "/concept/Kolmogorovs-incompressibility": [
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/literature-note-on-Longo2012",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
         }
       ],
       "/concept/Laplacian-determinism": [
@@ -763,7 +763,7 @@
       ],
       "/concept/Turing-machine": [
         {
-          "source": "/Kolmogorovs-incompressibility",
+          "source": "/concept/Kolmogorovs-incompressibility",
           "target": "/concept/Turing-machine",
           "text": "Turing machine"
         },
@@ -800,7 +800,7 @@
       ],
       "/concept/computability": [
         {
-          "source": "/Chaitins-algorithmic-randomness",
+          "source": "/concept/Chaitins-algorithmic-randomness",
           "target": "/concept/computability",
           "text": "computability"
         },
@@ -849,7 +849,7 @@
       ],
       "/concept/halting-problem": [
         {
-          "source": "/Chaitins-algorithmic-randomness",
+          "source": "/concept/Chaitins-algorithmic-randomness",
           "target": "/concept/halting-problem",
           "text": "halting problem"
         },
@@ -1307,26 +1307,6 @@
       "text": "anton.smirnov.robert@gmail.com"
     },
     {
-      "source": "/Chaitins-algorithmic-randomness",
-      "target": "/Kolmogorovs-incompressibility",
-      "text": "Kolmogorov's incompressibility"
-    },
-    {
-      "source": "/Chaitins-algorithmic-randomness",
-      "target": "/concept/computability",
-      "text": "computability"
-    },
-    {
-      "source": "/Chaitins-algorithmic-randomness",
-      "target": "/concept/halting-problem",
-      "text": "halting problem"
-    },
-    {
-      "source": "/Kolmogorovs-incompressibility",
-      "target": "/concept/Turing-machine",
-      "text": "Turing machine"
-    },
-    {
       "source": "/Where-am-I",
       "target": "/About-me",
       "text": "about me"
@@ -1402,6 +1382,21 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/concept/Chaitins-algorithmic-randomness",
+      "target": "/concept/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/concept/Chaitins-algorithmic-randomness",
+      "target": "/concept/computability",
+      "text": "computability"
+    },
+    {
+      "source": "/concept/Chaitins-algorithmic-randomness",
+      "target": "/concept/halting-problem",
+      "text": "halting problem"
+    },
+    {
       "source": "/concept/Church-Turing-thesis",
       "target": "/definition/arithmetic-function",
       "text": "arithmetic function"
@@ -1430,6 +1425,11 @@
       "source": "/concept/Cricks-central-dogma",
       "target": "/reference/Crick1970",
       "text": "Crick1970"
+    },
+    {
+      "source": "/concept/Kolmogorovs-incompressibility",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
     },
     {
       "source": "/concept/Laplacian-determinism",
@@ -1758,13 +1758,13 @@
     },
     {
       "source": "/note/literature-note-on-Longo2012",
-      "target": "/Kolmogorovs-incompressibility",
+      "target": "/concept/Kolmogorovs-incompressibility",
       "text": "Kolmogorov's incompressibility"
     },
     {
       "source": "/note/literature-note-on-Longo2012",
-      "target": "/Chaitins-algorithmic-randomness",
-      "text": "Chaitin's algorithmic randomness"
+      "target": "/concept/Chaitins-algorithmic-randomness",
+      "text": "concept/Chaitin's algorithmic randomness"
     },
     {
       "source": "/note/literature-note-on-Longo2012",
