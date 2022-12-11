@@ -9,10 +9,10 @@ showthedate: true
 
 You can download my [CV](/cv_francais_09_22_no_hyperlink.pdf). Here are the main points: 
 - I graduated from the **École Normale Supérieure** (ENS) of Paris with a major in chemistry in 2019.
-- The same year, I obtained a **master's degree in analytical, physical and theoretical chemistry** **at** **Sorbonne Université**. 
+- I have a **master's degree in analytical, physical and theoretical chemistry** from Sorbonne Université. 
 - My **PhD thesis** that was conducted at the ENS was validated recently (2019-2022). 
 
-I had the chance to work in the [Theoretical Quantum Computing](https://www.zurich.ibm.com/st/quantum/applications.html) group at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work on various typical topics in physical chemistry such as *in silico* drug-design, molecule adsorption on surfaces, and electrostatics at interfaces during my PhD. 
+I had the chance to work in the [Theoretical Quantum Computing](https://www.zurich.ibm.com/st/quantum/applications.html) group at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work on various typical topics in physical chemistry such as *in silico* drug-design, molecule adsorption on surfaces, and electrostatics at interfaces. 
 
 #### List of publications (📄) and patents (💡)
 
