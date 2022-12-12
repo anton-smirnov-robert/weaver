@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc0046a4940f192",
+        "id": "97a2b34e7ecd087b",
         "type": "tabs",
         "children": [
           {
-            "id": "492acc6baa0ab1f1",
+            "id": "acfc6642aadba1e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/literature note on Hayek1945.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/literature note on Hayek1945.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "492acc6baa0ab1f1",
+  "active": "acfc6642aadba1e4",
   "lastOpenFiles": [
-    "concept/Gödel's incompleteness theorem.md",
-    "concept/Tarski's undefinability theorem.md",
-    "concept/Cantor's diagonal argument.md",
-    "concept/Frege's first-order-logic.md",
-    "concept/Gödel's numbering.md",
-    "definition/Sans titre.md",
-    "definition/predicate.md",
-    "concept/decidability.md",
-    "definition/formal system.md",
-    "definition/semantic.md"
+    "reference/Hayek1945.md",
+    "note/literature note on Hayek1945.md",
+    "note/literature note on LiVigni2021.md",
+    "reference/LiVigni2021.md",
+    "reference/Deffuant2015.md",
+    "definition/backcasting.md",
+    "concept/homomorphist ontology.md",
+    "definition/complexity sciences.md",
+    "concept/Gell-Mann's vision of complexity.md",
+    "Pines1988.md"
   ]
 }

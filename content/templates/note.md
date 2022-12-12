@@ -5,6 +5,6 @@ draft: false
 showthedate: true
 enabletoc: true
 tags:
-- lecture-note
+- literature-note
 ---
 

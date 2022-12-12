@@ -178,6 +178,13 @@
           "text": "formal language"
         }
       ],
+      "/concept/Gell-Manns-vision-of-complexity": [
+        {
+          "source": "/concept/Gell-Manns-vision-of-complexity",
+          "target": "/reference/Pines1988",
+          "text": "Pines1988"
+        }
+      ],
       "/concept/Kolmogorovs-incompressibility": [
         {
           "source": "/concept/Kolmogorovs-incompressibility",
@@ -458,6 +465,13 @@
           "text": "entropy"
         }
       ],
+      "/definition/Groupe-des-Dix": [
+        {
+          "source": "/definition/Groupe-des-Dix",
+          "target": "/reference/LiVigni2021",
+          "text": "LiVigni2021"
+        }
+      ],
       "/definition/abacus": [
         {
           "source": "/definition/abacus",
@@ -480,6 +494,33 @@
           "source": "/definition/automaton",
           "target": "/reference/Sipser2013",
           "text": "Sipser2013"
+        }
+      ],
+      "/definition/complexity-sciences": [
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/definition/Santa-Fe-Institute-SFI",
+          "text": "Santa Fe Institute (SFI)"
+        },
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/definition/ISC-PIF",
+          "text": "ISC-PIF"
+        },
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/concept/Gell-Manns-vision-of-complexity",
+          "text": "Gell-Mann's vision of complexity"
+        },
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/reference/Horgan1995",
+          "text": "Horgan1995"
+        },
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/reference/Estrada2013",
+          "text": "Estrada2013"
         }
       ],
       "/definition/enumerable-set": [
@@ -516,6 +557,58 @@
           "source": "/definition/recursive-function",
           "target": "/reference/Boolos2007",
           "text": "Boolos2007"
+        }
+      ],
+      "/note/literature-note-on-LiVigni2021": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/LiVigni2021",
+          "text": "LiVigni2021"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/complexity",
+          "text": "complexity"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/Groupe-des-Dix",
+          "text": "Groupe des Dix"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/complexity-sciences",
+          "text": "complexity sciences"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/complexity-sciences",
+          "text": "complexity sciences"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/backcasting",
+          "text": "backcasting"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/Horgan1995",
+          "text": "Horgan1995"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/Israel2005",
+          "text": "Israel2005"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/Deffuant2015",
+          "text": "Deffuant2015"
         }
       ],
       "/note/literature-note-on-Longo2012": [
@@ -795,9 +888,21 @@
           "text": "Gödel's numbering"
         }
       ],
+      "/concept/Gell-Manns-vision-of-complexity": [
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/concept/Gell-Manns-vision-of-complexity",
+          "text": "Gell-Mann's vision of complexity"
+        }
+      ],
       "/concept/Kolmogorovs-incompressibility": [
         {
           "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         },
@@ -1022,6 +1127,27 @@
           "text": "second principle of thermodynamics"
         }
       ],
+      "/definition/Groupe-des-Dix": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/Groupe-des-Dix",
+          "text": "Groupe des Dix"
+        }
+      ],
+      "/definition/ISC-PIF": [
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/definition/ISC-PIF",
+          "text": "ISC-PIF"
+        }
+      ],
+      "/definition/Santa-Fe-Institute-SFI": [
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/definition/Santa-Fe-Institute-SFI",
+          "text": "Santa Fe Institute (SFI)"
+        }
+      ],
       "/definition/abacus": [
         {
           "source": "/concept/computability",
@@ -1051,6 +1177,32 @@
           "source": "/concept/Turing-machine",
           "target": "/definition/automaton",
           "text": "automaton"
+        }
+      ],
+      "/definition/backcasting": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/backcasting",
+          "text": "backcasting"
+        }
+      ],
+      "/definition/complexity": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/complexity",
+          "text": "complexity"
+        }
+      ],
+      "/definition/complexity-sciences": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/complexity-sciences",
+          "text": "complexity sciences"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/definition/complexity-sciences",
+          "text": "complexity sciences"
         }
       ],
       "/definition/deductive-system": [
@@ -1293,6 +1445,13 @@
           "text": "Danchin2002"
         }
       ],
+      "/reference/Deffuant2015": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/Deffuant2015",
+          "text": "Deffuant2015"
+        }
+      ],
       "/reference/Doudna2017": [
         {
           "source": "/note/literature-note-on-Longo2012",
@@ -1300,11 +1459,49 @@
           "text": "Doudna2017"
         }
       ],
+      "/reference/Estrada2013": [
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/reference/Estrada2013",
+          "text": "Estrada2013"
+        }
+      ],
+      "/reference/Horgan1995": [
+        {
+          "source": "/definition/complexity-sciences",
+          "target": "/reference/Horgan1995",
+          "text": "Horgan1995"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/Horgan1995",
+          "text": "Horgan1995"
+        }
+      ],
+      "/reference/Israel2005": [
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/Israel2005",
+          "text": "Israel2005"
+        }
+      ],
       "/reference/Jakkaraju2003": [
         {
           "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
+        }
+      ],
+      "/reference/LiVigni2021": [
+        {
+          "source": "/definition/Groupe-des-Dix",
+          "target": "/reference/LiVigni2021",
+          "text": "LiVigni2021"
+        },
+        {
+          "source": "/note/literature-note-on-LiVigni2021",
+          "target": "/reference/LiVigni2021",
+          "text": "LiVigni2021"
         }
       ],
       "/reference/Longo2012": [
@@ -1352,6 +1549,13 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Muller2003",
           "text": "Muller2003"
+        }
+      ],
+      "/reference/Pines1988": [
+        {
+          "source": "/concept/Gell-Manns-vision-of-complexity",
+          "target": "/reference/Pines1988",
+          "text": "Pines1988"
         }
       ],
       "/reference/Rot-Nikcevic2007": [
@@ -1587,6 +1791,11 @@
       "source": "/concept/Freges-first-order-logic",
       "target": "/definition/predicate",
       "text": "predicate"
+    },
+    {
+      "source": "/concept/Gell-Manns-vision-of-complexity",
+      "target": "/reference/Pines1988",
+      "text": "Pines1988"
     },
     {
       "source": "/concept/G%C3%B6dels-incompleteness-theorem",
@@ -1854,6 +2063,11 @@
       "text": "entropy"
     },
     {
+      "source": "/definition/Groupe-des-Dix",
+      "target": "/reference/LiVigni2021",
+      "text": "LiVigni2021"
+    },
+    {
       "source": "/definition/abacus",
       "target": "/concept/Turing-machine",
       "text": "Turing machine"
@@ -1872,6 +2086,31 @@
       "source": "/definition/automaton",
       "target": "/reference/Sipser2013",
       "text": "Sipser2013"
+    },
+    {
+      "source": "/definition/complexity-sciences",
+      "target": "/definition/Santa-Fe-Institute-SFI",
+      "text": "Santa Fe Institute (SFI)"
+    },
+    {
+      "source": "/definition/complexity-sciences",
+      "target": "/definition/ISC-PIF",
+      "text": "ISC-PIF"
+    },
+    {
+      "source": "/definition/complexity-sciences",
+      "target": "/concept/Gell-Manns-vision-of-complexity",
+      "text": "Gell-Mann's vision of complexity"
+    },
+    {
+      "source": "/definition/complexity-sciences",
+      "target": "/reference/Horgan1995",
+      "text": "Horgan1995"
+    },
+    {
+      "source": "/definition/complexity-sciences",
+      "target": "/reference/Estrada2013",
+      "text": "Estrada2013"
     },
     {
       "source": "/definition/enumerable-set",
@@ -1902,6 +2141,56 @@
       "source": "/definition/recursive-function",
       "target": "/reference/Boolos2007",
       "text": "Boolos2007"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/reference/LiVigni2021",
+      "text": "LiVigni2021"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/definition/complexity",
+      "text": "complexity"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/definition/Groupe-des-Dix",
+      "text": "Groupe des Dix"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/definition/complexity-sciences",
+      "text": "complexity sciences"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/concept/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/definition/complexity-sciences",
+      "text": "complexity sciences"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/definition/backcasting",
+      "text": "backcasting"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/reference/Horgan1995",
+      "text": "Horgan1995"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/reference/Israel2005",
+      "text": "Israel2005"
+    },
+    {
+      "source": "/note/literature-note-on-LiVigni2021",
+      "target": "/reference/Deffuant2015",
+      "text": "Deffuant2015"
     },
     {
       "source": "/note/literature-note-on-Longo2012",
