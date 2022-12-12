@@ -8,6 +8,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   opacityScale,
   scale,
   repelForce,
+  linkDistance,
+  centerForce,
   fontSize} = graphConfig;
 
   const container = document.getElementById("graph-container")
@@ -103,13 +105,13 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   const simulation = d3
     .forceSimulation(data.nodes)
-    .force("charge", d3.forceManyBody().strength(-100 * repelForce))
+    .force("charge", d3.forceManyBody().strength(-repelForce))
     .force(
       "link",
       d3
         .forceLink(data.links)
         .id((d) => d.id)
-        .distance(40),
+        .distance(linkDistance),
     )
     .force("center", d3.forceCenter())
 
