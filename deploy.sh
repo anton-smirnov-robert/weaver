@@ -1,3 +1,3 @@
 git add .
-git commit -m "second publication"
+git commit -m "deploy"
 git push origin hugo
