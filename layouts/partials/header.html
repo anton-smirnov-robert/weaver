@@ -1,6 +1,6 @@
 <header>
     {{ $config := cond (eq $.Site.Language.Lang "en") "config" (printf "config.%s" $.Site.Language.Lang) }}
-    <img src="./static/weaver.png" alt="logo" height=50px width=50px />
+    <img src="/images/weaver_logo.png" alt="logo" height=50px width=50px />
     <p> &nbsp&nbsp  </p>
     <h1 id="page-title"><a href="{{ "" | absLangURL }}">{{ ( index $.Site.Data $config ).page_title | default $.Site.Data.config.page_title }}</a></h1>
     <div class="spacer"></div>

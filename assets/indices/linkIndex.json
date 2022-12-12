@@ -567,11 +567,6 @@
         },
         {
           "source": "/note/literature-note-on-Hayek1945",
-          "target": "/concept/Cricks-central-dogma",
-          "text": "Crick's central dogma"
-        },
-        {
-          "source": "/note/literature-note-on-Hayek1945",
           "target": "/note/literature-note-on-Longo2012",
           "text": "literature note on Longo2012"
         }
@@ -882,11 +877,6 @@
         }
       ],
       "/concept/Cricks-central-dogma": [
-        {
-          "source": "/note/literature-note-on-Hayek1945",
-          "target": "/concept/Cricks-central-dogma",
-          "text": "Crick's central dogma"
-        },
         {
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
@@ -2180,11 +2170,6 @@
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
-    },
-    {
-      "source": "/note/literature-note-on-Hayek1945",
-      "target": "/concept/Cricks-central-dogma",
-      "text": "Crick's central dogma"
     },
     {
       "source": "/note/literature-note-on-Hayek1945",
