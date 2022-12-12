@@ -1,0 +1,16 @@
+---
+title: "decidability"
+date: 2022-12-12
+draft: false
+showthedate: true
+enabletoc: false
+tags:
+- concept
+---
+
+*A decision problem is decidable if there exists an effective procedure to dderive the answer (see [effective computability](concept/effective%20computability.md)).* 
+
+
+#### Source
+
+[Wikipedia](https://en.wikipedia.org/wiki/Decidability_(logic))

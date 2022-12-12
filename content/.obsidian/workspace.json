@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a6b488b7d127db",
+        "id": "9dc0046a4940f192",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0949da29af5304",
+            "id": "492acc6baa0ab1f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/Chaitin's algorithmic randomness.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Hayek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/Chaitin's algorithmic randomness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/Chaitin's algorithmic randomness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "concept/Chaitin's algorithmic randomness.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab0949da29af5304",
+  "active": "492acc6baa0ab1f1",
   "lastOpenFiles": [
-    "concept/Schrodinger's code-script aperiodic crystal.md",
-    "note/literature note on Longo2012.md",
-    "concept/Chaitin's algorithmic randomness.md",
-    "concept/Kolmogorov's incompressibility.md",
-    "About me.md",
-    "about the website.md",
-    "manifesto.md",
-    "Where am I?.md",
-    "_index.md",
-    "reference/Muller2003.md"
+    "concept/Gödel's incompleteness theorem.md",
+    "concept/Tarski's undefinability theorem.md",
+    "concept/Cantor's diagonal argument.md",
+    "concept/Frege's first-order-logic.md",
+    "concept/Gödel's numbering.md",
+    "definition/Sans titre.md",
+    "definition/predicate.md",
+    "concept/decidability.md",
+    "definition/formal system.md",
+    "definition/semantic.md"
   ]
 }

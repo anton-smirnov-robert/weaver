@@ -121,8 +121,8 @@
         },
         {
           "source": "/concept/Church-Turing-thesis",
-          "target": "/concept/effectively-computable",
-          "text": "effectively computable"
+          "target": "/concept/effective-computability",
+          "text": "effective computability"
         },
         {
           "source": "/concept/Church-Turing-thesis",
@@ -131,8 +131,8 @@
         },
         {
           "source": "/concept/Church-Turing-thesis",
-          "target": "/concept/effectively-computable",
-          "text": "effectively computable"
+          "target": "/concept/effective-computability",
+          "text": "effective computability"
         }
       ],
       "/concept/Cricks-central-dogma": [
@@ -145,6 +145,37 @@
           "source": "/concept/Cricks-central-dogma",
           "target": "/reference/Crick1970",
           "text": "Crick1970"
+        }
+      ],
+      "/concept/Freges-first-order-logic": [
+        {
+          "source": "/concept/Freges-first-order-logic",
+          "target": "/definition/formal-system",
+          "text": "formal system"
+        },
+        {
+          "source": "/concept/Freges-first-order-logic",
+          "target": "/definition/predicate",
+          "text": "predicate"
+        }
+      ],
+      "/concept/G%C3%B6dels-incompleteness-theorem": [
+        {
+          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "target": "/concept/G%C3%B6dels-numbering",
+          "text": "Gödel's numbering"
+        },
+        {
+          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "target": "/Tarskis-undefinability-theorem",
+          "text": "Tarski's undefinability theorem"
+        }
+      ],
+      "/concept/G%C3%B6dels-numbering": [
+        {
+          "source": "/concept/G%C3%B6dels-numbering",
+          "target": "/concept/formal-language",
+          "text": "formal language"
         }
       ],
       "/concept/Kolmogorovs-incompressibility": [
@@ -227,6 +258,18 @@
           "source": "/concept/Shannons-theory-of-information-transmission",
           "target": "/note/literature-note-on-Longo2012",
           "text": "literature note on Longo2012"
+        }
+      ],
+      "/concept/Tarskis-undefinability-theorem": [
+        {
+          "source": "/concept/Tarskis-undefinability-theorem",
+          "target": "/definition/formal-system",
+          "text": "formal system"
+        },
+        {
+          "source": "/concept/Tarskis-undefinability-theorem",
+          "target": "/concept/G%C3%B6dels-numbering",
+          "text": "Gödel's numbering"
         }
       ],
       "/concept/Turing-machine": [
@@ -326,6 +369,25 @@
           "source": "/concept/computability",
           "target": "/reference/Boolos2007",
           "text": "Boolos2007"
+        }
+      ],
+      "/concept/decidability": [
+        {
+          "source": "/concept/decidability",
+          "target": "/concept/effective-computability",
+          "text": "effective computability"
+        }
+      ],
+      "/concept/formal-language": [
+        {
+          "source": "/concept/formal-language",
+          "target": "/definition/syntax",
+          "text": "syntax"
+        },
+        {
+          "source": "/concept/formal-language",
+          "target": "/concept/decidability",
+          "text": "decidability"
         }
       ],
       "/concept/halting-problem": [
@@ -432,12 +494,24 @@
           "text": "Boolos2007"
         }
       ],
-      "/definition/recursive-function": [
+      "/definition/formal-system": [
         {
-          "source": "/definition/recursive-function",
-          "target": "/concept/effectively-computable",
-          "text": "effectively computable"
+          "source": "/definition/formal-system",
+          "target": "/concept/formal-language",
+          "text": "formal language"
         },
+        {
+          "source": "/definition/formal-system",
+          "target": "/definition/deductive-system",
+          "text": "deductive system"
+        },
+        {
+          "source": "/definition/formal-system",
+          "target": "/definition/semantic",
+          "text": "semantic"
+        }
+      ],
+      "/definition/recursive-function": [
         {
           "source": "/definition/recursive-function",
           "target": "/reference/Boolos2007",
@@ -518,7 +592,7 @@
         {
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Chaitins-algorithmic-randomness",
-          "text": "concept/Chaitin's algorithmic randomness"
+          "text": "Chaitin's algorithmic randomness"
         },
         {
           "source": "/note/literature-note-on-Longo2012",
@@ -630,6 +704,13 @@
           "text": "about me"
         }
       ],
+      "/Tarskis-undefinability-theorem": [
+        {
+          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "target": "/Tarskis-undefinability-theorem",
+          "text": "Tarski's undefinability theorem"
+        }
+      ],
       "/about-the-website": [
         {
           "source": "/Where-am-I",
@@ -687,7 +768,7 @@
         {
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Chaitins-algorithmic-randomness",
-          "text": "concept/Chaitin's algorithmic randomness"
+          "text": "Chaitin's algorithmic randomness"
         }
       ],
       "/concept/Cricks-central-dogma": [
@@ -700,6 +781,18 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
+        }
+      ],
+      "/concept/G%C3%B6dels-numbering": [
+        {
+          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "target": "/concept/G%C3%B6dels-numbering",
+          "text": "Gödel's numbering"
+        },
+        {
+          "source": "/concept/Tarskis-undefinability-theorem",
+          "target": "/concept/G%C3%B6dels-numbering",
+          "text": "Gödel's numbering"
         }
       ],
       "/concept/Kolmogorovs-incompressibility": [
@@ -830,21 +923,40 @@
           "text": "computability"
         }
       ],
-      "/concept/effectively-computable": [
+      "/concept/decidability": [
+        {
+          "source": "/concept/formal-language",
+          "target": "/concept/decidability",
+          "text": "decidability"
+        }
+      ],
+      "/concept/effective-computability": [
         {
           "source": "/concept/Church-Turing-thesis",
-          "target": "/concept/effectively-computable",
-          "text": "effectively computable"
+          "target": "/concept/effective-computability",
+          "text": "effective computability"
         },
         {
           "source": "/concept/Church-Turing-thesis",
-          "target": "/concept/effectively-computable",
-          "text": "effectively computable"
+          "target": "/concept/effective-computability",
+          "text": "effective computability"
         },
         {
-          "source": "/definition/recursive-function",
-          "target": "/concept/effectively-computable",
-          "text": "effectively computable"
+          "source": "/concept/decidability",
+          "target": "/concept/effective-computability",
+          "text": "effective computability"
+        }
+      ],
+      "/concept/formal-language": [
+        {
+          "source": "/concept/G%C3%B6dels-numbering",
+          "target": "/concept/formal-language",
+          "text": "formal language"
+        },
+        {
+          "source": "/definition/formal-system",
+          "target": "/concept/formal-language",
+          "text": "formal language"
         }
       ],
       "/concept/halting-problem": [
@@ -941,6 +1053,13 @@
           "text": "automaton"
         }
       ],
+      "/definition/deductive-system": [
+        {
+          "source": "/definition/formal-system",
+          "target": "/definition/deductive-system",
+          "text": "deductive system"
+        }
+      ],
       "/definition/deterministic-system": [
         {
           "source": "/concept/Laplacian-determinism",
@@ -987,6 +1106,18 @@
           "text": "enumerable set"
         }
       ],
+      "/definition/formal-system": [
+        {
+          "source": "/concept/Freges-first-order-logic",
+          "target": "/definition/formal-system",
+          "text": "formal system"
+        },
+        {
+          "source": "/concept/Tarskis-undefinability-theorem",
+          "target": "/definition/formal-system",
+          "text": "formal system"
+        }
+      ],
       "/definition/molecular-chaperon": [
         {
           "source": "/concept/Anfinsens-dogma",
@@ -997,6 +1128,13 @@
           "source": "/concept/protein-folding-problem",
           "target": "/definition/molecular-chaperon",
           "text": "molecular chaperon"
+        }
+      ],
+      "/definition/predicate": [
+        {
+          "source": "/concept/Freges-first-order-logic",
+          "target": "/definition/predicate",
+          "text": "predicate"
         }
       ],
       "/definition/prion": [
@@ -1026,6 +1164,20 @@
           "source": "/definition/abacus",
           "target": "/definition/recursive-function",
           "text": "recursive function"
+        }
+      ],
+      "/definition/semantic": [
+        {
+          "source": "/definition/formal-system",
+          "target": "/definition/semantic",
+          "text": "semantic"
+        }
+      ],
+      "/definition/syntax": [
+        {
+          "source": "/concept/formal-language",
+          "target": "/definition/syntax",
+          "text": "syntax"
         }
       ],
       "/manifesto": [
@@ -1403,8 +1555,8 @@
     },
     {
       "source": "/concept/Church-Turing-thesis",
-      "target": "/concept/effectively-computable",
-      "text": "effectively computable"
+      "target": "/concept/effective-computability",
+      "text": "effective computability"
     },
     {
       "source": "/concept/Church-Turing-thesis",
@@ -1413,8 +1565,8 @@
     },
     {
       "source": "/concept/Church-Turing-thesis",
-      "target": "/concept/effectively-computable",
-      "text": "effectively computable"
+      "target": "/concept/effective-computability",
+      "text": "effective computability"
     },
     {
       "source": "/concept/Cricks-central-dogma",
@@ -1425,6 +1577,31 @@
       "source": "/concept/Cricks-central-dogma",
       "target": "/reference/Crick1970",
       "text": "Crick1970"
+    },
+    {
+      "source": "/concept/Freges-first-order-logic",
+      "target": "/definition/formal-system",
+      "text": "formal system"
+    },
+    {
+      "source": "/concept/Freges-first-order-logic",
+      "target": "/definition/predicate",
+      "text": "predicate"
+    },
+    {
+      "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+      "target": "/concept/G%C3%B6dels-numbering",
+      "text": "Gödel's numbering"
+    },
+    {
+      "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+      "target": "/Tarskis-undefinability-theorem",
+      "text": "Tarski's undefinability theorem"
+    },
+    {
+      "source": "/concept/G%C3%B6dels-numbering",
+      "target": "/concept/formal-language",
+      "text": "formal language"
     },
     {
       "source": "/concept/Kolmogorovs-incompressibility",
@@ -1495,6 +1672,16 @@
       "source": "/concept/Shannons-theory-of-information-transmission",
       "target": "/note/literature-note-on-Longo2012",
       "text": "literature note on Longo2012"
+    },
+    {
+      "source": "/concept/Tarskis-undefinability-theorem",
+      "target": "/definition/formal-system",
+      "text": "formal system"
+    },
+    {
+      "source": "/concept/Tarskis-undefinability-theorem",
+      "target": "/concept/G%C3%B6dels-numbering",
+      "text": "Gödel's numbering"
     },
     {
       "source": "/concept/Turing-machine",
@@ -1592,6 +1779,21 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/concept/decidability",
+      "target": "/concept/effective-computability",
+      "text": "effective computability"
+    },
+    {
+      "source": "/concept/formal-language",
+      "target": "/definition/syntax",
+      "text": "syntax"
+    },
+    {
+      "source": "/concept/formal-language",
+      "target": "/concept/decidability",
+      "text": "decidability"
+    },
+    {
       "source": "/concept/halting-problem",
       "target": "/concept/Turing-machine",
       "text": "Turing machine"
@@ -1682,9 +1884,19 @@
       "text": "Boolos2007"
     },
     {
-      "source": "/definition/recursive-function",
-      "target": "/concept/effectively-computable",
-      "text": "effectively computable"
+      "source": "/definition/formal-system",
+      "target": "/concept/formal-language",
+      "text": "formal language"
+    },
+    {
+      "source": "/definition/formal-system",
+      "target": "/definition/deductive-system",
+      "text": "deductive system"
+    },
+    {
+      "source": "/definition/formal-system",
+      "target": "/definition/semantic",
+      "text": "semantic"
     },
     {
       "source": "/definition/recursive-function",
@@ -1764,7 +1976,7 @@
     {
       "source": "/note/literature-note-on-Longo2012",
       "target": "/concept/Chaitins-algorithmic-randomness",
-      "text": "concept/Chaitin's algorithmic randomness"
+      "text": "Chaitin's algorithmic randomness"
     },
     {
       "source": "/note/literature-note-on-Longo2012",

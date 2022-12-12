@@ -1,10 +1,11 @@
 ---
-title: "effectively computable"
+title: "effective computability"
 date: 2022-12-06
 draft: false
 tags:
 - concept
 ---
+
 
 This *informal notion* also refers to: 
 - a procedure 

@@ -37,26 +37,44 @@
   },
   "/concept/Cantors-diagonal-argument": {
     "title": "Cantor's diagonal argument",
-    "content": "\nOne of Cantor's theorem is that the set of all sets of natural numbers is not enumerable. \nThe set of real numbers is the set of all set of natural numbers because you form a real number by precising its decimals. It is therefore not an [enumerable set](definition/enumerable%20set.md).\n\n#### Proof: \nWe consider the set of all sets of natural numbers $SS=\\{S_1,S_2,...\\}$ and there characteristic functions $s_1,s_2, ...$ . $s_n(m)=1 \\ if \\  m\\in S_n$  and $0$ if not. We can construct a matrix with $M_{nm}=s_n(m)$. We want to show that there is a set that is not in $SS$. \n\nConsider the *antidiagonal* sequence  $\\{1-s_n(n)\\}_n$. If this set is already in $SS$ it means that $\\exists n , \\forall m , s_n(m)=1-s_m(m)$ . For $m=n$  it would mean that $s_n(n)=1-s_n(n)$. Such $n$  does not exist and therefore, this set is missing from $SS$: is does not contain all sets of natural numbers.\n \n\n#### Sources \n\n[Boolos2007](reference/Boolos2007.md)\n\n",
-    "lastmodified": "2022-12-11T17:38:22.586825992+01:00",
+    "content": "\nOne of Cantor's theorem is that the set of all sets of natural numbers is not enumerable. \nThe set of real numbers is the set of all set of natural numbers because you form a real number by precising its decimals. It is therefore not an [enumerable set](definition/enumerable%20set.md).\n\n#### Proof: \nWe consider the set of all sets of natural numbers $SS=\\{S_1,S_2,...\\}$ and there characteristic functions $s_1,s_2, ...$ . $s_n(m)=1 \\ if \\  m\\in S_n$  and $0$ if not. We can construct a matrix with $M_{nm}=s_n(m)$. We want to show that there is a set that is not in $SS$. \n\nConsider the *antidiagonal* sequence  $\\{1-s_n(n)\\}_n$. If this set is already in $SS$ it means that $\\exists n , \\forall m , s_n(m)=1-s_m(m)$ . For $m=n$  it would mean that $s_n(n)=1-s_n(n)$. Such $n$  does not exist and therefore, this set is missing from $SS$: it does not contain all sets of natural numbers.\n\n#### Sources \n\n[Boolos2007](reference/Boolos2007.md)\n\n",
+    "lastmodified": "2022-12-12T10:20:05.279938039+01:00",
     "tags": null
   },
   "/concept/Chaitins-algorithmic-randomness": {
     "title": "Chaitin's algorithmic randomness",
-    "content": "\nChaitin suggested that [Kolmogorov's incompressibility](concept/Kolmogorov's%20incompressibility.md) could be considered to be a definition of randomness.\n\nTo give an example of a random sequence, he exhibited an uncomputable number (Chaintin's Omega, see [computability](concept/computability.md)) which is  the probability that a Turing machine halts (see the [halting problem](concept/halting%20problem.md)) reading a randomly generated program (toss a coin to obtain binaries).",
-    "lastmodified": "2022-12-11T19:50:34.038913242+01:00",
+    "content": "\nChaitin suggested that [Kolmogorov's incompressibility](concept/Kolmogorov's%20incompressibility.md) could be considered to be a definition of randomness.\n\nTo give an example of a random sequence, he exhibited an uncomputable (see [computability](concept/computability.md)) number (Chaintin's Omega) which is  the probability that a Turing machine halts (see the [halting problem](concept/halting%20problem.md)) reading a randomly generated program (toss a coin to obtain binaries).",
+    "lastmodified": "2022-12-11T19:53:21.905260751+01:00",
     "tags": null
   },
   "/concept/Church-Turing-thesis": {
     "title": "Church-Turing thesis",
-    "content": "\n*An [arithmetic function](definition/arithmetic%20function.md) is [effectively computable](concept/effectively%20computable.md) if and only if it is computable (see [computability](concept/computability.md)).*\n\nThis is a thesis because it is not provable because it refers to the informal [effectively computable](concept/effectively%20computable.md) notion. We know for sure one way (the return) because a Turing machine is computation is a type of effective computation.\n\nWhy believe it? All attempts to give an exact analysis of the intuitive notion of an effectively calculable function have turned out to be _equivalent_, in the sense that each analysis offered has been proved to pick out the same class of functions, namely those that are computable by Turing machine.\nChurch has made such an hypothesis independently with other sort of computation (abacus machine).\n\n#### Sources \n[Standford Encyclopedia](https://plato.stanford.edu/entries/church-turing/#MisuThes)\n[Wikipedia](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)\n\n",
-    "lastmodified": "2022-12-11T17:38:22.586999591+01:00",
+    "content": "\n*An [arithmetic function](definition/arithmetic%20function.md) is effectively computable (see [effective computability](concept/effective%20computability.md)) if and only if it is computable (see [computability](concept/computability.md)).*\n\nThis is a thesis because it is not provable because it refers to [effective computability](concept/effective%20computability.md). We know for sure one way (the return) because a Turing machine is computation is a type of effective computation.\n\nWhy believe it? All attempts to give an exact analysis of the intuitive notion of an effectively calculable function have turned out to be _equivalent_, in the sense that each analysis offered has been proved to pick out the same class of functions, namely those that are computable by Turing machine.\nChurch has made such an hypothesis independently with other sort of computation (abacus machine).\n\n#### Sources \n[Standford Encyclopedia](https://plato.stanford.edu/entries/church-turing/#MisuThes)\n[Wikipedia](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)\n\n",
+    "lastmodified": "2022-12-12T09:47:43.111789977+01:00",
     "tags": null
   },
   "/concept/Cricks-central-dogma": {
     "title": "Crick's central dogma",
     "content": "\nIt postulates that proteins never transmit \"sequential information\".\n\n\"Sequential information\" is to be understood as the sequence of bases in DNA or amino-acids in proteins. \n\n#### Sources\n\n[Crick1958](reference/Crick1958.md)\n[Crick1970](reference/Crick1970.md)\n[Wikipedia](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology#:~:text=The%20central%20dogma%20of%20molecular,The%20Central%20Dogma.)\n",
     "lastmodified": "2022-12-11T17:38:22.587136853+01:00",
+    "tags": null
+  },
+  "/concept/Freges-first-order-logic": {
+    "title": "Frege's first-order-logic",
+    "content": "\nIt is also called the **predicate calculus** and was also developped by Boole, Peirce, Frege, Peano, Whitehead, Russel, Hilbert, ...\nIt is a [formal system](definition/formal%20system.md) introduced and developped mainly around 1900-1920. . \nPropositional logic deals with simple propositions made of *variables* (e.g. a lemon) and *logical connectors* (and, or, implies, etc.). \nFirst-order-logic deals also with *[predicate](definition/predicate.md)s* and *quantifiers* ( e.g. $\\forall$ ).  \n\n#### Sources \n\n[Standford Encyclopedia of Phylosophy](https://plato.stanford.edu/entries/logic-firstorder-emergence/)\n\n",
+    "lastmodified": "2022-12-12T10:07:37.165299104+01:00",
+    "tags": null
+  },
+  "/concept/G%C3%B6dels-incompleteness-theorem": {
+    "title": "Gödel's incompleteness theorem",
+    "content": "\nWe attribute a number (using [Gödel's numbering](concept/Gödel's%20numbering.md)) to each statement of mathematics. Using [[Tarski's undefinability theorem]], we obtain \n```There is no mathematical formula that says which statements are true.``` Therefore, the statement  ```Are true solely the statements that can be demonstrated.``` is therefore false. \nHenceforth,  ```In any formal system, there are true statements that cannot be demonstrated.```\n\n#### Sources\n\n[Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)\n\n",
+    "lastmodified": "2022-12-12T10:17:12.901130392+01:00",
+    "tags": null
+  },
+  "/concept/G%C3%B6dels-numbering": {
+    "title": "Gödel's numbering",
+    "content": "\n\nIn 1931, Gödel found a way encode any sentence of a [formal language](concept/formal%20language.md) with a unique natural number. \n\nHe uses the uniqueness of the prime number decomposition. After assigning a number to each letter (or sign) of the alphabet ($n_1,n_2,n_3,...$), a word can be assigned the unique number $w_1=2^{n_1}3^{n_2}5^{n_3}...$ \n\n[Wikipedia](https://en.wikipedia.org/wiki/G%C3%B6del_numbering)\n",
+    "lastmodified": "2022-12-12T10:12:10.712272004+01:00",
     "tags": null
   },
   "/concept/Kolmogorovs-incompressibility": {
@@ -101,6 +119,12 @@
     "lastmodified": "2022-12-11T17:38:22.588229088+01:00",
     "tags": null
   },
+  "/concept/Tarskis-undefinability-theorem": {
+    "title": "Tarski's undefinability theorem",
+    "content": "\n\nA [formal system](definition/formal%20system.md)'s truth cannot be defined within the system. Tarksi showed this theorem in 1933. \n\n#### Proof\n\n- Use [Gödel's numbering](concept/Gödel's%20numbering.md) to encode all possible sentences. We note $[A]$ the code of $A$.\n- We suppose $\\exists \\ V$ a function such that   $$\\forall \\ A, A\\iff V( [A] )$$\n- Use the diagonalization lemma (difficult, not explained here) for $\\neg V$. It reads $$\\exists A, \\ A\\iff \\neg V( [A] )$$\n- There is a contradiction. $V$ does not exists. \n\n\n#### Sources \n[Standford Encyclopedia ](https://plato.stanford.edu/entries/tarski-truth/) \n[Wikipedia](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem#:~:text=Tarski's%20undefinability%20theorem%2C%20stated%20and,cannot%20be%20defined%20in%20arithmetic.)\n[Youtube](https://www.youtube.com/watch?v=wiYdEDDRQzE)\n\n",
+    "lastmodified": "2022-12-12T10:22:25.558469306+01:00",
+    "tags": null
+  },
   "/concept/Turing-machine": {
     "title": "Turing machine",
     "content": "In 1936, Turing introduces the idea of a “computing machine”, latter called “Turing machine”. He pictures not a mecanism but a person — “Turing's architect” according to ([Schrodinger1944](reference/Schrodinger1944.md)) Turing introduced ([Turing1936](reference/Turing1936.md)) this machine trying to answer questions regarding decidability. A Turing machine is an [automaton](definition/automaton.md) with an unlimited and unrestricted memory. It is a model of everything that can do today's computers. It requires a (readable, writtable, and movable) infinite 1D bit register — a tape. Turing has shown that those elementary instructions are enough to do elaborate any sophisticated program that are themselves encoded on the tape. The Turing machine allocates a data space to make the computation and another one where the programs are encoded. The operating system read the instructions as it computes the program and change the input binary string. Increasing the complexity of the machine (e.g. alphabet, dimensions) does not change the class of functions it can computes ([recursive function](definition/recursive%20function.md)s). \n\n\n#### Details \n\n**What is the formal definition of a Turing machine ?** \nThe alphabet of the tape $\\Gamma$ can be thought to be 0's and 1's and blank's. \n\n$$\\begin{array}{l}\\text { A Turing machine is a 7-tuple, }\\left(Q, \\Sigma, \\Gamma, \\delta, q_{0}, q_{\\text {accept }}, q_{\\text {reject }}\\right) \\text {, where } \\\\ Q, \\Sigma, \\Gamma \\text { are all finite sets and } \\\\ \\text { 1. } Q \\text { is the set of states, } \\\\ \\text { 2. } \\Sigma \\text { is the input alphabet not containing the blank symbol } \\sqcup \\text {, } \\\\ \\text { 3. } \\Gamma \\text { is the tape alphabet, where } \\sqcup \\in \\Gamma \\text { and } \\Sigma \\subseteq \\Gamma \\text {, } \\\\ \\text { 4. } \\delta: Q \\times \\Gamma \\longrightarrow Q \\times \\Gamma \\times\\{\\mathrm{L}, \\mathrm{R}\\} \\text { is the transition function, } \\\\ \\text { 5. } q_{0} \\in Q \\text { is the start state, } \\\\ \\text { 6. } q_{\\text {accept }} \\in Q \\text { is the accept state, and } \\\\ \\text { 7. } q_{\\text {reject }} \\in Q \\text { is the reject state, where } q_{\\text {reject }} \\neq q_{\\text {accept }}\\end{array}$$\n\n**How to write the program (or diagram or table of instructions) in the machine ?**\n\nWe write $S_0=blank$ , $S_1=0$ and $S_2=1$, $R=move \\ right$, $L= move \\ left$ . \nAn instruction can be written $q_i S_i S_j R q_m$  or  $q_i S_i S_j L q_m$. We encode all instructions that define the Turing machine, as follows $$q_1 S_0 S_0 L q_2 ; q_2 S_1 S_2 L q_3 ; ... $$We write $q_i=DAAAA...A$ ($i$  times), $S_i=DCCC...C$ ($i$  times) and give a integer to each letter (A=1, C=2, D=3,...,;=7). Therefore, it gives a description number for the Turing machine $$313325117 ...$$There is a unique integer for a given machine, but we can always add unecessary programs (that change the number but that give the same result). This integer gets a binary decomposition$$01000101011010$$With the help of an additional small and instantaneous \"workspace\", it uses a [simple mecanism](https://www.youtube.com/watch?v=P66h8D5Lkwk) to read the programs and compute at the same time.\n\n\n#### Sources \n[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/turing-machine/#TuriDefi)   \n[MIT Open courses](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/pages/syllabus/)     \n[Sipser2013](reference/Sipser2013.md)\nnote [literature note on Longo2012](note/literature%20note%20on%20Longo2012.md)     \n[Youtube](https://www.youtube.com/watch?v=P66h8D5Lkwk)         \n[Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)       \n[Turing1936](reference/Turing1936.md)\n",
@@ -113,10 +137,22 @@
     "lastmodified": "2022-12-11T17:38:22.58855228+01:00",
     "tags": null
   },
-  "/concept/effectively-computable": {
-    "title": "effectively computable",
-    "content": "\nThis *informal notion* also refers to: \n- a procedure \n- a paper-and-pencil method or \n- to a mechanical method \n\nIt is specific to a type of problem but we can state:\n\n- A finite number of instructions.\n- It always terminates after a finite number of steps.\n- It always produces a correct answer.\n- It can be done by a human without any aids except writing materials.\n- Its instructions need only to be followed rigorously to succeed : it requires no ingenuity\n\n#### Source(s)\n\n[Wikipedia](https://en.wikipedia.org/wiki/Effective_method)\n",
-    "lastmodified": "2022-12-11T17:38:22.588693619+01:00",
+  "/concept/decidability": {
+    "title": "decidability",
+    "content": "\n*A decision problem is decidable if there exists an effective procedure to dderive the answer (see [effective computability](concept/effective%20computability.md)).* \n\n\n#### Source\n\n[Wikipedia](https://en.wikipedia.org/wiki/Decidability_(logic))\n",
+    "lastmodified": "2022-12-12T09:56:13.254405975+01:00",
+    "tags": null
+  },
+  "/concept/effective-computability": {
+    "title": "effective computability",
+    "content": "\n\nThis *informal notion* also refers to: \n- a procedure \n- a paper-and-pencil method or \n- to a mechanical method \n\nIt is specific to a type of problem but we can state:\n\n- A finite number of instructions.\n- It always terminates after a finite number of steps.\n- It always produces a correct answer.\n- It can be done by a human without any aids except writing materials.\n- Its instructions need only to be followed rigorously to succeed : it requires no ingenuity\n\n#### Source(s)\n\n[Wikipedia](https://en.wikipedia.org/wiki/Effective_method)\n",
+    "lastmodified": "2022-12-12T09:47:03.100737397+01:00",
+    "tags": null
+  },
+  "/concept/formal-language": {
+    "title": "formal language",
+    "content": "\nA formal language consists of:\n- an alphabet  \n- a [syntax](definition/syntax.md) for the alphabet\n\nThere must be a decision procedure (see [decidability](concept/decidability.md)) for membership in well-formed sentences. \n\n#### Source(s)\n[Wikipedia](https://en.wikipedia.org/wiki/Formal_language)\n",
+    "lastmodified": "2022-12-12T09:55:05.185597428+01:00",
     "tags": null
   },
   "/concept/halting-problem": {
@@ -161,6 +197,12 @@
     "lastmodified": "2022-12-11T17:38:22.589798502+01:00",
     "tags": null
   },
+  "/definition/deductive-system": {
+    "title": "deductive system",
+    "content": "\nA deductive system is composed of **axioms** and **rules of inference**.",
+    "lastmodified": "2022-12-12T09:59:05.047694999+01:00",
+    "tags": null
+  },
   "/definition/deterministic-system": {
     "title": "deterministic system",
     "content": "\nA system is deterministic when it has a **conceivable** determination in explicit mathematics. It does not require the maths to be solvable in practice.",
@@ -179,10 +221,22 @@
     "lastmodified": "2022-12-11T17:38:22.59029176+01:00",
     "tags": null
   },
+  "/definition/formal-system": {
+    "title": "formal system",
+    "content": "\nA formal system is a combination of a [formal language](concept/formal%20language.md) and a [deductive system](definition/deductive%20system.md) that imposes a [semantic](definition/semantic.md).\n\n\n#### Sources \n[Wikipedia](https://en.wikipedia.org/wiki/Formal_system)\n[Standford Encyclopedia](https://plato.stanford.edu/entries/logic-classical/#Intr)\n",
+    "lastmodified": "2022-12-12T10:00:17.134757501+01:00",
+    "tags": null
+  },
   "/definition/molecular-chaperon": {
     "title": "molecular chaperon",
     "content": "\nThey aid proteins to fold by restricting conformations. They are driving forces, such as the solvent.",
     "lastmodified": "2022-12-11T17:38:22.590433838+01:00",
+    "tags": null
+  },
+  "/definition/predicate": {
+    "title": "predicate",
+    "content": "\nA predicate is a fonctionalized proposition that refers to a property of input objects from a specific domain. \nThe arity is the number of inputs. For instance, $R(a,b)$  can refer to  \"a and b are friends\". \n\n#### Sources\n[Wikipedia](https://fr.wikipedia.org/wiki/Calcul_des_pr%C3%A9dicats)\n[Wikipedia](https://fr.wikipedia.org/wiki/Pr%C3%A9dicat_(linguistique))",
+    "lastmodified": "2022-12-12T10:05:03.758886071+01:00",
     "tags": null
   },
   "/definition/prion": {
@@ -193,8 +247,20 @@
   },
   "/definition/recursive-function": {
     "title": "recursive function",
-    "content": "\nIt refers to functions that can be built with the zero, the successor and the identity function by use of composition, minimization and primitive recursion: $$h(x,0)=f(x), \\ h(x,y')=g(x,y,h(x,y))$$\nThey are [effectively computable](concept/effectively%20computable.md).\n\n#### Exemple(s) \n\n#### Sources \n\n[Boolos2007](reference/Boolos2007.md)\n",
-    "lastmodified": "2022-12-11T17:38:22.590717525+01:00",
+    "content": "\nIt refers to functions that can be built with the zero, the successor and the identity function by use of composition, minimization and primitive recursion: $$h(x,0)=f(x), \\ h(x,y')=g(x,y,h(x,y))$$\n#### Sources \n\n[Boolos2007](reference/Boolos2007.md)\n",
+    "lastmodified": "2022-12-12T09:48:39.04780677+01:00",
+    "tags": null
+  },
+  "/definition/semantic": {
+    "title": "semantic",
+    "content": "\nIt refers to the meaning, the interpretation, or the truth-value (in logic) of a sentence. ",
+    "lastmodified": "2022-12-12T09:59:54.040402456+01:00",
+    "tags": null
+  },
+  "/definition/syntax": {
+    "title": "syntax",
+    "content": "\nIn linguistics, it relates how words are assembled to form larger units.  ",
+    "lastmodified": "2022-12-12T09:54:12.885245165+01:00",
     "tags": null
   },
   "/images/cv_francais_09_22_no_hyperlink": {
@@ -211,8 +277,8 @@
   },
   "/note/literature-note-on-Longo2012": {
     "title": "literature note on Longo2012",
-    "content": "\n## **Is Information a proper observable for biological organization?**     \nby Longo G., Miquel P., Sonnenschein C., Soto A.M. (2012)   \n*Progress in biophysics and molecular biology* 109: 108-114      \nDOI: 10.1016/j.pbiomolbio.2012.06.004\n\nReference: [Longo2012](reference/Longo2012.md)\n\n\n#### The central dogma of biology was formulated during the thriving era of computer programs.\nThe concepts of (hardware and software-independent) [computability](concept/computability.md), elaboration of information (reading and programming) with [Turing machine](concept/Turing%20machine.md)s were developped in 1930-1936. At the end of WW2 (and cryptography played a major role during this period), [Schrodinger's code-script aperiodic crystal](concept/Schrodinger's%20code-script%20aperiodic%20crystal.md) hints at informational encoding in chromosomes, such as *programs*. The discovery of DNA by Crick and Watson in 1953 happened just after this flourishing era of mathematical logic and computation. The theory in molecular biology relies on [Crick's central dogma](concept/Crick's%20central%20dogma.md) that explains [Mendelian inheritance](concept/Mendelian%20inheritance.md) with the four bases discovered in the DNA.\n\n#### The informational metaphor prompts biologist to think about biological phenomena in terms of programs.\nIt relies on an informational metaphor and states linear causation from the DNA to the proteins. However, it is a misleading metaphor because it forces the way to think about biological problems. Indeed, most biologists see the genome as the \"program\" for producing proteins ([Danchin2002](reference/Danchin2002.md)). This view direclty eliminates the radical materiality of living organisms. For instance, Maynard Smith states:\n\n\u003e [!quote] \n\u003e\n\u003eThere is, however, one feature of the control of development which closely resembles both a computer program, and verbal instructions. This is the symbolic nature of the process (...) —  ([MaynardSmith1999](reference/MaynardSmith1999.md), p. 398)  \n \n#### However, programs rely on a very specific structure of determination...\nProgramming or encoding/decoding in cryptography implies the writing and reading of **symbols** on **discrete** entities. The concept of [computability](concept/computability.md) requires **identical iterations**,  **portability** (software on hardware), **linear causation**, **predictability** (because of discreteness) and therefore implies [Laplacian determinism](concept/Laplacian%20determinism.md). \n\n\n#### ...and the information concept is for the living is at best vague\nMoreover, information is not well-defined for the living because it has ambiguous links with [entropy](definition/entropy.md) that play a major role in biology. Following [Brillouin's relation between entropy and information](concept/Brillouin's%20relation%20between%20entropy%20and%20information.md), information is linked to [negentropy](concept/negentropy.md) as:  `high information = low entropy` . On the other hand, following [Kolmogorov's incompressibility](concept/Kolmogorov's%20incompressibility.md) and [[concept/Chaitin's algorithmic randomness]] interpretation, we obtain `low compressibility = high randomnness` . If we now follow two commons interpretations, which are `high information = low compressibility`, and  `high randomnness = high entropy`,  we get a contradiction with [Brillouin's relation between entropy and information](concept/Brillouin's%20relation%20between%20entropy%20and%20information.md). Yet, as pointed out by Schrödinger ([Schrodinger1944](reference/Schrodinger1944.md)), it seems that organisms manage to \"resist\" the [second principle of thermodynamics](concept/second%20principle%20of%20thermodynamics.md) so nothing is absurd here, but everything is vague. \n\n#### This structure of determination is an epistemological bias for biologists.\nThe DNA \"software\" taken from one cell (the \"hardware\") is not portable. For example, cloning has a very law succes and need to resort to \"epigenetics reprogramming\" ([Matoba2018](reference/Matoba2018.md)). From this perspective, it is, however, possible for humans to \"reprogram\" evolution ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md)). The informational metaphor encourages the observer to think in terms of discrete entities. However, there is no Turing's architect and robust, iterative steps.  Yet, molecules play the role of discrete entities containing information. The arguments use the vocabulary such as \"signals\", \"activator-receptor\", or \"docking\".  However, the use of the notion of [computability](concept/computability.md) in biology cannot account for continuous shape deformation. Therefore, continuous shapes are not considered.  Moreover, what is present along with an informational content but cannot be digitally encoded in signs is inherently considered as noise in [Shannon's theory of information transmission](concept/Shannon's%20theory%20of%20information%20transmission.md).  It therefore contributes to deteriorate the informational content due to the information-theoretic application of [second principle of thermodynamics](concept/second%20principle%20of%20thermodynamics.md). \n\n\u003e [!quote] \n\u003e\n\u003eIf a wire or a computer are compressed, pulled or twisted, these actions will not increase the information that they are transmitting or elaborating, neither in practice nor in principle. —  ([Longo2012](reference/Longo2012.md), p. 6) \n\n For example, [Anfinsen's dogma](concept/Anfinsen's%20dogma.md) has narrowed the research activity regarding the [protein folding problem](concept/protein%20folding%20problem.md). Moreover, [Crick's central dogma](concept/Crick's%20central%20dogma.md) suggests that isogenic cells are identical whereas protein and mRNA copy numbers vary from cells to cells, and are uncorrelated in the same cell ([Taniguchi2010](reference/Taniguchi2010.md)).  Biomechanical forces (hemodynamics forces, tensions, stresses) are therefore ignored in this framework althought crucial ([Lucitti2007](reference/Lucitti2007.md), [Tang2004](reference/Tang2004.md), [Muller2003](reference/Muller2003.md), [Rot-Nikcevic2007](reference/Rot-Nikcevic2007.md), [Jakkaraju2003](reference/Jakkaraju2003.md)).  \n\n\n\n\n",
-    "lastmodified": "2022-12-11T19:50:36.943621383+01:00",
+    "content": "\n## **Is Information a proper observable for biological organization?**     \nby Longo G., Miquel P., Sonnenschein C., Soto A.M. (2012)   \n*Progress in biophysics and molecular biology* 109: 108-114      \nDOI: 10.1016/j.pbiomolbio.2012.06.004\n\nReference: [Longo2012](reference/Longo2012.md)\n\n\n#### The central dogma of biology was formulated during the thriving era of computer programs.\nThe concepts of (hardware and software-independent) [computability](concept/computability.md), elaboration of information (reading and programming) with [Turing machine](concept/Turing%20machine.md)s were developped in 1930-1936. At the end of WW2 (and cryptography played a major role during this period), [Schrodinger's code-script aperiodic crystal](concept/Schrodinger's%20code-script%20aperiodic%20crystal.md) hints at informational encoding in chromosomes, such as *programs*. The discovery of DNA by Crick and Watson in 1953 happened just after this flourishing era of mathematical logic and computation. The theory in molecular biology relies on [Crick's central dogma](concept/Crick's%20central%20dogma.md) that explains [Mendelian inheritance](concept/Mendelian%20inheritance.md) with the four bases discovered in the DNA.\n\n#### The informational metaphor prompts biologist to think about biological phenomena in terms of programs.\nIt relies on an informational metaphor and states linear causation from the DNA to the proteins. However, it is a misleading metaphor because it forces the way to think about biological problems. Indeed, most biologists see the genome as the \"program\" for producing proteins ([Danchin2002](reference/Danchin2002.md)). This view direclty eliminates the radical materiality of living organisms. For instance, Maynard Smith states:\n\n\u003e [!quote] \n\u003e\n\u003eThere is, however, one feature of the control of development which closely resembles both a computer program, and verbal instructions. This is the symbolic nature of the process (...) —  ([MaynardSmith1999](reference/MaynardSmith1999.md), p. 398)  \n \n#### However, programs rely on a very specific structure of determination...\nProgramming or encoding/decoding in cryptography implies the writing and reading of **symbols** on **discrete** entities. The concept of [computability](concept/computability.md) requires **identical iterations**,  **portability** (software on hardware), **linear causation**, **predictability** (because of discreteness) and therefore implies [Laplacian determinism](concept/Laplacian%20determinism.md). \n\n\n#### ...and the information concept is for the living is at best vague\nMoreover, information is not well-defined for the living because it has ambiguous links with [entropy](definition/entropy.md) that play a major role in biology. Following [Brillouin's relation between entropy and information](concept/Brillouin's%20relation%20between%20entropy%20and%20information.md), information is linked to [negentropy](concept/negentropy.md) as:  `high information = low entropy` . On the other hand, following [Kolmogorov's incompressibility](concept/Kolmogorov's%20incompressibility.md) and [Chaitin's algorithmic randomness](concept/Chaitin's%20algorithmic%20randomness.md) interpretation, we obtain `low compressibility = high randomnness` . If we now follow two commons interpretations, which are `high information = low compressibility`, and  `high randomnness = high entropy`,  we get a contradiction with [Brillouin's relation between entropy and information](concept/Brillouin's%20relation%20between%20entropy%20and%20information.md). Yet, as pointed out by Schrödinger ([Schrodinger1944](reference/Schrodinger1944.md)), it seems that organisms manage to \"resist\" the [second principle of thermodynamics](concept/second%20principle%20of%20thermodynamics.md) so nothing is absurd here, but everything is vague. \n\n#### This structure of determination is an epistemological bias for biologists.\nThe DNA \"software\" taken from one cell (the \"hardware\") is not portable. For example, cloning has a very law succes and need to resort to \"epigenetics reprogramming\" ([Matoba2018](reference/Matoba2018.md)). From this perspective, it is, however, possible for humans to \"reprogram\" evolution ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md)). The informational metaphor encourages the observer to think in terms of discrete entities. However, there is no Turing's architect and robust, iterative steps.  Yet, molecules play the role of discrete entities containing information. The arguments use the vocabulary such as \"signals\", \"activator-receptor\", or \"docking\".  However, the use of the notion of [computability](concept/computability.md) in biology cannot account for continuous shape deformation. Therefore, continuous shapes are not considered.  Moreover, what is present along with an informational content but cannot be digitally encoded in signs is inherently considered as noise in [Shannon's theory of information transmission](concept/Shannon's%20theory%20of%20information%20transmission.md).  It therefore contributes to deteriorate the informational content due to the information-theoretic application of [second principle of thermodynamics](concept/second%20principle%20of%20thermodynamics.md). \n\n\u003e [!quote] \n\u003e\n\u003eIf a wire or a computer are compressed, pulled or twisted, these actions will not increase the information that they are transmitting or elaborating, neither in practice nor in principle. —  ([Longo2012](reference/Longo2012.md), p. 6) \n\n For example, [Anfinsen's dogma](concept/Anfinsen's%20dogma.md) has narrowed the research activity regarding the [protein folding problem](concept/protein%20folding%20problem.md). Moreover, [Crick's central dogma](concept/Crick's%20central%20dogma.md) suggests that isogenic cells are identical whereas protein and mRNA copy numbers vary from cells to cells, and are uncorrelated in the same cell ([Taniguchi2010](reference/Taniguchi2010.md)).  Biomechanical forces (hemodynamics forces, tensions, stresses) are therefore ignored in this framework althought crucial ([Lucitti2007](reference/Lucitti2007.md), [Tang2004](reference/Tang2004.md), [Muller2003](reference/Muller2003.md), [Rot-Nikcevic2007](reference/Rot-Nikcevic2007.md), [Jakkaraju2003](reference/Jakkaraju2003.md)).  \n\n\n\n\n",
+    "lastmodified": "2022-12-11T19:52:00.296098099+01:00",
     "tags": null
   },
   "/reference/Anfinsen1973": {
@@ -261,6 +327,12 @@
     "title": "Doudna2017",
     "content": "\n#### **A crack in creation: The new power to control evolution**     \nby Doudna J., Sternberg S. (2017)         \nRandom House      \n\n\n",
     "lastmodified": "2022-12-11T17:38:22.60543625+01:00",
+    "tags": null
+  },
+  "/reference/Hayek1945": {
+    "title": "Hayek1945",
+    "content": "\n#### **The Use of Knowledge in Society**     \nby Hayek F.A. (1945)         \n*The American Economic Review* 35: 519–530       \n\n\n",
+    "lastmodified": "2022-12-12T09:30:06.25103226+01:00",
     "tags": null
   },
   "/reference/Jakkaraju2003": {
