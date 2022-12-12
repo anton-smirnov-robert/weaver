@@ -147,6 +147,13 @@
           "text": "Crick1970"
         }
       ],
+      "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8": [
+        {
+          "source": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        }
+      ],
       "/concept/Freges-first-order-logic": [
         {
           "source": "/concept/Freges-first-order-logic",
@@ -559,6 +566,18 @@
           "text": "Boolos2007"
         }
       ],
+      "/note/literature-note-in-Henriques2013": [
+        {
+          "source": "/note/literature-note-in-Henriques2013",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/note/literature-note-in-Henriques2013",
+          "target": "/note/literature-note-on-Polanyi1962",
+          "text": "literature note on Polanyi1962"
+        }
+      ],
       "/note/literature-note-on-Hayek1945": [
         {
           "source": "/note/literature-note-on-Hayek1945",
@@ -794,6 +813,65 @@
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
         }
+      ],
+      "/note/literature-note-on-Polanyi1962": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Fischer2009",
+          "text": "Fischer2009"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "text": "Foucault's épistémè"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        }
+      ],
+      "/reference/Polanyi1962": [
+        {
+          "source": "/reference/Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        }
       ]
     },
     "backlinks": {
@@ -879,6 +957,13 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
+        }
+      ],
+      "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "text": "Foucault's épistémè"
         }
       ],
       "/concept/G%C3%B6dels-numbering": [
@@ -1378,6 +1463,13 @@
           "text": "literature note on Longo2012"
         }
       ],
+      "/note/literature-note-on-Polanyi1962": [
+        {
+          "source": "/note/literature-note-in-Henriques2013",
+          "target": "/note/literature-note-on-Polanyi1962",
+          "text": "literature note on Polanyi1962"
+        }
+      ],
       "/reference/Anfinsen1973": [
         {
           "source": "/concept/Anfinsens-dogma",
@@ -1462,6 +1554,13 @@
           "text": "Danchin2002"
         }
       ],
+      "/reference/Davies2006": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        }
+      ],
       "/reference/Deffuant2015": [
         {
           "source": "/note/literature-note-on-LiVigni2021",
@@ -1483,11 +1582,30 @@
           "text": "Estrada2013"
         }
       ],
+      "/reference/Fischer2009": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Fischer2009",
+          "text": "Fischer2009"
+        }
+      ],
       "/reference/Hayek1945": [
         {
           "source": "/note/literature-note-on-Hayek1945",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        }
+      ],
+      "/reference/Henriques2013": [
+        {
+          "source": "/note/literature-note-in-Henriques2013",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
         }
       ],
       "/reference/Horgan1995": [
@@ -1514,6 +1632,13 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
+        }
+      ],
+      "/reference/Lazebnik2018": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
         }
       ],
       "/reference/LiVigni2021": [
@@ -1568,6 +1693,20 @@
           "text": "MaynardSmith1999"
         }
       ],
+      "/reference/Mirowski2011": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        }
+      ],
+      "/reference/Morin1982": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        }
+      ],
       "/reference/Muller2003": [
         {
           "source": "/note/literature-note-on-Longo2012",
@@ -1575,11 +1714,40 @@
           "text": "Muller2003"
         }
       ],
+      "/reference/Nedeva2006": [
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        }
+      ],
       "/reference/Pines1988": [
         {
           "source": "/concept/Gell-Manns-vision-of-complexity",
           "target": "/reference/Pines1988",
           "text": "Pines1988"
+        }
+      ],
+      "/reference/Polanyi1962": [
+        {
+          "source": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/reference/Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
         }
       ],
       "/reference/Rot-Nikcevic2007": [
@@ -1805,6 +1973,11 @@
       "source": "/concept/Cricks-central-dogma",
       "target": "/reference/Crick1970",
       "text": "Crick1970"
+    },
+    {
+      "source": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
     },
     {
       "source": "/concept/Freges-first-order-logic",
@@ -2167,6 +2340,16 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/note/literature-note-in-Henriques2013",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/note/literature-note-in-Henriques2013",
+      "target": "/note/literature-note-on-Polanyi1962",
+      "text": "literature note on Polanyi1962"
+    },
+    {
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
@@ -2395,6 +2578,61 @@
       "source": "/note/literature-note-on-Longo2012",
       "target": "/reference/Jakkaraju2003",
       "text": "Jakkaraju2003"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Fischer2009",
+      "text": "Fischer2009"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+      "text": "Foucault's épistémè"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/note/literature-note-on-Polanyi1962",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/reference/Polanyi1962",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
     }
   ]
 }

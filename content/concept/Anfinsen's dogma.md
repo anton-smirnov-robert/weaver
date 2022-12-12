@@ -18,5 +18,5 @@ It is challenged by [molecular chaperon](definition/molecular%20chaperon.md), [p
 
 #### Sources
 
-[Wikipedia](https://en.wikipedia.org/wiki/Anfinsen%27s_dogma)
+[Wikipedia](https://en.wikipedia.org/wiki/Anfinsen%27s_dogma)    
 [Anfinsen1973](reference/Anfinsen1973.md)
