@@ -559,6 +559,23 @@
           "text": "Boolos2007"
         }
       ],
+      "/note/literature-note-on-Hayek1945": [
+        {
+          "source": "/note/literature-note-on-Hayek1945",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/literature-note-on-Hayek1945",
+          "target": "/concept/Cricks-central-dogma",
+          "text": "Crick's central dogma"
+        },
+        {
+          "source": "/note/literature-note-on-Hayek1945",
+          "target": "/note/literature-note-on-Longo2012",
+          "text": "literature note on Longo2012"
+        }
+      ],
       "/note/literature-note-on-LiVigni2021": [
         {
           "source": "/note/literature-note-on-LiVigni2021",
@@ -865,6 +882,11 @@
         }
       ],
       "/concept/Cricks-central-dogma": [
+        {
+          "source": "/note/literature-note-on-Hayek1945",
+          "target": "/concept/Cricks-central-dogma",
+          "text": "Crick's central dogma"
+        },
         {
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
@@ -1359,6 +1381,11 @@
           "source": "/concept/Turing-machine",
           "target": "/note/literature-note-on-Longo2012",
           "text": "literature note on Longo2012"
+        },
+        {
+          "source": "/note/literature-note-on-Hayek1945",
+          "target": "/note/literature-note-on-Longo2012",
+          "text": "literature note on Longo2012"
         }
       ],
       "/reference/Anfinsen1973": [
@@ -1464,6 +1491,13 @@
           "source": "/definition/complexity-sciences",
           "target": "/reference/Estrada2013",
           "text": "Estrada2013"
+        }
+      ],
+      "/reference/Hayek1945": [
+        {
+          "source": "/note/literature-note-on-Hayek1945",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
         }
       ],
       "/reference/Horgan1995": [
@@ -2141,6 +2175,21 @@
       "source": "/definition/recursive-function",
       "target": "/reference/Boolos2007",
       "text": "Boolos2007"
+    },
+    {
+      "source": "/note/literature-note-on-Hayek1945",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/literature-note-on-Hayek1945",
+      "target": "/concept/Cricks-central-dogma",
+      "text": "Crick's central dogma"
+    },
+    {
+      "source": "/note/literature-note-on-Hayek1945",
+      "target": "/note/literature-note-on-Longo2012",
+      "text": "literature note on Longo2012"
     },
     {
       "source": "/note/literature-note-on-LiVigni2021",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97a2b34e7ecd087b",
+        "id": "a9c96889dd04037f",
         "type": "tabs",
         "children": [
           {
-            "id": "acfc6642aadba1e4",
+            "id": "4c5634dc52125faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "acfc6642aadba1e4",
+  "active": "4c5634dc52125faf",
   "lastOpenFiles": [
-    "reference/Hayek1945.md",
     "note/literature note on Hayek1945.md",
+    "reference/Hayek1945.md",
+    "reference/Longo2012.md",
     "note/literature note on LiVigni2021.md",
     "reference/LiVigni2021.md",
     "reference/Deffuant2015.md",
     "definition/backcasting.md",
     "concept/homomorphist ontology.md",
     "definition/complexity sciences.md",
-    "concept/Gell-Mann's vision of complexity.md",
-    "Pines1988.md"
+    "concept/Gell-Mann's vision of complexity.md"
   ]
 }
