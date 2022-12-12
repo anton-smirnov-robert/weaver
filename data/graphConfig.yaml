@@ -11,7 +11,7 @@ localGraph:
     enableZoom: true
     depth: 2 # set to -1 to show full graph
     scale: 2
-    repelForce: 2
+    repelForce: 1
     centerForce: 1
     linkDistance: 1
     fontSize: .5
@@ -27,7 +27,7 @@ globalGraph:
     scale: 1
     repelForce: 1
     centerForce: 1
-    linkDistance: 4
+    linkDistance: 1
     fontSize: 0.5
     opacityScale: 3
 
