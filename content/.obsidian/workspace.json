@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c96889dd04037f",
+        "id": "c506fc5a95ef12e6",
         "type": "tabs",
         "children": [
           {
-            "id": "4c5634dc52125faf",
+            "id": "48c07ffa3410d148",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Hayek1945.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/literature note on Hayek1945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/literature note on Hayek1945.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/literature note on Hayek1945.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c5634dc52125faf",
+  "active": "48c07ffa3410d148",
   "lastOpenFiles": [
+    "note/literature note on Longo2012.md",
     "note/literature note on Hayek1945.md",
     "reference/Hayek1945.md",
     "reference/Longo2012.md",
@@ -146,7 +139,6 @@
     "reference/Deffuant2015.md",
     "definition/backcasting.md",
     "concept/homomorphist ontology.md",
-    "definition/complexity sciences.md",
-    "concept/Gell-Mann's vision of complexity.md"
+    "definition/complexity sciences.md"
   ]
 }
