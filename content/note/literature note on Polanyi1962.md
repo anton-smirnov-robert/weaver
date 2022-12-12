@@ -18,7 +18,7 @@ Reference: [Polanyi1962](reference/Polanyi1962.md)
 
 #### Background
 
-Micheal Polanyi is to be distinguished from his older brother Karl. Even in both have made considerable contributions in economics, Micheal originally was a physical chemist. Karl is well-known for his critiques of self-regulating markets. In contrast, Michael was member of the Mont-Pelerin Society and a closed friend of Friedrich Hayek [Fischer2009](reference/Fischer2009.md). Micheal also made important contributions in philosophy and epistemology. His concept of *tacit knowledge* will be used by the OECD later. 
+Micheal Polanyi is to be distinguished from his older brother Karl. Even in both have made considerable contributions in economics, Micheal originally was a physical chemist. Karl is well-known for his critiques of self-regulating markets. In contrast, Michael was member of the Mont-Pelerin Society and a closed friend of Friedrich Hayek ([Fischer2009](reference/Fischer2009.md)). Michael also made important contributions in philosophy and epistemology. His concept of *tacit knowledge* will be used by the OECD later. 
 
 In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”, his model is *market-inspired*. However, he underlines that the scientific organisation cannot be reduced to the mechanisms of the market as defined by Hayek ([Hayek1945](reference/Hayek1945.md)), because it has a *higher principle*. 
 

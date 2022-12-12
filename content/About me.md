@@ -12,7 +12,8 @@ Here are the main points of my resume:
 - I have a **master's degree in analytical, physical and theoretical chemistry** from Sorbonne Université. 
 - My **PhD thesis** that was conducted at the ENS was validated recently (2019-2022). 
 
-I had the chance to work at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work at the **ENS** on various topics more related to physical chemistry such as *in silico* drug-design, molecular adsorption on surfaces, or electrostatics at interfaces. You can also download my full [CV](static/cv_francais_09_22_no_hyperlink.pdf).
+I had the chance to work at **IBM Research in Zürich** so that my first contributions were in the field of quantum algorithms for chemistry. Then, I've work at the **ENS** on various topics more related to physical chemistry such as *in silico* drug-design, molecular adsorption on surfaces, or electrostatics at interfaces. You can also download my full <a href="/images/cv_francais_09_22_no_hyperlink.pdf" >CV</a>. 
+
 
 
 #### List of publications (📄) and patents (💡)
