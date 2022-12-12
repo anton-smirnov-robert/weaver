@@ -93,7 +93,7 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": true,
+      "keepUpdated": false,
       "worker": true
     }
   },
@@ -7318,6 +7318,48 @@
       "publicationTitle": "Intelligence de la complexit\u00e9"
     },
     {
+      "key": "N6GH3DXA",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "M\u00e9dia Diffusion",
+      "date": "2013",
+      "libraryCatalog": "Google Scholar",
+      "title": "La m\u00e9thode: la nature de la nature",
+      "shortTitle": "La m\u00e9thode",
+      "creators": [
+        {
+          "firstName": "Edgar",
+          "lastName": "Morin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-12T18:33:40Z",
+      "dateModified": "2022-12-12T18:33:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/N6GH3DXA",
+      "itemID": 5902,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-12T18:33:54Z",
+          "dateModified": "2022-12-12T18:33:54Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/HDGNQNIX",
+          "path": "/Users/robert/Zotero/storage/HDGNQNIX/books.html",
+          "select": "zotero://select/library/items/HDGNQNIX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Morin2013a",
+      "citekey": "Morin2013a",
+      "itemKey": "N6GH3DXA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/N6GH3DXA"
+    },
+    {
       "key": "5G37W6AM",
       "version": 0,
       "itemType": "journalArticle",
@@ -8458,7 +8500,20 @@
           "select": "zotero://select/library/items/45B2KQHP"
         }
       ],
-      "notes": [],
+      "notes": [
+        {
+          "key": "TB9AC27Q",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "92C5E87I",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F92C5E87I%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F92C5E87I%22%2C%22type%22%3A%22article-journal%22%2C%22container-title%22%3A%22Minerva%22%2C%22DOI%22%3A%2210.1007%2FBF01101453%22%2C%22ISSN%22%3A%221573-1871%22%2C%22issue%22%3A%221%22%2C%22journalAbbreviation%22%3A%22Minerva%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%2254-73%22%2C%22source%22%3A%22Springer%20Link%22%2C%22title%22%3A%22The%20Republic%20of%20science%22%2C%22URL%22%3A%22https%3A%2F%2Fdoi.org%2F10.1007%2FBF01101453%22%2C%22volume%22%3A%221%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Polanyi%22%2C%22given%22%3A%22Michael%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C10%2C26%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%221962%22%2C9%2C1%5D%5D%7D%2C%22citation-key%22%3A%22Polanyi1962%22%7D%7D%5D\" data-schema-version=\"8\"><h1></h1>\n<p>The Republic of Science shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence depends on its constant self-renewal through the originality of its followers. <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2F92C5E87I%22%5D%2C%22locator%22%3A%2272%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Polanyi, 1962, p. 72</span>)</span></p>\n<p></p>\n</div>",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2022-12-12T17:51:00Z",
+          "dateModified": "2022-12-12T17:51:41Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/TB9AC27Q"
+        }
+      ],
       "citationKey": "Polanyi1962",
       "citekey": "Polanyi1962",
       "itemKey": "92C5E87I",
