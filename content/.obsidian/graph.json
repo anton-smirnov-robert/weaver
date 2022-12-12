@@ -11,35 +11,28 @@
       "query": "path:concept",
       "color": {
         "a": 1,
-        "rgb": 1274584
+        "rgb": 6046945
       }
     },
     {
       "query": "path:note",
       "color": {
         "a": 1,
-        "rgb": 14950924
+        "rgb": 16239942
       }
     },
     {
       "query": "path:reference",
       "color": {
         "a": 1,
-        "rgb": 15110917
+        "rgb": 5214578
       }
     },
     {
       "query": "path:definition",
       "color": {
         "a": 1,
-        "rgb": 8250237
-      }
-    },
-    {
-      "query": "file:Where am I?",
-      "color": {
-        "a": 1,
-        "rgb": 14618083
+        "rgb": 11947584
       }
     }
   ],
@@ -49,10 +42,10 @@
   "nodeSizeMultiplier": 2.25730794270833,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 1,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8795038966951859,
+  "linkDistance": 30,
+  "scale": 1.2840726910937799,
   "close": false
 }

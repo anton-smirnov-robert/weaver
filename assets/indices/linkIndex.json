@@ -167,7 +167,7 @@
         },
         {
           "source": "/concept/G%C3%B6dels-incompleteness-theorem",
-          "target": "/Tarskis-undefinability-theorem",
+          "target": "/concept/Tarskis-undefinability-theorem",
           "text": "Tarski's undefinability theorem"
         }
       ],
@@ -809,13 +809,6 @@
           "text": "about me"
         }
       ],
-      "/Tarskis-undefinability-theorem": [
-        {
-          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
-          "target": "/Tarskis-undefinability-theorem",
-          "text": "Tarski's undefinability theorem"
-        }
-      ],
       "/about-the-website": [
         {
           "source": "/Where-am-I",
@@ -969,6 +962,13 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Shannons-theory-of-information-transmission",
           "text": "Shannon's theory of information transmission"
+        }
+      ],
+      "/concept/Tarskis-undefinability-theorem": [
+        {
+          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "target": "/concept/Tarskis-undefinability-theorem",
+          "text": "Tarski's undefinability theorem"
         }
       ],
       "/concept/Turing-machine": [
@@ -1828,7 +1828,7 @@
     },
     {
       "source": "/concept/G%C3%B6dels-incompleteness-theorem",
-      "target": "/Tarskis-undefinability-theorem",
+      "target": "/concept/Tarskis-undefinability-theorem",
       "text": "Tarski's undefinability theorem"
     },
     {

@@ -8,7 +8,7 @@ tags:
 - concept
 ---
 
-We attribute a number (using [Gödel's numbering](concept/Gödel's%20numbering.md)) to each statement of mathematics. Using [[Tarski's undefinability theorem]], we obtain 
+We attribute a number (using [Gödel's numbering](concept/Gödel's%20numbering.md)) to each statement of mathematics. Using [Tarski's undefinability theorem](concept/Tarski's%20undefinability%20theorem.md), we obtain 
 ```There is no mathematical formula that says which statements are true.``` Therefore, the statement  ```Are true solely the statements that can be demonstrated.``` is therefore false. 
 Henceforth,  ```In any formal system, there are true statements that cannot be demonstrated.```
 

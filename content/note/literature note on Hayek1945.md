@@ -20,7 +20,7 @@ Briefly, we sketch the essence of a market organization. Essentially, it amounts
 
 >[!quote]
 >
-(...) only by far-reaching decentralization in a market system with competition and free price-fixing is it possible to make full use of knowledge and information. — [The Royal Swedish Academy of Sciences 1974.](https://www.nobelprize.org/prizes/economic-sciences/1974/press-release/)
+>(...) only by far-reaching decentralization in a market system with competition and free price-fixing is it possible to make full use of knowledge and information. — [The Royal Swedish Academy of Sciences 1974.](https://www.nobelprize.org/prizes/economic-sciences/1974/press-release/)
 
 #### Decentralization is the most efficient organization to react quickly to changes 
 According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand. Planning how everyone should react from a central point is nearly impossible, because it would require centralizing all kinds of knowledge that are dispersed among all people to come up with the best plan. 

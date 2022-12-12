@@ -11,8 +11,12 @@
             "id": "48c07ffa3410d148",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/literature note on Hayek1945.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hayek",
+                "query": "lit Hayek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/literature note on Hayek1945.md"
+              }
             }
           }
         ]
@@ -130,6 +139,7 @@
   },
   "active": "48c07ffa3410d148",
   "lastOpenFiles": [
+    "concept/Gödel's incompleteness theorem.md",
     "note/literature note on Longo2012.md",
     "note/literature note on Hayek1945.md",
     "reference/Hayek1945.md",
@@ -138,7 +148,6 @@
     "reference/LiVigni2021.md",
     "reference/Deffuant2015.md",
     "definition/backcasting.md",
-    "concept/homomorphist ontology.md",
-    "definition/complexity sciences.md"
+    "concept/homomorphist ontology.md"
   ]
 }
