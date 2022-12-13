@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About me.md",
+                "file": "manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About me.md",
+                "file": "manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About me.md",
+                "file": "manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About me.md"
+                "file": "manifesto.md"
               }
             }
           }
@@ -138,11 +138,11 @@
   },
   "active": "b6fb588870cf8788",
   "lastOpenFiles": [
+    "About me.md",
     "manifesto.md",
     "note/literature note on Henriques2013.md",
     "note/literature note on Polanyi1962.md",
     "images/cv_francais_09_22_no_hyperlink.md",
-    "About me.md",
     "Where am I?.md",
     "Sans titre.md",
     "concept/Tarski's undefinability theorem.md",
