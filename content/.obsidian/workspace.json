@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Henriques2013.md",
+                "file": "About me.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/literature note on Henriques2013.md",
+                "file": "About me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/literature note on Henriques2013.md",
+                "file": "About me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/literature note on Henriques2013.md"
+                "file": "About me.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "b6fb588870cf8788",
   "lastOpenFiles": [
+    "manifesto.md",
+    "note/literature note on Henriques2013.md",
     "note/literature note on Polanyi1962.md",
     "images/cv_francais_09_22_no_hyperlink.md",
     "About me.md",
     "Where am I?.md",
     "Sans titre.md",
     "concept/Tarski's undefinability theorem.md",
-    "note/literature note on Henriques2013.md",
     "note/literature note on Hayek1945.md",
-    "reference/Henriques2013.md",
-    "note/Sans titre 1.md"
+    "reference/Henriques2013.md"
   ]
 }
