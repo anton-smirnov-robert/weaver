@@ -566,18 +566,6 @@
           "text": "Boolos2007"
         }
       ],
-      "/note/literature-note-in-Henriques2013": [
-        {
-          "source": "/note/literature-note-in-Henriques2013",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/note/literature-note-in-Henriques2013",
-          "target": "/note/literature-note-on-Polanyi1962",
-          "text": "literature note on Polanyi1962"
-        }
-      ],
       "/note/literature-note-on-Hayek1945": [
         {
           "source": "/note/literature-note-on-Hayek1945",
@@ -588,6 +576,18 @@
           "source": "/note/literature-note-on-Hayek1945",
           "target": "/note/literature-note-on-Longo2012",
           "text": "literature note on Longo2012"
+        }
+      ],
+      "/note/literature-note-on-Henriques2013": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/note/literature-note-on-Polanyi1962",
+          "text": "literature note on Polanyi1962"
         }
       ],
       "/note/literature-note-on-LiVigni2021": [
@@ -1465,7 +1465,7 @@
       ],
       "/note/literature-note-on-Polanyi1962": [
         {
-          "source": "/note/literature-note-in-Henriques2013",
+          "source": "/note/literature-note-on-Henriques2013",
           "target": "/note/literature-note-on-Polanyi1962",
           "text": "literature note on Polanyi1962"
         }
@@ -1603,7 +1603,7 @@
       ],
       "/reference/Henriques2013": [
         {
-          "source": "/note/literature-note-in-Henriques2013",
+          "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         }
@@ -2340,16 +2340,6 @@
       "text": "Boolos2007"
     },
     {
-      "source": "/note/literature-note-in-Henriques2013",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
-    },
-    {
-      "source": "/note/literature-note-in-Henriques2013",
-      "target": "/note/literature-note-on-Polanyi1962",
-      "text": "literature note on Polanyi1962"
-    },
-    {
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
@@ -2358,6 +2348,16 @@
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/note/literature-note-on-Longo2012",
       "text": "literature note on Longo2012"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/note/literature-note-on-Polanyi1962",
+      "text": "literature note on Polanyi1962"
     },
     {
       "source": "/note/literature-note-on-LiVigni2021",
