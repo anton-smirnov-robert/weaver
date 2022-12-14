@@ -1,3 +1,3 @@
 git add .
-git commit -m "deploy"
+git commit -m "favicon"
 git push origin hugo
