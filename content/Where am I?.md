@@ -11,7 +11,7 @@ You are on my personal website. You can find out [about me](About%20me.md) by cl
 
 I built **Weaver** (*tisserand*/*tisserin* in french) to organize and access my literature notes, but also to prompt me to read academic articles/books properly. 
 Essentially, this website is the product of my use of the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method. It takes the form of a local [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) with a graphical interface. 
-It is public to give an example of an original academic workflow, and because I'm thinking about peer-reviewed collaborative work in the future.
+It is available online public to give an example of an original academic workflow, and because I'm thinking about using it for peer-reviewed collaborative work.
 
 This website mostly contain entries related to **theoretical biology**, **epistemology**, and **history and philosophy of science**.
 I split the entries in **four tags**:

@@ -11,8 +11,12 @@
             "id": "efdc20445916d758",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Where am I?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Where am I?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Where am I?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Where am I?.md"
+              }
             }
           }
         ]
@@ -130,6 +138,7 @@
   },
   "active": "efdc20445916d758",
   "lastOpenFiles": [
+    "about the website.md",
     "manifesto.md",
     "note/literature note on Longo2012.md",
     "About me.md",
@@ -138,7 +147,6 @@
     "images/cv_francais_09_22_no_hyperlink.md",
     "Where am I?.md",
     "Sans titre.md",
-    "concept/Tarski's undefinability theorem.md",
-    "note/literature note on Hayek1945.md"
+    "concept/Tarski's undefinability theorem.md"
   ]
 }
