@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e295891e7997988",
+        "id": "db2ea3b3ac7f3517",
         "type": "tabs",
         "children": [
           {
-            "id": "b6fb588870cf8788",
+            "id": "94b6b8da320fd01b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manifesto.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "manifesto.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6fb588870cf8788",
+  "active": "94b6b8da320fd01b",
   "lastOpenFiles": [
-    "About me.md",
     "manifesto.md",
+    "About me.md",
     "note/literature note on Henriques2013.md",
     "note/literature note on Polanyi1962.md",
     "images/cv_francais_09_22_no_hyperlink.md",
