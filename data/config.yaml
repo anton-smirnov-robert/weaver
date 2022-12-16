@@ -64,9 +64,11 @@ page_title:
   "Weaver"
 
 # links to show in the footer
-#links:
-#  - link_name: Google Scholar
-#    link: https://scholar.google.com/citations?user=i5YQTPMAAAAJ&hl=en
+links:
+  - link_name: Where am I?
+    link: "/Where-am-I"
+  - link_name: About me
+    link: "/About-me" 
 
 favicon:
   - { rel: "shortcut icon", href: "weaver.png", type: "image/png" }

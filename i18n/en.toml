@@ -28,6 +28,9 @@ other = "No backlinks found"
 [home]
 other = "Back to global graph"
 
+[where]
+other = "Where am I ?"
+
 [light_mode]
 other = "Light Mode"
 
