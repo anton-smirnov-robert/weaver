@@ -8,7 +8,7 @@ tags:
 - concept
 ---
 
-*A decision problem is decidable if there exists an effective procedure to dderive the answer (see [effective computability](concept/effective%20computability.md)).* 
+*A decision problem is decidable if there exists an effective procedure to derive the answer (see [effective computability](concept/effective%20computability.md)).* 
 
 
 #### Source
