@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manifesto.md",
+                "file": "About me.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manifesto.md",
+                "file": "About me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manifesto.md",
+                "file": "About me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manifesto.md"
+                "file": "About me.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "005e156608b0dd56",
   "lastOpenFiles": [
+    "manifesto.md",
     "concept/Gödel's numbering.md",
     "concept/Turing machine.md",
     "concept/Cantor's diagonal argument.md",
@@ -146,7 +147,6 @@
     "concept/decidability.md",
     "concept/formal language.md",
     "concept/Tarski's undefinability theorem.md",
-    "definition/deductive system.md",
-    "definition/semantic.md"
+    "definition/deductive system.md"
   ]
 }
