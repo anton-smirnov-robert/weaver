@@ -93,12 +93,12 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": false,
+      "keepUpdated": true,
       "worker": true
     }
   },
   "version": {
-    "zotero": "6.0.18",
+    "zotero": "6.0.19",
     "bbt": "6.7.43"
   },
   "collections": {},
@@ -4563,7 +4563,7 @@
       "select": "zotero://select/library/items/NSTZ3MGG"
     },
     {
-      "key": "B2DWLUXY",
+      "key": "8UAI54QH",
       "version": 0,
       "itemType": "journalArticle",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0048733312002120",
@@ -4575,10 +4575,9 @@
       "date": "4/2013",
       "journalAbbreviation": "Research Policy",
       "DOI": "10.1016/j.respol.2012.09.004",
-      "accessDate": "2022-11-23T13:25:36Z",
+      "accessDate": "2022-12-30T16:19:29Z",
       "libraryCatalog": "DOI.org (Crossref)",
       "language": "en",
-      "abstractNote": "The paper unveils the 'OECD model' for policy-making in research and development diffused by the Organisation for Economic and Co-operation and Development (OECD) in the 1960s. Detailed analysis of the national reviews conducted by the OECD permitted the identification and characterisation of five central functions that organise the policy process and its implementation. The main functions identified are horizontal coordination and advice, planning and budgeting, priority-setting, resources allocation and administration. The paper further explores the reasons for the fast diffusion of the model in OECD countries and beyond, as well as the features that explain its longevity.",
       "title": "Policy-making in science policy: The \u2018OECD model\u2019 unveiled",
       "shortTitle": "Policy-making in science policy",
       "creators": [
@@ -4595,28 +4594,28 @@
       ],
       "tags": [],
       "relations": [],
-      "dateAdded": "2022-11-23T13:25:36Z",
-      "dateModified": "2022-11-23T13:25:36Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/B2DWLUXY",
-      "itemID": 5669,
+      "dateAdded": "2022-12-30T16:19:29Z",
+      "dateModified": "2022-12-30T16:19:29Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/8UAI54QH",
+      "itemID": 5914,
       "attachments": [
         {
           "itemType": "attachment",
           "title": "Henriques et Lar\u00e9do - 2013 - Policy-making in science policy The \u2018OECD model\u2019 .pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2022-11-23T13:25:25Z",
-          "dateModified": "2022-11-23T13:25:37Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/JNGBJFB9",
-          "path": "/Users/robert/Dropbox/zotero/storage/JNGBJFB9/Henriques et Lar\u00e9do - 2013 - Policy-making in science policy The \u2018OECD model\u2019 .pdf",
-          "select": "zotero://select/library/items/JNGBJFB9"
+          "dateAdded": "2022-12-30T16:19:25Z",
+          "dateModified": "2022-12-30T16:19:30Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/6XX9AU3F",
+          "path": "/Users/robert/Dropbox/zotero/storage/6XX9AU3F/Henriques et Lar\u00e9do - 2013 - Policy-making in science policy The \u2018OECD model\u2019 .pdf",
+          "select": "zotero://select/library/items/6XX9AU3F"
         }
       ],
       "notes": [],
       "citationKey": "Henriques2013",
-      "itemKey": "B2DWLUXY",
+      "itemKey": "8UAI54QH",
       "libraryID": 1,
-      "select": "zotero://select/library/items/B2DWLUXY"
+      "select": "zotero://select/library/items/8UAI54QH"
     },
     {
       "key": "33CCB3XQ",
@@ -10154,40 +10153,6 @@
       "itemKey": "J87GICY5",
       "libraryID": 1,
       "select": "zotero://select/library/items/J87GICY5"
-    },
-    {
-      "key": "WFQFE336",
-      "version": 0,
-      "itemType": "webpage",
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=i5YQTPMAAAAJ&citation_for_view=i5YQTPMAAAAJ:Se3iqnhoufwC",
-      "accessDate": "2022-12-09T17:10:45Z",
-      "abstractNote": "\u202aA Robert, H Berthoumieux, ML Bocquet\u202c, \u202aarXiv e-prints, 2022\u202c",
-      "title": "\u202aCoupled interactions at the ionic graphene/water interface\u202c",
-      "creators": [],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2022-12-09T17:10:45Z",
-      "dateModified": "2022-12-09T17:10:45Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/WFQFE336",
-      "itemID": 5866,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Snapshot",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2022-12-09T17:10:50Z",
-          "dateModified": "2022-12-09T17:10:50Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/BZD9WAI9",
-          "path": "/Users/robert/Dropbox/zotero/storage/BZD9WAI9/citations.html",
-          "select": "zotero://select/library/items/BZD9WAI9"
-        }
-      ],
-      "notes": [],
-      "citationKey": "zotero-5866",
-      "itemKey": "WFQFE336",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/WFQFE336"
     },
     {
       "key": "4GA7FV8V",
