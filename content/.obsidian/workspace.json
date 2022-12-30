@@ -11,12 +11,8 @@
             "id": "50a8fddb63407bef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Henriques2013.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/literature note on Henriques2013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/literature note on Henriques2013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/literature note on Henriques2013.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "50a8fddb63407bef",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
+    "reference/Henriques2013a.md",
+    "reference/Henriques2013.md",
+    "note/literature note on Henriques2013.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Hayek1945.md",
-    "note/literature note on Henriques2013.md",
     "note/literature note on LiVigni2021.md",
     "note/literature note on Longo2012.md",
     "reference/Danchin2002.md",
     "definition/complexity sciences.md",
-    "concept/computability.md",
-    "Canvas.canvas",
-    "manifesto.md"
+    "concept/computability.md"
   ]
 }
