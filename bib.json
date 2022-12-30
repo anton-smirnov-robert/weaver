@@ -9,7 +9,7 @@
       "autoAbbrev": false,
       "autoAbbrevStyle": "",
       "autoExport": "immediate",
-      "autoExportDelay": 5,
+      "autoExportDelay": 2,
       "autoExportIdleWait": 10,
       "autoExportPathReplaceDiacritics": false,
       "autoExportPathReplaceDirSep": "-",
@@ -29,7 +29,7 @@
       "citeCommand": "cite",
       "citekeyFold": true,
       "citekeyFormat": "auth +  year",
-      "citekeyFormatBackup": "",
+      "citekeyFormatBackup": "auth +  year",
       "citekeySearch": false,
       "csquotes": "",
       "DOIandURL": "both",
@@ -99,7 +99,7 @@
   },
   "version": {
     "zotero": "6.0.18",
-    "bbt": "6.7.42"
+    "bbt": "6.7.43"
   },
   "collections": {},
   "items": [
@@ -233,13 +233,12 @@
           "dateAdded": "2022-10-28T18:17:23Z",
           "dateModified": "2022-10-28T18:17:23Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/J8WDTWSR",
-          "path": "/Users/robert/Zotero/storage/J8WDTWSR/peter-higgs-boson-academic-system.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/J8WDTWSR/peter-higgs-boson-academic-system.html",
           "select": "zotero://select/library/items/J8WDTWSR"
         }
       ],
       "notes": [],
       "citationKey": "Aitkenhead2013",
-      "citekey": "Aitkenhead2013",
       "itemKey": "TJCNAYBL",
       "libraryID": 1,
       "select": "zotero://select/library/items/TJCNAYBL"
@@ -295,13 +294,12 @@
           "dateAdded": "2022-11-03T22:17:24Z",
           "dateModified": "2022-11-03T22:17:24Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/YRV4WLJV",
-          "path": "/Users/robert/Zotero/storage/YRV4WLJV/Aksnes et al. - 2019 - Citations, Citation Indicators, and Research Quali.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/YRV4WLJV/Aksnes et al. - 2019 - Citations, Citation Indicators, and Research Quali.pdf",
           "select": "zotero://select/library/items/YRV4WLJV"
         }
       ],
       "notes": [],
       "citationKey": "Aksnes2019",
-      "citekey": "Aksnes2019",
       "itemKey": "GL5JK9FW",
       "libraryID": 1,
       "select": "zotero://select/library/items/GL5JK9FW"
@@ -359,13 +357,12 @@
           "dateAdded": "2022-10-28T18:05:32Z",
           "dateModified": "2022-10-28T18:05:32Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/CYQ282BZ",
-          "path": "/Users/robert/Zotero/storage/CYQ282BZ/Alberts et al. - 2014 - Rescuing US biomedical research from its systemic .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/CYQ282BZ/Alberts et al. - 2014 - Rescuing US biomedical research from its systemic .pdf",
           "select": "zotero://select/library/items/CYQ282BZ"
         }
       ],
       "notes": [],
       "citationKey": "Alberts2014",
-      "citekey": "Alberts2014",
       "itemKey": "AWZWB5RJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/AWZWB5RJ"
@@ -412,13 +409,12 @@
           "dateAdded": "2022-11-20T10:18:02Z",
           "dateModified": "2022-11-20T10:18:07Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HBCNASZR",
-          "path": "/Users/robert/Zotero/storage/HBCNASZR/Alombert et Krzykawski - 2021 - Vocabulaire de l\u2019Internation Introduction aux con.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HBCNASZR/Alombert et Krzykawski - 2021 - Vocabulaire de l\u2019Internation Introduction aux con.pdf",
           "select": "zotero://select/library/items/HBCNASZR"
         }
       ],
       "notes": [],
       "citationKey": "Alombert2021",
-      "citekey": "Alombert2021",
       "itemKey": "RSVGRT9W",
       "libraryID": 1,
       "select": "zotero://select/library/items/RSVGRT9W"
@@ -495,13 +491,12 @@
           "dateAdded": "2022-10-30T19:02:46Z",
           "dateModified": "2022-10-30T19:02:46Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/DBFUSRPI",
-          "path": "/Users/robert/Zotero/storage/DBFUSRPI/Anderson et al. - 2007 - The Perverse Effects of Competition on Scientists\u2019.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/DBFUSRPI/Anderson et al. - 2007 - The Perverse Effects of Competition on Scientists\u2019.pdf",
           "select": "zotero://select/library/items/DBFUSRPI"
         }
       ],
       "notes": [],
       "citationKey": "Anderson2007",
-      "citekey": "Anderson2007",
       "itemKey": "CGN3ITLW",
       "libraryID": 1,
       "select": "zotero://select/library/items/CGN3ITLW"
@@ -552,13 +547,12 @@
           "dateAdded": "2022-10-20T17:53:01Z",
           "dateModified": "2022-10-20T17:53:01Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/69DQCRZC",
-          "path": "/Users/robert/Zotero/storage/69DQCRZC/pb-theory.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/69DQCRZC/pb-theory.html",
           "select": "zotero://select/library/items/69DQCRZC"
         }
       ],
       "notes": [],
       "citationKey": "Anderson2008",
-      "citekey": "Anderson2008",
       "itemKey": "HDWLW4FC",
       "libraryID": 1,
       "select": "zotero://select/library/items/HDWLW4FC"
@@ -686,7 +680,6 @@
       ],
       "notes": [],
       "citationKey": "Anfinsen1973",
-      "citekey": "Anfinsen1973",
       "itemKey": "YBSRRHEW",
       "libraryID": 1,
       "select": "zotero://select/library/items/YBSRRHEW"
@@ -715,7 +708,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Arrow",
-      "citekey": "Arrow",
       "itemKey": "K3EXP4BC",
       "libraryID": 1,
       "select": "zotero://select/library/items/K3EXP4BC"
@@ -752,7 +744,7 @@
           "dateAdded": "2022-11-24T11:58:45Z",
           "dateModified": "2022-11-24T11:58:45Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/TR5WMNH5",
-          "path": "/Users/robert/Zotero/storage/TR5WMNH5/Arrow - 1962 - Economic Welfare and the Allocation of Resources f.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/TR5WMNH5/Arrow - 1962 - Economic Welfare and the Allocation of Resources f.pdf",
           "select": "zotero://select/library/items/TR5WMNH5"
         },
         {
@@ -763,13 +755,12 @@
           "dateAdded": "2022-11-24T11:58:48Z",
           "dateModified": "2022-11-24T11:58:48Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/3YV8FPRN",
-          "path": "/Users/robert/Zotero/storage/3YV8FPRN/2144.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/3YV8FPRN/2144.html",
           "select": "zotero://select/library/items/3YV8FPRN"
         }
       ],
       "notes": [],
       "citationKey": "Arrow1962",
-      "citekey": "Arrow1962",
       "itemKey": "MXR4WWYM",
       "libraryID": 1,
       "select": "zotero://select/library/items/MXR4WWYM",
@@ -801,7 +792,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Audetat2015",
-      "citekey": "Audetat2015",
       "itemKey": "DNV5ID3G",
       "libraryID": 1,
       "select": "zotero://select/library/items/DNV5ID3G"
@@ -850,13 +840,12 @@
           "dateAdded": "2022-10-27T19:11:00Z",
           "dateModified": "2022-10-27T19:11:14Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/VGPX2UDE",
-          "path": "/Users/robert/Zotero/storage/VGPX2UDE/Auranen et Nieminen - 2010 - University research funding and publication perfor.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/VGPX2UDE/Auranen et Nieminen - 2010 - University research funding and publication perfor.pdf",
           "select": "zotero://select/library/items/VGPX2UDE"
         }
       ],
       "notes": [],
       "citationKey": "Auranen2010",
-      "citekey": "Auranen2010",
       "itemKey": "TT3LUI2H",
       "libraryID": 1,
       "select": "zotero://select/library/items/TT3LUI2H"
@@ -892,13 +881,12 @@
           "dateAdded": "2022-07-29T18:19:24Z",
           "dateModified": "2022-07-29T18:19:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/32QU9TKT",
-          "path": "/Users/robert/Zotero/storage/32QU9TKT/Bachelard - 1934 - Le nouvel esprit scientifique (1934).pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/32QU9TKT/Bachelard - 1934 - Le nouvel esprit scientifique (1934).pdf",
           "select": "zotero://select/library/items/32QU9TKT"
         }
       ],
       "notes": [],
       "citationKey": "Bachelard1934",
-      "citekey": "Bachelard1934",
       "itemKey": "XS9W4N4C",
       "libraryID": 1,
       "select": "zotero://select/library/items/XS9W4N4C"
@@ -964,13 +952,12 @@
           "dateAdded": "2022-08-24T11:55:19Z",
           "dateModified": "2022-08-24T11:55:26Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/UUSZ4PZ5",
-          "path": "/Users/robert/Zotero/storage/UUSZ4PZ5/Bailly and Longo - 2011 - Mathematics and the natural sciences the physical.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/UUSZ4PZ5/Bailly and Longo - 2011 - Mathematics and the natural sciences the physical.pdf",
           "select": "zotero://select/library/items/UUSZ4PZ5"
         }
       ],
       "notes": [],
       "citationKey": "Bailly2011",
-      "citekey": "Bailly2011",
       "itemKey": "AM379XZA",
       "libraryID": 1,
       "select": "zotero://select/library/items/AM379XZA"
@@ -1029,7 +1016,7 @@
           "dateAdded": "2022-10-20T14:19:59Z",
           "dateModified": "2022-10-20T14:19:59Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/JFM4FPIN",
-          "path": "/Users/robert/Zotero/storage/JFM4FPIN/Baker - 2016 - 1,500 scientists lift the lid on reproducibility.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/JFM4FPIN/Baker - 2016 - 1,500 scientists lift the lid on reproducibility.pdf",
           "select": "zotero://select/library/items/JFM4FPIN"
         },
         {
@@ -1040,13 +1027,12 @@
           "dateAdded": "2022-10-20T14:20:03Z",
           "dateModified": "2022-10-20T14:20:03Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/3XLXRWTX",
-          "path": "/Users/robert/Zotero/storage/3XLXRWTX/533452a.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/3XLXRWTX/533452a.html",
           "select": "zotero://select/library/items/3XLXRWTX"
         }
       ],
       "notes": [],
       "citationKey": "Baker2016",
-      "citekey": "Baker2016",
       "itemKey": "9RAD4QHF",
       "libraryID": 1,
       "select": "zotero://select/library/items/9RAD4QHF"
@@ -1124,7 +1110,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Baklanov2020a",
-      "citekey": "Baklanov2020a",
       "itemKey": "E9TZRFFE",
       "libraryID": 1,
       "select": "zotero://select/library/items/E9TZRFFE"
@@ -1176,7 +1161,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Barkoutsos2020a",
-      "citekey": "Barkoutsos2020a",
       "itemKey": "RAJPSANY",
       "libraryID": 1,
       "select": "zotero://select/library/items/RAJPSANY"
@@ -1211,7 +1195,7 @@
           "dateAdded": "2022-07-26T14:20:29Z",
           "dateModified": "2022-07-26T14:20:29Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/LJ66FH35",
-          "path": "/Users/robert/Zotero/storage/LJ66FH35/Barwise - 1982 - Handbook of mathematical logic.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/LJ66FH35/Barwise - 1982 - Handbook of mathematical logic.pdf",
           "select": "zotero://select/library/items/LJ66FH35"
         },
         {
@@ -1222,13 +1206,12 @@
           "dateAdded": "2022-07-26T14:20:08Z",
           "dateModified": "2022-07-26T14:20:08Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/JW7YWNAW",
-          "path": "/Users/robert/Zotero/storage/JW7YWNAW/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/JW7YWNAW/books.html",
           "select": "zotero://select/library/items/JW7YWNAW"
         }
       ],
       "notes": [],
       "citationKey": "Barwise1982",
-      "citekey": "Barwise1982",
       "itemKey": "VVZEEB6E",
       "libraryID": 1,
       "select": "zotero://select/library/items/VVZEEB6E"
@@ -1281,13 +1264,12 @@
           "dateAdded": "2022-07-28T12:11:08Z",
           "dateModified": "2022-07-28T12:11:08Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/BHE3SP4G",
-          "path": "/Users/robert/Zotero/storage/BHE3SP4G/Benzi et al. - 1981 - The mechanism of stochastic resonance.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/BHE3SP4G/Benzi et al. - 1981 - The mechanism of stochastic resonance.pdf",
           "select": "zotero://select/library/items/BHE3SP4G"
         }
       ],
       "notes": [],
       "citationKey": "Benzi1981",
-      "citekey": "Benzi1981",
       "itemKey": "EVNWIC2N",
       "libraryID": 1,
       "select": "zotero://select/library/items/EVNWIC2N"
@@ -1331,13 +1313,12 @@
           "dateAdded": "2022-10-27T20:18:36Z",
           "dateModified": "2022-10-27T20:18:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/TNQSQLKS",
-          "path": "/Users/robert/Zotero/storage/TNQSQLKS/Berkson - 1942 - Tests of Significance Considered as Evidence.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/TNQSQLKS/Berkson - 1942 - Tests of Significance Considered as Evidence.pdf",
           "select": "zotero://select/library/items/TNQSQLKS"
         }
       ],
       "notes": [],
       "citationKey": "Berkson1942",
-      "citekey": "Berkson1942",
       "itemKey": "9PQ856ZQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/9PQ856ZQ"
@@ -1392,13 +1373,12 @@
           "dateAdded": "2022-07-22T16:53:20Z",
           "dateModified": "2022-07-22T16:53:20Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/LVZRDLPA",
-          "path": "/Users/robert/Zotero/storage/LVZRDLPA/Bialek et al. - 2001 - Predictability, Complexity, and Learning.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/LVZRDLPA/Bialek et al. - 2001 - Predictability, Complexity, and Learning.pdf",
           "select": "zotero://select/library/items/LVZRDLPA"
         }
       ],
       "notes": [],
       "citationKey": "Bialek2001",
-      "citekey": "Bialek2001",
       "itemKey": "HGJ359QW",
       "libraryID": 1,
       "select": "zotero://select/library/items/HGJ359QW"
@@ -1452,7 +1432,7 @@
           "dateAdded": "2022-11-02T19:06:28Z",
           "dateModified": "2022-11-02T19:06:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WP2PNB66",
-          "path": "/Users/robert/Zotero/storage/WP2PNB66/Bobtcheff et al. - 2017 - Researcher\u2019s Dilemma.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WP2PNB66/Bobtcheff et al. - 2017 - Researcher\u2019s Dilemma.pdf",
           "select": "zotero://select/library/items/WP2PNB66"
         },
         {
@@ -1463,13 +1443,12 @@
           "dateAdded": "2022-11-02T19:06:19Z",
           "dateModified": "2022-11-02T19:06:19Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/4X6VY356",
-          "path": "/Users/robert/Zotero/storage/4X6VY356/2669989.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/4X6VY356/2669989.html",
           "select": "zotero://select/library/items/4X6VY356"
         }
       ],
       "notes": [],
       "citationKey": "Bobtcheff2017",
-      "citekey": "Bobtcheff2017",
       "itemKey": "ZQ9N6FS8",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZQ9N6FS8"
@@ -1512,13 +1491,12 @@
           "dateAdded": "2022-07-22T16:49:53Z",
           "dateModified": "2022-07-22T16:49:53Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/6BV7DSW2",
-          "path": "/Users/robert/Zotero/storage/6BV7DSW2/Boffetta - 2002 - Predictability a way to characterize complexity.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/6BV7DSW2/Boffetta - 2002 - Predictability a way to characterize complexity.pdf",
           "select": "zotero://select/library/items/6BV7DSW2"
         }
       ],
       "notes": [],
       "citationKey": "Boffetta2002",
-      "citekey": "Boffetta2002",
       "itemKey": "4TTSY8T4",
       "libraryID": 1,
       "select": "zotero://select/library/items/4TTSY8T4"
@@ -1570,7 +1548,7 @@
           "dateAdded": "2022-07-26T15:28:29Z",
           "dateModified": "2022-07-26T15:28:29Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HFN9HAHY",
-          "path": "/Users/robert/Zotero/storage/HFN9HAHY/Boolos et al. - 2007 - Computability and Logic.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HFN9HAHY/Boolos et al. - 2007 - Computability and Logic.pdf",
           "select": "zotero://select/library/items/HFN9HAHY"
         },
         {
@@ -1581,13 +1559,12 @@
           "dateAdded": "2022-07-26T15:28:06Z",
           "dateModified": "2022-07-26T15:28:06Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/C39BJUNE",
-          "path": "/Users/robert/Zotero/storage/C39BJUNE/440B4178B7CBF1C241694233716AB271.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/C39BJUNE/440B4178B7CBF1C241694233716AB271.html",
           "select": "zotero://select/library/items/C39BJUNE"
         }
       ],
       "notes": [],
       "citationKey": "Boolos2007",
-      "citekey": "Boolos2007",
       "itemKey": "8K595NQB",
       "libraryID": 1,
       "select": "zotero://select/library/items/8K595NQB"
@@ -1625,7 +1602,7 @@
           "dateAdded": "2022-09-08T13:34:54Z",
           "dateModified": "2022-09-08T13:34:54Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IIHPA5JL",
-          "path": "/Users/robert/Zotero/storage/IIHPA5JL/Boudes - 2008 - L'environnement, domaine sociologique La soci.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/IIHPA5JL/Boudes - 2008 - L'environnement, domaine sociologique La soci.pdf",
           "select": "zotero://select/library/items/IIHPA5JL"
         },
         {
@@ -1636,13 +1613,12 @@
           "dateAdded": "2022-09-08T13:34:45Z",
           "dateModified": "2022-09-08T13:34:45Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8JCPFABG",
-          "path": "/Users/robert/Zotero/storage/8JCPFABG/tel-00293000.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/8JCPFABG/tel-00293000.html",
           "select": "zotero://select/library/items/8JCPFABG"
         }
       ],
       "notes": [],
       "citationKey": "Boudes2008",
-      "citekey": "Boudes2008",
       "itemKey": "AF8LL93U",
       "libraryID": 1,
       "select": "zotero://select/library/items/AF8LL93U",
@@ -1680,13 +1656,12 @@
           "dateAdded": "2022-11-06T16:22:20Z",
           "dateModified": "2022-11-06T16:22:20Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/MVBQSEPI",
-          "path": "/Users/robert/Zotero/storage/MVBQSEPI/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/MVBQSEPI/books.html",
           "select": "zotero://select/library/items/MVBQSEPI"
         }
       ],
       "notes": [],
       "citationKey": "Bouleau2021",
-      "citekey": "Bouleau2021",
       "itemKey": "YD2XZY4K",
       "libraryID": 1,
       "select": "zotero://select/library/items/YD2XZY4K"
@@ -1714,7 +1689,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Bourdieu1998",
-      "citekey": "Bourdieu1998",
       "itemKey": "E7YP4U4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/E7YP4U4L"
@@ -1759,13 +1733,12 @@
           "dateAdded": "2022-07-29T10:41:36Z",
           "dateModified": "2022-07-29T10:41:44Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/CZ9KHWNN",
-          "path": "/Users/robert/Zotero/storage/CZ9KHWNN/Brillouin - 1951 - Maxwell's Demon Cannot Operate Information and En.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/CZ9KHWNN/Brillouin - 1951 - Maxwell's Demon Cannot Operate Information and En.pdf",
           "select": "zotero://select/library/items/CZ9KHWNN"
         }
       ],
       "notes": [],
       "citationKey": "Brillouin1951",
-      "citekey": "Brillouin1951",
       "itemKey": "6NJIC5JR",
       "libraryID": 1,
       "select": "zotero://select/library/items/6NJIC5JR"
@@ -1801,7 +1774,7 @@
           "dateAdded": "2022-07-29T11:22:47Z",
           "dateModified": "2022-07-29T11:23:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/UFZIAWV6",
-          "path": "/Users/robert/Zotero/storage/UFZIAWV6/Brillouin L. - Science and information theory-AP (1962).pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/UFZIAWV6/Brillouin L. - Science and information theory-AP (1962).pdf",
           "select": "zotero://select/library/items/UFZIAWV6"
         },
         {
@@ -1812,13 +1785,12 @@
           "dateAdded": "2022-07-29T11:23:43Z",
           "dateModified": "2022-07-29T11:23:43Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/JSZUB7WA",
-          "path": "/Users/robert/Zotero/storage/JSZUB7WA/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/JSZUB7WA/books.html",
           "select": "zotero://select/library/items/JSZUB7WA"
         }
       ],
       "notes": [],
       "citationKey": "Brillouin1956",
-      "citekey": "Brillouin1956",
       "itemKey": "ZY4EK8TQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZY4EK8TQ"
@@ -1897,13 +1869,12 @@
           "dateAdded": "2022-10-28T19:20:57Z",
           "dateModified": "2022-10-28T19:20:57Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/B49N6WQ8",
-          "path": "/Users/robert/Zotero/storage/B49N6WQ8/Brunila et Valero - 2018 - Anxiety and the making of research(ing) subjects i.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/B49N6WQ8/Brunila et Valero - 2018 - Anxiety and the making of research(ing) subjects i.pdf",
           "select": "zotero://select/library/items/B49N6WQ8"
         }
       ],
       "notes": [],
       "citationKey": "Brunila2018",
-      "citekey": "Brunila2018",
       "itemKey": "ZAXFIK5I",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZAXFIK5I"
@@ -1933,7 +1904,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Bush1945",
-      "citekey": "Bush1945",
       "itemKey": "8RY5Q7D7",
       "libraryID": 1,
       "select": "zotero://select/library/items/8RY5Q7D7"
@@ -1969,13 +1939,12 @@
           "dateAdded": "2022-08-11T09:17:36Z",
           "dateModified": "2022-08-11T09:17:41Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/LC4FZNL8",
-          "path": "/Users/robert/Zotero/storage/LC4FZNL8/Calude - Incompleteness, Complexity, Randomness and Beyond.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/LC4FZNL8/Calude - Incompleteness, Complexity, Randomness and Beyond.pdf",
           "select": "zotero://select/library/items/LC4FZNL8"
         }
       ],
       "notes": [],
       "citationKey": "Calude",
-      "citekey": "Calude",
       "itemKey": "BC9AIIBI",
       "libraryID": 1,
       "select": "zotero://select/library/items/BC9AIIBI"
@@ -2013,7 +1982,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Calude2017",
-      "citekey": "Calude2017",
       "itemKey": "Y6J7USB6",
       "libraryID": 1,
       "select": "zotero://select/library/items/Y6J7USB6"
@@ -2043,7 +2011,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "CenterLeoApostelVUB2022",
-      "citekey": "CenterLeoApostelVUB2022",
       "itemKey": "6YA2XP79",
       "libraryID": 1,
       "select": "zotero://select/library/items/6YA2XP79"
@@ -2080,7 +2047,7 @@
           "dateAdded": "2022-08-11T09:24:09Z",
           "dateModified": "2022-08-11T09:24:09Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/PY9F6DVD",
-          "path": "/Users/robert/Zotero/storage/PY9F6DVD/Chaitin - 1990 - Information, randomness & incompleteness papers o.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/PY9F6DVD/Chaitin - 1990 - Information, randomness & incompleteness papers o.pdf",
           "select": "zotero://select/library/items/PY9F6DVD"
         },
         {
@@ -2091,13 +2058,12 @@
           "dateAdded": "2022-08-11T09:11:34Z",
           "dateModified": "2022-08-11T09:11:34Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/JA5K36AR",
-          "path": "/Users/robert/Zotero/storage/JA5K36AR/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/JA5K36AR/books.html",
           "select": "zotero://select/library/items/JA5K36AR"
         }
       ],
       "notes": [],
       "citationKey": "Chaitin1990",
-      "citekey": "Chaitin1990",
       "itemKey": "93FZT4QK",
       "libraryID": 1,
       "select": "zotero://select/library/items/93FZT4QK"
@@ -2141,7 +2107,7 @@
           "dateAdded": "2022-08-11T10:36:23Z",
           "dateModified": "2022-08-11T10:36:29Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/RIMV6HQQ",
-          "path": "/Users/robert/Zotero/storage/RIMV6HQQ/Chaitin - 1993 - Randomness in Arithmetic and The Decline and Fall .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/RIMV6HQQ/Chaitin - 1993 - Randomness in Arithmetic and The Decline and Fall .pdf",
           "select": "zotero://select/library/items/RIMV6HQQ"
         }
       ],
@@ -2160,7 +2126,6 @@
         }
       ],
       "citationKey": "Chaitin1993",
-      "citekey": "Chaitin1993",
       "itemKey": "2NCRZMKH",
       "libraryID": 1,
       "select": "zotero://select/library/items/2NCRZMKH",
@@ -2260,13 +2225,12 @@
           "dateAdded": "2022-10-28T17:41:28Z",
           "dateModified": "2022-10-28T17:41:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/4GPYNKZW",
-          "path": "/Users/robert/Zotero/storage/4GPYNKZW/Chavalarias - 2017 - What\u2019s wrong with Science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/4GPYNKZW/Chavalarias - 2017 - What\u2019s wrong with Science.pdf",
           "select": "zotero://select/library/items/4GPYNKZW"
         }
       ],
       "notes": [],
       "citationKey": "Chavalarias2016",
-      "citekey": "Chavalarias2016",
       "itemKey": "4RPRVPHR",
       "libraryID": 1,
       "select": "zotero://select/library/items/4RPRVPHR"
@@ -2311,13 +2275,12 @@
           "dateAdded": "2022-08-11T08:43:53Z",
           "dateModified": "2022-08-11T08:43:59Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/4TCJSCYE",
-          "path": "/Users/robert/Zotero/storage/4TCJSCYE/Chavalarias - 2020 - From inert matter to the global society life as mu.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/4TCJSCYE/Chavalarias - 2020 - From inert matter to the global society life as mu.pdf",
           "select": "zotero://select/library/items/4TCJSCYE"
         }
       ],
       "notes": [],
       "citationKey": "Chavalarias2020",
-      "citekey": "Chavalarias2020",
       "itemKey": "Q8BI6FTN",
       "libraryID": 1,
       "select": "zotero://select/library/items/Q8BI6FTN"
@@ -2360,13 +2323,12 @@
           "dateAdded": "2022-10-20T16:04:34Z",
           "dateModified": "2022-10-20T16:04:34Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SACY9SR5",
-          "path": "/Users/robert/Zotero/storage/SACY9SR5/Chavalarias et Huneman - 2020 - Mirage de l'excellence et naufrage de la recherche.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SACY9SR5/Chavalarias et Huneman - 2020 - Mirage de l'excellence et naufrage de la recherche.pdf",
           "select": "zotero://select/library/items/SACY9SR5"
         }
       ],
       "notes": [],
       "citationKey": "Chavalarias2020a",
-      "citekey": "Chavalarias2020a",
       "itemKey": "RZRWTUWZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/RZRWTUWZ"
@@ -2408,13 +2370,12 @@
           "dateAdded": "2022-11-25T17:34:44Z",
           "dateModified": "2022-11-25T17:34:47Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/E5VWAWYJ",
-          "path": "/Users/robert/Zotero/storage/E5VWAWYJ/Chollat-Namy et Longo - 2022 - Entropie, Neguentropie et Anti-entropie  le jeu d.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/E5VWAWYJ/Chollat-Namy et Longo - 2022 - Entropie, Neguentropie et Anti-entropie  le jeu d.pdf",
           "select": "zotero://select/library/items/E5VWAWYJ"
         }
       ],
       "notes": [],
       "citationKey": "Chollat-Namy2022",
-      "citekey": "Chollat-Namy2022",
       "itemKey": "RE5CDG97",
       "libraryID": 1,
       "select": "zotero://select/library/items/RE5CDG97"
@@ -2469,7 +2430,7 @@
           "dateAdded": "2022-10-20T15:26:36Z",
           "dateModified": "2022-10-20T15:26:36Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QX7UNS6L",
-          "path": "/Users/robert/Zotero/storage/QX7UNS6L/Clark - 2017 - Science, lies and video-taped experiments.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/QX7UNS6L/Clark - 2017 - Science, lies and video-taped experiments.pdf",
           "select": "zotero://select/library/items/QX7UNS6L"
         },
         {
@@ -2480,13 +2441,12 @@
           "dateAdded": "2022-10-20T15:26:39Z",
           "dateModified": "2022-10-20T15:26:39Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/Q9EZ6W9R",
-          "path": "/Users/robert/Zotero/storage/Q9EZ6W9R/542139a.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/Q9EZ6W9R/542139a.html",
           "select": "zotero://select/library/items/Q9EZ6W9R"
         }
       ],
       "notes": [],
       "citationKey": "Clark2017",
-      "citekey": "Clark2017",
       "itemKey": "2MK9QRXL",
       "libraryID": 1,
       "select": "zotero://select/library/items/2MK9QRXL"
@@ -2530,7 +2490,7 @@
           "dateAdded": "2022-07-29T10:55:58Z",
           "dateModified": "2022-07-29T10:55:58Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/6YMNCF57",
-          "path": "/Users/robert/Zotero/storage/6YMNCF57/andp.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/6YMNCF57/andp.html",
           "select": "zotero://select/library/items/6YMNCF57"
         },
         {
@@ -2541,13 +2501,12 @@
           "dateAdded": "2022-07-29T10:55:58Z",
           "dateModified": "2022-07-29T10:55:58Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/3PTKWWLK",
-          "path": "/Users/robert/Zotero/storage/3PTKWWLK/Clausius - 1854 - Ueber eine ver\u00e4nderte Form des zweiten Hauptsatzes.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/3PTKWWLK/Clausius - 1854 - Ueber eine ver\u00e4nderte Form des zweiten Hauptsatzes.pdf",
           "select": "zotero://select/library/items/3PTKWWLK"
         }
       ],
       "notes": [],
       "citationKey": "Clausius1854",
-      "citekey": "Clausius1854",
       "itemKey": "GB32SD29",
       "libraryID": 1,
       "select": "zotero://select/library/items/GB32SD29"
@@ -2593,13 +2552,12 @@
           "dateAdded": "2022-09-07T22:34:31Z",
           "dateModified": "2022-09-07T22:34:31Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/FFNTAZAN",
-          "path": "/Users/robert/Zotero/storage/FFNTAZAN/Cohen-Tannoudji and No\u00ebl - 2003 - Causalit\u00e9 & finalit\u00e9.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/FFNTAZAN/Cohen-Tannoudji and No\u00ebl - 2003 - Causalit\u00e9 & finalit\u00e9.pdf",
           "select": "zotero://select/library/items/FFNTAZAN"
         }
       ],
       "notes": [],
       "citationKey": "Cohen-Tannoudji2003",
-      "citekey": "Cohen-Tannoudji2003",
       "itemKey": "8QKR5PA5",
       "libraryID": 1,
       "select": "zotero://select/library/items/8QKR5PA5"
@@ -2636,13 +2594,12 @@
           "dateAdded": "2022-07-22T17:33:10Z",
           "dateModified": "2022-07-22T17:33:10Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/P4RS3ELV",
-          "path": "/Users/robert/Zotero/storage/P4RS3ELV/Crick - 1958 - On protein synthesis.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/P4RS3ELV/Crick - 1958 - On protein synthesis.pdf",
           "select": "zotero://select/library/items/P4RS3ELV"
         }
       ],
       "notes": [],
       "citationKey": "Crick1958",
-      "citekey": "Crick1958",
       "itemKey": "9IHMW5V6",
       "libraryID": 1,
       "select": "zotero://select/library/items/9IHMW5V6",
@@ -2702,13 +2659,12 @@
           "dateAdded": "2022-07-28T15:02:00Z",
           "dateModified": "2022-07-28T15:02:00Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/KGVN2AD2",
-          "path": "/Users/robert/Zotero/storage/KGVN2AD2/Crick - 1970 - Central Dogma of Molecular Biology.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/KGVN2AD2/Crick - 1970 - Central Dogma of Molecular Biology.pdf",
           "select": "zotero://select/library/items/KGVN2AD2"
         }
       ],
       "notes": [],
       "citationKey": "Crick1970",
-      "citekey": "Crick1970",
       "itemKey": "4PATJMDM",
       "libraryID": 1,
       "select": "zotero://select/library/items/4PATJMDM"
@@ -2781,7 +2737,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Cuxart2021a",
-      "citekey": "Cuxart2021a",
       "itemKey": "7UYMQWLS",
       "libraryID": 1,
       "select": "zotero://select/library/items/7UYMQWLS"
@@ -2848,7 +2803,6 @@
       ],
       "notes": [],
       "citationKey": "Danchin2002",
-      "citekey": "Danchin2002",
       "itemKey": "WRL2FZGW",
       "libraryID": 1,
       "select": "zotero://select/library/items/WRL2FZGW"
@@ -2897,13 +2851,12 @@
           "dateAdded": "2022-10-30T18:32:37Z",
           "dateModified": "2022-10-30T18:32:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/83U7ADDQ",
-          "path": "/Users/robert/Zotero/storage/83U7ADDQ/Partha et David - 1994 - Toward a new economics of science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/83U7ADDQ/Partha et David - 1994 - Toward a new economics of science.pdf",
           "select": "zotero://select/library/items/83U7ADDQ"
         }
       ],
       "notes": [],
       "citationKey": "Dasgupta1994",
-      "citekey": "Dasgupta1994",
       "itemKey": "UBFGXP9Q",
       "libraryID": 1,
       "select": "zotero://select/library/items/UBFGXP9Q"
@@ -2958,7 +2911,7 @@
           "dateAdded": "2022-10-28T19:12:33Z",
           "dateModified": "2022-10-28T19:12:33Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/TDNL4C5W",
-          "path": "/Users/robert/Zotero/storage/TDNL4C5W/Davies et al. - 2006 - The Rise and Fall of the Neo-liberal University.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/TDNL4C5W/Davies et al. - 2006 - The Rise and Fall of the Neo-liberal University.pdf",
           "select": "zotero://select/library/items/TDNL4C5W"
         },
         {
@@ -2969,13 +2922,12 @@
           "dateAdded": "2022-10-28T19:12:23Z",
           "dateModified": "2022-10-28T19:12:23Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IKSF6Q2L",
-          "path": "/Users/robert/Zotero/storage/IKSF6Q2L/j.1465-3435.2006.00261.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/IKSF6Q2L/j.1465-3435.2006.00261.html",
           "select": "zotero://select/library/items/IKSF6Q2L"
         }
       ],
       "notes": [],
       "citationKey": "Davies2006",
-      "citekey": "Davies2006",
       "itemKey": "HRHGT9AW",
       "libraryID": 1,
       "select": "zotero://select/library/items/HRHGT9AW"
@@ -3081,7 +3033,7 @@
           "dateAdded": "2022-07-22T16:00:46Z",
           "dateModified": "2022-07-22T16:00:46Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/Q8Z2CSXN",
-          "path": "/Users/robert/Zotero/storage/Q8Z2CSXN/Davies - 2009 - Regulation, necessity, and the misinterpretation o.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/Q8Z2CSXN/Davies - 2009 - Regulation, necessity, and the misinterpretation o.pdf",
           "select": "zotero://select/library/items/Q8Z2CSXN"
         },
         {
@@ -3092,13 +3044,12 @@
           "dateAdded": "2022-07-22T16:00:52Z",
           "dateModified": "2022-07-22T16:00:52Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/XW5965II",
-          "path": "/Users/robert/Zotero/storage/XW5965II/bies.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/XW5965II/bies.html",
           "select": "zotero://select/library/items/XW5965II"
         }
       ],
       "notes": [],
       "citationKey": "Davies2009",
-      "citekey": "Davies2009",
       "itemKey": "AM3X3W85",
       "libraryID": 1,
       "select": "zotero://select/library/items/AM3X3W85"
@@ -3190,7 +3141,7 @@
           "dateAdded": "2022-08-26T08:39:28Z",
           "dateModified": "2022-08-26T08:39:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SMVUJBXU",
-          "path": "/Users/robert/Zotero/storage/SMVUJBXU/Deffuant et al. - 2015 - Visions de la complexit\u00e9. Le d\u00e9mon de Laplace dans.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SMVUJBXU/Deffuant et al. - 2015 - Visions de la complexit\u00e9. Le d\u00e9mon de Laplace dans.pdf",
           "select": "zotero://select/library/items/SMVUJBXU"
         },
         {
@@ -3201,13 +3152,12 @@
           "dateAdded": "2022-08-26T08:39:29Z",
           "dateModified": "2022-08-26T08:39:29Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/XMRXJD6M",
-          "path": "/Users/robert/Zotero/storage/XMRXJD6M/nss150007.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/XMRXJD6M/nss150007.html",
           "select": "zotero://select/library/items/XMRXJD6M"
         }
       ],
       "notes": [],
       "citationKey": "Deffuant2015",
-      "citekey": "Deffuant2015",
       "itemKey": "YNFWFK5J",
       "libraryID": 1,
       "select": "zotero://select/library/items/YNFWFK5J"
@@ -3249,7 +3199,7 @@
           "dateAdded": "2022-10-27T20:47:37Z",
           "dateModified": "2022-10-27T20:47:37Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/6J5H8ZFV",
-          "path": "/Users/robert/Zotero/storage/6J5H8ZFV/2014 - The Effectiveness of National Research Funding Sys.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/6J5H8ZFV/2014 - The Effectiveness of National Research Funding Sys.pdf",
           "select": "zotero://select/library/items/6J5H8ZFV"
         },
         {
@@ -3260,13 +3210,12 @@
           "dateAdded": "2022-10-27T20:47:28Z",
           "dateModified": "2022-10-27T20:47:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/PYT3J6NZ",
-          "path": "/Users/robert/Zotero/storage/PYT3J6NZ/the-effectiveness-of-national-research-funding-systems.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/PYT3J6NZ/the-effectiveness-of-national-research-funding-systems.html",
           "select": "zotero://select/library/items/PYT3J6NZ"
         }
       ],
       "notes": [],
       "citationKey": "Dialogic2014",
-      "citekey": "Dialogic2014",
       "itemKey": "7JVGIGAI",
       "libraryID": 1,
       "select": "zotero://select/library/items/7JVGIGAI",
@@ -3308,13 +3257,12 @@
           "dateAdded": "2022-12-08T10:48:12Z",
           "dateModified": "2022-12-08T10:48:12Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/BRFPRBIX",
-          "path": "/Users/robert/Zotero/storage/BRFPRBIX/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/BRFPRBIX/books.html",
           "select": "zotero://select/library/items/BRFPRBIX"
         }
       ],
       "notes": [],
       "citationKey": "Doudna2017",
-      "citekey": "Doudna2017",
       "itemKey": "SDGJSIMA",
       "libraryID": 1,
       "select": "zotero://select/library/items/SDGJSIMA"
@@ -3384,13 +3332,12 @@
           "dateAdded": "2022-10-20T14:12:32Z",
           "dateModified": "2022-10-20T14:12:32Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QPEYNMAX",
-          "path": "/Users/robert/Zotero/storage/QPEYNMAX/Edwards et Roy - 2017 - Academic Research in the 21st Century Maintaining.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/QPEYNMAX/Edwards et Roy - 2017 - Academic Research in the 21st Century Maintaining.pdf",
           "select": "zotero://select/library/items/QPEYNMAX"
         }
       ],
       "notes": [],
       "citationKey": "Edwards2017",
-      "citekey": "Edwards2017",
       "itemKey": "JTQ6TG6W",
       "libraryID": 1,
       "select": "zotero://select/library/items/JTQ6TG6W"
@@ -3426,13 +3373,12 @@
           "dateAdded": "2022-08-24T10:13:08Z",
           "dateModified": "2022-08-24T10:13:12Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/K4IWP35G",
-          "path": "/Users/robert/Zotero/storage/K4IWP35G/Estrada - Graph and Network Theory in Physics. A Short Intro.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/K4IWP35G/Estrada - Graph and Network Theory in Physics. A Short Intro.pdf",
           "select": "zotero://select/library/items/K4IWP35G"
         }
       ],
       "notes": [],
       "citationKey": "Estrada2013",
-      "citekey": "Estrada2013",
       "itemKey": "CBWU4UFA",
       "libraryID": 1,
       "select": "zotero://select/library/items/CBWU4UFA"
@@ -3527,13 +3473,12 @@
           "dateAdded": "2022-10-19T13:51:52Z",
           "dateModified": "2022-10-19T13:51:52Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/2G67T8WR",
-          "path": "/Users/robert/Zotero/storage/2G67T8WR/Fang et Casadevall - 2011 - Retracted science and the retraction index.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/2G67T8WR/Fang et Casadevall - 2011 - Retracted science and the retraction index.pdf",
           "select": "zotero://select/library/items/2G67T8WR"
         }
       ],
       "notes": [],
       "citationKey": "Fang2011",
-      "citekey": "Fang2011",
       "itemKey": "2ZCZJJIS",
       "libraryID": 1,
       "select": "zotero://select/library/items/2ZCZJJIS"
@@ -3585,13 +3530,12 @@
           "dateAdded": "2022-10-20T13:43:09Z",
           "dateModified": "2022-10-20T13:43:09Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IJWFK5ED",
-          "path": "/Users/robert/Zotero/storage/IJWFK5ED/Fang et al. - 2012 - Misconduct accounts for the majority of retracted .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/IJWFK5ED/Fang et al. - 2012 - Misconduct accounts for the majority of retracted .pdf",
           "select": "zotero://select/library/items/IJWFK5ED"
         }
       ],
       "notes": [],
       "citationKey": "Fang2012",
-      "citekey": "Fang2012",
       "itemKey": "Q6UWQ4XF",
       "libraryID": 1,
       "select": "zotero://select/library/items/Q6UWQ4XF"
@@ -3696,7 +3640,7 @@
           "dateAdded": "2022-07-22T16:17:27Z",
           "dateModified": "2022-07-22T16:17:27Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/6AAIU97A",
-          "path": "/Users/robert/Zotero/storage/6AAIU97A/Farge - 2003 - Mechanical induction of Twist in the Drosophila fo.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/6AAIU97A/Farge - 2003 - Mechanical induction of Twist in the Drosophila fo.pdf",
           "select": "zotero://select/library/items/6AAIU97A"
         },
         {
@@ -3719,7 +3663,6 @@
       ],
       "notes": [],
       "citationKey": "Farge2003",
-      "citekey": "Farge2003",
       "itemKey": "2ZDQTK7Z",
       "libraryID": 1,
       "select": "zotero://select/library/items/2ZDQTK7Z"
@@ -3758,7 +3701,7 @@
           "dateAdded": "2022-11-02T14:14:08Z",
           "dateModified": "2022-11-02T14:14:08Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/J5NGYVTH",
-          "path": "/Users/robert/Zotero/storage/J5NGYVTH/Festr\u00e9 et \u00d8stbye - 2020 - Michael Polanyi on creativity in science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/J5NGYVTH/Festr\u00e9 et \u00d8stbye - 2020 - Michael Polanyi on creativity in science.pdf",
           "select": "zotero://select/library/items/J5NGYVTH"
         },
         {
@@ -3769,13 +3712,12 @@
           "dateAdded": "2022-11-02T14:14:20Z",
           "dateModified": "2022-11-02T14:14:20Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/YPKMSX37",
-          "path": "/Users/robert/Zotero/storage/YPKMSX37/halshs-03036841.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/YPKMSX37/halshs-03036841.html",
           "select": "zotero://select/library/items/YPKMSX37"
         }
       ],
       "notes": [],
       "citationKey": "Festre2020",
-      "citekey": "Festre2020",
       "itemKey": "ZDGVZ4XX",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZDGVZ4XX"
@@ -3825,13 +3767,12 @@
           "dateAdded": "2022-11-16T13:49:29Z",
           "dateModified": "2022-11-16T13:49:43Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/93YI2PBE",
-          "path": "/Users/robert/Zotero/storage/93YI2PBE/Fire et Guestrin - 2019 - Over-optimization of academic publishing metrics .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/93YI2PBE/Fire et Guestrin - 2019 - Over-optimization of academic publishing metrics .pdf",
           "select": "zotero://select/library/items/93YI2PBE"
         }
       ],
       "notes": [],
       "citationKey": "Fire2019",
-      "citekey": "Fire2019",
       "itemKey": "GJLNHP5X",
       "libraryID": 1,
       "select": "zotero://select/library/items/GJLNHP5X"
@@ -3942,13 +3883,12 @@
           "dateAdded": "2022-11-02T22:28:02Z",
           "dateModified": "2022-11-02T22:28:02Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/H72UH4Q8",
-          "path": "/Users/robert/Zotero/storage/H72UH4Q8/Fischer et Mandell - 2009 - Michael Polanyi's Republic of Science The Tacit D.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/H72UH4Q8/Fischer et Mandell - 2009 - Michael Polanyi's Republic of Science The Tacit D.pdf",
           "select": "zotero://select/library/items/H72UH4Q8"
         }
       ],
       "notes": [],
       "citationKey": "Fischer2009",
-      "citekey": "Fischer2009",
       "itemKey": "GLPECEET",
       "libraryID": 1,
       "select": "zotero://select/library/items/GLPECEET"
@@ -3979,7 +3919,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "FrancoisNicolas2022",
-      "citekey": "FrancoisNicolas2022",
       "itemKey": "NWZ6KTDI",
       "libraryID": 1,
       "select": "zotero://select/library/items/NWZ6KTDI"
@@ -4034,13 +3973,12 @@
           "dateAdded": "2022-10-20T19:25:57Z",
           "dateModified": "2022-10-20T19:25:57Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/D359ZYZZ",
-          "path": "/Users/robert/Zotero/storage/D359ZYZZ/Franzoni et al. - 2011 - Changing Incentives to Publish.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/D359ZYZZ/Franzoni et al. - 2011 - Changing Incentives to Publish.pdf",
           "select": "zotero://select/library/items/D359ZYZZ"
         }
       ],
       "notes": [],
       "citationKey": "Franzoni2011",
-      "citekey": "Franzoni2011",
       "itemKey": "X7DBBPIJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/X7DBBPIJ"
@@ -4102,13 +4040,12 @@
           "dateAdded": "2022-10-20T20:40:44Z",
           "dateModified": "2022-10-20T20:41:38Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/5RKSMXNY",
-          "path": "/Users/robert/Zotero/storage/5RKSMXNY/freeman2001.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/5RKSMXNY/freeman2001.pdf",
           "select": "zotero://select/library/items/5RKSMXNY"
         }
       ],
       "notes": [],
       "citationKey": "Freeman2001",
-      "citekey": "Freeman2001",
       "itemKey": "M7QRGYTW",
       "libraryID": 1,
       "select": "zotero://select/library/items/M7QRGYTW"
@@ -4194,13 +4131,12 @@
           "dateAdded": "2022-07-22T11:44:52Z",
           "dateModified": "2022-07-22T11:44:52Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/4KL9C8R9",
-          "path": "/Users/robert/Zotero/storage/4KL9C8R9/information-biological.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/4KL9C8R9/information-biological.html",
           "select": "zotero://select/library/items/4KL9C8R9"
         }
       ],
       "notes": [],
       "citationKey": "Godfrey-Smith2016",
-      "citekey": "Godfrey-Smith2016",
       "itemKey": "MJU4B4FW",
       "libraryID": 1,
       "select": "zotero://select/library/items/MJU4B4FW",
@@ -4249,7 +4185,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Grosjean2020a",
-      "citekey": "Grosjean2020a",
       "itemKey": "U697RFRL",
       "libraryID": 1,
       "select": "zotero://select/library/items/U697RFRL"
@@ -4324,7 +4259,6 @@
       ],
       "notes": [],
       "citationKey": "Hacking1999",
-      "citekey": "Hacking1999",
       "itemKey": "INX97ID8",
       "libraryID": 1,
       "select": "zotero://select/library/items/INX97ID8"
@@ -4403,7 +4337,7 @@
           "dateAdded": "2022-07-22T16:19:22Z",
           "dateModified": "2022-07-22T16:19:22Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/6J6L42CW",
-          "path": "/Users/robert/Zotero/storage/6J6L42CW/Hanahan and Weinberg - 2011 - Hallmarks of cancer the next generation.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/6J6L42CW/Hanahan and Weinberg - 2011 - Hallmarks of cancer the next generation.pdf",
           "select": "zotero://select/library/items/6J6L42CW"
         },
         {
@@ -4426,7 +4360,6 @@
       ],
       "notes": [],
       "citationKey": "Hanahan2011",
-      "citekey": "Hanahan2011",
       "itemKey": "8HHU8ATJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/8HHU8ATJ"
@@ -4472,13 +4405,12 @@
           "dateAdded": "2022-10-19T13:40:26Z",
           "dateModified": "2022-10-19T13:40:26Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/LPFVGQYP",
-          "path": "/Users/robert/Zotero/storage/LPFVGQYP/Hasan - 2019 - Marxism and the Crisis in Modern Biology.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/LPFVGQYP/Hasan - 2019 - Marxism and the Crisis in Modern Biology.pdf",
           "select": "zotero://select/library/items/LPFVGQYP"
         }
       ],
       "notes": [],
       "citationKey": "Hasan2019",
-      "citekey": "Hasan2019",
       "itemKey": "99UTAVDR",
       "libraryID": 1,
       "select": "zotero://select/library/items/99UTAVDR"
@@ -4516,7 +4448,7 @@
           "dateAdded": "2022-10-31T18:47:50Z",
           "dateModified": "2022-10-31T18:47:50Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HASZPBEZ",
-          "path": "/Users/robert/Zotero/storage/HASZPBEZ/Hayek - 1945 - The Use of Knowledge in Society.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HASZPBEZ/Hayek - 1945 - The Use of Knowledge in Society.pdf",
           "select": "zotero://select/library/items/HASZPBEZ"
         }
       ],
@@ -4535,7 +4467,6 @@
         }
       ],
       "citationKey": "Hayek1945",
-      "citekey": "Hayek1945",
       "itemKey": "E8YTNF7F",
       "libraryID": 1,
       "select": "zotero://select/library/items/E8YTNF7F"
@@ -4581,13 +4512,12 @@
           "dateAdded": "2022-10-25T22:21:22Z",
           "dateModified": "2022-10-25T22:24:00Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/LMJEWBJV",
-          "path": "/Users/robert/Zotero/storage/LMJEWBJV/Conversation04.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/LMJEWBJV/Conversation04.pdf",
           "select": "zotero://select/library/items/LMJEWBJV"
         }
       ],
       "notes": [],
       "citationKey": "Hayek1979",
-      "citekey": "Hayek1979",
       "itemKey": "HR74LT2T",
       "libraryID": 1,
       "select": "zotero://select/library/items/HR74LT2T"
@@ -4622,13 +4552,12 @@
           "dateAdded": "2022-11-06T15:23:59Z",
           "dateModified": "2022-11-06T15:23:59Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/9HFDPHV7",
-          "path": "/Users/robert/Zotero/storage/9HFDPHV7/1.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/9HFDPHV7/1.html",
           "select": "zotero://select/library/items/9HFDPHV7"
         }
       ],
       "notes": [],
       "citationKey": "Heisenberg1971",
-      "citekey": "Heisenberg1971",
       "itemKey": "NSTZ3MGG",
       "libraryID": 1,
       "select": "zotero://select/library/items/NSTZ3MGG"
@@ -4679,13 +4608,12 @@
           "dateAdded": "2022-11-23T13:25:25Z",
           "dateModified": "2022-11-23T13:25:37Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/JNGBJFB9",
-          "path": "/Users/robert/Zotero/storage/JNGBJFB9/Henriques et Lar\u00e9do - 2013 - Policy-making in science policy The \u2018OECD model\u2019 .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/JNGBJFB9/Henriques et Lar\u00e9do - 2013 - Policy-making in science policy The \u2018OECD model\u2019 .pdf",
           "select": "zotero://select/library/items/JNGBJFB9"
         }
       ],
       "notes": [],
       "citationKey": "Henriques2013",
-      "citekey": "Henriques2013",
       "itemKey": "B2DWLUXY",
       "libraryID": 1,
       "select": "zotero://select/library/items/B2DWLUXY"
@@ -4727,13 +4655,12 @@
           "dateAdded": "2022-10-28T17:23:35Z",
           "dateModified": "2022-10-28T17:23:40Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/T3PTEDQ5",
-          "path": "/Users/robert/Zotero/storage/T3PTEDQ5/Hill et Stein - Race to the Bottom Competition and Quality in Sci.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/T3PTEDQ5/Hill et Stein - Race to the Bottom Competition and Quality in Sci.pdf",
           "select": "zotero://select/library/items/T3PTEDQ5"
         }
       ],
       "notes": [],
       "citationKey": "Hill2020",
-      "citekey": "Hill2020",
       "itemKey": "33CCB3XQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/33CCB3XQ"
@@ -4775,13 +4702,12 @@
           "dateAdded": "2022-07-30T18:03:56Z",
           "dateModified": "2022-07-30T18:04:21Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/7453QRCT",
-          "path": "/Users/robert/Zotero/storage/7453QRCT/holton1975.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/7453QRCT/holton1975.pdf",
           "select": "zotero://select/library/items/7453QRCT"
         }
       ],
       "notes": [],
       "citationKey": "Holton1975",
-      "citekey": "Holton1975",
       "itemKey": "2BR47MBC",
       "libraryID": 1,
       "select": "zotero://select/library/items/2BR47MBC"
@@ -4820,7 +4746,7 @@
           "dateAdded": "2022-08-24T10:04:21Z",
           "dateModified": "2022-08-24T10:04:21Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/ZXVUG4BP",
-          "path": "/Users/robert/Zotero/storage/ZXVUG4BP/Horgan - 1995 - From complexity to perplexity.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/ZXVUG4BP/Horgan - 1995 - From complexity to perplexity.pdf",
           "select": "zotero://select/library/items/ZXVUG4BP"
         },
         {
@@ -4831,13 +4757,12 @@
           "dateAdded": "2022-08-24T10:04:19Z",
           "dateModified": "2022-08-24T10:04:19Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/YXSA8DCD",
-          "path": "/Users/robert/Zotero/storage/YXSA8DCD/24980838.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/YXSA8DCD/24980838.html",
           "select": "zotero://select/library/items/YXSA8DCD"
         }
       ],
       "notes": [],
       "citationKey": "Horgan1995",
-      "citekey": "Horgan1995",
       "itemKey": "FW4ETXGQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/FW4ETXGQ"
@@ -4876,13 +4801,12 @@
           "dateAdded": "2022-10-23T18:15:25Z",
           "dateModified": "2022-10-23T18:15:25Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8PITWPM5",
-          "path": "/Users/robert/Zotero/storage/8PITWPM5/chercheurs-vs-managers-de-la-recherche-la-guerre-des-mots-138384.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/8PITWPM5/chercheurs-vs-managers-de-la-recherche-la-guerre-des-mots-138384.html",
           "select": "zotero://select/library/items/8PITWPM5"
         }
       ],
       "notes": [],
       "citationKey": "Huneman2020",
-      "citekey": "Huneman2020",
       "itemKey": "6EEFK46G",
       "libraryID": 1,
       "select": "zotero://select/library/items/6EEFK46G"
@@ -4928,7 +4852,7 @@
           "dateAdded": "2022-08-25T12:48:31Z",
           "dateModified": "2022-08-25T12:48:31Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/RU58SVB5",
-          "path": "/Users/robert/Zotero/storage/RU58SVB5/267FD9CD58A43096608A87EC4AEF82E5.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/RU58SVB5/267FD9CD58A43096608A87EC4AEF82E5.html",
           "select": "zotero://select/library/items/RU58SVB5"
         },
         {
@@ -4939,13 +4863,12 @@
           "dateAdded": "2022-08-25T12:48:32Z",
           "dateModified": "2022-08-25T12:48:32Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WQAI32AH",
-          "path": "/Users/robert/Zotero/storage/WQAI32AH/Israel - 2005 - The Science of Complexity Epistemological Problem.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WQAI32AH/Israel - 2005 - The Science of Complexity Epistemological Problem.pdf",
           "select": "zotero://select/library/items/WQAI32AH"
         }
       ],
       "notes": [],
       "citationKey": "Israel2005",
-      "citekey": "Israel2005",
       "itemKey": "E4LSUPE4",
       "libraryID": 1,
       "select": "zotero://select/library/items/E4LSUPE4"
@@ -4994,13 +4917,12 @@
           "dateAdded": "2022-12-08T11:12:07Z",
           "dateModified": "2022-12-08T11:12:07Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/5BD2EEWL",
-          "path": "/Users/robert/Zotero/storage/5BD2EEWL/S1050173803001610.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/5BD2EEWL/S1050173803001610.html",
           "select": "zotero://select/library/items/5BD2EEWL"
         }
       ],
       "notes": [],
       "citationKey": "Jakkaraju2003",
-      "citekey": "Jakkaraju2003",
       "itemKey": "CH6IID5B",
       "libraryID": 1,
       "select": "zotero://select/library/items/CH6IID5B"
@@ -5043,7 +4965,7 @@
           "dateAdded": "2022-07-28T16:16:06Z",
           "dateModified": "2022-07-28T16:16:06Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/9C9EN398",
-          "path": "/Users/robert/Zotero/storage/9C9EN398/Jarvis - 2016 - Early embryo mortality in natural human reproducti.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/9C9EN398/Jarvis - 2016 - Early embryo mortality in natural human reproducti.pdf",
           "select": "zotero://select/library/items/9C9EN398"
         },
         {
@@ -5071,13 +4993,12 @@
           "dateAdded": "2022-07-28T16:16:12Z",
           "dateModified": "2022-07-28T16:16:12Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/UJLG7XXU",
-          "path": "/Users/robert/Zotero/storage/UJLG7XXU/PMC5443340.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/UJLG7XXU/PMC5443340.html",
           "select": "zotero://select/library/items/UJLG7XXU"
         }
       ],
       "notes": [],
       "citationKey": "Jarvis2016",
-      "citekey": "Jarvis2016",
       "itemKey": "INDGGC5S",
       "libraryID": 1,
       "select": "zotero://select/library/items/INDGGC5S"
@@ -5121,7 +5042,7 @@
           "dateAdded": "2022-10-27T20:43:54Z",
           "dateModified": "2022-10-27T20:43:54Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/CSS279CB",
-          "path": "/Users/robert/Zotero/storage/CSS279CB/Jonkers et Zacharewicz - 2016 - Research Performance Based Funding Systems a Comp.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/CSS279CB/Jonkers et Zacharewicz - 2016 - Research Performance Based Funding Systems a Comp.pdf",
           "select": "zotero://select/library/items/CSS279CB"
         },
         {
@@ -5132,13 +5053,12 @@
           "dateAdded": "2022-10-27T20:43:42Z",
           "dateModified": "2022-10-27T20:43:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IS37GZRI",
-          "path": "/Users/robert/Zotero/storage/IS37GZRI/JRC101043.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/IS37GZRI/JRC101043.html",
           "select": "zotero://select/library/items/IS37GZRI"
         }
       ],
       "notes": [],
       "citationKey": "Jonkers2016",
-      "citekey": "Jonkers2016",
       "itemKey": "7I6Y2WJ2",
       "libraryID": 1,
       "select": "zotero://select/library/items/7I6Y2WJ2"
@@ -5184,13 +5104,12 @@
           "dateAdded": "2022-08-26T11:37:32Z",
           "dateModified": "2022-08-26T11:37:32Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/PP6RB7ZG",
-          "path": "/Users/robert/Zotero/storage/PP6RB7ZG/Noise_A_Flaw_in_Human_Judgment.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/PP6RB7ZG/Noise_A_Flaw_in_Human_Judgment.html",
           "select": "zotero://select/library/items/PP6RB7ZG"
         }
       ],
       "notes": [],
       "citationKey": "Kahneman2021",
-      "citekey": "Kahneman2021",
       "itemKey": "E6KEYQN3",
       "libraryID": 1,
       "select": "zotero://select/library/items/E6KEYQN3"
@@ -5268,13 +5187,12 @@
           "dateAdded": "2022-08-11T15:40:11Z",
           "dateModified": "2022-08-11T15:40:11Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/W8KDN7JU",
-          "path": "/Users/robert/Zotero/storage/W8KDN7JU/S0079610709000790.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/W8KDN7JU/S0079610709000790.html",
           "select": "zotero://select/library/items/W8KDN7JU"
         }
       ],
       "notes": [],
       "citationKey": "Kupiec2010",
-      "citekey": "Kupiec2010",
       "itemKey": "HY5R8L4U",
       "libraryID": 1,
       "select": "zotero://select/library/items/HY5R8L4U"
@@ -5318,7 +5236,7 @@
           "dateAdded": "2022-12-08T10:23:33Z",
           "dateModified": "2022-12-08T10:23:37Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WU77VGFT",
-          "path": "/Users/robert/Zotero/storage/WU77VGFT/Kupiec - 2020 - A probabilistic theory for cell differentiation, e.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WU77VGFT/Kupiec - 2020 - A probabilistic theory for cell differentiation, e.pdf",
           "select": "zotero://select/library/items/WU77VGFT"
         }
       ],
@@ -5337,7 +5255,6 @@
         }
       ],
       "citationKey": "Kupiec2020",
-      "citekey": "Kupiec2020",
       "itemKey": "8N4WIZTF",
       "libraryID": 1,
       "select": "zotero://select/library/items/8N4WIZTF"
@@ -5386,7 +5303,7 @@
           "dateAdded": "2022-10-28T18:30:11Z",
           "dateModified": "2022-10-28T18:30:11Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NZLTG7LC",
-          "path": "/Users/robert/Zotero/storage/NZLTG7LC/839237.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/NZLTG7LC/839237.html",
           "select": "zotero://select/library/items/NZLTG7LC"
         },
         {
@@ -5397,13 +5314,12 @@
           "dateAdded": "2022-10-28T18:30:08Z",
           "dateModified": "2022-10-28T18:30:08Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SSQ3R8VC",
-          "path": "/Users/robert/Zotero/storage/SSQ3R8VC/Lacetera et Zirulia - 2011 - The Economics of Scientific Misconduct.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SSQ3R8VC/Lacetera et Zirulia - 2011 - The Economics of Scientific Misconduct.pdf",
           "select": "zotero://select/library/items/SSQ3R8VC"
         }
       ],
       "notes": [],
       "citationKey": "Lacetera2011",
-      "citekey": "Lacetera2011",
       "itemKey": "3TFPI3SG",
       "libraryID": 1,
       "select": "zotero://select/library/items/3TFPI3SG"
@@ -5445,7 +5361,7 @@
           "dateAdded": "2022-10-13T15:21:26Z",
           "dateModified": "2022-10-13T15:21:31Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/LGV8RYCU",
-          "path": "/Users/robert/Zotero/storage/LGV8RYCU/Lazebnik - 2018 - Who is Dr. Frankenstein Or, what Professor Hayek .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/LGV8RYCU/Lazebnik - 2018 - Who is Dr. Frankenstein Or, what Professor Hayek .pdf",
           "select": "zotero://select/library/items/LGV8RYCU"
         }
       ],
@@ -5464,7 +5380,6 @@
         }
       ],
       "citationKey": "Lazebnik2018",
-      "citekey": "Lazebnik2018",
       "itemKey": "3ENVXMML",
       "libraryID": 1,
       "select": "zotero://select/library/items/3ENVXMML"
@@ -5537,7 +5452,7 @@
           "dateAdded": "2022-11-03T22:23:58Z",
           "dateModified": "2022-11-03T22:23:58Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IWQVKKCW",
-          "path": "/Users/robert/Zotero/storage/IWQVKKCW/Lee et al. - 2013 - Bias in peer review.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/IWQVKKCW/Lee et al. - 2013 - Bias in peer review.pdf",
           "select": "zotero://select/library/items/IWQVKKCW"
         },
         {
@@ -5548,13 +5463,12 @@
           "dateAdded": "2022-11-03T22:23:32Z",
           "dateModified": "2022-11-03T22:23:32Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/6YQAYIR3",
-          "path": "/Users/robert/Zotero/storage/6YQAYIR3/asi.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/6YQAYIR3/asi.html",
           "select": "zotero://select/library/items/6YQAYIR3"
         }
       ],
       "notes": [],
       "citationKey": "Lee2013",
-      "citekey": "Lee2013",
       "itemKey": "ST2CHFJ6",
       "libraryID": 1,
       "select": "zotero://select/library/items/ST2CHFJ6"
@@ -5640,7 +5554,7 @@
           "dateAdded": "2022-11-01T16:27:27Z",
           "dateModified": "2022-11-01T16:27:27Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NSTL4MX7",
-          "path": "/Users/robert/Zotero/storage/NSTL4MX7/S0048733317300422.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/NSTL4MX7/S0048733317300422.html",
           "select": "zotero://select/library/items/NSTL4MX7"
         },
         {
@@ -5651,13 +5565,12 @@
           "dateAdded": "2022-11-01T16:27:30Z",
           "dateModified": "2022-11-01T16:27:30Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/Q3IVQ3GI",
-          "path": "/Users/robert/Zotero/storage/Q3IVQ3GI/Levecque et al. - 2017 - Work organization and mental health problems in Ph.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/Q3IVQ3GI/Levecque et al. - 2017 - Work organization and mental health problems in Ph.pdf",
           "select": "zotero://select/library/items/Q3IVQ3GI"
         }
       ],
       "notes": [],
       "citationKey": "Levecque2017",
-      "citekey": "Levecque2017",
       "itemKey": "6HDNSVJV",
       "libraryID": 1,
       "select": "zotero://select/library/items/6HDNSVJV"
@@ -5729,13 +5642,12 @@
           "dateAdded": "2022-07-22T15:40:37Z",
           "dateModified": "2022-07-22T15:40:37Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/R3RLTTQG",
-          "path": "/Users/robert/Zotero/storage/R3RLTTQG/Li et al. - 2011 - Widespread RNA and DNA Sequence Differences in the.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/R3RLTTQG/Li et al. - 2011 - Widespread RNA and DNA Sequence Differences in the.pdf",
           "select": "zotero://select/library/items/R3RLTTQG"
         }
       ],
       "notes": [],
       "citationKey": "Li2011",
-      "citekey": "Li2011",
       "itemKey": "RLA5VI3C",
       "libraryID": 1,
       "select": "zotero://select/library/items/RLA5VI3C"
@@ -5780,13 +5692,12 @@
           "dateAdded": "2022-08-25T13:24:18Z",
           "dateModified": "2022-08-25T13:24:18Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WCWWVW6T",
-          "path": "/Users/robert/Zotero/storage/WCWWVW6T/Li Vigni - 2020 - Le projet \u00e9pist\u00e9mique des sciences des syst\u00e8mes co.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WCWWVW6T/Li Vigni - 2020 - Le projet \u00e9pist\u00e9mique des sciences des syst\u00e8mes co.pdf",
           "select": "zotero://select/library/items/WCWWVW6T"
         }
       ],
       "notes": [],
       "citationKey": "LiVigni2020",
-      "citekey": "LiVigni2020",
       "itemKey": "PLFQ7697",
       "libraryID": 1,
       "select": "zotero://select/library/items/PLFQ7697"
@@ -5814,7 +5725,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "LiVigni2021",
-      "citekey": "LiVigni2021",
       "itemKey": "6VPN3ZEW",
       "libraryID": 1,
       "select": "zotero://select/library/items/6VPN3ZEW"
@@ -5874,7 +5784,7 @@
           "dateAdded": "2022-07-21T19:52:52Z",
           "dateModified": "2022-07-21T19:52:52Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/KTZP8LXN",
-          "path": "/Users/robert/Zotero/storage/KTZP8LXN/Longo et al. - 2012 - Is Information a proper observable for biological .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/KTZP8LXN/Longo et al. - 2012 - Is Information a proper observable for biological .pdf",
           "select": "zotero://select/library/items/KTZP8LXN"
         },
         {
@@ -5910,7 +5820,6 @@
         }
       ],
       "citationKey": "Longo2012",
-      "citekey": "Longo2012",
       "itemKey": "WW88NISJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/WW88NISJ"
@@ -5974,13 +5883,12 @@
           "dateAdded": "2022-07-30T12:28:38Z",
           "dateModified": "2022-07-30T12:28:41Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IYBPI28E",
-          "path": "/Users/robert/Zotero/storage/IYBPI28E/Longo and Mont\u00e9vil - 2012 - Randomness Increases Order in Biological Evolution.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/IYBPI28E/Longo and Mont\u00e9vil - 2012 - Randomness Increases Order in Biological Evolution.pdf",
           "select": "zotero://select/library/items/IYBPI28E"
         }
       ],
       "notes": [],
       "citationKey": "Longo2012a",
-      "citekey": "Longo2012a",
       "itemKey": "MSVWMQ7M",
       "libraryID": 1,
       "select": "zotero://select/library/items/MSVWMQ7M",
@@ -6015,7 +5923,7 @@
           "dateAdded": "2022-10-20T15:10:38Z",
           "dateModified": "2022-10-20T15:10:38Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NI4UP4YJ",
-          "path": "/Users/robert/Zotero/storage/NI4UP4YJ/Longo - 2013 - Science, Problem solving and bibliometrics.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/NI4UP4YJ/Longo - 2013 - Science, Problem solving and bibliometrics.pdf",
           "select": "zotero://select/library/items/NI4UP4YJ"
         },
         {
@@ -6026,13 +5934,12 @@
           "dateAdded": "2022-10-20T15:10:44Z",
           "dateModified": "2022-10-20T15:10:44Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NTXPQXW6",
-          "path": "/Users/robert/Zotero/storage/NTXPQXW6/hal-01380191.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/NTXPQXW6/hal-01380191.html",
           "select": "zotero://select/library/items/NTXPQXW6"
         }
       ],
       "notes": [],
       "citationKey": "Longo2013",
-      "citekey": "Longo2013",
       "itemKey": "MW5XJ3L8",
       "libraryID": 1,
       "select": "zotero://select/library/items/MW5XJ3L8",
@@ -6082,13 +5989,12 @@
           "dateAdded": "2022-07-25T12:08:21Z",
           "dateModified": "2022-07-25T12:08:27Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SNEIM4CG",
-          "path": "/Users/robert/Zotero/storage/SNEIM4CG/Longo - 2020 - Information, Science and Democracy, for an Ethics .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SNEIM4CG/Longo - 2020 - Information, Science and Democracy, for an Ethics .pdf",
           "select": "zotero://select/library/items/SNEIM4CG"
         }
       ],
       "notes": [],
       "citationKey": "Longo2020",
-      "citekey": "Longo2020",
       "itemKey": "RMM46DQ7",
       "libraryID": 1,
       "select": "zotero://select/library/items/RMM46DQ7",
@@ -6132,13 +6038,12 @@
           "dateAdded": "2022-12-08T10:53:13Z",
           "dateModified": "2022-12-08T10:53:13Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/R5W4JT7Q",
-          "path": "/Users/robert/Zotero/storage/R5W4JT7Q/Longo - 2021 - Programming Evolution A Crack in Science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/R5W4JT7Q/Longo - 2021 - Programming Evolution A Crack in Science.pdf",
           "select": "zotero://select/library/items/R5W4JT7Q"
         }
       ],
       "notes": [],
       "citationKey": "Longo2021",
-      "citekey": "Longo2021",
       "itemKey": "M6NFV4CT",
       "libraryID": 1,
       "select": "zotero://select/library/items/M6NFV4CT"
@@ -6207,7 +6112,7 @@
           "dateAdded": "2022-12-08T11:05:11Z",
           "dateModified": "2022-12-08T11:05:11Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/57BJMS6M",
-          "path": "/Users/robert/Zotero/storage/57BJMS6M/Lucitti et al. - 2007 - Vascular remodeling of the mouse yolk sac requires.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/57BJMS6M/Lucitti et al. - 2007 - Vascular remodeling of the mouse yolk sac requires.pdf",
           "select": "zotero://select/library/items/57BJMS6M"
         },
         {
@@ -6218,13 +6123,12 @@
           "dateAdded": "2022-12-08T11:05:15Z",
           "dateModified": "2022-12-08T11:05:15Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/4NHM7EL8",
-          "path": "/Users/robert/Zotero/storage/4NHM7EL8/Vascular-remodeling-of-the-mouse-yolk-sac-requires.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/4NHM7EL8/Vascular-remodeling-of-the-mouse-yolk-sac-requires.html",
           "select": "zotero://select/library/items/4NHM7EL8"
         }
       ],
       "notes": [],
       "citationKey": "Lucitti2007",
-      "citekey": "Lucitti2007",
       "itemKey": "EDXFBSF2",
       "libraryID": 1,
       "select": "zotero://select/library/items/EDXFBSF2"
@@ -6274,13 +6178,12 @@
           "dateAdded": "2022-07-28T16:50:01Z",
           "dateModified": "2022-07-28T16:50:01Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SVFZLACD",
-          "path": "/Users/robert/Zotero/storage/SVFZLACD/Matoba and Zhang - 2018 - Somatic Cell Nuclear Transfer Reprogramming Mecha.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SVFZLACD/Matoba and Zhang - 2018 - Somatic Cell Nuclear Transfer Reprogramming Mecha.pdf",
           "select": "zotero://select/library/items/SVFZLACD"
         }
       ],
       "notes": [],
       "citationKey": "Matoba2018",
-      "citekey": "Matoba2018",
       "itemKey": "ZVJ6Z9KN",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZVJ6Z9KN"
@@ -6348,13 +6251,12 @@
           "dateAdded": "2022-10-19T13:50:04Z",
           "dateModified": "2022-10-19T13:50:04Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/TGCLJZHT",
-          "path": "/Users/robert/Zotero/storage/TGCLJZHT/d41586-019-00564-5.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/TGCLJZHT/d41586-019-00564-5.html",
           "select": "zotero://select/library/items/TGCLJZHT"
         }
       ],
       "notes": [],
       "citationKey": "Maxmen2019",
-      "citekey": "Maxmen2019",
       "itemKey": "KE4ZQCWT",
       "libraryID": 1,
       "select": "zotero://select/library/items/KE4ZQCWT"
@@ -6398,7 +6300,7 @@
           "dateAdded": "2022-12-08T10:38:25Z",
           "dateModified": "2022-12-08T10:38:31Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IGPBERDQ",
-          "path": "/Users/robert/Zotero/storage/IGPBERDQ/Smith - 1999 - The Idea of Information in Biology.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/IGPBERDQ/Smith - 1999 - The Idea of Information in Biology.pdf",
           "select": "zotero://select/library/items/IGPBERDQ"
         }
       ],
@@ -6417,7 +6319,6 @@
         }
       ],
       "citationKey": "MaynardSmith1999",
-      "citekey": "MaynardSmith1999",
       "itemKey": "TZ8ELPF3",
       "libraryID": 1,
       "select": "zotero://select/library/items/TZ8ELPF3"
@@ -6462,13 +6363,12 @@
           "dateAdded": "2022-07-28T17:25:25Z",
           "dateModified": "2022-07-28T17:25:25Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NA2TZATE",
-          "path": "/Users/robert/Zotero/storage/NA2TZATE/Mayr - 1961 - Cause and Effect in Biology Kinds of causes, pred.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/NA2TZATE/Mayr - 1961 - Cause and Effect in Biology Kinds of causes, pred.pdf",
           "select": "zotero://select/library/items/NA2TZATE"
         }
       ],
       "notes": [],
       "citationKey": "Mayr1961",
-      "citekey": "Mayr1961",
       "itemKey": "37MF8WTA",
       "libraryID": 1,
       "select": "zotero://select/library/items/37MF8WTA"
@@ -6513,13 +6413,12 @@
           "dateAdded": "2022-10-27T11:23:14Z",
           "dateModified": "2022-10-27T11:23:18Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/MPGL2YKR",
-          "path": "/Users/robert/Zotero/storage/MPGL2YKR/Merton - 1957 - Priorities in Scientific Discovery A Chapter in t.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/MPGL2YKR/Merton - 1957 - Priorities in Scientific Discovery A Chapter in t.pdf",
           "select": "zotero://select/library/items/MPGL2YKR"
         }
       ],
       "notes": [],
       "citationKey": "Merton1957",
-      "citekey": "Merton1957",
       "itemKey": "LRWV5JKX",
       "libraryID": 1,
       "select": "zotero://select/library/items/LRWV5JKX"
@@ -6565,7 +6464,7 @@
           "dateAdded": "2022-10-28T18:58:35Z",
           "dateModified": "2022-10-28T18:58:35Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/CCZPJVTQ",
-          "path": "/Users/robert/Zotero/storage/CCZPJVTQ/Mintz - 2021 - Neoliberalism and the Crisis in Higher Education .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/CCZPJVTQ/Mintz - 2021 - Neoliberalism and the Crisis in Higher Education .pdf",
           "select": "zotero://select/library/items/CCZPJVTQ"
         },
         {
@@ -6576,13 +6475,12 @@
           "dateAdded": "2022-10-28T18:58:39Z",
           "dateModified": "2022-10-28T18:58:39Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/98YZI8AA",
-          "path": "/Users/robert/Zotero/storage/98YZI8AA/ajes.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/98YZI8AA/ajes.html",
           "select": "zotero://select/library/items/98YZI8AA"
         }
       ],
       "notes": [],
       "citationKey": "Mintz2021",
-      "citekey": "Mintz2021",
       "itemKey": "L5QYGRFC",
       "libraryID": 1,
       "select": "zotero://select/library/items/L5QYGRFC"
@@ -6611,7 +6509,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Mirowski2011",
-      "citekey": "Mirowski2011",
       "itemKey": "QRM647BV",
       "libraryID": 1,
       "select": "zotero://select/library/items/QRM647BV"
@@ -6654,13 +6551,12 @@
           "dateAdded": "2022-10-20T14:40:52Z",
           "dateModified": "2022-10-20T14:40:57Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/UF8L4ZZQ",
-          "path": "/Users/robert/Zotero/storage/UF8L4ZZQ/Mirowski - 2014 - The Political Movement that Dared Not Speak its Ow.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/UF8L4ZZQ/Mirowski - 2014 - The Political Movement that Dared Not Speak its Ow.pdf",
           "select": "zotero://select/library/items/UF8L4ZZQ"
         }
       ],
       "notes": [],
       "citationKey": "Mirowski2014",
-      "citekey": "Mirowski2014",
       "itemKey": "LGEXTE4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/LGEXTE4L"
@@ -6709,13 +6605,12 @@
           "dateAdded": "2022-11-15T17:38:30Z",
           "dateModified": "2022-11-15T17:38:34Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/MDXPXQJK",
-          "path": "/Users/robert/Zotero/storage/MDXPXQJK/Mont\u00e9vil et Mossio - 2015 - Biological organisation as closure of constraints.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/MDXPXQJK/Mont\u00e9vil et Mossio - 2015 - Biological organisation as closure of constraints.pdf",
           "select": "zotero://select/library/items/MDXPXQJK"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2015",
-      "citekey": "Montevil2015",
       "itemKey": "MAADTJ9N",
       "libraryID": 1,
       "select": "zotero://select/library/items/MAADTJ9N"
@@ -6776,7 +6671,7 @@
           "dateAdded": "2022-11-25T17:06:59Z",
           "dateModified": "2022-11-25T17:07:06Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/9C2PA3VN",
-          "path": "/Users/robert/Zotero/storage/9C2PA3VN/Mont\u00e9vil et al. - 2016 - Theoretical principles for biology Variation.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/9C2PA3VN/Mont\u00e9vil et al. - 2016 - Theoretical principles for biology Variation.pdf",
           "select": "zotero://select/library/items/9C2PA3VN"
         }
       ],
@@ -6795,7 +6690,6 @@
         }
       ],
       "citationKey": "Montevil2016",
-      "citekey": "Montevil2016",
       "itemKey": "AAVRKGPM",
       "libraryID": 1,
       "select": "zotero://select/library/items/AAVRKGPM"
@@ -6856,13 +6750,12 @@
           "dateAdded": "2022-11-26T08:00:46Z",
           "dateModified": "2022-11-26T08:00:51Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/VW4LDMMH",
-          "path": "/Users/robert/Zotero/storage/VW4LDMMH/Mont\u00e9vil et al. - 2016 - Modeling mammary organogenesis from biological fir.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/VW4LDMMH/Mont\u00e9vil et al. - 2016 - Modeling mammary organogenesis from biological fir.pdf",
           "select": "zotero://select/library/items/VW4LDMMH"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2016a",
-      "citekey": "Montevil2016a",
       "itemKey": "6NHCR8DU",
       "libraryID": 1,
       "select": "zotero://select/library/items/6NHCR8DU"
@@ -6907,13 +6800,12 @@
           "dateAdded": "2022-10-20T14:30:48Z",
           "dateModified": "2022-10-20T14:30:53Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/7XAXW3BI",
-          "path": "/Users/robert/Zotero/storage/7XAXW3BI/Mont\u00e9vil - 2019 - Measurement in biology is methodized by theory.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/7XAXW3BI/Mont\u00e9vil - 2019 - Measurement in biology is methodized by theory.pdf",
           "select": "zotero://select/library/items/7XAXW3BI"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2019",
-      "citekey": "Montevil2019",
       "itemKey": "NVDHTXQT",
       "libraryID": 1,
       "select": "zotero://select/library/items/NVDHTXQT"
@@ -6958,13 +6850,12 @@
           "dateAdded": "2022-11-25T22:37:37Z",
           "dateModified": "2022-11-25T22:37:40Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8MZW39MT",
-          "path": "/Users/robert/Zotero/storage/8MZW39MT/Mont\u00e9vil - 2019 - Possibility spaces and the notion of novelty from.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/8MZW39MT/Mont\u00e9vil - 2019 - Possibility spaces and the notion of novelty from.pdf",
           "select": "zotero://select/library/items/8MZW39MT"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2019a",
-      "citekey": "Montevil2019a",
       "itemKey": "K2QW76TC",
       "libraryID": 1,
       "select": "zotero://select/library/items/K2QW76TC"
@@ -7018,13 +6909,12 @@
           "dateAdded": "2022-07-30T12:30:24Z",
           "dateModified": "2022-07-30T12:30:24Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HB8AKI3Z",
-          "path": "/Users/robert/Zotero/storage/HB8AKI3Z/2020-msl-anthropocene-exosomatization-negentropy.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/HB8AKI3Z/2020-msl-anthropocene-exosomatization-negentropy.html",
           "select": "zotero://select/library/items/HB8AKI3Z"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2020",
-      "citekey": "Montevil2020",
       "itemKey": "NCUMR4Y3",
       "libraryID": 1,
       "select": "zotero://select/library/items/NCUMR4Y3",
@@ -7075,13 +6965,12 @@
           "dateAdded": "2022-11-25T17:11:54Z",
           "dateModified": "2022-11-25T17:11:58Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/KGIWTFU3",
-          "path": "/Users/robert/Zotero/storage/KGIWTFU3/Mont\u00e9vil et Mossio - 2020 - The Identity of Organisms in Scientific Practice .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/KGIWTFU3/Mont\u00e9vil et Mossio - 2020 - The Identity of Organisms in Scientific Practice .pdf",
           "select": "zotero://select/library/items/KGIWTFU3"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2020a",
-      "citekey": "Montevil2020a",
       "itemKey": "RNYNY633",
       "libraryID": 1,
       "select": "zotero://select/library/items/RNYNY633"
@@ -7121,7 +7010,7 @@
           "dateAdded": "2022-10-20T14:31:52Z",
           "dateModified": "2022-10-20T14:31:52Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HK5PKEFJ",
-          "path": "/Users/robert/Zotero/storage/HK5PKEFJ/Montevil - 2021 - Computational empiricism  the reigning \u00e9pist\u00e9m\u00e8 o.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HK5PKEFJ/Montevil - 2021 - Computational empiricism  the reigning \u00e9pist\u00e9m\u00e8 o.pdf",
           "select": "zotero://select/library/items/HK5PKEFJ"
         },
         {
@@ -7132,13 +7021,12 @@
           "dateAdded": "2022-10-20T14:31:55Z",
           "dateModified": "2022-10-20T14:31:55Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/9WFMVJXR",
-          "path": "/Users/robert/Zotero/storage/9WFMVJXR/2021-montevil-episteme-computational-empiricism.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/9WFMVJXR/2021-montevil-episteme-computational-empiricism.html",
           "select": "zotero://select/library/items/9WFMVJXR"
         }
       ],
       "notes": [],
       "citationKey": "Montevil2021",
-      "citekey": "Montevil2021",
       "itemKey": "D2QQ5LP6",
       "libraryID": 1,
       "select": "zotero://select/library/items/D2QQ5LP6"
@@ -7204,13 +7092,12 @@
           "dateAdded": "2022-10-28T17:54:16Z",
           "dateModified": "2022-10-28T17:54:22Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/S5N5QS2Y",
-          "path": "/Users/robert/Zotero/storage/S5N5QS2Y/Moore et al. - 2017 - \u201cExcellence R Us\u201d university research and the fet.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/S5N5QS2Y/Moore et al. - 2017 - \u201cExcellence R Us\u201d university research and the fet.pdf",
           "select": "zotero://select/library/items/S5N5QS2Y"
         }
       ],
       "notes": [],
       "citationKey": "Moore2017",
-      "citekey": "Moore2017",
       "itemKey": "XK88APPS",
       "libraryID": 1,
       "select": "zotero://select/library/items/XK88APPS"
@@ -7244,13 +7131,12 @@
           "dateAdded": "2022-11-06T14:39:12Z",
           "dateModified": "2022-11-06T14:39:12Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/YQUBTB3L",
-          "path": "/Users/robert/Zotero/storage/YQUBTB3L/MORSAC-8.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/YQUBTB3L/MORSAC-8.html",
           "select": "zotero://select/library/items/YQUBTB3L"
         }
       ],
       "notes": [],
       "citationKey": "Morin1982",
-      "citekey": "Morin1982",
       "itemKey": "CNAY8K4L",
       "libraryID": 1,
       "select": "zotero://select/library/items/CNAY8K4L"
@@ -7294,7 +7180,7 @@
           "dateAdded": "2022-08-11T08:33:13Z",
           "dateModified": "2022-08-11T08:34:19Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/CK5K79DG",
-          "path": "/Users/robert/Zotero/storage/CK5K79DG/EdgarMorin-FR.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/CK5K79DG/EdgarMorin-FR.pdf",
           "select": "zotero://select/library/items/CK5K79DG"
         },
         {
@@ -7305,13 +7191,12 @@
           "dateAdded": "2022-08-11T08:34:11Z",
           "dateModified": "2022-08-11T08:34:11Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QFNK6EFX",
-          "path": "/Users/robert/Zotero/storage/QFNK6EFX/intelligence-de-la-complexite--9782705687137-page-28.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/QFNK6EFX/intelligence-de-la-complexite--9782705687137-page-28.html",
           "select": "zotero://select/library/items/QFNK6EFX"
         }
       ],
       "notes": [],
       "citationKey": "Morin2013",
-      "citekey": "Morin2013",
       "itemKey": "QEE5Q7AJ",
       "libraryID": 1,
       "select": "zotero://select/library/items/QEE5Q7AJ",
@@ -7348,13 +7233,12 @@
           "dateAdded": "2022-12-12T18:33:54Z",
           "dateModified": "2022-12-12T18:33:54Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HDGNQNIX",
-          "path": "/Users/robert/Zotero/storage/HDGNQNIX/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/HDGNQNIX/books.html",
           "select": "zotero://select/library/items/HDGNQNIX"
         }
       ],
       "notes": [],
       "citationKey": "Morin2013a",
-      "citekey": "Morin2013a",
       "itemKey": "N6GH3DXA",
       "libraryID": 1,
       "select": "zotero://select/library/items/N6GH3DXA"
@@ -7410,13 +7294,12 @@
           "dateAdded": "2022-11-25T17:05:41Z",
           "dateModified": "2022-11-25T17:05:45Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/EFFCLA6U",
-          "path": "/Users/robert/Zotero/storage/EFFCLA6U/Mossio et al. - 2016 - Theoretical principles for biology Organization.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/EFFCLA6U/Mossio et al. - 2016 - Theoretical principles for biology Organization.pdf",
           "select": "zotero://select/library/items/EFFCLA6U"
         }
       ],
       "notes": [],
       "citationKey": "Mossio2016",
-      "citekey": "Mossio2016",
       "itemKey": "5G37W6AM",
       "libraryID": 1,
       "select": "zotero://select/library/items/5G37W6AM"
@@ -7446,7 +7329,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Motors1945",
-      "citekey": "Motors1945",
       "itemKey": "XRHS2XWQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/XRHS2XWQ"
@@ -7491,13 +7373,12 @@
           "dateAdded": "2022-10-20T11:20:35Z",
           "dateModified": "2022-10-20T11:20:39Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QK3RAAB3",
-          "path": "/Users/robert/Zotero/storage/QK3RAAB3/MSCS Editorial Board - 2009 - Editors' note bibliometrics and the curators of o.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/QK3RAAB3/MSCS Editorial Board - 2009 - Editors' note bibliometrics and the curators of o.pdf",
           "select": "zotero://select/library/items/QK3RAAB3"
         }
       ],
       "notes": [],
       "citationKey": "MSCSEditorialBoard2009",
-      "citekey": "MSCSEditorialBoard2009",
       "itemKey": "4TRGBUDU",
       "libraryID": 1,
       "select": "zotero://select/library/items/4TRGBUDU"
@@ -7531,7 +7412,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Muller2003",
-      "citekey": "Muller2003",
       "itemKey": "WN2AWAHC",
       "libraryID": 1,
       "select": "zotero://select/library/items/WN2AWAHC"
@@ -7580,13 +7460,12 @@
           "dateAdded": "2022-10-19T13:10:17Z",
           "dateModified": "2022-10-19T13:11:14Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/J6JY9UZX",
-          "path": "/Users/robert/Zotero/storage/J6JY9UZX/Muthukrishna et Henrich - 2019 - A problem in theory.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/J6JY9UZX/Muthukrishna et Henrich - 2019 - A problem in theory.pdf",
           "select": "zotero://select/library/items/J6JY9UZX"
         }
       ],
       "notes": [],
       "citationKey": "Muthukrishna2019",
-      "citekey": "Muthukrishna2019",
       "itemKey": "HST2G4NN",
       "libraryID": 1,
       "select": "zotero://select/library/items/HST2G4NN"
@@ -7637,13 +7516,12 @@
           "dateAdded": "2022-11-04T16:43:20Z",
           "dateModified": "2022-11-04T16:43:25Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/UHDHTB7D",
-          "path": "/Users/robert/Zotero/storage/UHDHTB7D/Nedeva et Boden - 2006 - Changing Science The Advent of Neo\u2010liberalism.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/UHDHTB7D/Nedeva et Boden - 2006 - Changing Science The Advent of Neo\u2010liberalism.pdf",
           "select": "zotero://select/library/items/UHDHTB7D"
         }
       ],
       "notes": [],
       "citationKey": "Nedeva2006",
-      "citekey": "Nedeva2006",
       "itemKey": "JZHBZMEL",
       "libraryID": 1,
       "select": "zotero://select/library/items/JZHBZMEL"
@@ -7686,7 +7564,7 @@
           "dateAdded": "2022-11-24T11:56:02Z",
           "dateModified": "2022-11-24T11:56:38Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HMRA3EI9",
-          "path": "/Users/robert/Zotero/storage/HMRA3EI9/nelson-basic-economics-of-scientific-research.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HMRA3EI9/nelson-basic-economics-of-scientific-research.pdf",
           "select": "zotero://select/library/items/HMRA3EI9"
         },
         {
@@ -7697,13 +7575,12 @@
           "dateAdded": "2022-11-24T11:56:35Z",
           "dateModified": "2022-11-24T11:56:35Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NQEUK9MY",
-          "path": "/Users/robert/Zotero/storage/NQEUK9MY/Nelson - 1959 - The Simple Economics of Basic Scientific Research.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/NQEUK9MY/Nelson - 1959 - The Simple Economics of Basic Scientific Research.pdf",
           "select": "zotero://select/library/items/NQEUK9MY"
         }
       ],
       "notes": [],
       "citationKey": "Nelson1959",
-      "citekey": "Nelson1959",
       "itemKey": "7PH7C9SY",
       "libraryID": 1,
       "select": "zotero://select/library/items/7PH7C9SY"
@@ -7772,7 +7649,6 @@
       ],
       "notes": [],
       "citationKey": "Nelson1985",
-      "citekey": "Nelson1985",
       "itemKey": "UHF7HCMP",
       "libraryID": 1,
       "select": "zotero://select/library/items/UHF7HCMP"
@@ -7862,7 +7738,7 @@
           "dateAdded": "2022-11-07T20:06:53Z",
           "dateModified": "2022-11-07T20:06:53Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8IMSNDQF",
-          "path": "/Users/robert/Zotero/storage/8IMSNDQF/Noble - 2015 - Evolution beyond neo-Darwinism a new conceptual f.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/8IMSNDQF/Noble - 2015 - Evolution beyond neo-Darwinism a new conceptual f.pdf",
           "select": "zotero://select/library/items/8IMSNDQF"
         },
         {
@@ -7885,7 +7761,6 @@
       ],
       "notes": [],
       "citationKey": "Noble2015",
-      "citekey": "Noble2015",
       "itemKey": "VQ6BA7I4",
       "libraryID": 1,
       "select": "zotero://select/library/items/VQ6BA7I4"
@@ -7926,13 +7801,12 @@
           "dateAdded": "2022-11-25T13:41:44Z",
           "dateModified": "2022-11-25T13:41:44Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/R6TAKRJZ",
-          "path": "/Users/robert/Zotero/storage/R6TAKRJZ/Nolan - 2021 - Making life richer, easier and healthier Robots, .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/R6TAKRJZ/Nolan - 2021 - Making life richer, easier and healthier Robots, .pdf",
           "select": "zotero://select/library/items/R6TAKRJZ"
         }
       ],
       "notes": [],
       "citationKey": "Nolan2021",
-      "citekey": "Nolan2021",
       "itemKey": "VBK4YYRV",
       "libraryID": 1,
       "select": "zotero://select/library/items/VBK4YYRV",
@@ -7999,13 +7873,12 @@
           "dateAdded": "2022-10-19T13:16:31Z",
           "dateModified": "2022-10-19T13:16:31Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WW36Q73I",
-          "path": "/Users/robert/Zotero/storage/WW36Q73I/O'Connor et al. - 2019 - Principles of Ecology Revisited Integrating Infor.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WW36Q73I/O'Connor et al. - 2019 - Principles of Ecology Revisited Integrating Infor.pdf",
           "select": "zotero://select/library/items/WW36Q73I"
         }
       ],
       "notes": [],
       "citationKey": "OConnor2019",
-      "citekey": "OConnor2019",
       "itemKey": "IAKGQKHD",
       "libraryID": 1,
       "select": "zotero://select/library/items/IAKGQKHD"
@@ -8045,13 +7918,12 @@
           "dateAdded": "2022-10-20T19:50:45Z",
           "dateModified": "2022-10-20T19:50:45Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/2ZQVPH77",
-          "path": "/Users/robert/Zotero/storage/2ZQVPH77/OECD - 2018 - Effective operation of competitive research fundin.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/2ZQVPH77/OECD - 2018 - Effective operation of competitive research fundin.pdf",
           "select": "zotero://select/library/items/2ZQVPH77"
         }
       ],
       "notes": [],
       "citationKey": "OECD2018",
-      "citekey": "OECD2018",
       "itemKey": "D7NM3S6V",
       "libraryID": 1,
       "select": "zotero://select/library/items/D7NM3S6V",
@@ -8092,13 +7964,12 @@
           "dateAdded": "2022-10-20T17:55:12Z",
           "dateModified": "2022-10-20T17:55:12Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8QZVD9DD",
-          "path": "/Users/robert/Zotero/storage/8QZVD9DD/OECD - 2020 - Building digital workforce capacity and skills for.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/8QZVD9DD/OECD - 2020 - Building digital workforce capacity and skills for.pdf",
           "select": "zotero://select/library/items/8QZVD9DD"
         }
       ],
       "notes": [],
       "citationKey": "OECD2020",
-      "citekey": "OECD2020",
       "itemKey": "EP5LJ9GY",
       "libraryID": 1,
       "select": "zotero://select/library/items/EP5LJ9GY",
@@ -8139,13 +8010,12 @@
           "dateAdded": "2022-10-20T18:02:57Z",
           "dateModified": "2022-10-20T18:02:57Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/9XXC2NHR",
-          "path": "/Users/robert/Zotero/storage/9XXC2NHR/OECD - 2021 - Effective policies to foster high-riskhigh-reward.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/9XXC2NHR/OECD - 2021 - Effective policies to foster high-riskhigh-reward.pdf",
           "select": "zotero://select/library/items/9XXC2NHR"
         }
       ],
       "notes": [],
       "citationKey": "OECD2021",
-      "citekey": "OECD2021",
       "itemKey": "V4TZDIXL",
       "libraryID": 1,
       "select": "zotero://select/library/items/V4TZDIXL",
@@ -8196,13 +8066,12 @@
           "dateAdded": "2022-10-28T18:53:52Z",
           "dateModified": "2022-10-28T18:53:52Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/DG6WQYY8",
-          "path": "/Users/robert/Zotero/storage/DG6WQYY8/Olssen et Peters - 2005 - Neoliberalism, higher education and the knowledge .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/DG6WQYY8/Olssen et Peters - 2005 - Neoliberalism, higher education and the knowledge .pdf",
           "select": "zotero://select/library/items/DG6WQYY8"
         }
       ],
       "notes": [],
       "citationKey": "Olssen2005",
-      "citekey": "Olssen2005",
       "itemKey": "PCR4RU73",
       "libraryID": 1,
       "select": "zotero://select/library/items/PCR4RU73"
@@ -8247,13 +8116,12 @@
           "dateAdded": "2022-11-25T13:47:07Z",
           "dateModified": "2022-11-25T13:47:07Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/NGCA73FL",
-          "path": "/Users/robert/Zotero/storage/NGCA73FL/2b3bc558-en.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/NGCA73FL/2b3bc558-en.pdf",
           "select": "zotero://select/library/items/NGCA73FL"
         }
       ],
       "notes": [],
       "citationKey": "Paic2019",
-      "citekey": "Paic2019",
       "itemKey": "VC52MK4D",
       "libraryID": 1,
       "select": "zotero://select/library/items/VC52MK4D",
@@ -8304,13 +8172,12 @@
           "dateAdded": "2022-09-08T13:46:42Z",
           "dateModified": "2022-09-08T13:46:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/E6QSLWAK",
-          "path": "/Users/robert/Zotero/storage/E6QSLWAK/revue-communications-2022-1-page-5.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/E6QSLWAK/revue-communications-2022-1-page-5.html",
           "select": "zotero://select/library/items/E6QSLWAK"
         }
       ],
       "notes": [],
       "citationKey": "Paillard2022",
-      "citekey": "Paillard2022",
       "itemKey": "AJC5XR85",
       "libraryID": 1,
       "select": "zotero://select/library/items/AJC5XR85"
@@ -8356,13 +8223,12 @@
           "dateAdded": "2022-10-20T19:51:58Z",
           "dateModified": "2022-10-20T19:51:58Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/A4JIAH8U",
-          "path": "/Users/robert/Zotero/storage/A4JIAH8U/Petit et al. - 2019 - Financement de la recherche.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/A4JIAH8U/Petit et al. - 2019 - Financement de la recherche.pdf",
           "select": "zotero://select/library/items/A4JIAH8U"
         }
       ],
       "notes": [],
       "citationKey": "Petit2019",
-      "citekey": "Petit2019",
       "itemKey": "ID89RBWZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/ID89RBWZ"
@@ -8401,13 +8267,12 @@
           "dateAdded": "2022-10-28T18:18:40Z",
           "dateModified": "2022-10-28T18:18:40Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/GMNAAWFZ",
-          "path": "/Users/robert/Zotero/storage/GMNAAWFZ/la-recherche-une-arme-pour-les-combats-du-futur-1150759.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/GMNAAWFZ/la-recherche-une-arme-pour-les-combats-du-futur-1150759.html",
           "select": "zotero://select/library/items/GMNAAWFZ"
         }
       ],
       "notes": [],
       "citationKey": "Petit2019a",
-      "citekey": "Petit2019a",
       "itemKey": "7QNTSA9T",
       "libraryID": 1,
       "select": "zotero://select/library/items/7QNTSA9T"
@@ -8441,7 +8306,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Pines1988",
-      "citekey": "Pines1988",
       "itemKey": "GEAHTQ8T",
       "libraryID": 1,
       "select": "zotero://select/library/items/GEAHTQ8T"
@@ -8485,7 +8349,7 @@
           "dateAdded": "2022-10-26T11:19:28Z",
           "dateModified": "2022-10-26T11:19:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IICQ6XK5",
-          "path": "/Users/robert/Zotero/storage/IICQ6XK5/Polanyi - 1962 - The Republic of science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/IICQ6XK5/Polanyi - 1962 - The Republic of science.pdf",
           "select": "zotero://select/library/items/IICQ6XK5"
         },
         {
@@ -8496,7 +8360,7 @@
           "dateAdded": "2022-10-26T11:19:56Z",
           "dateModified": "2022-10-26T11:19:56Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/45B2KQHP",
-          "path": "/Users/robert/Zotero/storage/45B2KQHP/polanyi_1967.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/45B2KQHP/polanyi_1967.pdf",
           "select": "zotero://select/library/items/45B2KQHP"
         }
       ],
@@ -8515,7 +8379,6 @@
         }
       ],
       "citationKey": "Polanyi1962",
-      "citekey": "Polanyi1962",
       "itemKey": "92C5E87I",
       "libraryID": 1,
       "select": "zotero://select/library/items/92C5E87I"
@@ -8559,13 +8422,12 @@
           "dateAdded": "2022-10-27T10:45:11Z",
           "dateModified": "2022-10-27T10:45:15Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QKWA3GXP",
-          "path": "/Users/robert/Zotero/storage/QKWA3GXP/Pritchard - 2006 - Trends in the Restructuring of German Universities.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/QKWA3GXP/Pritchard - 2006 - Trends in the Restructuring of German Universities.pdf",
           "select": "zotero://select/library/items/QKWA3GXP"
         }
       ],
       "notes": [],
       "citationKey": "Pritchard2006",
-      "citekey": "Pritchard2006",
       "itemKey": "U4MMFDT4",
       "libraryID": 1,
       "select": "zotero://select/library/items/U4MMFDT4"
@@ -8607,7 +8469,7 @@
           "dateAdded": "2022-10-24T09:32:41Z",
           "dateModified": "2022-10-24T09:32:41Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/S4SNKN93",
-          "path": "/Users/robert/Zotero/storage/S4SNKN93/Richard Pulmones - 2010 - Linking Students&#039; Epistemological Beliefs wit.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/S4SNKN93/Richard Pulmones - 2010 - Linking Students&#039; Epistemological Beliefs wit.pdf",
           "select": "zotero://select/library/items/S4SNKN93"
         },
         {
@@ -8618,7 +8480,7 @@
           "dateAdded": "2022-10-24T09:32:14Z",
           "dateModified": "2022-10-24T09:32:48Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/DD6ZWC4G",
-          "path": "/Users/robert/Zotero/storage/DD6ZWC4G/Philippine EJournals_ Linking Students&#039; Epistemological Beliefs with their Metacognition in a Chemistry Classroom.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/DD6ZWC4G/Philippine EJournals_ Linking Students&#039; Epistemological Beliefs with their Metacognition in a Chemistry Classroom.pdf",
           "select": "zotero://select/library/items/DD6ZWC4G"
         },
         {
@@ -8629,13 +8491,12 @@
           "dateAdded": "2022-10-24T09:32:42Z",
           "dateModified": "2022-10-24T09:32:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/UQB6LHYM",
-          "path": "/Users/robert/Zotero/storage/UQB6LHYM/article.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/UQB6LHYM/article.html",
           "select": "zotero://select/library/items/UQB6LHYM"
         }
       ],
       "notes": [],
       "citationKey": "Pulmones2010",
-      "citekey": "Pulmones2010",
       "itemKey": "H2EPATD5",
       "libraryID": 1,
       "select": "zotero://select/library/items/H2EPATD5"
@@ -8734,7 +8595,7 @@
           "dateAdded": "2022-07-22T15:56:28Z",
           "dateModified": "2022-07-22T15:56:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/FTRCUXVW",
-          "path": "/Users/robert/Zotero/storage/FTRCUXVW/Raj et al. - 2006 - Stochastic mRNA Synthesis in Mammalian Cells.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/FTRCUXVW/Raj et al. - 2006 - Stochastic mRNA Synthesis in Mammalian Cells.pdf",
           "select": "zotero://select/library/items/FTRCUXVW"
         },
         {
@@ -8745,13 +8606,12 @@
           "dateAdded": "2022-07-22T15:56:35Z",
           "dateModified": "2022-07-22T15:56:35Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/G4MZLM72",
-          "path": "/Users/robert/Zotero/storage/G4MZLM72/article.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/G4MZLM72/article.html",
           "select": "zotero://select/library/items/G4MZLM72"
         }
       ],
       "notes": [],
       "citationKey": "Raj2006",
-      "citekey": "Raj2006",
       "itemKey": "GCB8ATNP",
       "libraryID": 1,
       "select": "zotero://select/library/items/GCB8ATNP"
@@ -8786,13 +8646,12 @@
           "dateAdded": "2022-07-28T19:36:40Z",
           "dateModified": "2022-07-28T19:36:40Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/RLILRD5X",
-          "path": "/Users/robert/Zotero/storage/RLILRD5X/books.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/RLILRD5X/books.html",
           "select": "zotero://select/library/items/RLILRD5X"
         }
       ],
       "notes": [],
       "citationKey": "Ricoeur1975",
-      "citekey": "Ricoeur1975",
       "itemKey": "TLMY2CWD",
       "libraryID": 1,
       "select": "zotero://select/library/items/TLMY2CWD"
@@ -8873,13 +8732,12 @@
           "dateAdded": "2022-12-09T16:35:28Z",
           "dateModified": "2022-12-09T16:35:28Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/C6WZBNIV",
-          "path": "/Users/robert/Zotero/storage/C6WZBNIV/Robert et al. - 2020 - Enhancing hybrid quantum-classical algorithms for .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/C6WZBNIV/Robert et al. - 2020 - Enhancing hybrid quantum-classical algorithms for .pdf",
           "select": "zotero://select/library/items/C6WZBNIV"
         }
       ],
       "notes": [],
       "citationKey": "Robert2020a",
-      "citekey": "Robert2020a",
       "itemKey": "HVDP8HK5",
       "libraryID": 1,
       "select": "zotero://select/library/items/HVDP8HK5",
@@ -8924,7 +8782,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Robert2020b",
-      "citekey": "Robert2020b",
       "itemKey": "WVK5G6D4",
       "libraryID": 1,
       "select": "zotero://select/library/items/WVK5G6D4"
@@ -8999,13 +8856,12 @@
           "dateAdded": "2022-12-09T16:35:44Z",
           "dateModified": "2022-12-09T16:35:44Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QXCVBKA3",
-          "path": "/Users/robert/Zotero/storage/QXCVBKA3/Robert et al. - 2021 - Branched heteropolymer lattice model for quantum o.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/QXCVBKA3/Robert et al. - 2021 - Branched heteropolymer lattice model for quantum o.pdf",
           "select": "zotero://select/library/items/QXCVBKA3"
         }
       ],
       "notes": [],
       "citationKey": "Robert2021a",
-      "citekey": "Robert2021a",
       "itemKey": "8HM78S3F",
       "libraryID": 1,
       "select": "zotero://select/library/items/8HM78S3F",
@@ -9055,7 +8911,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Robert2021b",
-      "citekey": "Robert2021b",
       "itemKey": "Z4WNPARM",
       "libraryID": 1,
       "select": "zotero://select/library/items/Z4WNPARM"
@@ -9109,7 +8964,7 @@
           "dateAdded": "2022-12-09T17:13:17Z",
           "dateModified": "2022-12-09T17:13:17Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SCZN5U7W",
-          "path": "/Users/robert/Zotero/storage/SCZN5U7W/Robert et al. - 2022 - Coupled interactions at the ionic graphenewater i.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SCZN5U7W/Robert et al. - 2022 - Coupled interactions at the ionic graphenewater i.pdf",
           "select": "zotero://select/library/items/SCZN5U7W"
         },
         {
@@ -9120,13 +8975,12 @@
           "dateAdded": "2022-12-09T17:13:24Z",
           "dateModified": "2022-12-09T17:13:24Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8N2FV6NQ",
-          "path": "/Users/robert/Zotero/storage/8N2FV6NQ/2204.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/8N2FV6NQ/2204.html",
           "select": "zotero://select/library/items/8N2FV6NQ"
         }
       ],
       "notes": [],
       "citationKey": "Robert2022a",
-      "citekey": "Robert2022a",
       "itemKey": "5AMJ6TM6",
       "libraryID": 1,
       "select": "zotero://select/library/items/5AMJ6TM6",
@@ -9179,7 +9033,7 @@
           "dateAdded": "2022-12-08T11:10:15Z",
           "dateModified": "2022-12-08T11:10:15Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/L2JIN4GR",
-          "path": "/Users/robert/Zotero/storage/L2JIN4GR/Rot-Nikcevic et al. - 2007 - Development of the mouse mandibles and clavicles i.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/L2JIN4GR/Rot-Nikcevic et al. - 2007 - Development of the mouse mandibles and clavicles i.pdf",
           "select": "zotero://select/library/items/L2JIN4GR"
         },
         {
@@ -9190,13 +9044,12 @@
           "dateAdded": "2022-12-08T11:10:21Z",
           "dateModified": "2022-12-08T11:10:21Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/GZP3MHEB",
-          "path": "/Users/robert/Zotero/storage/GZP3MHEB/27535.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/GZP3MHEB/27535.html",
           "select": "zotero://select/library/items/GZP3MHEB"
         }
       ],
       "notes": [],
       "citationKey": "Rot-Nikcevic2007",
-      "citekey": "Rot-Nikcevic2007",
       "itemKey": "JJZIC3J7",
       "libraryID": 1,
       "select": "zotero://select/library/items/JJZIC3J7"
@@ -9271,7 +9124,7 @@
           "dateAdded": "2022-10-27T17:16:02Z",
           "dateModified": "2022-10-27T19:04:42Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/CL5HS2PS",
-          "path": "/Users/robert/Zotero/storage/CL5HS2PS/10.1016@j.joi.2018.01.007.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/CL5HS2PS/10.1016@j.joi.2018.01.007.pdf",
           "select": "zotero://select/library/items/CL5HS2PS"
         },
         {
@@ -9282,13 +9135,12 @@
           "dateAdded": "2022-10-27T19:04:46Z",
           "dateModified": "2022-10-27T19:04:46Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/MABAXYAM",
-          "path": "/Users/robert/Zotero/storage/MABAXYAM/S1751157717302882.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/MABAXYAM/S1751157717302882.html",
           "select": "zotero://select/library/items/MABAXYAM"
         }
       ],
       "notes": [],
       "citationKey": "Sandstrom2018",
-      "citekey": "Sandstrom2018",
       "itemKey": "YCX7DYQY",
       "libraryID": 1,
       "select": "zotero://select/library/items/YCX7DYQY"
@@ -9330,13 +9182,12 @@
           "dateAdded": "2022-07-22T17:14:55Z",
           "dateModified": "2022-07-22T17:14:55Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/JAUPK3IF",
-          "path": "/Users/robert/Zotero/storage/JAUPK3IF/A876185F2DB06FF5C2CC67C9A60DAD7F.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/JAUPK3IF/A876185F2DB06FF5C2CC67C9A60DAD7F.html",
           "select": "zotero://select/library/items/JAUPK3IF"
         }
       ],
       "notes": [],
       "citationKey": "Schrodinger1944",
-      "citekey": "Schrodinger1944",
       "itemKey": "SZDW5WZX",
       "libraryID": 1,
       "select": "zotero://select/library/items/SZDW5WZX"
@@ -9375,7 +9226,7 @@
           "dateAdded": "2022-07-28T20:27:38Z",
           "dateModified": "2022-07-28T20:27:38Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HEVR2R2N",
-          "path": "/Users/robert/Zotero/storage/HEVR2R2N/Shannon - 1948 - A mathematical theory of communication.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HEVR2R2N/Shannon - 1948 - A mathematical theory of communication.pdf",
           "select": "zotero://select/library/items/HEVR2R2N"
         },
         {
@@ -9386,13 +9237,12 @@
           "dateAdded": "2022-07-28T20:28:10Z",
           "dateModified": "2022-07-28T20:28:10Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/557JABQQ",
-          "path": "/Users/robert/Zotero/storage/557JABQQ/6773024.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/557JABQQ/6773024.html",
           "select": "zotero://select/library/items/557JABQQ"
         }
       ],
       "notes": [],
       "citationKey": "Shannon1948",
-      "citekey": "Shannon1948",
       "itemKey": "DBVR2JX2",
       "libraryID": 1,
       "select": "zotero://select/library/items/DBVR2JX2"
@@ -9435,13 +9285,12 @@
           "dateAdded": "2022-10-14T15:19:19Z",
           "dateModified": "2022-10-14T15:19:22Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/RAMPST72",
-          "path": "/Users/robert/Zotero/storage/RAMPST72/Simondon et Garelli - 2017 - L'individuation \u00e0 la lumi\u00e8re des notions de forme .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/RAMPST72/Simondon et Garelli - 2017 - L'individuation \u00e0 la lumi\u00e8re des notions de forme .pdf",
           "select": "zotero://select/library/items/RAMPST72"
         }
       ],
       "notes": [],
       "citationKey": "Simondon2017",
-      "citekey": "Simondon2017",
       "itemKey": "6KS9ZLQY",
       "libraryID": 1,
       "select": "zotero://select/library/items/6KS9ZLQY",
@@ -9482,13 +9331,12 @@
           "dateAdded": "2022-07-24T12:13:59Z",
           "dateModified": "2022-07-24T12:14:05Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/HZC4FC52",
-          "path": "/Users/robert/Zotero/storage/HZC4FC52/Sipser - 2013 - Introduction to the theory of computation.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/HZC4FC52/Sipser - 2013 - Introduction to the theory of computation.pdf",
           "select": "zotero://select/library/items/HZC4FC52"
         }
       ],
       "notes": [],
       "citationKey": "Sipser2013",
-      "citekey": "Sipser2013",
       "itemKey": "3ZXZHAKC",
       "libraryID": 1,
       "select": "zotero://select/library/items/3ZXZHAKC"
@@ -9561,13 +9409,12 @@
           "dateAdded": "2022-10-20T13:51:55Z",
           "dateModified": "2022-10-20T13:51:55Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/5VBYBJU8",
-          "path": "/Users/robert/Zotero/storage/5VBYBJU8/Smaldino et McElreath - The natural selection of bad science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/5VBYBJU8/Smaldino et McElreath - The natural selection of bad science.pdf",
           "select": "zotero://select/library/items/5VBYBJU8"
         }
       ],
       "notes": [],
       "citationKey": "Smaldino2016",
-      "citekey": "Smaldino2016",
       "itemKey": "YS5RLBHH",
       "libraryID": 1,
       "select": "zotero://select/library/items/YS5RLBHH"
@@ -9621,13 +9468,12 @@
           "dateAdded": "2022-07-22T16:10:46Z",
           "dateModified": "2022-07-22T16:10:46Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WG8GHJNE",
-          "path": "/Users/robert/Zotero/storage/WG8GHJNE/Soto et al. - 2008 - On physicalism and Downward Causation in Developme.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WG8GHJNE/Soto et al. - 2008 - On physicalism and Downward Causation in Developme.pdf",
           "select": "zotero://select/library/items/WG8GHJNE"
         }
       ],
       "notes": [],
       "citationKey": "Soto2008",
-      "citekey": "Soto2008",
       "itemKey": "73MGTM4C",
       "libraryID": 1,
       "select": "zotero://select/library/items/73MGTM4C"
@@ -9678,13 +9524,12 @@
           "dateAdded": "2022-08-11T15:03:00Z",
           "dateModified": "2022-08-11T15:03:16Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/RXX2MSH7",
-          "path": "/Users/robert/Zotero/storage/RXX2MSH7/Soto and Sonnenschein - 2020 - Information, programme, signal dead metaphors tha.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/RXX2MSH7/Soto and Sonnenschein - 2020 - Information, programme, signal dead metaphors tha.pdf",
           "select": "zotero://select/library/items/RXX2MSH7"
         }
       ],
       "notes": [],
       "citationKey": "Soto2020",
-      "citekey": "Soto2020",
       "itemKey": "AR42GHSU",
       "libraryID": 1,
       "select": "zotero://select/library/items/AR42GHSU"
@@ -9717,7 +9562,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Soto2021",
-      "citekey": "Soto2021",
       "itemKey": "9DUDMYDH",
       "libraryID": 1,
       "select": "zotero://select/library/items/9DUDMYDH"
@@ -9776,7 +9620,7 @@
           "dateAdded": "2022-10-20T18:53:15Z",
           "dateModified": "2022-10-20T18:53:15Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SG7A7ZHQ",
-          "path": "/Users/robert/Zotero/storage/SG7A7ZHQ/Stephan - 2012 - Perverse incentives.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/SG7A7ZHQ/Stephan - 2012 - Perverse incentives.pdf",
           "select": "zotero://select/library/items/SG7A7ZHQ"
         },
         {
@@ -9787,13 +9631,12 @@
           "dateAdded": "2022-10-20T18:53:20Z",
           "dateModified": "2022-10-20T18:53:20Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/SZ5HGUY7",
-          "path": "/Users/robert/Zotero/storage/SZ5HGUY7/484029a.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/SZ5HGUY7/484029a.html",
           "select": "zotero://select/library/items/SZ5HGUY7"
         }
       ],
       "notes": [],
       "citationKey": "Stephan2012",
-      "citekey": "Stephan2012",
       "itemKey": "RX4SX8QZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/RX4SX8QZ"
@@ -9828,13 +9671,12 @@
           "dateAdded": "2022-10-20T19:57:21Z",
           "dateModified": "2022-10-20T19:57:21Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/KK3FMBPM",
-          "path": "/Users/robert/Zotero/storage/KK3FMBPM/Stephan - 2015 - How economics shapes science.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/KK3FMBPM/Stephan - 2015 - How economics shapes science.pdf",
           "select": "zotero://select/library/items/KK3FMBPM"
         }
       ],
       "notes": [],
       "citationKey": "Stephan2015",
-      "citekey": "Stephan2015",
       "itemKey": "7Z82UYSI",
       "libraryID": 1,
       "select": "zotero://select/library/items/7Z82UYSI"
@@ -9869,13 +9711,12 @@
           "dateAdded": "2022-10-28T18:15:36Z",
           "dateModified": "2022-10-28T18:15:36Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/8PWHMBW5",
-          "path": "/Users/robert/Zotero/storage/8PWHMBW5/31962.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/8PWHMBW5/31962.html",
           "select": "zotero://select/library/items/8PWHMBW5"
         }
       ],
       "notes": [],
       "citationKey": "Stiegler2019",
-      "citekey": "Stiegler2019",
       "itemKey": "YPD6X7FL",
       "libraryID": 1,
       "select": "zotero://select/library/items/YPD6X7FL"
@@ -9925,7 +9766,7 @@
           "dateAdded": "2022-12-08T11:08:38Z",
           "dateModified": "2022-12-08T11:08:38Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/G3BZEX9B",
-          "path": "/Users/robert/Zotero/storage/G3BZEX9B/Tang et al. - 2004 - Indian hedgehog a mechanotransduction mediator in.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/G3BZEX9B/Tang et al. - 2004 - Indian hedgehog a mechanotransduction mediator in.pdf",
           "select": "zotero://select/library/items/G3BZEX9B"
         },
         {
@@ -9936,13 +9777,12 @@
           "dateAdded": "2022-12-08T11:08:57Z",
           "dateModified": "2022-12-08T11:08:57Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/DQCVEUWT",
-          "path": "/Users/robert/Zotero/storage/DQCVEUWT/154405910408300516.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/DQCVEUWT/154405910408300516.html",
           "select": "zotero://select/library/items/DQCVEUWT"
         }
       ],
       "notes": [],
       "citationKey": "Tang2004",
-      "citekey": "Tang2004",
       "itemKey": "9WQFBJX8",
       "libraryID": 1,
       "select": "zotero://select/library/items/9WQFBJX8"
@@ -10019,13 +9859,12 @@
           "dateAdded": "2022-08-11T15:27:56Z",
           "dateModified": "2022-08-11T15:27:56Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/RYLHK8QV",
-          "path": "/Users/robert/Zotero/storage/RYLHK8QV/Taniguchi et al. - 2010 - Quantifying E. coli Proteome and Transcriptome wit.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/RYLHK8QV/Taniguchi et al. - 2010 - Quantifying E. coli Proteome and Transcriptome wit.pdf",
           "select": "zotero://select/library/items/RYLHK8QV"
         }
       ],
       "notes": [],
       "citationKey": "Taniguchi2010",
-      "citekey": "Taniguchi2010",
       "itemKey": "RK844GNE",
       "libraryID": 1,
       "select": "zotero://select/library/items/RK844GNE"
@@ -10100,13 +9939,12 @@
           "dateAdded": "2022-11-03T23:03:13Z",
           "dateModified": "2022-11-03T23:03:13Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/BBQRAMT4",
-          "path": "/Users/robert/Zotero/storage/BBQRAMT4/Thomas et Thomas - 2020 - Behavioral symmetry, rent seeking, and the Republi.pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/BBQRAMT4/Thomas et Thomas - 2020 - Behavioral symmetry, rent seeking, and the Republi.pdf",
           "select": "zotero://select/library/items/BBQRAMT4"
         }
       ],
       "notes": [],
       "citationKey": "Thomas2020",
-      "citekey": "Thomas2020",
       "itemKey": "WW5XM7SE",
       "libraryID": 1,
       "select": "zotero://select/library/items/WW5XM7SE"
@@ -10155,7 +9993,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Tijdink2014",
-      "citekey": "Tijdink2014",
       "itemKey": "43F7PIPQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/43F7PIPQ"
@@ -10193,13 +10030,12 @@
           "dateAdded": "2022-07-24T18:16:07Z",
           "dateModified": "2022-07-24T18:16:07Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/WZLU4XL8",
-          "path": "/Users/robert/Zotero/storage/WZLU4XL8/Turing - 1936 - On computable numbers, with an application to the .pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/WZLU4XL8/Turing - 1936 - On computable numbers, with an application to the .pdf",
           "select": "zotero://select/library/items/WZLU4XL8"
         }
       ],
       "notes": [],
       "citationKey": "Turing1936",
-      "citekey": "Turing1936",
       "itemKey": "MXWJJ2RP",
       "libraryID": 1,
       "select": "zotero://select/library/items/MXWJJ2RP"
@@ -10235,7 +10071,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Tyagi2010",
-      "citekey": "Tyagi2010",
       "itemKey": "RAJ6H6KH",
       "libraryID": 1,
       "select": "zotero://select/library/items/RAJ6H6KH"
@@ -10263,7 +10098,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Yong2018",
-      "citekey": "Yong2018",
       "itemKey": "F6D63FR8",
       "libraryID": 1,
       "select": "zotero://select/library/items/F6D63FR8"
@@ -10317,7 +10151,6 @@
       "attachments": [],
       "notes": [],
       "citationKey": "Zhou2004",
-      "citekey": "Zhou2004",
       "itemKey": "J87GICY5",
       "libraryID": 1,
       "select": "zotero://select/library/items/J87GICY5"
@@ -10346,13 +10179,12 @@
           "dateAdded": "2022-12-09T17:10:50Z",
           "dateModified": "2022-12-09T17:10:50Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/BZD9WAI9",
-          "path": "/Users/robert/Zotero/storage/BZD9WAI9/citations.html",
+          "path": "/Users/robert/Dropbox/zotero/storage/BZD9WAI9/citations.html",
           "select": "zotero://select/library/items/BZD9WAI9"
         }
       ],
       "notes": [],
       "citationKey": "zotero-5866",
-      "citekey": "zotero-5866",
       "itemKey": "WFQFE336",
       "libraryID": 1,
       "select": "zotero://select/library/items/WFQFE336"
@@ -10404,13 +10236,12 @@
           "dateAdded": "2022-08-11T14:45:30Z",
           "dateModified": "2022-08-11T14:45:30Z",
           "uri": "http://zotero.org/users/local/asN0yRvl/items/QSDS3MLB",
-          "path": "/Users/robert/Zotero/storage/QSDS3MLB/Zwanzig et al. - 1992 - Levinthal's paradox..pdf",
+          "path": "/Users/robert/Dropbox/zotero/storage/QSDS3MLB/Zwanzig et al. - 1992 - Levinthal's paradox..pdf",
           "select": "zotero://select/library/items/QSDS3MLB"
         }
       ],
       "notes": [],
       "citationKey": "Zwanzig1992",
-      "citekey": "Zwanzig1992",
       "itemKey": "4GA7FV8V",
       "libraryID": 1,
       "select": "zotero://select/library/items/4GA7FV8V"
