@@ -18,29 +18,29 @@ Reference: [Polanyi1962](reference/Polanyi1962.md)
 
 #### Background
 
-Micheal Polanyi is to be distinguished from his older brother Karl. Even in both have made considerable contributions in economics, Micheal originally was a physical chemist. Karl is well-known for his critiques of self-regulating markets. In contrast, Michael was member of the Mont-Pelerin Society and a closed friend of Friedrich Hayek ([Fischer2009](reference/Fischer2009.md)). Michael also made important contributions in philosophy and epistemology. His concept of *tacit knowledge* will be used by the OECD later. 
+Micheal Polanyi is to be distinguished from his older brother Karl. Even in both have made considerable contributions in economics, Micheal originally was a physical chemist. Karl is well known for his critiques of self-regulating markets. In contrast, Michael was a member of the Mont-Pelerin Society and a closed friend of Friedrich Hayek ([Fischer2009](reference/Fischer2009.md)). Michael also made important contributions in philosophy and epistemology. His concept of *tacit knowledge* will be used by the OECD later. 
 
-In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”, his model is *market-inspired*. However, he underlines that the scientific organisation cannot be reduced to the mechanisms of the market as defined by Hayek ([Hayek1945](reference/Hayek1945.md)), because it has a *higher principle*. 
+In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”, his model is *market-inspired*. However, he underlines that the scientific organization cannot be reduced to the mechanisms of the market as defined by Hayek ([Hayek1945](reference/Hayek1945.md)), because it has a *higher principle*. 
 
 #### Summary 
 
-##### Science is made by mutual adjustement of independent initiatives. 
+##### Science is made by mutual adjustment of independent initiatives. 
 
-Polanyi's original idea arise from comparing science as the activity that consists in collectively assembling pieces of a giant and unknown puzzle. By demonstrating that the most efficient way to organize the latter is by a _mutual adjustement of independent initiatives_, he concludes that it is also the most efficient way to organize the former[^1]
+Polanyi's original idea arises from comparing science as the activity that consists in collectively assembling pieces of a giant and unknown puzzle. By demonstrating that the most efficient way to organize the latter is by a _mutual adjustement of independent initiatives_, he concludes that it is also the most efficient way to organize the former[^1].
 
-While Polanyi is inspired by the price mecanism, he underlines that the exchanged informations between scientists (the pieces of the puzzle) are scientific papers and not prices; the former do not convey unambiguous instructions to reach a known goal (consume more or less of this item to make offer meet demand).
+While Polanyi is inspired by the price mechanism, he underlines that the exchanged information between scientists (the pieces of the puzzle) are scientific papers and not prices; the former do not convey unambiguous instructions to reach a known goal (consume more or less of this item to make offer meet demand).
 
 ##### Self-interested scientists refer to the scientific standards
 
-However, scientists do maximize the merit they may obtain by tackling the toughest _problem_ given their limited amount of material and intellectual ressources — they naturally never tackle problems that are far too hard for them to solve. Therefore, as a new article update a scientist's intellectual ressources, she adjust her work by refering to the criteria of merit which are the _scientific standards:
+However, scientists do maximize the merit they may obtain by tackling the toughest _problem_ given their limited amount of material and intellectual resources — they naturally never tackle problems that are far too hard for them to solve. Therefore, as a new article update a scientist's intellectual ressources, she adjusts her work by referring to the criteria of merit which are the _scientific standards:
 
-1.  Plausability
-2.  Scientific value, that is accuracy, systematic importance and the interest in the subject-matter.
+1.  Plauiability
+2.  Scientific value, that is accuracy, systematic importance and the interest in the subject matter.
 3.  Originality, which is the degree of surprise caused by the discovery among scientists
 
-##### The autorithy is enforced by the scientists themselves
+##### The authority is enforced by the scientists themselves
 
-The overlapping areas of expertise between specialized scientists allow to control those criteria when articles are submitted. The authority of the scientific standards is therefore enforced using _overlapping neighbourhoods_. The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals. The authority is very important because it also decides where grants and material ressources should be allocated on the same basis of the scientific standards interpretation by scientists. 
+The overlapping areas of expertise between specialized scientists allow them to control those criteria when articles are submitted. The authority of the scientific standards is therefore enforced using _overlapping neighborhoods_. The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals. The authority is very important because it also decides where grants and material ressources should be allocated on the same basis of the scientific standards interpretation by scientists. 
 
 ##### The tension of scientific standards is the source for the evolution of Science
 Moreover, the first two scientific standards tends to conformity while the third foster dissent. This tension shows the fundamental characteristic of the scientific authority which is a _dynamical orthodoxy,_ that is an orthodoxy that encourages its subversion. The dynamical aspect make sciences _traditional_: science is transmitted from generation to generation — like arts, moral or legal practices — to young scientists that are trained with a specific part of the current scientific opinion. This makes the evaluation of scientific standards change throughtout time too. 
