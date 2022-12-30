@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2c34307fb81082a1",
+        "id": "f374569062409d59",
         "type": "tabs",
         "children": [
           {
-            "id": "50a8fddb63407bef",
+            "id": "752eccc979ab205f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/literature note on Henriques2013.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/literature note on Henriques2013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/literature note on Henriques2013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/literature note on Henriques2013.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "752eccc979ab205f",
   "lastOpenFiles": [
-    "reference/Henriques2013a.md",
-    "reference/Henriques2013.md",
+    "reference/OECD1963.md",
     "note/literature note on Henriques2013.md",
+    "reference/Henriques2013.md",
+    "reference/Henriques2013a.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Hayek1945.md",
     "note/literature note on LiVigni2021.md",
     "note/literature note on Longo2012.md",
     "reference/Danchin2002.md",
-    "definition/complexity sciences.md",
-    "concept/computability.md"
+    "definition/complexity sciences.md"
   ]
 }
