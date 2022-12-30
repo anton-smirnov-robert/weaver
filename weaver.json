@@ -93,7 +93,7 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": true,
+      "keepUpdated": false,
       "worker": true
     }
   },
