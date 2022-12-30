@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About me.md",
+                "file": "manifesto.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ddc29fc666451de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About me.md",
+                "file": "manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About me.md",
+                "file": "manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About me.md"
+                "file": "manifesto.md"
               }
             }
           }
@@ -136,8 +147,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "005e156608b0dd56",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "1ddc29fc666451de",
   "lastOpenFiles": [
+    "About me.md",
     "manifesto.md",
     "concept/Gödel's numbering.md",
     "concept/Turing machine.md",
@@ -146,7 +168,6 @@
     "definition/formal system.md",
     "concept/decidability.md",
     "concept/formal language.md",
-    "concept/Tarski's undefinability theorem.md",
-    "definition/deductive system.md"
+    "concept/Tarski's undefinability theorem.md"
   ]
 }
