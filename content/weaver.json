@@ -10156,6 +10156,40 @@
       "select": "zotero://select/library/items/J87GICY5"
     },
     {
+      "key": "WFQFE336",
+      "version": 0,
+      "itemType": "webpage",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=i5YQTPMAAAAJ&citation_for_view=i5YQTPMAAAAJ:Se3iqnhoufwC",
+      "accessDate": "2022-12-09T17:10:45Z",
+      "abstractNote": "\u202aA Robert, H Berthoumieux, ML Bocquet\u202c, \u202aarXiv e-prints, 2022\u202c",
+      "title": "\u202aCoupled interactions at the ionic graphene/water interface\u202c",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-09T17:10:45Z",
+      "dateModified": "2022-12-09T17:10:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WFQFE336",
+      "itemID": 5866,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-09T17:10:50Z",
+          "dateModified": "2022-12-09T17:10:50Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/BZD9WAI9",
+          "path": "/Users/robert/Dropbox/zotero/storage/BZD9WAI9/citations.html",
+          "select": "zotero://select/library/items/BZD9WAI9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-5866",
+      "itemKey": "WFQFE336",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WFQFE336"
+    },
+    {
       "key": "4GA7FV8V",
       "version": 0,
       "itemType": "journalArticle",

@@ -1,5 +1,5 @@
 {
-  "bibPath": "bib.json",
+  "bibPath": "weaver.json",
   "templateContent": "---\ntitle: \"{{citekey}}\"\ndraft: false\nshowthedate: false\nenabletoc: false\ntags:\n- reference\n---\n\n#### **{{title}}**     \nby {{author}} ({{year}})         \n*{{publicationTitle}}* {{volume}}: {{pages}}       \n{{publisher}}      \n{{editor}}      \nDOI: {{DOI}}     \nURL: {{URL}}       \n\n**Abstract**:  {{abstractNote}}\n\n{{PDFNotes}}",
   "templatePath": "",
   "templateType": "Custom",

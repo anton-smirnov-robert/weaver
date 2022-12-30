@@ -11,26 +11,11 @@
             "id": "005e156608b0dd56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manifesto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ddc29fc666451de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "manifesto.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,17 +138,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1ddc29fc666451de",
+  "active": "005e156608b0dd56",
   "lastOpenFiles": [
-    "About me.md",
+    "Canvas.canvas",
     "manifesto.md",
+    "About me.md",
     "concept/Gödel's numbering.md",
     "concept/Turing machine.md",
     "concept/Cantor's diagonal argument.md",
     "concept/Gödel's incompleteness theorem.md",
     "definition/formal system.md",
     "concept/decidability.md",
-    "concept/formal language.md",
-    "concept/Tarski's undefinability theorem.md"
+    "concept/formal language.md"
   ]
 }
