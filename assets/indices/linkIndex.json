@@ -147,9 +147,9 @@
           "text": "Crick1970"
         }
       ],
-      "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8": [
+      "/concept/Foucaults-e%CC%81piste%CC%81me%CC%80": [
         {
-          "source": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "source": "/concept/Foucaults-e%CC%81piste%CC%81me%CC%80",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         }
@@ -166,30 +166,30 @@
           "text": "predicate"
         }
       ],
-      "/concept/G%C3%B6dels-incompleteness-theorem": [
-        {
-          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
-          "target": "/concept/G%C3%B6dels-numbering",
-          "text": "Gödel's numbering"
-        },
-        {
-          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
-          "target": "/concept/Tarskis-undefinability-theorem",
-          "text": "Tarski's undefinability theorem"
-        }
-      ],
-      "/concept/G%C3%B6dels-numbering": [
-        {
-          "source": "/concept/G%C3%B6dels-numbering",
-          "target": "/concept/formal-language",
-          "text": "formal language"
-        }
-      ],
       "/concept/Gell-Manns-vision-of-complexity": [
         {
           "source": "/concept/Gell-Manns-vision-of-complexity",
           "target": "/reference/Pines1988",
           "text": "Pines1988"
+        }
+      ],
+      "/concept/Go%CC%88dels-incompleteness-theorem": [
+        {
+          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
+          "target": "/concept/G%C3%B6dels-numbering",
+          "text": "Gödel's numbering"
+        },
+        {
+          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
+          "target": "/concept/Tarskis-undefinability-theorem",
+          "text": "Tarski's undefinability theorem"
+        }
+      ],
+      "/concept/Go%CC%88dels-numbering": [
+        {
+          "source": "/concept/Go%CC%88dels-numbering",
+          "target": "/concept/formal-language",
+          "text": "formal language"
         }
       ],
       "/concept/Kolmogorovs-incompressibility": [
@@ -968,7 +968,7 @@
       ],
       "/concept/G%C3%B6dels-numbering": [
         {
-          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
           "target": "/concept/G%C3%B6dels-numbering",
           "text": "Gödel's numbering"
         },
@@ -1051,7 +1051,7 @@
       ],
       "/concept/Tarskis-undefinability-theorem": [
         {
-          "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
           "target": "/concept/Tarskis-undefinability-theorem",
           "text": "Tarski's undefinability theorem"
         }
@@ -1151,7 +1151,7 @@
       ],
       "/concept/formal-language": [
         {
-          "source": "/concept/G%C3%B6dels-numbering",
+          "source": "/concept/Go%CC%88dels-numbering",
           "target": "/concept/formal-language",
           "text": "formal language"
         },
@@ -1730,7 +1730,7 @@
       ],
       "/reference/Polanyi1962": [
         {
-          "source": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "source": "/concept/Foucaults-e%CC%81piste%CC%81me%CC%80",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -1975,7 +1975,7 @@
       "text": "Crick1970"
     },
     {
-      "source": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+      "source": "/concept/Foucaults-e%CC%81piste%CC%81me%CC%80",
       "target": "/reference/Polanyi1962",
       "text": "Polanyi1962"
     },
@@ -1995,17 +1995,17 @@
       "text": "Pines1988"
     },
     {
-      "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+      "source": "/concept/Go%CC%88dels-incompleteness-theorem",
       "target": "/concept/G%C3%B6dels-numbering",
       "text": "Gödel's numbering"
     },
     {
-      "source": "/concept/G%C3%B6dels-incompleteness-theorem",
+      "source": "/concept/Go%CC%88dels-incompleteness-theorem",
       "target": "/concept/Tarskis-undefinability-theorem",
       "text": "Tarski's undefinability theorem"
     },
     {
-      "source": "/concept/G%C3%B6dels-numbering",
+      "source": "/concept/Go%CC%88dels-numbering",
       "target": "/concept/formal-language",
       "text": "formal language"
     },

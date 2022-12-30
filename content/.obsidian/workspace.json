@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1469b3936e58b8e9",
+        "id": "2c34307fb81082a1",
         "type": "tabs",
         "children": [
           {
-            "id": "005e156608b0dd56",
+            "id": "50a8fddb63407bef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/literature note on Hayek1945.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "9fa4fa23d5a1c7da",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/literature note on Hayek1945.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "005e156608b0dd56",
+  "active": "50a8fddb63407bef",
   "lastOpenFiles": [
+    "note/literature note on Henriques2013.md",
+    "note/literature note on Polanyi1962.md",
+    "note/literature note on LiVigni2021.md",
+    "note/literature note on Longo2012.md",
+    "reference/Danchin2002.md",
+    "definition/complexity sciences.md",
+    "concept/computability.md",
     "Canvas.canvas",
     "manifesto.md",
-    "About me.md",
-    "concept/Gödel's numbering.md",
-    "concept/Turing machine.md",
-    "concept/Cantor's diagonal argument.md",
-    "concept/Gödel's incompleteness theorem.md",
-    "definition/formal system.md",
-    "concept/decidability.md",
-    "concept/formal language.md"
+    "About me.md"
   ]
 }
