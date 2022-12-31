@@ -1987,6 +1987,46 @@
       "select": "zotero://select/library/items/Y6J7USB6"
     },
     {
+      "key": "SEZHGWNP",
+      "version": 0,
+      "itemType": "journalArticle",
+      "libraryCatalog": "Zotero",
+      "language": "en",
+      "abstractNote": "This document provides learnings from 13 case studies on governance mechanisms of national and supranational science, technology and innovation initiatives. As countries strive to resolve societal challenges, \u201cmission-oriented\u201d approaches complement traditional ones centred on national competitiveness, specific industrial sectors or technologies. Governance settings contribute overall to a more inclusive, transparent and responsible STI system, in particular through a whole-of-government approach, the consultation of academia, the private sector and civil society, the implementation of strategies by professional agencies, and the increasingly common use of evaluation. Several critical dimensions facilitate the success of STI policies. They include a commitment at the highest level of government, strong public-private collaboration in R&D, continuous evaluation and improvement, a \u201cmission-oriented\u201d approach, coherence of policies and flexibility in setting priorities, as well as overall harmonisation and rationalisation of programmes in order to maximise efficiency and reduce duplication.",
+      "title": "Governance of Science and Technology policies",
+      "creators": [
+        {
+          "firstName": "VIROS",
+          "lastName": "Camille",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2022-12-31T15:08:15Z",
+      "dateModified": "2022-12-31T15:08:15Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/SEZHGWNP",
+      "itemID": 5991,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Camille - Governance of Science and Technology policies.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2022-12-31T12:57:12Z",
+          "dateModified": "2022-12-31T15:08:16Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VNJJEDG5",
+          "path": "/Users/robert/Dropbox/zotero/storage/VNJJEDG5/Camille - Governance of Science and Technology policies.pdf",
+          "select": "zotero://select/library/items/VNJJEDG5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Camillea",
+      "itemKey": "SEZHGWNP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SEZHGWNP"
+    },
+    {
       "key": "6YA2XP79",
       "version": 0,
       "itemType": "videoRecording",
@@ -8130,14 +8170,14 @@
       "select": "zotero://select/library/items/PCR4RU73"
     },
     {
-      "key": "VC52MK4D",
+      "key": "R7USVMVF",
       "version": 0,
       "itemType": "report",
       "url": "https://www.oecd-ilibrary.org/science-and-technology/governance-of-science-and-technology-policies_2b3bc558-en",
       "place": "Paris",
       "date": "2019-10-17",
       "extra": "DOI: 10.1787/2b3bc558-en",
-      "accessDate": "2022-11-25T13:42:23Z",
+      "accessDate": "2022-12-31T15:09:11Z",
       "libraryCatalog": "OECD iLibrary",
       "language": "en",
       "abstractNote": "This document provides learnings from 13 case studies on governance mechanisms of national and supranational science, technology and innovation initiatives. As countries strive to resolve societal challenges, \u201cmission-oriented\u201d approaches complement traditional ones centred on national competitiveness, specific industrial sectors or technologies. Governance settings contribute overall to a more inclusive, transparent and responsible STI system, in particular through a whole-of-government approach, the consultation of academia, the private sector and civil society, the implementation of strategies by professional agencies, and the increasingly common use of evaluation. Several critical dimensions facilitate the success of STI policies. They include a commitment at the highest level of government, strong public-private collaboration in R&amp;D, continuous evaluation and improvement, a \u201cmission-oriented\u201d approach, coherence of policies and flexibility in setting priorities, as well as overall harmonisation and rationalisation of programmes in order to maximise efficiency and reduce duplication.",
@@ -8156,28 +8196,28 @@
       ],
       "tags": [],
       "relations": [],
-      "dateAdded": "2022-11-25T13:42:23Z",
-      "dateModified": "2022-11-25T13:42:23Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/VC52MK4D",
-      "itemID": 5683,
+      "dateAdded": "2022-12-31T15:09:11Z",
+      "dateModified": "2022-12-31T15:09:11Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/R7USVMVF",
+      "itemID": 6005,
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "2b3bc558-en.pdf",
+          "title": "Paic et Viros - 2019 - Governance of science and technology policies.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2022-11-25T13:47:07Z",
-          "dateModified": "2022-11-25T13:47:07Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/NGCA73FL",
-          "path": "/Users/robert/Dropbox/zotero/storage/NGCA73FL/2b3bc558-en.pdf",
-          "select": "zotero://select/library/items/NGCA73FL"
+          "dateAdded": "2022-12-31T15:10:05Z",
+          "dateModified": "2022-12-31T15:10:05Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/PJG7SM7W",
+          "path": "/Users/robert/Dropbox/zotero/storage/PJG7SM7W/Paic et Viros - 2019 - Governance of science and technology policies.pdf",
+          "select": "zotero://select/library/items/PJG7SM7W"
         }
       ],
       "notes": [],
       "citationKey": "Paic2019",
-      "itemKey": "VC52MK4D",
+      "itemKey": "R7USVMVF",
       "libraryID": 1,
-      "select": "zotero://select/library/items/VC52MK4D",
+      "select": "zotero://select/library/items/R7USVMVF",
       "publisher": "OECD"
     },
     {

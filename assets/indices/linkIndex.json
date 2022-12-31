@@ -566,6 +566,13 @@
           "text": "Boolos2007"
         }
       ],
+      "/literature-note-on-Paic2019": [
+        {
+          "source": "/literature-note-on-Paic2019",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        }
+      ],
       "/note/literature-note-on-Hayek1945": [
         {
           "source": "/note/literature-note-on-Hayek1945",
@@ -586,8 +593,38 @@
         },
         {
           "source": "/note/literature-note-on-Henriques2013",
-          "target": "/note/literature-note-on-Polanyi1962",
-          "text": "literature note on Polanyi1962"
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Bush1945",
+          "text": "Bush1945"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Piganiol1963",
+          "text": "Piganiol1963"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Kuhn1970",
+          "text": "Kuhn1970"
         }
       ],
       "/note/literature-note-on-LiVigni2021": [
@@ -1463,18 +1500,18 @@
           "text": "literature note on Longo2012"
         }
       ],
-      "/note/literature-note-on-Polanyi1962": [
-        {
-          "source": "/note/literature-note-on-Henriques2013",
-          "target": "/note/literature-note-on-Polanyi1962",
-          "text": "literature note on Polanyi1962"
-        }
-      ],
       "/reference/Anfinsen1973": [
         {
           "source": "/concept/Anfinsens-dogma",
           "target": "/reference/Anfinsen1973",
           "text": "Anfinsen1973"
+        }
+      ],
+      "/reference/Arrow1962": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
         }
       ],
       "/reference/Boolos2007": [
@@ -1531,6 +1568,13 @@
           "source": "/concept/negentropy",
           "target": "/reference/Brillouin1956",
           "text": "Brillouin1956"
+        }
+      ],
+      "/reference/Bush1945": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Bush1945",
+          "text": "Bush1945"
         }
       ],
       "/reference/Crick1958": [
@@ -1606,6 +1650,11 @@
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
+        },
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
         }
       ],
       "/reference/Horgan1995": [
@@ -1632,6 +1681,13 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
+        }
+      ],
+      "/reference/Kuhn1970": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Kuhn1970",
+          "text": "Kuhn1970"
         }
       ],
       "/reference/Lazebnik2018": [
@@ -1719,6 +1775,34 @@
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
+        }
+      ],
+      "/reference/Nelson1959": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        }
+      ],
+      "/reference/Paic2019": [
+        {
+          "source": "/literature-note-on-Paic2019",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        }
+      ],
+      "/reference/Petit2019": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        }
+      ],
+      "/reference/Piganiol1963": [
+        {
+          "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Piganiol1963",
+          "text": "Piganiol1963"
         }
       ],
       "/reference/Pines1988": [
@@ -2340,6 +2424,11 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/literature-note-on-Paic2019",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
@@ -2356,8 +2445,38 @@
     },
     {
       "source": "/note/literature-note-on-Henriques2013",
-      "target": "/note/literature-note-on-Polanyi1962",
-      "text": "literature note on Polanyi1962"
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Nelson1959",
+      "text": "Nelson1959"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Arrow1962",
+      "text": "Arrow1962"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Bush1945",
+      "text": "Bush1945"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Piganiol1963",
+      "text": "Piganiol1963"
+    },
+    {
+      "source": "/note/literature-note-on-Henriques2013",
+      "target": "/reference/Kuhn1970",
+      "text": "Kuhn1970"
     },
     {
       "source": "/note/literature-note-on-LiVigni2021",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature note on Paic2019.md",
+                "file": "concept/Tarski's undefinability theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "right": {
     "id": "9fa4fa23d5a1c7da",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature note on Paic2019.md",
+                "file": "concept/Tarski's undefinability theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literature note on Paic2019.md",
+                "file": "concept/Tarski's undefinability theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literature note on Paic2019.md"
+                "file": "concept/Tarski's undefinability theorem.md"
               }
             }
           }
@@ -185,15 +185,15 @@
   },
   "active": "aa7144bc29c372dd",
   "lastOpenFiles": [
-    "note/literature note on Henriques2013.md",
+    "concept/Gödel's incompleteness theorem.md",
     "literature note on Paic2019.md",
+    "note/literature note on Henriques2013.md",
     "reference/Paic2019.md",
     "reference/Henriques2013.md",
     "reference/OECD1963.md",
     "reference/Henriques2013a.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Hayek1945.md",
-    "note/literature note on LiVigni2021.md",
-    "note/literature note on Longo2012.md"
+    "note/literature note on LiVigni2021.md"
   ]
 }
