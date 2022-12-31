@@ -111,10 +111,6 @@ DOI: 10.1016/j.respol.2012.09.004
 
 > [!quote] 
 >
->Projects should be evaluated according to their merits and potential impact to national needs —  (Henriques et Larédo, 2013, p. 8) 
-
-> [!quote] 
->
 >4.4. Administration —  (Henriques et Larédo, 2013, p. 8) 
 
 > [!quote] 
