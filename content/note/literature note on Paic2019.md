@@ -35,6 +35,8 @@ Some aspects are transformed:
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
+In Germany, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life.
+
 - It should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient. 
 
 > [!quote] 
@@ -80,5 +82,8 @@ In any case, the money comes from citizens. So either citizens should say where 
 
 #### Idea 
 
-We gave up on the idea that science is a creative activity, and we cannot determine what will happen and what can be useful. Nothing can be created. How to engage that without any garuantee. 
+- We gave up on the idea that science is a creative activity, and we cannot determine what will happen and what can be useful. Nothing can be created. How to engage that without any garuantee. 
 Empirical research with automation of protocoles aims at eliminating everything that can be creative. We want to predefine what will be obtained. Purely empirical investigations negates that human plays a role in constructing theories. What want to control what to look for and why. Important scientific results come from unexpected results. We cannot predict, but need to trust this. As long as we cannot trust the fact that something can emerge from nothing. Being is being determined. Nothing can be created.  
+
+- La confiance entre scientifiques et la population est ébranlée parce que ces derniers, sous la pression de publier, se mettent à faire jouer les "commercial morals" (c'est à dire, mon papier est bon car il est accepté). Dès lors, il découle une énorme crise de reproductibilité et la plupart des choses qui en sorte ne sont pas fiable.  Ils vendent des choses fragiles et font des énormes promesses. 
+
