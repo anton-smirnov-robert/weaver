@@ -8,7 +8,6 @@ tags:
 - literature-note
 ---
 
-
 #### **Computational empiricism : the reigning épistémè of the sciences**     
 by Montevil M. (2021)         
 
@@ -18,6 +17,7 @@ Reference: [Montevil2021](reference/Montevil2021.md)
 
 
 ### Summary
+
 
 #### The IMRaD structure is about contextualizing a single unbiased observation to transform it to knowledge.
 It is like adding a single brick on the cathedral of knowledge. The separation of results and discussion means that your mind is a virgin receptacle for information to flow inside. Then, you analyze the results that you have unbiasly seen. With the IMRaD format, scientists exchange information without being transformed (receptor, receiver). This is not theoretial thinking since the latter change how we think about phenomena. In fact, scientists do not have time to engage with specific ways to organize scientific rationality.
@@ -63,6 +63,8 @@ It cares for numerical questions but do not attend for its logoi. Original works
 >This organization goes with a cumulative view of science, where productivism is a natural aim. —  (Montevil, 2021, p. 9) 
 
 #### Computational empiricism produces a state of theory disruption
+
+Montévil name the current épistémè _computational empiricism_. Most scientists adopt an _inductive_ approach: they generate data, analyze them and/or try to reproduce them using specific models. The analysis are predominantly statistical tests and mathematical models primarly aim at imitation. They are carried out on computers and the theoretical meaning they bear is usually not discussed. Two observations point to a _cumulative_ view of knowledge. First, the standardization of the publication structure, which contextualize a single unbiased observation to communicate an easy-to-find information to other scientists. Second, synthetic works taking place in critical and editor-ordered review articles are explicitely not considered to be original contributions unless they undertake computational meta-analysis. Finally, in the spirit of Bernard Stielger, the author diagnozed a phenomena he calls _theory disruption_, defined as follow:
 
 > [!quote] 
 >

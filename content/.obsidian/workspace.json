@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Montevil2021.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/literature note on Montevil2021.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/literature note on Montevil2021.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/literature note on Montevil2021.md"
+                "file": "note/literature note on Polanyi1962.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "3aaa06c4212a0d08",
   "lastOpenFiles": [
-    "note/literature note on Paic2019.md",
     "note/literature note on Montevil2021.md",
-    "reference/Montevil2021.md",
     "Sans titre.canvas",
+    "note/literature note on Paic2019.md",
+    "reference/Montevil2021.md",
     "concept/scientific positivism.md",
     "Sans titre.md",
     "note/literature note on Polanyi1962.md",
