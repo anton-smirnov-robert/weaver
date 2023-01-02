@@ -90,3 +90,11 @@ Empirical research with automation of protocoles aims at eliminating everything 
 - Credit import recherche de plus en plus grand pour moins de recherche. 
 
 - La tour d'ivoire est crée par le simple fait de différencier les scientifiques des citoyens. Les sccientifiques sont des citoyens et eds humains qui ont des pensées qui reflètent en partie ceux de la société. La tour d'ivoir est illusoire, elle fait comme-ci ces dderniers étaient neutres et objecctifs, près à travailler sur les sujets qu'on leur pointe du doigts. 
+
+
+The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science
+
+> "We need to set our eyes on a specific target, and drive our scientific efforts towards reaching that target” — Carlos Moedas, Moedas, 2017.
+>  — Presentation of the Rise Group publication on the future of EU research and innovation policy: “The best possible future is an Open one” —
+
+reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
