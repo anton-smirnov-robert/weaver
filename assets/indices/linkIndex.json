@@ -465,6 +465,13 @@
           "text": "molecular chaperon"
         }
       ],
+      "/concept/scientific-positivism": [
+        {
+          "source": "/concept/scientific-positivism",
+          "target": "/reference/Heisenberg1971",
+          "text": "Heisenberg1971"
+        }
+      ],
       "/concept/second-principle-of-thermodynamics": [
         {
           "source": "/concept/second-principle-of-thermodynamics",
@@ -564,13 +571,6 @@
           "source": "/definition/recursive-function",
           "target": "/reference/Boolos2007",
           "text": "Boolos2007"
-        }
-      ],
-      "/literature-note-on-Paic2019": [
-        {
-          "source": "/literature-note-on-Paic2019",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
         }
       ],
       "/note/literature-note-on-Hayek1945": [
@@ -849,6 +849,50 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
+        }
+      ],
+      "/note/literature-note-on-Montevil2021": [
+        {
+          "source": "/note/literature-note-on-Montevil2021",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/literature-note-on-Montevil2021",
+          "target": "/scientific-positivism",
+          "text": "scientific positivism"
+        },
+        {
+          "source": "/note/literature-note-on-Montevil2021",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        }
+      ],
+      "/note/literature-note-on-Paic2019": [
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Blok2015",
+          "text": "Blok2015"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Kuhn1970",
+          "text": "Kuhn1970"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Nolan2021",
+          "text": "Nolan2021"
         }
       ],
       "/note/literature-note-on-Polanyi1962": [
@@ -1514,6 +1558,20 @@
           "text": "Arrow1962"
         }
       ],
+      "/reference/Blok2015": [
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Blok2015",
+          "text": "Blok2015"
+        }
+      ],
+      "/reference/Blok2015a": [
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        }
+      ],
       "/reference/Boolos2007": [
         {
           "source": "/concept/Cantors-diagonal-argument",
@@ -1645,6 +1703,13 @@
           "text": "Hayek1945"
         }
       ],
+      "/reference/Heisenberg1971": [
+        {
+          "source": "/concept/scientific-positivism",
+          "target": "/reference/Heisenberg1971",
+          "text": "Heisenberg1971"
+        }
+      ],
       "/reference/Henriques2013": [
         {
           "source": "/note/literature-note-on-Henriques2013",
@@ -1686,6 +1751,11 @@
       "/reference/Kuhn1970": [
         {
           "source": "/note/literature-note-on-Henriques2013",
+          "target": "/reference/Kuhn1970",
+          "text": "Kuhn1970"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
         }
@@ -1756,7 +1826,19 @@
           "text": "Mirowski2011"
         }
       ],
+      "/reference/Montevil2021": [
+        {
+          "source": "/note/literature-note-on-Montevil2021",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        }
+      ],
       "/reference/Morin1982": [
+        {
+          "source": "/note/literature-note-on-Montevil2021",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
         {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Morin1982",
@@ -1784,9 +1866,16 @@
           "text": "Nelson1959"
         }
       ],
+      "/reference/Nolan2021": [
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Nolan2021",
+          "text": "Nolan2021"
+        }
+      ],
       "/reference/Paic2019": [
         {
-          "source": "/literature-note-on-Paic2019",
+          "source": "/note/literature-note-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         }
@@ -1923,6 +2012,13 @@
           "source": "/concept/protein-folding-problem",
           "target": "/reference/Zwanzig1992",
           "text": "Zwanzig1992"
+        }
+      ],
+      "/scientific-positivism": [
+        {
+          "source": "/note/literature-note-on-Montevil2021",
+          "target": "/scientific-positivism",
+          "text": "scientific positivism"
         }
       ]
     }
@@ -2339,6 +2435,11 @@
       "text": "molecular chaperon"
     },
     {
+      "source": "/concept/scientific-positivism",
+      "target": "/reference/Heisenberg1971",
+      "text": "Heisenberg1971"
+    },
+    {
       "source": "/concept/second-principle-of-thermodynamics",
       "target": "/definition/entropy",
       "text": "entropy"
@@ -2422,11 +2523,6 @@
       "source": "/definition/recursive-function",
       "target": "/reference/Boolos2007",
       "text": "Boolos2007"
-    },
-    {
-      "source": "/literature-note-on-Paic2019",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
     },
     {
       "source": "/note/literature-note-on-Hayek1945",
@@ -2697,6 +2793,46 @@
       "source": "/note/literature-note-on-Longo2012",
       "target": "/reference/Jakkaraju2003",
       "text": "Jakkaraju2003"
+    },
+    {
+      "source": "/note/literature-note-on-Montevil2021",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/literature-note-on-Montevil2021",
+      "target": "/scientific-positivism",
+      "text": "scientific positivism"
+    },
+    {
+      "source": "/note/literature-note-on-Montevil2021",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Blok2015",
+      "text": "Blok2015"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Kuhn1970",
+      "text": "Kuhn1970"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Blok2015a",
+      "text": "Blok2015a"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Nolan2021",
+      "text": "Nolan2021"
     },
     {
       "source": "/note/literature-note-on-Polanyi1962",

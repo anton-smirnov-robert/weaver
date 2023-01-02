@@ -20,8 +20,7 @@ Reference: [Montevil2021](reference/Montevil2021.md)
 ### Summary
 
 #### The IMRaD structure is about contextualizing a single unbiased observation to transform it to knowledge.
-It is like adding a single brick on the cathedral of knowledge. The separation of results and discussion means that your mind is a virgin receptacle for information to flow inside. Then, you analyze the results that you have unbiasly seen. 
-With the IMRaD format, scientists exchange information without being transformed (receptor, receiver). This is not theoretial thinking since the latter change how we think about phenomena. In fact, scientists do not have time to engage with specific ways to organize scientific rationality.
+It is like adding a single brick on the cathedral of knowledge. The separation of results and discussion means that your mind is a virgin receptacle for information to flow inside. Then, you analyze the results that you have unbiasly seen. With the IMRaD format, scientists exchange information without being transformed (receptor, receiver). This is not theoretial thinking since the latter change how we think about phenomena. In fact, scientists do not have time to engage with specific ways to organize scientific rationality.
 
 #### Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon
 

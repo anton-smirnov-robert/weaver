@@ -76,7 +76,6 @@ Whose money? Public money, citizens. Who decides? Stakeholders, that is citizens
 
 We go back to a market system, but this is not at the scale of Polanyi. Scientists are sellers that respond to the demand of public/industrials.
 
-
 Two questions:
 
 - Do citizens really decide? 
