@@ -38,4 +38,4 @@ The OECD preconized to centralize the coordination of science at the governement
 
 - The linear model of science is incompatible with revolutions in science ([Kuhn1970](reference/Kuhn1970.md)). 
 
-- This is in sharp contrast with the invisible hand that Polanyi described. However, avoiding an explicit model allows to ignore theoretical contridications. Without refuting the existing explicit model, science starts to be inhabited by contradictions. It builds on The Republic of Science and implicitely ackowledges its description of the research activity. However, it  
+- This is in sharp contrast with the invisible hand that Polanyi described. However, avoiding an explicit model allows to ignore theoretical contridications. Without refuting the existing explicit model, science starts to be inhabited by contradictions. It builds on The Republic of Science and implicitely ackowledges its description of the research activity. 

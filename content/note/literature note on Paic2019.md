@@ -23,7 +23,7 @@ Some aspects are retained or slightly modified:
 
 Some aspects are transformed: 
 
-- The linear model is no longer valid, it is the "tacit knowledge" (another idea of Polanyi) that cannot be transferred in the linear model of innovation. For a good transfer of knowledge, industry and universities should co-create and collaborate. The closer all actors (reasearcher, industrials, citizens) are, the better. 
+- The linear model is no longer valid, it is the "tacit knowledge" (another idea of Polanyi) that cannot be transferred in the linear model of innovation. For a good transfer of knowledge, industry and universities should co-create and collaborate. The closer all actors (researcher, industrials, citizens) are, the better. 
 
 > [!quote] 
 >
@@ -67,9 +67,12 @@ The rationale is given by the Commissioner for Research, Science and Innovation 
 
 - Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
 
+> [!quote] 
+>
+>The large number of instruments and programmes available in most of the strategies studied makes it difficult for users to navigate among them and increases the risk of duplication. Rationalising and simplifying the programmes, limiting the number of calls and proposing a single “window” for users are ways to enhance efficiency in the granting of finance, reduce administrative costs (for participants and programme administrators), and maximise the impact of the strategy put in place. —  (Paic et Viros, 2019, p. 33) 
 
-
-
+Overlap are no longer important. No conflict ("cemeteries" of Montevil). See also [Morin1982](reference/Morin1982.md). 
+ 
 #### Comments 
 
 Whose money? Public money, citizens. Who decides? Stakeholders, that is citizens and the private sector — the state should not interfere, only to be "vigilant".  This is the market of ideas. Offer and demand. Consumers are citizens and the private sector. However, the money comes citizens. The private sector does not invest whatsoever in this mechanism. They only ask which directions to pursue annd use the fruit of research. 
