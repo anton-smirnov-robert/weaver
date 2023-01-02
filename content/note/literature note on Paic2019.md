@@ -57,7 +57,7 @@ Beyond being short-term projects with predetermined results, there is an aim at 
 >
 >This is meant to generate increased motivation among the actors – beyond remuneration and academic recognition, the awareness of contributing to a great and noble cause is an incentive for surpassing oneself —  (Paic et Viros, 2019, p. 32) 
 
-Examples such as nuclear energy, or conquest of space are given. It seems that the ideology of all scientists is also fixed. Do all scientists need to believe that we should "conquer space". Is there an ideological engagement when making basic research?  
+Examples such as nuclear energy, or conquest of space are given. It seems that the ideology of all scientists is also fixed. Do all scientists need to believe that we should "conquer space". Is there an ideological engagement when making basic research?  Other examples are green growth for instance. First, one should endorse the idea that it is a good and real thing (Tordjman). There is a ideaological commitment in being a scientist. 
 
 - Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
 
@@ -87,3 +87,4 @@ Empirical research with automation of protocoles aims at eliminating everything 
 
 - La confiance entre scientifiques et la population est ébranlée parce que ces derniers, sous la pression de publier, se mettent à faire jouer les "commercial morals" (c'est à dire, mon papier est bon car il est accepté). Dès lors, il découle une énorme crise de reproductibilité et la plupart des choses qui en sorte ne sont pas fiable.  Ils vendent des choses fragiles et font des énormes promesses. 
 
+- Credit import recherche de plus en plus grand pour moins de recherche. 
