@@ -1,4 +1,5 @@
 ---
+title: "Henriques2013"
 draft: false
 showthedate: false
 enabletoc: false
@@ -10,6 +11,8 @@ tags:
 by Henriques L., Larédo P. (2013)         
 *Research Policy* 42: 801-816       
 DOI: 10.1016/j.respol.2012.09.004     
+
+
 
 
 
@@ -108,6 +111,10 @@ DOI: 10.1016/j.respol.2012.09.004
 > [!quote] 
 >
 >Competitive funding is organised in national programmes to address specific objectives and targets. —  (Henriques et Larédo, 2013, p. 8) 
+
+> [!quote] 
+>
+>Projects should be evaluated according to their merits and potential impact to national needs —  (Henriques et Larédo, 2013, p. 8) 
 
 > [!quote] 
 >

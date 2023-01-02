@@ -25,15 +25,13 @@ It is like adding a single brick on the cathedral of knowledge. The separation o
 #### Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon
 
 There is a confusion between objectivity and automation. You can make something automatic with a deep unoticed theoretical commitment. 
-
-
 > [!quote] 
 >
 >protocolization can also be counterproductive since it downplays the work of objectivation, that is to say, the articulation between procedures and theoretical thinking. —  (Montevil, 2021, p. 5) 
 
 
 #### The current épistémè still has a positivist influence
-The scientific aim in the current épistémè is to find causal patterns or "mechanisms". Case studies or not considered, but they can give useful insights: the existence of one planet, the fact that something is possible, etc. The kind of knowledge that is looked for points to [[scientific positivism]]. The épistémè builds on induction and is a kind of empiricism.
+The scientific aim in the current épistémè is to find causal patterns or "mechanisms". Case studies or not considered, but they can give useful insights: the existence of one planet, the fact that something is possible, etc. The kind of knowledge that is looked for points to [scientific positivism](concept/scientific%20positivism.md). The épistémè builds on induction and is a kind of empiricism.
 
 
 > [!quote] 
@@ -53,7 +51,6 @@ It cares for numerical questions but do not attend for its logoi. Original works
 
 #### The épistémè has some links with the organization of science
 
-
 > [!quote] 
 >
 >Computational empiricism is an industrialization of research activity, a paradoxical notion considering that research is about bringing new, singular insights. —  (Montevil, 2021, p. 9) 
@@ -63,7 +60,6 @@ It cares for numerical questions but do not attend for its logoi. Original works
 >This organization goes with a cumulative view of science, where productivism is a natural aim. —  (Montevil, 2021, p. 9) 
 
 #### Computational empiricism produces a state of theory disruption
-
 Montévil name the current épistémè _computational empiricism_. Most scientists adopt an _inductive_ approach: they generate data, analyze them and/or try to reproduce them using specific models. The analysis are predominantly statistical tests and mathematical models primarly aim at imitation. They are carried out on computers and the theoretical meaning they bear is usually not discussed. Two observations point to a _cumulative_ view of knowledge. First, the standardization of the publication structure, which contextualize a single unbiased observation to communicate an easy-to-find information to other scientists. Second, synthetic works taking place in critical and editor-ordered review articles are explicitely not considered to be original contributions unless they undertake computational meta-analysis. Finally, in the spirit of Bernard Stielger, the author diagnozed a phenomena he calls _theory disruption_, defined as follow:
 
 > [!quote] 

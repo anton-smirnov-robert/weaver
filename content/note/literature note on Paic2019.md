@@ -14,58 +14,31 @@ OECD
 
 Reference: [Paic2019](reference/Paic2019.md)
 
-What happen if a purely liberal model of science — building on the invisible hand picture "that guides scientists towards an unknown direction" — is hijacked by centralizing science coordination and planning towards a precise goal? This question is interesting, but a better one is: what happens if this pardoxal situation is now given to neoliberals? Should they follow the ideas of their founding fathers or is the ability to push science towards a direction too tempting? 
+The neoliberal era of science ([Nedeva2006](reference/Nedeva2006.md),[Davies2006](reference/Davies2006.md),[Mirowski2011](reference/Mirowski2011.md),[Lazebnik2018](reference/Lazebnik2018.md)) herits from a organization of Science that already has some internal contradictions. It will change it by several political reforms, led by the OECD. First, some aspects are retained or slightly modified. Using the historical argument that the market cannot invest optimally, money should come from the state. International competitivity is an other goal of science that adds to economic growth and answering societal needs. The linear model is modified to include "tacit knowledge" (another idea of Polanyi). For a good transfer of knowledge, industry and universities should co-create and collaborate. The closer all actors (researcher, industrials, citizens) are, the better. Despite the strong trend in public-private collaboration, more is "strongly encouraged".  
 
-Some aspects are retained or slightly modified: 
 
-- Using the historical argument that the market cannot invest optimally, money should come from the state. 
-- International competitivity is an other goal of science that adds to economic growth and answering societal needs.
-
-Some aspects are transformed: 
-
-- The linear model is no longer valid, it is the "tacit knowledge" (another idea of Polanyi) that cannot be transferred in the linear model of innovation. For a good transfer of knowledge, industry and universities should co-create and collaborate. The closer all actors (researcher, industrials, citizens) are, the better. 
-
-> [!quote] 
->
->Greater public-private collaboration in R&D is strongly encouraged. (...) This is a strong trend, observed in all of the cases studied—  (Paic et Viros, 2019, p. 31) 
-
-- The state should no longer plan science. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand or need. The later refers to the same actors in the innovation chain. 
+The major shift is that the governement should no longer plan what science should do. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand or need. The later refers to the same actors in the innovation chain, public and private sector. 
 
 > [!quote] 
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
-In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life.
+In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life. Government should be *flexible* because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient (i.e. all the problems raised by Hayek). 
 
-- It should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient. 
+The second shift is about the design of "mission-oriented" policies to solve grand societal challenges, top-down initiatives responding "to the needs that are perceived as urgent by society (societal challenges), with strong political support".  
 
-> [!quote] 
->
->Governments need to demonstrate flexibility in setting priorities to be able to respond to increasingly rapid technological and societal evolutions. —  (Paic et Viros, 2019, p. 6) 
-
-> [!quote] 
->
->Policy development sometimes requires consultations and long consensus-building processes, but parallel working groups and ad hoc committees must have room to manoeuvre in order to react more quickly to contextual evolutions. —  (Paic et Viros, 2019, p. 33) 
-
-- "Mission-oriented" policies should be designed to solve grand societal challenges. 
-> [!quote] 
->
->They are top-down initiatives responding to needs that are perceived as urgent by society (societal challenges), with strong political support (which has both advantages and disadvantages). —  (Paic et Viros, 2019, p. 12) 
-
-Beyond being short-term projects with predetermined results, there is an aim at managing scientists efforts. 
 > [!quote] 
 >
 >This is meant to generate increased motivation among the actors – beyond remuneration and academic recognition, the awareness of contributing to a great and noble cause is an incentive for surpassing oneself —  (Paic et Viros, 2019, p. 32) 
 
-Examples such as nuclear energy, or conquest of space are given. It seems that the ideology of all scientists is also fixed. Do all scientists need to believe that we should "conquer space". Is there an ideological engagement when making basic research?  Other examples are green growth for instance. First, one should endorse the idea that it is a good and real thing (Tordjman). There is a ideaological commitment in being a scientist. 
+The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
 
 >[!quote] 
 >
 >To engage people. Make them part of the process. And proud to be European. Mark Zuckerberg talked about feeling part of something bigger in a recent speech. He was referring to a well-known story about John F Kennedy. The President visited the NASA space centre and saw a janitor carrying a broom. He walked over and asked what he was doing. And the janitor responded: “Mr President, I’m helping put a man on the moon.” That’s the kind of purpose I’m referring to. — ([Carlos Moedas](https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/))
 
-The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
 
-- Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
+Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
 
 > [!quote] 
 >

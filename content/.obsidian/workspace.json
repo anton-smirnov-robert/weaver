@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "21c40d63f6f9daf5",
+        "id": "97e78be156253f09",
         "type": "tabs",
         "children": [
           {
-            "id": "3aaa06c4212a0d08",
+            "id": "c0a6461753a7b545",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8eed68234b87a55a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c680bde567febe31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -156,17 +138,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3aaa06c4212a0d08",
+  "active": "c0a6461753a7b545",
   "lastOpenFiles": [
-    "reference/Arrow1962.md",
-    "reference/Tyagi2010.md",
-    "reference/Morin1982.md",
-    "reference/Anfinsen1973.md",
-    "note/literature note on Henriques2013.md",
-    "reference/Petit2019.md",
-    "note/La nouvelle main invisible guidant les sciences naturelles.md",
-    "note/literature note on Paic2019.md",
     "note/literature note on Polanyi1962.md",
-    "note/literature note on Hayek1945.md"
+    "note/article_devoiement_main_invisible.md",
+    "note/literature note on Paic2019.md",
+    "note/literature note on Montevil2021.md",
+    "concept/scientific positivism.md",
+    "reference/Bush1945.md",
+    "reference/Henriques2013.md",
+    "reference/Petit2019.md",
+    "reference/Piganiol1963.md",
+    "reference/Nelson1959.md"
   ]
 }
