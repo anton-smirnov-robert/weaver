@@ -29,13 +29,13 @@ Some aspects are transformed:
 >
 >Greater public-private collaboration in R&D is strongly encouraged. (...) This is a strong trend, observed in all of the cases studied—  (Paic et Viros, 2019, p. 31) 
 
-- The state should no longer plan science. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand. The later refers to the same actors in the innovation chain. 
+- The state should no longer plan science. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand or need. The later refers to the same actors in the innovation chain. 
 
 > [!quote] 
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
-- It should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions.
+- It should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient. 
 
 > [!quote] 
 >
@@ -59,10 +59,12 @@ Examples such as nuclear energy, or conquest of space are given. It seems that t
 
 - Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
 
-
 #### Comments 
 
 Whose money? Public money, citizens. Who decides? Stakeholders, that is citizens and the private sector — the state should not interfere, only to be "vigilant".  This is the market of ideas. Offer and demand. Consumers are citizens and the private sector. However, the money comes citizens. The private sector does not invest whatsoever in this mechanism. They only ask which directions to pursue annd use the fruit of research. 
+
+We go back to a market system, but this is not at the scale of Polanyi. Scientists are sellers that respond to the demand of public/industrials.
+
 
 Two questions:
 
@@ -76,16 +78,7 @@ The market system (offer and demand), but the directives are given by stakeholde
 
 In any case, the money comes from citizens. So either citizens should say where their money should go to. Do citizens know what they want? Should politics ask scientists what to look for according to what goes on on TV? (such as the meaning of "islamo-gauchism"). *The scientific activity is against the doxa.* 
 
+#### Idea 
 
-
-
-
-
-
-**Idea** 
-
-We gave up on the idea that science is a creative activity, and we cannot determine what will happen and what can be useful.  Nothing can be created. How to engage that without any garuantee. 
-
-**End of theory**
-La science se fait sur demande. 
-
+We gave up on the idea that science is a creative activity, and we cannot determine what will happen and what can be useful. Nothing can be created. How to engage that without any garuantee. 
+Empirical research with automation of protocoles aims at eliminating everything that can be creative. We want to predefine what will be obtained. Purely empirical investigations negates that human plays a role in constructing theories. What want to control what to look for and why. Important scientific results come from unexpected results. We cannot predict, but need to trust this. As long as we cannot trust the fact that something can emerge from nothing. Being is being determined. Nothing can be created.  
