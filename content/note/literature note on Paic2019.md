@@ -91,6 +91,8 @@ In any case, the money comes from citizens. So either citizens should say where 
 
 #### Idea 
 
+- What is the linear model with [Kuhn1970](reference/Kuhn1970.md) ?
+- 
 - We gave up on the idea that science is a creative activity, and we cannot determine what will happen and what can be useful. Nothing can be created. How to engage that without any garuantee. 
 Empirical research with automation of protocoles aims at eliminating everything that can be creative. We want to predefine what will be obtained. Purely empirical investigations negates that human plays a role in constructing theories. What want to control what to look for and why. Important scientific results come from unexpected results. We cannot predict, but need to trust this. As long as we cannot trust the fact that something can emerge from nothing. Being is being determined. Nothing can be created.  
 
