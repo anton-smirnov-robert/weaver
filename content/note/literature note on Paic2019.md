@@ -67,6 +67,9 @@ The rationale is given by the Commissioner for Research, Science and Innovation 
 
 - Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
 
+
+
+
 #### Comments 
 
 Whose money? Public money, citizens. Who decides? Stakeholders, that is citizens and the private sector — the state should not interfere, only to be "vigilant".  This is the market of ideas. Offer and demand. Consumers are citizens and the private sector. However, the money comes citizens. The private sector does not invest whatsoever in this mechanism. They only ask which directions to pursue annd use the fruit of research. 
@@ -96,8 +99,6 @@ Empirical research with automation of protocoles aims at eliminating everything 
 - Credit import recherche de plus en plus grand pour moins de recherche. 
 
 - La tour d'ivoire est crée par le simple fait de différencier les scientifiques des citoyens. Les sccientifiques sont des citoyens et eds humains qui ont des pensées qui reflètent en partie ceux de la société. La tour d'ivoir est illusoire, elle fait comme-ci ces dderniers étaient neutres et objecctifs, près à travailler sur les sujets qu'on leur pointe du doigts. 
-
-
 
 - Innovation is technological, aims at economic growth, and can only impact societies positively. [Blok2015a](reference/Blok2015a.md) 
 >[!quote]
