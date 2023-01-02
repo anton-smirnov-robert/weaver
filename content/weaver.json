@@ -9,7 +9,7 @@
       "autoAbbrev": false,
       "autoAbbrevStyle": "",
       "autoExport": "immediate",
-      "autoExportDelay": 2,
+      "autoExportDelay": 3,
       "autoExportIdleWait": 10,
       "autoExportPathReplaceDiacritics": false,
       "autoExportPathReplaceDirSep": "-",
@@ -1382,6 +1382,159 @@
       "itemKey": "HGJ359QW",
       "libraryID": 1,
       "select": "zotero://select/library/items/HGJ359QW"
+    },
+    {
+      "key": "FEQ38QCX",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "15",
+      "issue": "2",
+      "pages": "147\u2013164",
+      "publicationTitle": "Journal on Chain and Network Science",
+      "date": "2015",
+      "libraryCatalog": "Google Scholar",
+      "title": "Stakeholder engagement for responsible innovation in the private sector: Critical issues and management practices",
+      "shortTitle": "Stakeholder engagement for responsible innovation in the private sector",
+      "creators": [
+        {
+          "firstName": "Vincent",
+          "lastName": "Blok",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Linda",
+          "lastName": "Hoffmans",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Emiel FM",
+          "lastName": "Wubben",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-02T12:26:56Z",
+      "dateModified": "2023-01-02T12:26:56Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/FEQ38QCX",
+      "itemID": 6027,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-02T12:27:05Z",
+          "dateModified": "2023-01-02T12:27:05Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LCFNNFW6",
+          "path": "/Users/robert/Dropbox/zotero/storage/LCFNNFW6/Blok et al. - 2015 - Stakeholder engagement for responsible innovation .pdf",
+          "select": "zotero://select/library/items/LCFNNFW6"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-02T12:27:17Z",
+          "dateModified": "2023-01-02T12:27:17Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8GXHJNEK",
+          "path": "/Users/robert/Dropbox/zotero/storage/8GXHJNEK/496364.html",
+          "select": "zotero://select/library/items/8GXHJNEK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Blok2015",
+      "itemKey": "FEQ38QCX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FEQ38QCX"
+    },
+    {
+      "key": "VD2FARG2",
+      "version": 0,
+      "itemType": "bookSection",
+      "url": "https://doi.org/10.1007/978-3-319-17308-5_2",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "pages": "19-35",
+      "ISBN": "978-3-319-17308-5",
+      "date": "2015",
+      "extra": "DOI: 10.1007/978-3-319-17308-5_2",
+      "accessDate": "2023-01-02T12:27:36Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "In this chapter, we challenge the presupposed concept of innovation in the responsible innovation literature. As a first step, we raise several questions with regard to the possibility of \u2018responsible\u2019 innovation and point at several difficulties which undermine the supposedly responsible character of innovation processes, based on an analysis of the input, throughput and output of innovation processes. It becomes clear that the practical applicability of the concept of responsible innovation is highly problematic and that a more thorough inquiry of the concept is required. As a second step, we analyze the concept of innovation which is self-evidently presupposed in current literature on responsible innovation. It becomes clear that innovation is self-evidently seen as (1) technological innovation, (2) is primarily perceived from an economic perspective, (3) is inherently good and (4) presupposes a symmetry between moral agents and moral addressees. By challenging this narrow and uncritical concept of innovation, we contribute to a second round of theorizing about the concept and provide a research agenda for future research in order to enhance a less na\u00efve concept of responsible innovation.",
+      "title": "The Emerging Concept of Responsible Innovation. Three Reasons Why It Is Questionable and Calls for a Radical Transformation of the Concept of Innovation",
+      "creators": [
+        {
+          "firstName": "Vincent",
+          "lastName": "Blok",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pieter",
+          "lastName": "Lemmens",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bert-Jaap",
+          "lastName": "Koops",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Ilse",
+          "lastName": "Oosterlaken",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Henny",
+          "lastName": "Romijn",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Tsjalling",
+          "lastName": "Swierstra",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Jeroen",
+          "lastName": "van den Hoven",
+          "creatorType": "editor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Engineering ethics",
+          "type": 1
+        },
+        {
+          "tag": "Innovation management",
+          "type": 1
+        },
+        {
+          "tag": "Responsible innovation",
+          "type": 1
+        },
+        {
+          "tag": "Responsible research and innovation",
+          "type": 1
+        },
+        {
+          "tag": "Science and technology studies",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-01-02T12:27:36Z",
+      "dateModified": "2023-01-02T12:27:36Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/VD2FARG2",
+      "itemID": 6030,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Blok2015a",
+      "itemKey": "VD2FARG2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VD2FARG2",
+      "publicationTitle": "Responsible Innovation 2: Concepts, Approaches, and Applications"
     },
     {
       "key": "ZQ9N6FS8",

@@ -82,7 +82,7 @@ The role of stakeholders is primoridial. It is highly questionnalble that the ci
 
 - Can stakeholders know what is good for them ? 
 
-The market system (offer and demand), but the directives are given by stakeholders. The state gives money (public money). In other words, citizens pay taxes for financing public research. Public research should work on what they want. The state should hear what they need and want and point to scientists in which directions should they work. However, citizens benefit from science via technological innovations. Industries therefore play a role in the disccussion. They can tell the state what citizens want or will want. However, there is no problem, "should be monitored vigilantly by governments". 
+The market system (offer and demand), but the directives are given by stakeholders. The state gives money (public money). In other words, citizens pay taxes for financing public research. Public research should work on what they want. The state should hear what they need and want and point to scientists in which directions should they work. However, citizens benefit from science via technological innovations. Industries therefore play a role in the disccussion. They can tell the state what citizens want or will want. However, there is no problem, "should be monitored vigilantly by governments".  It does not, it is incompatible [Blok2015](reference/Blok2015.md). 
 
 In any case, the money comes from citizens. So either citizens should say where their money should go to. Do citizens know what they want? Should politics ask scientists what to look for according to what goes on on TV? (such as the meaning of "islamo-gauchism"). *The scientific activity is against the doxa.* 
 
@@ -99,7 +99,7 @@ Empirical research with automation of protocoles aims at eliminating everything 
 
 
 
-- Innovation is technological, aims at economic growth, and can only impact societies positively. 
+- Innovation is technological, aims at economic growth, and can only impact societies positively. [Blok2015a](reference/Blok2015a.md) 
 >[!quote]
 >
 >Progress in robotics will help to make life easier, richer and healthier. — [Nolan2021](reference/Nolan2021.md)
