@@ -88,3 +88,5 @@ Empirical research with automation of protocoles aims at eliminating everything 
 - La confiance entre scientifiques et la population est ébranlée parce que ces derniers, sous la pression de publier, se mettent à faire jouer les "commercial morals" (c'est à dire, mon papier est bon car il est accepté). Dès lors, il découle une énorme crise de reproductibilité et la plupart des choses qui en sorte ne sont pas fiable.  Ils vendent des choses fragiles et font des énormes promesses. 
 
 - Credit import recherche de plus en plus grand pour moins de recherche. 
+
+- La tour d'ivoire est crée par le simple fait de différencier les scientifiques des citoyens. Les sccientifiques sont des citoyens et eds humains qui ont des pensées qui reflètent en partie ceux de la société. La tour d'ivoir est illusoire, elle fait comme-ci ces dderniers étaient neutres et objecctifs, près à travailler sur les sujets qu'on leur pointe du doigts. 
