@@ -4,5 +4,11 @@
   "useMarkdownLinks": true,
   "spellcheck": false,
   "readableLineLength": false,
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
