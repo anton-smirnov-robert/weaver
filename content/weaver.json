@@ -685,34 +685,6 @@
       "select": "zotero://select/library/items/YBSRRHEW"
     },
     {
-      "key": "K3EXP4BC",
-      "version": 0,
-      "itemType": "journalArticle",
-      "pages": "19",
-      "libraryCatalog": "Zotero",
-      "language": "en",
-      "title": "Economic Welfare and the Allocation of Resources for Invention",
-      "creators": [
-        {
-          "firstName": "Kenneth J",
-          "lastName": "Arrow",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2022-11-24T11:56:10Z",
-      "dateModified": "2022-11-24T11:56:11Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/K3EXP4BC",
-      "itemID": 5672,
-      "attachments": [],
-      "notes": [],
-      "citationKey": "Arrow",
-      "itemKey": "K3EXP4BC",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/K3EXP4BC"
-    },
-    {
       "key": "MXR4WWYM",
       "version": 0,
       "itemType": "report",

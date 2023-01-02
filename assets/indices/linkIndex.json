@@ -573,6 +573,78 @@
           "text": "Boolos2007"
         }
       ],
+      "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles": [
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Fischer2009",
+          "text": "Fischer2009"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Bush1945",
+          "text": "Bush1945"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Piganiol1963",
+          "text": "Piganiol1963"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "text": "Foucault's épistémè"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Kuhn1970",
+          "text": "Kuhn1970"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        }
+      ],
       "/note/literature-note-on-Hayek1945": [
         {
           "source": "/note/literature-note-on-Hayek1945",
@@ -876,6 +948,11 @@
         },
         {
           "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
         },
@@ -1041,6 +1118,11 @@
         }
       ],
       "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8": [
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+          "text": "Foucault's épistémè"
+        },
         {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
@@ -1553,6 +1635,11 @@
       ],
       "/reference/Arrow1962": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
@@ -1630,6 +1717,11 @@
       ],
       "/reference/Bush1945": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Bush1945",
+          "text": "Bush1945"
+        },
+        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Bush1945",
           "text": "Bush1945"
@@ -1686,12 +1778,22 @@
       ],
       "/reference/Fischer2009": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Fischer2009",
+          "text": "Fischer2009"
+        },
+        {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Fischer2009",
           "text": "Fischer2009"
         }
       ],
       "/reference/Hayek1945": [
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
         {
           "source": "/note/literature-note-on-Hayek1945",
           "target": "/reference/Hayek1945",
@@ -1711,6 +1813,11 @@
         }
       ],
       "/reference/Henriques2013": [
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
         {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Henriques2013",
@@ -1749,6 +1856,11 @@
         }
       ],
       "/reference/Kuhn1970": [
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Kuhn1970",
+          "text": "Kuhn1970"
+        },
         {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Kuhn1970",
@@ -1828,6 +1940,11 @@
       ],
       "/reference/Montevil2021": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
           "source": "/note/literature-note-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
@@ -1835,7 +1952,22 @@
       ],
       "/reference/Morin1982": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
           "source": "/note/literature-note-on-Montevil2021",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
@@ -1861,6 +1993,11 @@
       ],
       "/reference/Nelson1959": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
@@ -1882,12 +2019,22 @@
       ],
       "/reference/Petit2019": [
         {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         }
       ],
       "/reference/Piganiol1963": [
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+          "target": "/reference/Piganiol1963",
+          "text": "Piganiol1963"
+        },
         {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Piganiol1963",
@@ -1904,6 +2051,11 @@
       "/reference/Polanyi1962": [
         {
           "source": "/concept/Foucaults-e%CC%81piste%CC%81me%CC%80",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -2525,6 +2677,76 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Fischer2009",
+      "text": "Fischer2009"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Nelson1959",
+      "text": "Nelson1959"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Arrow1962",
+      "text": "Arrow1962"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Bush1945",
+      "text": "Bush1945"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Piganiol1963",
+      "text": "Piganiol1963"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
+      "text": "Foucault's épistémè"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Kuhn1970",
+      "text": "Kuhn1970"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/La-nouvelle-main-invisible-guidant-les-sciences-naturelles",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
@@ -2813,6 +3035,11 @@
       "source": "/note/literature-note-on-Paic2019",
       "target": "/reference/Paic2019",
       "text": "Paic2019"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
     },
     {
       "source": "/note/literature-note-on-Paic2019",

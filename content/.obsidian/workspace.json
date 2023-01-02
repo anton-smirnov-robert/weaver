@@ -11,12 +11,8 @@
             "id": "3aaa06c4212a0d08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Henriques2013.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,17 +156,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c680bde567febe31",
+  "active": "3aaa06c4212a0d08",
   "lastOpenFiles": [
+    "reference/Arrow1962.md",
+    "reference/Tyagi2010.md",
+    "reference/Morin1982.md",
+    "reference/Anfinsen1973.md",
     "note/literature note on Henriques2013.md",
-    "note/literature note on Paic2019.md",
-    "note/La nouvelle main invisible guidant les sciences naturelles.md",
-    "note/literature note on Polanyi1962.md",
-    "note/literature note on Hayek1945.md",
-    "paper_shaking_invisible_hand.canvas",
-    "reference/Paic2019.md",
     "reference/Petit2019.md",
-    "note/literature note on Montevil2021.md",
-    "reference/Montevil2021.md"
+    "note/La nouvelle main invisible guidant les sciences naturelles.md",
+    "note/literature note on Paic2019.md",
+    "note/literature note on Polanyi1962.md",
+    "note/literature note on Hayek1945.md"
   ]
 }
