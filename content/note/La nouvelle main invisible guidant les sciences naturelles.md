@@ -101,15 +101,12 @@ In this context, and based on those arguments, the OECD changed its role, which 
 The OECD preconized to centralize the coordination of science at the governement level. In three years, the majority of countries of the OECD would have the equivalent of the science minister (France was the only country to already had one). The agenda of research should now be discussed with the long term national economic objectives and societal needssome fields should be prioritized. The discussion is no longer carried out only by scientists and research councils. Every member of the linear chain of innovation is invited to play a role in the decision process, be it industrials or civil society representatives. Following the USA — which, on the other hand, is the exception that never centralized the coordination of science at the governement level —, members of the OECD increasingly introduced project-based competitive fundings to create incentives and concentrate resources on specific research area. Accordingly, quantitative indicators must be developed to assess to quality of science and refine policies: this is the birth of the Frascati manual, still in used nowadays.  
 
 
-## Frankenstein's invisible hand pushing scientists towards green, sustainable economic growth because it is what citizen want
+## Frankenstein's invisible hand pushing scientists towards green, sustainable economic growth
 
 
 What happen if a purely liberal model of science — building on the invisible hand picture "that guides scientists towards an unknown direction" — is hijacked by centralizing science coordination and planning towards a precise goal? This question is interesting, but a better one is: what happens if this pardoxal situation is now given to neoliberals? Should they follow the ideas of their founding fathers or is the ability to push science towards a direction too tempting? 
 
-Some aspects are retained or slightly modified: 
-
-- Using the historical argument that the market cannot invest optimally, money should come from the state. 
-- International competitivity is an other goal of science that adds to economic growth and answering societal needs.
+Some aspects are retained or slightly modified. For instance, using the historical argument that the market cannot invest optimally, money should come from the state. Also, international competitivity is an other goal of science that adds to economic growth and answering societal needs.
 
 Some aspects are transformed: 
 
@@ -119,15 +116,13 @@ Some aspects are transformed:
 >
 >Greater public-private collaboration in R&D is strongly encouraged. (...) This is a strong trend, observed in all of the cases studied—  (Paic et Viros, 2019, p. 31) 
 
-- The state should no longer plan science. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand or need. The later refers to the same actors in the innovation chain. 
+- The state should no longer plan science. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand or need. The later refers to the same actors in the innovation chain. Goverment should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient. 
 
 > [!quote] 
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
 In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life.
-
-- It should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient. 
 
 > [!quote] 
 >
@@ -137,23 +132,21 @@ In Netherlands, citizens ask online their scientific questions. After gathering 
 >
 >Policy development sometimes requires consultations and long consensus-building processes, but parallel working groups and ad hoc committees must have room to manoeuvre in order to react more quickly to contextual evolutions. —  (Paic et Viros, 2019, p. 33) 
 
-- "Mission-oriented" policies should be designed to solve grand societal challenges. 
+- "Mission-oriented" policies should be designed to solve grand societal challenges. There is an aim at managing scientists efforts. 
 > [!quote] 
 >
 >They are top-down initiatives responding to needs that are perceived as urgent by society (societal challenges), with strong political support (which has both advantages and disadvantages). —  (Paic et Viros, 2019, p. 12) 
 
-Beyond being short-term projects with predetermined results, there is an aim at managing scientists efforts. 
 > [!quote] 
 >
 >This is meant to generate increased motivation among the actors – beyond remuneration and academic recognition, the awareness of contributing to a great and noble cause is an incentive for surpassing oneself —  (Paic et Viros, 2019, p. 32) 
 
-Examples such as nuclear energy, or conquest of space are given. It seems that the ideology of all scientists is also fixed. Do all scientists need to believe that we should "conquer space". Is there an ideological engagement when making basic research?  Other examples are green growth for instance. First, one should endorse the idea that it is a good and real thing (Tordjman). There is a ideaological commitment in being a scientist. 
+The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
 
 >[!quote] 
 >
 >To engage people. Make them part of the process. And proud to be European. Mark Zuckerberg talked about feeling part of something bigger in a recent speech. He was referring to a well-known story about John F Kennedy. The President visited the NASA space centre and saw a janitor carrying a broom. He walked over and asked what he was doing. And the janitor responded: “Mr President, I’m helping put a man on the moon.” That’s the kind of purpose I’m referring to. — ([Carlos Moedas](https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/))
 
-The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
 
 - Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. 
 
@@ -163,6 +156,7 @@ The rationale is given by the Commissioner for Research, Science and Innovation 
 
 Overlap are no longer important.  This is the scientific organisation of scientific work to reach optimality. 
 
+
 ## Principles for a new Science
 
 - The market needs an exogeous cause to change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. In practice, external events perturbing the cost of one commodity do occur all the time so that everything happen _as if_ prices were evolving because commodities were traded.
@@ -171,7 +165,7 @@ Overlap are no longer important.  This is the scientific organisation of scienti
 - Polanyi identifies a second feedback loop which depicts a process that happens on longer time scale: the transmission of the _appreciation_ of the scientific standards from generations to generations. He therefore also note the _historicity_ of the scientific opinion. Scientific standards change because what scientist acknowledge as plausible,valuable, original research change with the scientific opinion[^2]. This will later be pointed out to be more general by other authors that introduce notions related to [Foucault's épistémè](concept/Foucault's%20épistémè.md). 
 - The linear model of science is incompatible with revolutions in science ([Kuhn1970](reference/Kuhn1970.md)). 
 - This is in sharp contrast with the invisible hand that Polanyi described. However, avoiding an explicit model allows to ignore theoretical contridications. Without refuting the existing explicit model, science starts to be inhabited by contradictions. It builds on The Republic of Science and implicitely ackowledges its description of the research activity. 
-- Without overlap, there is no conflict (paartition leads to "cemeteries" of ([Montevil2021](reference/Montevil2021.md)) . See also [Morin1982](reference/Morin1982.md) with what needs to be preserve "pluralité conflictuelle de théories sur des arguments empirico-logique"
+- Without overlap, there is no conflict (partition leads to "cemeteries" of ([Montevil2021](reference/Montevil2021.md)) . See also [Morin1982](reference/Morin1982.md) with what needs to be preserve "pluralité conflictuelle de théories sur des arguments empirico-logique"
 
 
 
