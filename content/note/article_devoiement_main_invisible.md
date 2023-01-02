@@ -112,7 +112,10 @@ Subjects of "mission-oriented" and more generally projects should not to overlap
 - The linear model of science is incompatible with revolutions in science ([Kuhn1970](reference/Kuhn1970.md)). 
 - This is in sharp contrast with the invisible hand that Polanyi described. However, avoiding an explicit model allows to ignore theoretical contridications. Without refuting the existing explicit model, science starts to be inhabited by contradictions. It builds on The Republic of Science and implicitely ackowledges its description of the research activity. 
 - Without overlap, there is no conflict (partition leads to "cemeteries" of ([Montevil2021](reference/Montevil2021.md)) . See also [Morin1982](reference/Morin1982.md) with what needs to be preserve "pluralité conflictuelle de théories sur des arguments empirico-logique"
-
+- Les scientifiques ne prennent pas assez de risques et ne sont pas assez motivés (management)
+- division of labour. 
+- preconceived objectives given from outside. 
+- Respond to demand. Respond quickly to change. 
 
 
 [^1]: Picture helpers solving a large puzzle. Everyone has access to all pieces and independently solve the puzzle based on the pieces already in place. When a piece is added, it unlock new possibilities to everyone, hence the continued mutual adjustement. Splitting the puzzle in zones (disciplines) and the pile of pieces accordingly make the procedure more efficient, but the gist of the idea remains the same in all zones.
