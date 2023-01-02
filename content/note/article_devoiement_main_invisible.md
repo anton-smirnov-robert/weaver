@@ -116,7 +116,7 @@ Subjects of "mission-oriented" and more generally projects should not to overlap
 - division of labour. 
 - preconceived objectives given from outside. 
 - Respond to demand. Respond quickly to change. 
-
+- C'est comme le patient qui remplace le médecin.  
 
 [^1]: Picture helpers solving a large puzzle. Everyone has access to all pieces and independently solve the puzzle based on the pieces already in place. When a piece is added, it unlock new possibilities to everyone, hence the continued mutual adjustement. Splitting the puzzle in zones (disciplines) and the pile of pieces accordingly make the procedure more efficient, but the gist of the idea remains the same in all zones.
 [^2]:  Amusingly, to illustrate this point Polanyi reports that projects testing “extrasensory perception” or “once more the hereditary transmission of acquired characters” would be discredited. Nowadays, transgenerational epigenetic inheritance is under the spotlight and such studies are not _a priori_ discredited.
