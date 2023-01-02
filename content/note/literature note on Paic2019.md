@@ -59,6 +59,12 @@ Beyond being short-term projects with predetermined results, there is an aim at 
 
 Examples such as nuclear energy, or conquest of space are given. It seems that the ideology of all scientists is also fixed. Do all scientists need to believe that we should "conquer space". Is there an ideological engagement when making basic research?  Other examples are green growth for instance. First, one should endorse the idea that it is a good and real thing (Tordjman). There is a ideaological commitment in being a scientist. 
 
+>[!quote] 
+>
+>To engage people. Make them part of the process. And proud to be European. Mark Zuckerberg talked about feeling part of something bigger in a recent speech. He was referring to a well-known story about John F Kennedy. The President visited the NASA space centre and saw a janitor carrying a broom. He walked over and asked what he was doing. And the janitor responded: “Mr President, I’m helping put a man on the moon.” That’s the kind of purpose I’m referring to. — ([Carlos Moedas](https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/))
+
+The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
+
 - Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
 
 #### Comments 
@@ -98,10 +104,3 @@ Empirical research with automation of protocoles aims at eliminating everything 
 >
 >Progress in robotics will help to make life easier, richer and healthier. — [Nolan2021](reference/Nolan2021.md)
 
-- The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science
-> [!quote]
-> 
-> We need to set our eyes on a specific target, and drive our scientific efforts towards reaching that target — Carlos Moedas, Moedas, 2017.
->  — Presentation of the Rise Group publication on the future of EU research and innovation policy: “The best possible future is an Open one” —
-
-reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
