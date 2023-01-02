@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f374569062409d59",
+        "id": "b8d90bd2769fb629",
         "type": "tabs",
         "children": [
           {
-            "id": "752eccc979ab205f",
+            "id": "f3977f556ae7c36e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Henriques2013.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48d1ab83dd216d8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Paic2019.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa7144bc29c372dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/Tarski's undefinability theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06af47ba25310fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Henriques2013.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "9fa4fa23d5a1c7da",
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/Tarski's undefinability theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/Tarski's undefinability theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "concept/Tarski's undefinability theorem.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,17 +138,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "aa7144bc29c372dd",
+  "active": "f3977f556ae7c36e",
   "lastOpenFiles": [
-    "concept/Gödel's incompleteness theorem.md",
-    "literature note on Paic2019.md",
-    "note/literature note on Henriques2013.md",
     "reference/Paic2019.md",
+    "note/literature note on Paic2019.md",
+    "note/literature note on Henriques2013.md",
+    "concept/Tarski's undefinability theorem.md",
+    "concept/Gödel's incompleteness theorem.md",
     "reference/Henriques2013.md",
     "reference/OECD1963.md",
     "reference/Henriques2013a.md",
     "note/literature note on Polanyi1962.md",
-    "note/literature note on Hayek1945.md",
-    "note/literature note on LiVigni2021.md"
+    "note/literature note on Hayek1945.md"
   ]
 }
