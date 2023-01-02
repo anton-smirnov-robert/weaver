@@ -35,7 +35,7 @@ Some aspects are transformed:
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
-In Germany, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life.
+In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life.
 
 - It should be flexible because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient. 
 
