@@ -98,7 +98,6 @@ The second shift is about the design of "mission-oriented" policies to solve gra
 >
 >To engage people. Make them part of the process. And proud to be European. Mark Zuckerberg talked about feeling part of something bigger in a recent speech. He was referring to a well-known story about John F Kennedy. The President visited the NASA space centre and saw a janitor carrying a broom. He walked over and asked what he was doing. And the janitor responded: “Mr President, I’m helping put a man on the moon.” That’s the kind of purpose I’m referring to. — ([Carlos Moedas](https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/))
 
-
 Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality "rationalising and simplifying the programmes, limiting the number of calls and proposing a single “window” for users are ways to enhance efficiency in the granting of finance (...)". 
 
 
