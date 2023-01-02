@@ -17,5 +17,10 @@ Ce qui est attendu des scientifiques.
 
 
 
-## La recherche est une activité théorique, créative, sans but. 
+## La "fin de la science" et prophétie autoréalisatrice. 
+
+
+## Principes d'une science non asservie à la croissance économique. 
+
+- 
 
