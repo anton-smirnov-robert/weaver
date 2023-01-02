@@ -15,8 +15,8 @@
               "state": {
                 "file": "paper_shaking_invisible_hand.canvas",
                 "viewState": {
-                  "x": -283.88892957746486,
-                  "y": 724.5830281690133,
+                  "x": -335.5,
+                  "y": -475.3743591549303,
                   "zoom": -0.7943060262312142,
                   "snapToGrid": false
                 }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md",
+                "file": "paper_shaking_invisible_hand.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md",
+                "file": "paper_shaking_invisible_hand.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/La nouvelle main invisible guidant les sciences naturelles.md"
+                "file": "paper_shaking_invisible_hand.canvas"
               }
             }
           }
@@ -168,10 +168,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c680bde567febe31",
+  "active": "3aaa06c4212a0d08",
   "lastOpenFiles": [
-    "paper_shaking_invisible_hand.canvas",
     "note/La nouvelle main invisible guidant les sciences naturelles.md",
+    "paper_shaking_invisible_hand.canvas",
     "note/literature note on Henriques2013.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Paic2019.md",

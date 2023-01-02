@@ -22,5 +22,6 @@ Ce qui est attendu des scientifiques.
 
 ## Principes d'une science non asservie à la croissance économique. 
 
-- 
+- Une nouveauté est contextuelle. 
+- La science n'a pas de but. 
 
