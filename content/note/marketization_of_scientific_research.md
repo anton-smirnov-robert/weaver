@@ -3,9 +3,8 @@ Research activities carried out before the 60's were convincingly described by P
 
 We gives five caracteristics of the marketization and industrialisation of research. 
 
-### Research needing an exogeous cause
-When Polanyi emphasizes that the "continued existence" of Science depends on its "self-renewal", he points to the teleological nature of the research entreprise for societies. In contrast, the market needs an exogeous cause to evolve, change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. Making research activities offer response to external demand is a first sign of marketisation. It is fondamentally incompatible with the fact that an answered question always leads opens ten more. 
-
+#### Research needing an exogeous cause
+When Polanyi emphasizes that the "continued existence" of Science depends on its "self-renewal", he points to the teleological nature of the research entreprise for societies. In contrast, the market needs an exogeous cause to evolve, change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. Making research activities offer response to external demand is a first characteristic of marketisation. Answered questions raise many more, which will be absurd not to tackle for the sole reason that it has not been demanded. 
 
 #### Division of labour prevail upon overlapping neigbourhood
 
