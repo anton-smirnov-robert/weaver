@@ -4,9 +4,12 @@ Research activities carried out before the 60's were convincingly described by P
 We gives five caracteristics of the marketization and industrialisation of research. 
 
 #### Research needing an exogeous cause
-When Polanyi emphasizes that the "continued existence" of Science depends on its "self-renewal", he points to the teleological nature of the research entreprise for societies. In contrast, the market needs an exogeous cause to evolve, change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. Making research activities offer response to external demand is a first characteristic of marketisation. Answered questions raise many more, which will be absurd not to tackle for the sole reason that it has not been demanded. 
+When Polanyi emphasizes that the "continued existence" of Science depends on its "self-renewal", he points to the teleological nature of the research entreprise for societies. In contrast, the market needs an exogeous cause to evolve, change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. Making research activities offer response to external demand is a first characteristic of marketisation. 
 
 #### Division of labour prevail upon overlapping neigbourhood
+Overlapping neighborhood ensure shared expertise on specific subject. It is the place where the authority of scientific standards is ensured and where critical thinking takes place. According to Morin, this is also where the most fundamental condition for science to exists lies: "what must be absolutly safeguarded is the conflictual plurality in a game that obeys empirico-logical rules" ([Morin1982](reference/Morin1982.md), p. 24). In fact, we can understand the peer review process described with Polanyi's scientific standards, with Morin's dialogical principle, that is the association of two complementary and antagonistic logics (conformism and dissent here). Morin's dialogical principle insists on the non-resolution of the conflicts in the larger entity that cannot be reduced to mere juxtaposition of the two. It is the active organization of the actions carried out following both logics that constitutes whole entity and not an efficient action that would follow an effective logic, one where conflicts are resolved. 
+When modifying the dialogical nature of the scientific standards by defining a third aspect (relevancy applicability to societal needs) 
+
 
 #### Caracterizing marketization 
 - partition and division of labor (no overlap, no conflict -Morin-, no synthesis).  No dialogical nature of scientific merit. 
@@ -17,7 +20,7 @@ When Polanyi emphasizes that the "continued existence" of Science depends on its
 4) no reflexivity on its work (history, philosophy, epistemology, theory of discipline and science). Inventiton is contextual (Stielger,montévil,Bifurquer) et 
 5) uses "commerical morals" (reproductability, Goodhart's law) and false promises (Audétat), "sell your research" and avoid complexity
 - confusion between objectity and automaticity 
-6) automaticity of design (taking the mean, no commitment, entropy, (Stielger,montévil,Bifurquer) )
+6) automaticity of design (taking the mean, no commitment, entropy, [Longo2013](reference/Longo2013.md) "common sense", (Stielger,montévil,Bifurquer) )
 7) automaticity by protocolization (only what is operational is kept in theories, Morin1982)
 8) technique and automaticity is how problems are solved (naive view of robots,embarrassingly assumed to be technological innovations and/or economic growth, citizens)
 
