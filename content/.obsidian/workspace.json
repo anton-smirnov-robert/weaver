@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "note/literature note on Paic2019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cd61e214ce487f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "note/article_devoiement_main_invisible.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,11 +159,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0dfa1a3a8ac85630",
+  "active": "6cd61e214ce487f6",
   "lastOpenFiles": [
+    "note/literature note on Paic2019.md",
     "note/article_devoiement_main_invisible.md",
     "note/literature note on Polanyi1962.md",
-    "note/literature note on Paic2019.md",
     "note/literature note on Montevil2021.md",
     "concept/scientific positivism.md",
     "reference/Bush1945.md",

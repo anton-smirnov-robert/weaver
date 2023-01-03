@@ -37,14 +37,14 @@ The rationale is given by the Commissioner for Research, Science and Innovation 
 >
 >To engage people. Make them part of the process. And proud to be European. Mark Zuckerberg talked about feeling part of something bigger in a recent speech. He was referring to a well-known story about John F Kennedy. The President visited the NASA space centre and saw a janitor carrying a broom. He walked over and asked what he was doing. And the janitor responded: “Mr President, I’m helping put a man on the moon.” That’s the kind of purpose I’m referring to. — ([Carlos Moedas](https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/))
 
-
-Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality. 
+Subjects of "mission-oriented" and more generally projects should not to overlap to optimize the allocated funds. This is the scientific organisation of scientific work to reach optimality "rationalising and simplifying the programmes, limiting the number of calls and proposing a single “window” for users are ways to enhance efficiency in the granting of finance (...)". 
 
 > [!quote] 
 >
 >The large number of instruments and programmes available in most of the strategies studied makes it difficult for users to navigate among them and increases the risk of duplication. Rationalising and simplifying the programmes, limiting the number of calls and proposing a single “window” for users are ways to enhance efficiency in the granting of finance, reduce administrative costs (for participants and programme administrators), and maximise the impact of the strategy put in place. —  (Paic et Viros, 2019, p. 33) 
 
-Overlap are no longer important. No conflict ("cemeteries" of Montevil). See also [Morin1982](reference/Morin1982.md). 
+
+
  
 #### Comments 
 
@@ -66,10 +66,7 @@ In any case, the money comes from citizens. So either citizens should say where 
 
 #### Idea 
 
-- What is the linear model with [Kuhn1970](reference/Kuhn1970.md) ?
-- 
-- We gave up on the idea that science is a creative activity, and we cannot determine what will happen and what can be useful. Nothing can be created. How to engage that without any garuantee. 
-Empirical research with automation of protocoles aims at eliminating everything that can be creative. We want to predefine what will be obtained. Purely empirical investigations negates that human plays a role in constructing theories. What want to control what to look for and why. Important scientific results come from unexpected results. We cannot predict, but need to trust this. As long as we cannot trust the fact that something can emerge from nothing. Being is being determined. Nothing can be created.  
+
 
 - La confiance entre scientifiques et la population est ébranlée parce que ces derniers, sous la pression de publier, se mettent à faire jouer les "commercial morals" (c'est à dire, mon papier est bon car il est accepté). Dès lors, il découle une énorme crise de reproductibilité et la plupart des choses qui en sorte ne sont pas fiable.  Ils vendent des choses fragiles et font des énormes promesses. 
 
