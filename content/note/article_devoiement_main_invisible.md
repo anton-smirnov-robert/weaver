@@ -116,29 +116,29 @@ Subjects of "mission-oriented" and more generally projects should not to overlap
 - division of labour. 
 - preconceived objectives given from outside. 
 - Respond to demand. Respond quickly to change. 
-- C'est comme le patient qui remplace le médecin.  
 
 
-
-4 indicators:
+5 indicators:
 
 - external perturbation causes research for a precise goal, for offer to meet demand, react quickly to change via standardized information channels.
-- partition and division of labor (no overlap, no conflict, no synthesis). 
+- partition and division of labor (no overlap, no conflict -Morin-, no synthesis). 
+- scientists are seen as Smith's inert human (not enough motivated, they are lazy). We need artificial competition between them (Darwin), management, etc...
 - proletarization of scientists who are 
 1) desubjectivized, a part of taskforce considered as noise for a purely empirical work. An empty virgin receptacle for communication.
-2) not enough motivated, they are lazy (artificial competition between them, management)
-3) lose their design capacity to the mechanism of the market (the demand)
-4) lose of objectivity and ignorance of its condition (history, philosophy, epistemology of discipline)
+3) they lose their capacity to design the projects they want to work upon: it is given the mechanism of the market (the demand of citizen that they are). 
+4) no reflexivity on its work (history, philosophy, epistemology, theory of discipline and science)
+5) uses "commerical morals" (reproductability, Goodhart's law) and false promises (Audétat)
 - confusion between objectity and automaticity 
-5) automaticity of design (taking the mean, no commitment, entropy)
-6) automaticity by protocolization (only what is operational is kept in theories)
-7) technique and automaticity is how problems are solved (naive view of robots)
+6) automaticity of design (taking the mean, no commitment, entropy)
+7) automaticity by protocolization (only what is operational is kept in theories)
+8) technique and automaticity is how problems are solved (naive view of robots)
 
+Un mot sur les dangers : les scientifiques sont leurs propre autorité. La prolètarization des scientiffiques est la fin de la science.
 
 Science has no goal and requires no ideological commitment.
-Science is a tradition, contextual, historical and local. True novelties cannot be predicted. There is no signal for something that cannot be predicted.
+Science is a tradition, contextual, historical and local. There is no signal for true novelties that cannot be predicted. Science is a bet with no insurance.
 Science should deliver technologies with their pharmakological notice.
-Science is a bet with no insurance.
+The lost role of affects. Value is affect.
 
 
 [^1]: Picture helpers solving a large puzzle. Everyone has access to all pieces and independently solve the puzzle based on the pieces already in place. When a piece is added, it unlock new possibilities to everyone, hence the continued mutual adjustement. Splitting the puzzle in zones (disciplines) and the pile of pieces accordingly make the procedure more efficient, but the gist of the idea remains the same in all zones.
