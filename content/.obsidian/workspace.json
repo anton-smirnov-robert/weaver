@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97e78be156253f09",
+        "id": "a5fb2211a3f769e2",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a6461753a7b545",
+            "id": "0dfa1a3a8ac85630",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/article_devoiement_main_invisible.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/article_devoiement_main_invisible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/article_devoiement_main_invisible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/article_devoiement_main_invisible.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c0a6461753a7b545",
+  "active": "0dfa1a3a8ac85630",
   "lastOpenFiles": [
-    "note/literature note on Polanyi1962.md",
     "note/article_devoiement_main_invisible.md",
+    "note/literature note on Polanyi1962.md",
     "note/literature note on Paic2019.md",
     "note/literature note on Montevil2021.md",
     "concept/scientific positivism.md",
