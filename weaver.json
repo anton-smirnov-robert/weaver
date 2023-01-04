@@ -6684,6 +6684,35 @@
       "select": "zotero://select/library/items/37MF8WTA"
     },
     {
+      "key": "YVNA8ZI5",
+      "version": 0,
+      "itemType": "journalArticle",
+      "pages": "35\u201346",
+      "publicationTitle": "Experiment: A Series of Scientific Case Histories, London, BBC Publications",
+      "date": "1964",
+      "libraryCatalog": "Google Scholar",
+      "title": "Is the scientific paper a fraud",
+      "creators": [
+        {
+          "firstName": "P. B.",
+          "lastName": "Medawar",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T17:27:22Z",
+      "dateModified": "2023-01-04T17:27:22Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YVNA8ZI5",
+      "itemID": 6059,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Medawar1964",
+      "itemKey": "YVNA8ZI5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YVNA8ZI5"
+    },
+    {
       "key": "LRWV5JKX",
       "version": 0,
       "itemType": "journalArticle",
