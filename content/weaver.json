@@ -93,7 +93,7 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": true,
+      "keepUpdated": false,
       "worker": true
     }
   },
@@ -8304,6 +8304,52 @@
       "publisher": "OECD"
     },
     {
+      "key": "TSUSKSFQ",
+      "version": 0,
+      "itemType": "report",
+      "url": "https://www.oecd-ilibrary.org/science-and-technology/effective-policies-to-foster-high-risk-high-reward-research_06913b3b-en",
+      "place": "Paris",
+      "date": "2021-05-18",
+      "extra": "DOI: 10.1787/06913b3b-en",
+      "accessDate": "2023-01-04T10:32:14Z",
+      "libraryCatalog": "OECD iLibrary",
+      "language": "en",
+      "abstractNote": "This report analyses policies and research funding mechanisms designed to foster high-risk high-reward (HRHR) research, and explores promising practices for fostering HRHR research in a variety of contexts. The underlying concern is that failure to encourage and support research on risky, \u2018out-of-the-box\u2019 ideas may jeopardise a country\u2019s longer-term ability to compete economically, harness science for solving national and global challenges, and contribute to the progress of science as a whole. The analysis in this paper is primarily based on a survey of individual HRHR research funding schemes in different countries, complemented by targeted interviews. This survey was supplemented by an analysis of HRHR research-oriented programmes and by the feedback from an international workshop that included all relevant stakeholders.",
+      "title": "Effective policies to foster high-risk/high-reward research",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "OECD",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T10:32:14Z",
+      "dateModified": "2023-01-04T10:32:14Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/TSUSKSFQ",
+      "itemID": 6052,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-04T10:32:15Z",
+          "dateModified": "2023-01-04T10:32:15Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/G5R9UDP8",
+          "path": "/Users/robert/Dropbox/zotero/storage/G5R9UDP8/OECD - 2021 - Effective policies to foster high-riskhigh-reward.pdf",
+          "select": "zotero://select/library/items/G5R9UDP8"
+        }
+      ],
+      "notes": [],
+      "citationKey": "OECD2021a",
+      "itemKey": "TSUSKSFQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TSUSKSFQ",
+      "publisher": "OECD"
+    },
+    {
       "key": "PCR4RU73",
       "version": 0,
       "itemType": "journalArticle",
@@ -9548,6 +9594,46 @@
       "select": "zotero://select/library/items/SZDW5WZX"
     },
     {
+      "key": "CS4Z5DRA",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Simon and Schuster",
+      "date": "2015",
+      "libraryCatalog": "Google Scholar",
+      "title": "Why we work",
+      "creators": [
+        {
+          "firstName": "Barry",
+          "lastName": "Schwartz",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T10:19:18Z",
+      "dateModified": "2023-01-04T10:19:18Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/CS4Z5DRA",
+      "itemID": 6048,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-04T10:19:28Z",
+          "dateModified": "2023-01-04T10:19:28Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GUWKLWSI",
+          "path": "/Users/robert/Dropbox/zotero/storage/GUWKLWSI/books.html",
+          "select": "zotero://select/library/items/GUWKLWSI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Schwartz2015",
+      "itemKey": "CS4Z5DRA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CS4Z5DRA"
+    },
+    {
       "key": "DBVR2JX2",
       "version": 0,
       "itemType": "journalArticle",
@@ -9773,6 +9859,46 @@
       "itemKey": "YS5RLBHH",
       "libraryID": 1,
       "select": "zotero://select/library/items/YS5RLBHH"
+    },
+    {
+      "key": "2RLWDN3A",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "T. Nelson and Sons",
+      "date": "1887",
+      "libraryCatalog": "Google Scholar",
+      "title": "An Inquiry Into the Nature and Causes of the Wealth of Nations...",
+      "creators": [
+        {
+          "firstName": "Adam",
+          "lastName": "Smith",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T10:07:19Z",
+      "dateModified": "2023-01-04T10:07:19Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2RLWDN3A",
+      "itemID": 6046,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-04T10:07:38Z",
+          "dateModified": "2023-01-04T10:07:38Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VXHXR4RN",
+          "path": "/Users/robert/Dropbox/zotero/storage/VXHXR4RN/books.html",
+          "select": "zotero://select/library/items/VXHXR4RN"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Smith1887",
+      "itemKey": "2RLWDN3A",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2RLWDN3A"
     },
     {
       "key": "73MGTM4C",
