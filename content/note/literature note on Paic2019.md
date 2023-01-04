@@ -23,7 +23,7 @@ The major shift is that the governement should no longer plan what science shoul
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
-In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processig software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life. Government should be *flexible* because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient (i.e. all the problems raised by Hayek). 
+In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processing software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life. Government should be *flexible* because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient (i.e. all the problems raised by Hayek). 
 
 The second shift is about the design of "mission-oriented" policies to solve grand societal challenges, top-down initiatives responding "to the needs that are perceived as urgent by society (societal challenges), with strong political support".  
 

@@ -13,10 +13,13 @@ Overlapping neighborhood ensure shared expertise on specific subject. It is the 
 Principles frame how we understand phenomena. In *The Wealth of Nations*, Adam Smith posits the equivalent of Gallileo's inertial principle: "It is the interest of every man to live as much at his ease as he can, (...)" ([Smith1887](reference/Smith1887.md)). This principle is framing capitalism, because it implies that people are lazy and that they work if and only if they are paid ([Schwartz2015](reference/Schwartz2015.md)). In contrast, Merton posited another principle for research: "the pursuit of science is culturally defined as being primarily a disinterested search for truth and only secondarily, a means of earning a livelihood." ([Merton1957](reference/Merton1957.md)). Merton therefore acknowledge a principled momentum due to curiosity. Depending which principle about human nature is adopted, science policies change and the vocabulary with it.  In one case, the "scientific workforce" is given "incentives" to which it "responds". Researchers do not ask interesting enough questions and one must prompt them to take more risks ([OECD2021a](reference/OECD2021a.md)). Management practices come into play to maximize productivity such that the "awareness of contributing to a great and noble cause" make them "proud of being European" ([Carlos Moedas](https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/)), "an incentive for surpassing oneself" ([Paic2019](reference/Paic2019.md)). In fact, instauring a climate of "Darwinian selection" bewteen scientists ([Petit2019a](reference/Petit2019a.md)) foster rushing that, in turn, deteriorate the quality of science ([Anderson2007](reference/Anderson2007.md), [Chavalarias2016](reference/Chavalarias2016.md), [Yong2018](reference/Yong2018.md), [Hill2020](reference/Hill2020.md)). On the other hand, by using the second principle, it is acknowledged that research is grounded in human's curiosity. Therefore, science policies would reflect on how to maintain this curiosity productive, be it by encouraging specific lifestyles and advise against other (such as too much work), reflect on how researchers collaborate, etc. 
 
 #### Proletarization of researchers
-
-1) "Loss of knowledge" and transfer to technology (MARX). Synthetic let to ([Montevil2021](reference/Montevil2021.md)) and design (STIEGLER) know-how (let to the market). (+Anderson)
-2) "Désindividuation" de SIMONDON (virgin receptacle, scientist is a noise for positivist science). You send signals with IMRaD ([Montevil2021](reference/Montevil2021.md)). Objectivity of science (Canghuilhem)
-3) "Fatalist" aspect of loosing the capacity of its own diagnosis of your situation (history, philosophy, epistemology, theory of discipline and science, épistémè). ([Soto2021](reference/Soto2021.md))
+There are several aspects of proletarization which are defined and extended in the works of Marx, Simondon and Stielger ([Alombert2021](reference/Alombert2021.md)). We decompose accordingly three aspects of proletarization for researchers:
+1) The loss of the capacity to design original research projects, because this role has been conferred to the market mecanisms. In this process, the art of identifying and expliciting relevant scientific directions is externalized and assured automatically to make the scientific offer meet "stakeholders" demand ([Paic2019](reference/Paic2019.md)). The latter stem from an average of concerns[^1] at a given time, which is constituated by a protocole and takes the form of a "mission-oriented" project. This transfer of know-how to a mechanized machinary corresponds Marx's idea of proletarization ([Marx2005](reference/Marx2005.md)), extended to the capacity to design following Stielger ([Stiegler2012](reference/Stiegler2012.md)).
+2) Researchers follow a process of deindividuation, in Simondon's sense ([Simondon1958](reference/Simondon1958.md)). A positivists stance consider  researchers 
+3) 
+4) By the mean of articles under the IMRaD struture. the "workforce" 
+5) "Désindividuation" de SIMONDON (virgin receptacle, scientist is a noise for positivist science). You send signals with IMRaD ([Montevil2021](reference/Montevil2021.md)). Objectivity of science (Canghuilhem)
+6) "Fatalist" aspect of loosing the capacity of its own diagnosis of your situation (history, philosophy, epistemology, theory of discipline and science, épistémè). ([Soto2021](reference/Soto2021.md))
 
 #### Use of "commercial morals"
 
@@ -24,15 +27,20 @@ Use of "commercial morals". Loose the fact the you belong to a community and you
 
 ##### Automaticity is automatically the mean and the goal of research  
 6) automaticity of design (taking the mean, no commitment, synthetical work only statistical,  (Anderson), entropy, [Longo2013](reference/Longo2013.md) "common sense", (Stielger,montévil,Bifurquer) )
-7) automaticity by protocolization (only what is operational is kept in theories, Morin1982)
+7) automaticity by protocolization (only what is operational is kept in theories, Morin1982). Synthetic let to ([Montevil2021](reference/Montevil2021.md)) 
 8) technique and automaticity is how problems are solved (naive view of robots,  embarrassingly assumed to be technological innovations and/or economic growth, citizens)
 
 #### Dangers
-Un mot sur les dangers : les scientifiques sont leurs propre autorité. La prolètarization des scientifiques est la fin de la science.
-Numerous questions arise regarding the real benefits of citizens in this process that takes place in a very specific and naive frame regarding technology.
-It entails a partition of science, without theoretical controversies, that can leave fields in state of *theory disruption* ([Montevil2021](reference/Montevil2021.md)).
+1) Les scientifiques sont leurs propre autorité. La prolètarization des scientifiques est la fin de la science.
+2) It entails a partition of science, without theoretical controversies, that can leave fields in state of *theory disruption* ([Montevil2021](reference/Montevil2021.md)).
+3) Disruption du second order, entropy, common sense, this aspect is dangerous because may lead to 
+4) Real role of citizens. Credit impot research, end of research for mutinational, pillage des fonds publics. 
+5) Naive ideology about technology seem natural to scietists. 
+
 
 #### Principles
+
+The "ivory tower" is not considered scientists as citizen. 
 Science has no goal and requires no ideological commitment.
 Science is a tradition, contextual, historical and local. There is no signal for true novelties that cannot be predicted (no linear model).Science is a bet with no insurance. 
 Science should deliver technologies with their pharmakological notice.
@@ -41,3 +49,6 @@ Scientists are crucials should be involved. (rethink this position).
 
 The puzzle metaphor clearly points to a cumulative view of knowledge.
 The lost role of affects. Value is affect.
+
+
+[^1]: Another possibility that is not considered by policy makers and that would be different from this averaging is to take random directions from citizens or industrials. However, the pertinence of such directions is doubtious. 

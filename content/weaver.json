@@ -6403,6 +6403,47 @@
       "select": "zotero://select/library/items/EDXFBSF2"
     },
     {
+      "key": "26NJBDQV",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Penguin UK",
+      "date": "2005",
+      "libraryCatalog": "Google Scholar",
+      "title": "Grundrisse: Foundations of the critique of political economy",
+      "shortTitle": "Grundrisse",
+      "creators": [
+        {
+          "firstName": "Karl",
+          "lastName": "Marx",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T15:47:53Z",
+      "dateModified": "2023-01-04T15:47:53Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/26NJBDQV",
+      "itemID": 6054,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-04T15:47:59Z",
+          "dateModified": "2023-01-04T15:47:59Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UTXX8WKK",
+          "path": "/Users/robert/Dropbox/zotero/storage/UTXX8WKK/books.html",
+          "select": "zotero://select/library/items/UTXX8WKK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Marx2005",
+      "itemKey": "26NJBDQV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/26NJBDQV"
+    },
+    {
       "key": "ZVJ6Z9KN",
       "version": 0,
       "itemType": "journalArticle",
@@ -9689,6 +9730,45 @@
       "select": "zotero://select/library/items/DBVR2JX2"
     },
     {
+      "key": "RZV8I5EV",
+      "version": 0,
+      "itemType": "journalArticle",
+      "date": "1958",
+      "libraryCatalog": "Google Scholar",
+      "title": "Du mode d'existence des objets techniques",
+      "creators": [
+        {
+          "firstName": "Gilbert",
+          "lastName": "Simondon",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T16:26:34Z",
+      "dateModified": "2023-01-04T16:26:34Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/RZV8I5EV",
+      "itemID": 6057,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-04T16:26:41Z",
+          "dateModified": "2023-01-04T16:26:41Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/6YGTXQ44",
+          "path": "/Users/robert/Dropbox/zotero/storage/6YGTXQ44/SIMDMD-2.html",
+          "select": "zotero://select/library/items/6YGTXQ44"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Simondon1958",
+      "itemKey": "RZV8I5EV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RZV8I5EV"
+    },
+    {
       "key": "6KS9ZLQY",
       "version": 0,
       "itemType": "thesis",
@@ -10161,6 +10241,35 @@
       "itemKey": "7Z82UYSI",
       "libraryID": 1,
       "select": "zotero://select/library/items/7Z82UYSI"
+    },
+    {
+      "key": "9R4XKYK2",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Fayard/Mille et une nuits",
+      "date": "2012",
+      "libraryCatalog": "Google Scholar",
+      "title": "\u00c9tats de choc: B\u00eatise et savoir au XXIe Si\u00e8cle",
+      "shortTitle": "\u00c9tats de choc",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-04T16:04:19Z",
+      "dateModified": "2023-01-04T16:04:19Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9R4XKYK2",
+      "itemID": 6056,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Stiegler2012",
+      "itemKey": "9R4XKYK2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9R4XKYK2"
     },
     {
       "key": "YPD6X7FL",
