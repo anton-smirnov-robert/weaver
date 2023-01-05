@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8c6ab029a8e1f3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Blok2015.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6cd61e214ce487f6",
             "type": "leaf",
             "state": {
@@ -32,43 +44,31 @@
             }
           },
           {
-            "id": "770eab48f237cfe1",
+            "id": "b50d215c301159b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Hayek1945.md",
+                "file": "note/literature note on Montevil2021.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dedbfe509b804ab",
+            "id": "99affc502ad80cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5218996d00c0e483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Henriques2013.md",
+                "file": "reference/Blok2015a.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,15 +197,15 @@
   },
   "active": "6cd61e214ce487f6",
   "lastOpenFiles": [
-    "note/literature note on Paic2019.md",
-    "paper_shaking_invisible_hand.canvas",
-    "_index.md",
+    "note/literature note on Montevil2021.md",
     "note/marketization_of_scientific_research.md",
-    "note/literature note on Hayek1945.md",
+    "reference/Blok2015a.md",
+    "note/literature note on Paic2019.md",
+    "reference/Blok2015.md",
     "note/literature note on Henriques2013.md",
+    "note/literature note on Hayek1945.md",
+    "manifesto.md",
     "note/literature note on Polanyi1962.md",
-    "reference/Longo2013.md",
-    "reference/Elzinga1997.md",
-    "reference/Chavalarias2020a.md"
+    "paper_shaking_invisible_hand.canvas"
   ]
 }

@@ -20,7 +20,7 @@ In the 60's, several reasons bring experts to lean over science and technologies
 
 >[!quote]
 >
->If governments succeed in helping to increase the pace of technical innovation, it will facilitate structural changes in the economy, and increase the supply of new and improved products necessary for Member Governments to achieve rapid economic growth and full employment and without inflation. (OECD, 1966: 8) — Government and Technical Innovation, Paris: OECD.
+>If governments succeed in helping to increase the pace of technical innovation, it will facilitate structural changes in the economy, and increase the supply of new and improved products necessary for Member Governments to achieve rapid economic growth and full employment and without inflation. ([OECD1966](reference/OECD1966.md) , p.8)
 
 This input/output continuous model being *de facto* extended to economic growth, the goal of the scientific enterprise becomes economic growth. This is still explicitly acknowledged nowadays ([Petit2019](reference/Petit2019.md). The indisputable positive correlation between ecconomic growth and societies well-beings makes science a precious public good. 
 

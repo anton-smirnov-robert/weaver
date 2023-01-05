@@ -938,11 +938,6 @@
         },
         {
           "source": "/note/literature-note-on-Polanyi1962",
-          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
-          "text": "Foucault's épistémè"
-        },
-        {
-          "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
@@ -1250,13 +1245,6 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
-        }
-      ],
-      "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8": [
-        {
-          "source": "/note/literature-note-on-Polanyi1962",
-          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
-          "text": "Foucault's épistémè"
         }
       ],
       "/concept/G%C3%B6dels-numbering": [
@@ -3345,11 +3333,6 @@
       "source": "/note/literature-note-on-Polanyi1962",
       "target": "/reference/Morin1982",
       "text": "Morin1982"
-    },
-    {
-      "source": "/note/literature-note-on-Polanyi1962",
-      "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
-      "text": "Foucault's épistémè"
     },
     {
       "source": "/note/literature-note-on-Polanyi1962",

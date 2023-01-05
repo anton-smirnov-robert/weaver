@@ -8308,6 +8308,56 @@
       "select": "zotero://select/library/items/IAKGQKHD"
     },
     {
+      "key": "9LNZBSU5",
+      "version": 0,
+      "itemType": "book",
+      "place": "Paris",
+      "publisher": "OECD",
+      "date": "1966",
+      "extra": "Google-Books-ID: N7gJAAAAMAAJ",
+      "libraryCatalog": "Google Books",
+      "language": "en",
+      "title": "Government and Technical Innovation",
+      "numPages": "72",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "OECD",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-05T17:48:21Z",
+      "dateModified": "2023-01-05T17:49:48Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9LNZBSU5",
+      "itemID": 6066,
+      "attachments": [
+        {
+          "key": "A63E7WGD",
+          "version": 0,
+          "itemType": "attachment",
+          "url": "https://books.google.fr/books?id=N7gJAAAAMAAJ",
+          "accessDate": "2023-01-05T17:48:25Z",
+          "title": "Google Books Link",
+          "parentItem": "9LNZBSU5",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-01-05T17:48:25Z",
+          "dateModified": "2023-01-05T17:48:25Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/A63E7WGD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "OECD1966",
+      "itemKey": "9LNZBSU5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9LNZBSU5"
+    },
+    {
       "key": "D7NM3S6V",
       "version": 0,
       "itemType": "report",
