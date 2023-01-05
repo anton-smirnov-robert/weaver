@@ -573,98 +573,6 @@
           "text": "Boolos2007"
         }
       ],
-      "/note/article_devoiement_main_invisible": [
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Hayek1945",
-          "text": "literature note on Hayek1945"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Polanyi1962",
-          "text": "literature note on Polanyi1962"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Fischer2009",
-          "text": "Fischer2009"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Henriques2013",
-          "text": "literature note on Henriques2013"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Nelson1959",
-          "text": "Nelson1959"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Arrow1962",
-          "text": "Arrow1962"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Bush1945",
-          "text": "Bush1945"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Piganiol1963",
-          "text": "Piganiol1963"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Paic2019",
-          "text": "literature note on Paic2019"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
-          "text": "Foucault's épistémè"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Kuhn1970",
-          "text": "Kuhn1970"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        }
-      ],
       "/note/literature-note-on-Hayek1945": [
         {
           "source": "/note/literature-note-on-Hayek1945",
@@ -968,18 +876,28 @@
         },
         {
           "source": "/note/literature-note-on-Paic2019",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
         },
         {
           "source": "/note/literature-note-on-Paic2019",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
-        },
-        {
-          "source": "/note/literature-note-on-Paic2019",
-          "target": "/reference/Kuhn1970",
-          "text": "Kuhn1970"
         },
         {
           "source": "/note/literature-note-on-Paic2019",
@@ -1042,6 +960,203 @@
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
+        }
+      ],
+      "/note/marketization_of_scientific_research": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Smith1887",
+          "text": "Smith1887"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Schwartz2015",
+          "text": "Schwartz2015"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/OECD2021a",
+          "text": "OECD2021a"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Marx2005",
+          "text": "Marx2005"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Stiegler2012",
+          "text": "Stiegler2012"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Simondon1958",
+          "text": "Simondon1958"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Longo2016",
+          "text": "Longo2016"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Chavalarias2020a",
+          "text": "Chavalarias2020a"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Yong2018",
+          "text": "Yong2018"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Longo2013",
+          "text": "Longo2013"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
         }
       ],
       "/reference/Polanyi1962": [
@@ -1138,11 +1253,6 @@
         }
       ],
       "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8": [
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
-          "text": "Foucault's épistémè"
-        },
         {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
@@ -1626,20 +1736,6 @@
           "text": "manifesto"
         }
       ],
-      "/note/literature-note-on-Hayek1945": [
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Hayek1945",
-          "text": "literature note on Hayek1945"
-        }
-      ],
-      "/note/literature-note-on-Henriques2013": [
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Henriques2013",
-          "text": "literature note on Henriques2013"
-        }
-      ],
       "/note/literature-note-on-Longo2012": [
         {
           "source": "/concept/Laplacian-determinism",
@@ -1667,18 +1763,18 @@
           "text": "literature note on Longo2012"
         }
       ],
-      "/note/literature-note-on-Paic2019": [
+      "/reference/Alombert2021": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Paic2019",
-          "text": "literature note on Paic2019"
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
         }
       ],
-      "/note/literature-note-on-Polanyi1962": [
+      "/reference/Anderson2007": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/note/literature-note-on-Polanyi1962",
-          "text": "literature note on Polanyi1962"
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
         }
       ],
       "/reference/Anfinsen1973": [
@@ -1690,14 +1786,23 @@
       ],
       "/reference/Arrow1962": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Arrow1962",
-          "text": "Arrow1962"
-        },
-        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
+        }
+      ],
+      "/reference/Audetat2015": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        }
+      ],
+      "/reference/Baker2016": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
         }
       ],
       "/reference/Blok2015": [
@@ -1772,14 +1877,23 @@
       ],
       "/reference/Bush1945": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Bush1945",
-          "text": "Bush1945"
-        },
-        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Bush1945",
           "text": "Bush1945"
+        }
+      ],
+      "/reference/Chavalarias2016": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        }
+      ],
+      "/reference/Chavalarias2020a": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Chavalarias2020a",
+          "text": "Chavalarias2020a"
         }
       ],
       "/reference/Crick1958": [
@@ -1805,6 +1919,11 @@
       ],
       "/reference/Davies2006": [
         {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
@@ -1824,6 +1943,20 @@
           "text": "Doudna2017"
         }
       ],
+      "/reference/Edwards2017": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        }
+      ],
+      "/reference/Elzinga1997": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        }
+      ],
       "/reference/Estrada2013": [
         {
           "source": "/definition/complexity-sciences",
@@ -1831,12 +1964,21 @@
           "text": "Estrada2013"
         }
       ],
-      "/reference/Fischer2009": [
+      "/reference/Fang2012": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Fischer2009",
-          "text": "Fischer2009"
-        },
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        }
+      ],
+      "/reference/Fire2019": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        }
+      ],
+      "/reference/Fischer2009": [
         {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Fischer2009",
@@ -1844,11 +1986,6 @@
         }
       ],
       "/reference/Hayek1945": [
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
         {
           "source": "/note/literature-note-on-Hayek1945",
           "target": "/reference/Hayek1945",
@@ -1858,6 +1995,18 @@
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        }
+      ],
+      "/reference/Hayek1979": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
         }
       ],
       "/reference/Heisenberg1971": [
@@ -1869,11 +2018,6 @@
       ],
       "/reference/Henriques2013": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
@@ -1882,6 +2026,13 @@
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
+        }
+      ],
+      "/reference/Hill2020": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
         }
       ],
       "/reference/Horgan1995": [
@@ -1912,24 +2063,24 @@
       ],
       "/reference/Kuhn1970": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Kuhn1970",
-          "text": "Kuhn1970"
-        },
-        {
           "source": "/note/literature-note-on-Henriques2013",
-          "target": "/reference/Kuhn1970",
-          "text": "Kuhn1970"
-        },
-        {
-          "source": "/note/literature-note-on-Paic2019",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
         }
       ],
       "/reference/Lazebnik2018": [
         {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
           "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         }
@@ -1958,6 +2109,20 @@
           "text": "Longo2012"
         }
       ],
+      "/reference/Longo2013": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Longo2013",
+          "text": "Longo2013"
+        }
+      ],
+      "/reference/Longo2016": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Longo2016",
+          "text": "Longo2016"
+        }
+      ],
       "/reference/Longo2021": [
         {
           "source": "/note/literature-note-on-Longo2012",
@@ -1970,6 +2135,13 @@
           "source": "/note/literature-note-on-Longo2012",
           "target": "/reference/Lucitti2007",
           "text": "Lucitti2007"
+        }
+      ],
+      "/reference/Marx2005": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Marx2005",
+          "text": "Marx2005"
         }
       ],
       "/reference/Matoba2018": [
@@ -1986,7 +2158,29 @@
           "text": "MaynardSmith1999"
         }
       ],
+      "/reference/Merton1957": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        }
+      ],
       "/reference/Mirowski2011": [
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
         {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
@@ -1995,39 +2189,44 @@
       ],
       "/reference/Montevil2021": [
         {
-          "source": "/note/article_devoiement_main_invisible",
+          "source": "/note/literature-note-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/note/literature-note-on-Montevil2021",
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         }
       ],
       "/reference/Morin1982": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
           "source": "/note/literature-note-on-Montevil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
         {
-          "source": "/note/literature-note-on-Paic2019",
+          "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
         {
-          "source": "/note/literature-note-on-Polanyi1962",
+          "source": "/note/marketization_of_scientific_research",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         }
@@ -2039,7 +2238,19 @@
           "text": "Muller2003"
         }
       ],
+      "/reference/Muthukrishna2019": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        }
+      ],
       "/reference/Nedeva2006": [
+        {
+          "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
         {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
@@ -2047,11 +2258,6 @@
         }
       ],
       "/reference/Nelson1959": [
-        {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Nelson1959",
-          "text": "Nelson1959"
-        },
         {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Nelson1959",
@@ -2065,31 +2271,50 @@
           "text": "Nolan2021"
         }
       ],
+      "/reference/OECD2021a": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/OECD2021a",
+          "text": "OECD2021a"
+        }
+      ],
       "/reference/Paic2019": [
         {
           "source": "/note/literature-note-on-Paic2019",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         }
       ],
       "/reference/Petit2019": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        },
-        {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         }
       ],
-      "/reference/Piganiol1963": [
+      "/reference/Petit2019a": [
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Piganiol1963",
-          "text": "Piganiol1963"
-        },
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        }
+      ],
+      "/reference/Piganiol1963": [
         {
           "source": "/note/literature-note-on-Henriques2013",
           "target": "/reference/Piganiol1963",
@@ -2110,17 +2335,22 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/article_devoiement_main_invisible",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
           "source": "/note/literature-note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
           "source": "/note/literature-note-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/marketization_of_scientific_research",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -2164,6 +2394,13 @@
           "text": "Schrodinger1944"
         }
       ],
+      "/reference/Schwartz2015": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Schwartz2015",
+          "text": "Schwartz2015"
+        }
+      ],
       "/reference/Shannon1948": [
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
@@ -2176,6 +2413,13 @@
           "text": "Shannon1948"
         }
       ],
+      "/reference/Simondon1958": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Simondon1958",
+          "text": "Simondon1958"
+        }
+      ],
       "/reference/Sipser2013": [
         {
           "source": "/concept/Turing-machine",
@@ -2186,6 +2430,27 @@
           "source": "/definition/automaton",
           "target": "/reference/Sipser2013",
           "text": "Sipser2013"
+        }
+      ],
+      "/reference/Smith1887": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Smith1887",
+          "text": "Smith1887"
+        }
+      ],
+      "/reference/Soto2021": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        }
+      ],
+      "/reference/Stiegler2012": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Stiegler2012",
+          "text": "Stiegler2012"
         }
       ],
       "/reference/Tang2004": [
@@ -2212,6 +2477,13 @@
           "source": "/concept/Turing-machine",
           "target": "/reference/Turing1936",
           "text": "Turing1936"
+        }
+      ],
+      "/reference/Yong2018": [
+        {
+          "source": "/note/marketization_of_scientific_research",
+          "target": "/reference/Yong2018",
+          "text": "Yong2018"
         }
       ],
       "/reference/Zwanzig1992": [
@@ -2725,96 +2997,6 @@
       "text": "Boolos2007"
     },
     {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/note/literature-note-on-Hayek1945",
-      "text": "literature note on Hayek1945"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/note/literature-note-on-Polanyi1962",
-      "text": "literature note on Polanyi1962"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Fischer2009",
-      "text": "Fischer2009"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/note/literature-note-on-Henriques2013",
-      "text": "literature note on Henriques2013"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Petit2019",
-      "text": "Petit2019"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Nelson1959",
-      "text": "Nelson1959"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Arrow1962",
-      "text": "Arrow1962"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Bush1945",
-      "text": "Bush1945"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Piganiol1963",
-      "text": "Piganiol1963"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/note/literature-note-on-Paic2019",
-      "text": "literature note on Paic2019"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/concept/Foucaults-%C3%A9pist%C3%A9m%C3%A8",
-      "text": "Foucault's épistémè"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Kuhn1970",
-      "text": "Kuhn1970"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/note/article_devoiement_main_invisible",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
-    },
-    {
       "source": "/note/literature-note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
@@ -3106,18 +3288,28 @@
     },
     {
       "source": "/note/literature-note-on-Paic2019",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/note/literature-note-on-Paic2019",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
     },
     {
       "source": "/note/literature-note-on-Paic2019",
       "target": "/reference/Blok2015",
       "text": "Blok2015"
-    },
-    {
-      "source": "/note/literature-note-on-Paic2019",
-      "target": "/reference/Kuhn1970",
-      "text": "Kuhn1970"
     },
     {
       "source": "/note/literature-note-on-Paic2019",
@@ -3178,6 +3370,201 @@
       "source": "/note/literature-note-on-Polanyi1962",
       "target": "/reference/Lazebnik2018",
       "text": "Lazebnik2018"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Smith1887",
+      "text": "Smith1887"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Schwartz2015",
+      "text": "Schwartz2015"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/OECD2021a",
+      "text": "OECD2021a"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Marx2005",
+      "text": "Marx2005"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Stiegler2012",
+      "text": "Stiegler2012"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Alombert2021",
+      "text": "Alombert2021"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Simondon1958",
+      "text": "Simondon1958"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Longo2016",
+      "text": "Longo2016"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Muthukrishna2019",
+      "text": "Muthukrishna2019"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Chavalarias2020a",
+      "text": "Chavalarias2020a"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Yong2018",
+      "text": "Yong2018"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Longo2013",
+      "text": "Longo2013"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
     },
     {
       "source": "/reference/Polanyi1962",
