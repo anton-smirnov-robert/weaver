@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "631988da28eedb83",
+            "id": "770eab48f237cfe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference/Elzinga1997.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f0096d76b8d4dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Paic2019.md",
+                "file": "note/literature note on Hayek1945.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/Elzinga1997.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/Elzinga1997.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/Elzinga1997.md"
+                "file": "note/marketization_of_scientific_research.md"
               }
             }
           }
@@ -207,17 +195,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "631988da28eedb83",
+  "active": "6cd61e214ce487f6",
   "lastOpenFiles": [
+    "note/literature note on Hayek1945.md",
     "note/marketization_of_scientific_research.md",
+    "note/literature note on Henriques2013.md",
+    "note/literature note on Polanyi1962.md",
+    "note/literature note on Paic2019.md",
+    "reference/Longo2013.md",
+    "reference/Elzinga1997.md",
     "reference/Chavalarias2020a.md",
     "note/literature note on Montevil2021.md",
-    "note/literature note on Paic2019.md",
-    "note/literature note on Polanyi1962.md",
-    "note/literature note on Hayek1945.md",
-    "note/literature note on Henriques2013.md",
-    "concept/scientific positivism.md",
-    "reference/Bush1945.md",
-    "reference/Henriques2013.md"
+    "concept/scientific positivism.md"
   ]
 }

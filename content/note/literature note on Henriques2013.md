@@ -15,7 +15,7 @@ DOI: 10.1016/j.respol.2012.09.004
 
 Reference: [Henriques2013](reference/Henriques2013.md)
 
-####  Science become too important to be left to an invisible hand
+#### Science become too important to be left to an invisible hand
 In the 60's, several reasons bring experts to lean over science and technologies (S&T) policies for the first time. First, science played a decisive role during the two world wars because of the technologies it generated. If technnologies are of national interests, they emerge from reasearch so that the later activity becomes crucial. The so-called linear model for innovation explicit this chain: basic research, applied resarch, development and diffusion of technologies. However, following the lines of the OECD at the same period, the linear causal chain is in fact longer: 
 
 >[!quote]
