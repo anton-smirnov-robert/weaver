@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "631988da28eedb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Elzinga1997.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63f0096d76b8d4dd",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "reference/Elzinga1997.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "reference/Elzinga1997.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/marketization_of_scientific_research.md"
+                "file": "reference/Elzinga1997.md"
               }
             }
           }
@@ -195,17 +207,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6cd61e214ce487f6",
+  "active": "631988da28eedb83",
   "lastOpenFiles": [
-    "note/literature note on Montevil2021.md",
     "note/marketization_of_scientific_research.md",
+    "reference/Chavalarias2020a.md",
+    "note/literature note on Montevil2021.md",
     "note/literature note on Paic2019.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Hayek1945.md",
     "note/literature note on Henriques2013.md",
     "concept/scientific positivism.md",
     "reference/Bush1945.md",
-    "reference/Henriques2013.md",
-    "reference/Petit2019.md"
+    "reference/Henriques2013.md"
   ]
 }
