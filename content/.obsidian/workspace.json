@@ -69,24 +69,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "dacfcda1a5453e66",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94185fdaf0565a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Montevil2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
