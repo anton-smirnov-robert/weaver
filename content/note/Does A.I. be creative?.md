@@ -17,7 +17,7 @@ This is because novelty should always be understood with respect to a specific c
 A professional chess player will tell you that, to play, he does not evaluate all moves: he only considers the good ones (at middle of the game). 
 He does not consider the bad ones. Then he rapidly chooses between the two or three moves that he only considders. You try 20 of them. 
 Therefore, everything happens as if she was choosing (among three of four move) that are the only viable move, to him.
-From all pre-possiblities, she inconsciently restricted real possiblities by a holistic evaluation of the board.
+From all pre-possiblities, she restricted real possiblities by a holistic evaluation of the board.
 From where this space of possibilities reduction come from? 
 
 The implicit reduction of possibilities is possible only thanks to a specific context, that can only be understood thanks to the history of the player.
@@ -31,3 +31,5 @@ Does A.I. can be creative? Can A.I. produce a novelty? First, if you give the ma
 Chess players find some moves they find interesting in chess games between computers. They are novelties (to them). Therefore, humans, thanks to A.I. can be better at chess, because it opens new possibilities. But, chess is easy because there are explicit mathematical rules. The outcome is "winning" or not. This is not art. A machine  can easily learn how to play perfectly the game. In fact, the pre-possibility space is very small. 
 
 In art, there are no rules and the pre-possibility is so large and outcome so nuanced that machine will never be able to explore possibilities for us. "Rules" evolve, which means that there are no rules like in physics. However, it depends on what we consider as art. If we consider as art what machines suggests whitout proper thinking, it will become the way we institutionalize art. Is it worth it? We need to ask each other if we consider this art? Marketing and industrials making those technologies will push in favor of this. Can you find in the history of arts, in practice, arguments to tip the favot in favor of a choice? 
+
+Novelties need to be defined with respect to contexts. A new theory, a new invention is an acceptable one with previous that what outside the scope
