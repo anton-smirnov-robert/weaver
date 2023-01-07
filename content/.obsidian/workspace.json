@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/Does A.I. be creative?.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/Does A.I. be creative?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/Does A.I. be creative?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/marketization_of_scientific_research.md"
+                "file": "note/Does A.I. be creative?.md"
               }
             }
           }
@@ -197,15 +197,15 @@
   },
   "active": "6cd61e214ce487f6",
   "lastOpenFiles": [
-    "note/literature note on Montevil2021.md",
+    "paper_shaking_invisible_hand.canvas",
     "note/marketization_of_scientific_research.md",
+    "reference/Elzinga1997.md",
+    "note/literature note on Montevil2021.md",
     "reference/Blok2015a.md",
     "note/literature note on Paic2019.md",
     "reference/Blok2015.md",
     "note/literature note on Henriques2013.md",
     "note/literature note on Hayek1945.md",
-    "manifesto.md",
-    "note/literature note on Polanyi1962.md",
-    "paper_shaking_invisible_hand.canvas"
+    "manifesto.md"
   ]
 }
