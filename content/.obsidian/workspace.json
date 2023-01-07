@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a5fb2211a3f769e2",
+        "id": "7ea6dc3cbd67a934",
         "type": "tabs",
         "children": [
           {
-            "id": "0dfa1a3a8ac85630",
+            "id": "eab914cf93c6544c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76475025a4c71e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/marketization_of_scientific_research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c6ab029a8e1f3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Blok2015.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd61e214ce487f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/Does A.I. be creative?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b50d215c301159b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Montevil2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99affc502ad80cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Blok2015a.md",
+                "file": "note/A letter to Michael Polanyi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/A letter to Michael Polanyi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/A letter to Michael Polanyi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/marketization_of_scientific_research.md"
+                "file": "note/A letter to Michael Polanyi.md"
               }
             }
           }
@@ -207,7 +146,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "76475025a4c71e5f",
+  "active": "eab914cf93c6544c",
   "lastOpenFiles": [
     "note/literature note on Polanyi1962.md",
     "note/marketization_of_scientific_research.md",

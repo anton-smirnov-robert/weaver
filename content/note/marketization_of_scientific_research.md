@@ -50,34 +50,7 @@ The so-called "linear model for innovation" (or its new extension that encourage
 If the goal of the scientific enterprise is growth and international competitivity since the 60's — which it still is ([Petit2019](reference/Petit2019.md)) —, research *de facto* aims at building technologies since then. To justify such a goal, OECD S&T policy makers maintain a unambiguous and therefore naive view of technology. For instance, a long policy paper on robots concludes that "Progress in robotics will help to make life easier, richer and healthier." ([Nolan2021](reference/Nolan2021.md)). From this perspective, all technologies are good, an opinion that seems to remain valid in the new "responsible innovation" paradigm ([Blok2015a](reference/Blok2015a.md)). Making automatons (e.g. machines, programs, protocoles, etc.) is therefore the unquestionned long-term goal of science. This drives basic research to look for mechanisms in nature. Also, this encourages saving only the operational part of theories. From *logos*, they become *techné* ([Morin1982](reference/Morin1982.md), [Stiegler2021](reference/Stiegler2021.md)). The intensive trend for the protocolization of research (usually to make it more reproducible) hide the automatic adoption of unknown black-box tools and can therefore reduce theoretical thinking. This confusion between objectivity and automaticity also reveals itself in the important synthetic process of review articles, which are not qualified as original research, except when computational meta-analysis are performed ([Montevil2021](reference/Montevil2021.md)). Last but not least, a infinitly powerful artifical intelligence making correlations will not replace the work of scientists ([Calude2017](reference/Calude2017.md)), despite the willing of ([Anderson2008](reference/Anderson2008.md)) and others inclined to this pervasive idea. 
 
 
-#### Dangers
-1) Les scientifiques sont leurs propre autorité. La prolètarization des scientifiques est la fin de la science. 
 
-
-Un point d'articulation fondamentale.
-Towards marketisation of research. 
-Towards an anti-entropic.
-Disruption de second-ordre.
-Anti-anthropic organization.
-C'est une plateforme sur laquelle il faut remonter, pour aller dans une autre direction. 
-
-
-#### Principles
-
-Creativité et affects. Koff paradox. 
-Essential: how entropy feeds the creation of negentropy.
-- A novelty should change the phase space. (it is not adapting to).
-- They are no laws to drive the search towards. 
-- Idea of enablement. 
-
-Science has no goal and requires no ideological commitment.
-Science is a tradition, contextual, historical and local. There is no signal for true novelties that cannot be predicted (no linear model).Science is a bet with no insurance. 
-Science should deliver technologies with their pharmakological notice.
-Scientists are crucials should be involved. (rethink this position). 
-
-
-The puzzle metaphor clearly points to a cumulative view of knowledge.
-The lost role of affects. Value is affect.
 
 
 [^1]: Another possibility that is not considered by policy makers and that would be different from this averaging is to take random directions from citizens or industrials. However, the pertinence of such directions is doubtious. 
