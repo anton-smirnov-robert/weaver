@@ -26,8 +26,11 @@ To understand this space of possibilities, you will need to understand the physi
 
 In fact, in chess, the game is so simple and the moves so restricted that all professional players think about practically the same things. What is a novelty then? A novelty is something outside the implicit space of possibilities, but that can be adopted within. It was therefore a priori excluded and seemed impossible. A novelty is specific to individuals, but if they share and explicit to themselves their similar space of possibilities, they would agree about what is new.
 
-Does A.I. can be creative? Can A.I. produce a novelty? First, if you give the machine all moves that were done by humans, you will see no novelty. What about supervized learning? We first need to define what is the implicit space of possibilities for a machine. If we understand it as the result that it will return during the learning process, then it will itself produce novelties by trials and errors. Such as a human making a random move on a board and evaluate it afterwards. There is a very thin chance that it discovers a novelty that he will adopts, but after millions of try, it is possible. This is what the A.I. does. Therefore 
-If you design a program for a machine to learn by itself, given the rules, it will do that and no novelties could no longer arise.
+Does A.I. can be creative? Can A.I. produce a novelty? First, if you give the machine all moves that were done by humans, you will see no novelty. What about supervized learning? We first need to define what is the implicit space of possibilities for a machine. If we understand it as the result that it will return during the learning process, then it will itself produce novelties by trials and errors. Such as a human making a random move on a board and evaluate it afterwards. There is a very thin chance that it discovers a novelty that he will adopts, but after millions of try, it is possible. This is what the A.I. does, however it need rules. 
+
+Chess players find some moves they find interesting in chess games between computers. They are novelties (to them). Therefore, humans, thanks to A.I. can be better at chess, because it opens new possibilities. But, chess is easy because there are explicit mathematical rules.
+
+In art, there are no rules. 
 
 
 Without the notion of an implicit space of possibilities, there is no notion of novelty. In doing so, the machine builds its own space of implicit novelties. 
