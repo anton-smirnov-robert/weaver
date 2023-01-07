@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Paic2019.md",
+                "file": "note/literature note on Polanyi1962.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76475025a4c71e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/marketization_of_scientific_research.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Does A.I. be creative?.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Does A.I. be creative?.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Does A.I. be creative?.md"
+                "file": "note/marketization_of_scientific_research.md"
               }
             }
           }
@@ -195,17 +207,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6cd61e214ce487f6",
+  "active": "76475025a4c71e5f",
   "lastOpenFiles": [
-    "paper_shaking_invisible_hand.canvas",
+    "note/literature note on Polanyi1962.md",
     "note/marketization_of_scientific_research.md",
+    "note/literature note on Paic2019.md",
+    "note/Does A.I. be creative?.md",
+    "paper_shaking_invisible_hand.canvas",
     "reference/Elzinga1997.md",
     "note/literature note on Montevil2021.md",
     "reference/Blok2015a.md",
-    "note/literature note on Paic2019.md",
     "reference/Blok2015.md",
-    "note/literature note on Henriques2013.md",
-    "note/literature note on Hayek1945.md",
-    "manifesto.md"
+    "note/literature note on Henriques2013.md"
   ]
 }

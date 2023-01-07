@@ -60,6 +60,7 @@ Moreover, the first two scientific standards tends to conformity while the third
 > 
 >Neoliberalism was not the dominant ideology in the Western world at that time. The Republic of Science is more related to a liberal view of science, in the classical view, without state intervention. Sixty years later, we find an era of neoliberalism in science ([Nedeva2006](reference/Nedeva2006.md),[Davies2006](reference/Davies2006.md),[Mirowski2011](reference/Mirowski2011.md),[Lazebnik2018](reference/Lazebnik2018.md)), but this has nothing to do with what is suggested here. 
 
+- Idea of enablement. 
 
 [^1]: Picture helpers solving a large puzzle. Everyone has access to all pieces and independently solve the puzzle based on the pieces already in place. When a piece is added, it unlock new possibilities to everyone, hence the continued mutual adjustement. Splitting the puzzle in zones (disciplines) and the pile of pieces accordingly make the procedure more efficient, but the gist of the idea remains the same in all zones.
 [^2]:  Amusingly, to illustrate this point Polanyi reports that projects testing “extrasensory perception” or “once more the hereditary transmission of acquired characters” would be discredited. Nowadays, transgenerational epigenetic inheritance is under the spotlight and such studies are not _a priori_ discredited.

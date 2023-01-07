@@ -54,10 +54,21 @@ If the goal of the scientific enterprise is growth and international competitivi
 1) Les scientifiques sont leurs propre autorité. La prolètarization des scientifiques est la fin de la science. 
 
 
+Un point d'articulation fondamentale.
+Towards marketisation of research. 
+Towards an anti-entropic.
+Disruption de second-ordre.
+Anti-anthropic organization.
+C'est une plateforme sur laquelle il faut remonter, pour aller dans une autre direction. 
+
 
 #### Principles
 
-Creativité et affects. 
+Creativité et affects. Koff paradox. 
+Essential: how entropy feeds the creation of negentropy.
+- A novelty should change the phase space. (it is not adapting to).
+- They are no laws to drive the search towards. 
+- Idea of enablement. 
 
 Science has no goal and requires no ideological commitment.
 Science is a tradition, contextual, historical and local. There is no signal for true novelties that cannot be predicted (no linear model).Science is a bet with no insurance. 
