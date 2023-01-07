@@ -740,6 +740,30 @@
       "publisher": "National Bureau of Economic Research, Inc"
     },
     {
+      "key": "BMWWVXAL",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-01-07T18:57:20Z",
+      "dateModified": "2023-01-07T18:57:20Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/BMWWVXAL",
+      "itemID": 6069,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/BMWWVXAL/Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
+      "defaultPath": "files/6069/Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
+      "itemKey": "BMWWVXAL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/BMWWVXAL"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
@@ -3385,6 +3409,59 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/7JVGIGAI",
       "publicationTitle": "Dialogic"
+    },
+    {
+      "key": "ZZ87SXLK",
+      "version": 0,
+      "itemType": "book",
+      "url": "https://data.europa.eu/doi/10.2777/360325",
+      "place": "LU",
+      "publisher": "Publications Office of the European Union",
+      "ISBN": "978-92-79-79832-0",
+      "date": "2018",
+      "callNumber": "KI-02-18-079-EN-N",
+      "accessDate": "2023-01-07T18:58:12Z",
+      "libraryCatalog": "Publications Office of the European Union",
+      "language": "eng",
+      "abstractNote": "The European Commission, through Carlos Moedas, Commissioner for Research, Science and Innovation, invited Professor Mazzucato to draw up strategic recommendations to maximise the impact of the future EU Framework Programme for Research and Innovation through mission-oriented policy. This report is the result of Professor Mazzucato\u2019s reflections based on her research, with inputs through a consultation process with internal and external stakeholders of the European Commission.",
+      "title": "Mission-oriented research & innovation in the European Union: a problem solving approach to fuel innovation led growth",
+      "shortTitle": "Mission-oriented research & innovation in the European Union",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Directorate-General for Research and Innovation (European Commission)",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Mariana",
+          "lastName": "Mazzucato",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-07T18:58:12Z",
+      "dateModified": "2023-01-07T18:58:12Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZZ87SXLK",
+      "itemID": 6070,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Directorate-General for Research and Innovation (European Commission) et Mazzucato - 2018 - Mission-oriented research & innovation in the Euro.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-07T18:58:45Z",
+          "dateModified": "2023-01-07T18:58:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/78VFIVPE",
+          "path": "/Users/robert/Dropbox/zotero/storage/78VFIVPE/Directorate-General for Research and Innovation (European Commission) et Mazzucato - 2018 - Mission-oriented research & innovation in the Euro.pdf",
+          "select": "zotero://select/library/items/78VFIVPE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
+      "itemKey": "ZZ87SXLK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZZ87SXLK"
     },
     {
       "key": "SDGJSIMA",
