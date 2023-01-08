@@ -22,16 +22,13 @@ Micheal Polanyi is to be distinguished from his older brother Karl. Even in both
 
 In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”, his model is *market-inspired*. However, he underlines that the scientific organization cannot be reduced to the mechanisms of the market as defined by Hayek ([Hayek1945](reference/Hayek1945.md)), because it has a *higher principle*. 
 
-#### Summary 
 
 ##### Science is made by mutual adjustment of independent initiatives. 
-
 Polanyi's original idea arises from comparing science as the activity that consists in collectively assembling pieces of a giant and unknown puzzle. By demonstrating that the most efficient way to organize the latter is by a _mutual adjustement of independent initiatives_, he concludes that it is also the most efficient way to organize the former[^1].
 
 While Polanyi is inspired by the price mechanism, he underlines that the exchanged information between scientists (the pieces of the puzzle) are scientific papers and not prices; the former do not convey unambiguous instructions to reach a known goal (consume more or less of this item to make offer meet demand).
 
 ##### Self-interested scientists refer to the scientific standards
-
 However, scientists do maximize the merit they may obtain by tackling the toughest _problem_ given their limited amount of material and intellectual resources — they naturally never tackle problems that are far too hard for them to solve. Therefore, as a new article update a scientist's intellectual ressources, she adjusts her work by referring to the criteria of merit which are the _scientific standards:
 
 1.  Plausibility
@@ -39,7 +36,6 @@ However, scientists do maximize the merit they may obtain by tackling the toughe
 3.  Originality, which is the degree of surprise caused by the discovery among scientists
 
 ##### The authority is enforced by the scientists themselves
-
 The overlapping areas of expertise between specialized scientists allow them to control those criteria when articles are submitted. The authority of the scientific standards is therefore enforced using _overlapping neighborhoods_. The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals. The authority is very important because it also decides where grants and material ressources should be allocated on the same basis of the scientific standards interpretation by scientists. 
 
 ##### The tension of scientific standards is the source for the evolution of Science
