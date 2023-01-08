@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/A letter to Michael Polanyi.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/A letter to Michael Polanyi.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/A letter to Michael Polanyi.md"
+                "file": "note/marketization_of_scientific_research.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "eab914cf93c6544c",
+  "active": "0abca9c362957d1d",
   "lastOpenFiles": [
-    "note/marketization_of_scientific_research.md",
     "note/A letter to Michael Polanyi.md",
+    "note/marketization_of_scientific_research.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Paic2019.md",
     "note/Does A.I. be creative?.md",
