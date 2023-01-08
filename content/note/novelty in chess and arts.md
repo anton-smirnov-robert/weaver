@@ -1,3 +1,13 @@
+---
+title: "novelty in chess"
+date: 2023-01-08
+draft: false
+showthedate: true
+enabletoc: true
+tags:
+- note
+---
+
 
 Creativity is to be undestood as the capacity to produce novelties. 
 What are novelties? Novelties refer
@@ -28,8 +38,8 @@ In fact, in chess, the game is so simple and the moves so restricted that all pr
 
 Does A.I. can be creative? Can A.I. produce a novelty? First, if you give the machine all moves that were done by humans, you will see no novelty. What about supervized learning? We first need to define what is the implicit space of possibilities for a machine. If we understand it as the result that it will return during the learning process, then it will itself produce novelties by trials and errors. Such as a human making a random move on a board and evaluate it afterwards. There is a very thin chance that it discovers a novelty that he will adopts, but after millions of try, it is possible. This is what the A.I. does, however it need rules. 
 
-Chess players find some moves they find interesting in chess games between computers. They are novelties (to them). Therefore, humans, thanks to A.I. can be better at chess, because it opens new possibilities. But, chess is easy because there are explicit mathematical rules. The outcome is "winning" or not. This is not art. A machine  can easily learn how to play perfectly the game. In fact, the pre-possibility space is very small. 
+Chess players find some moves they find interesting in chess games between computers. They are novelties (to them). Therefore, humans, thanks to A.I. can be better at chess, because it opens new possibilities. But, chess is easy because there are explicit mathematical rules. The outcome is "winning" or not. This is not art. A machine can easily learn how to play perfectly the game. In fact, the pre-possibility space is very small. 
 
-In art, there are no rules and the pre-possibility is so large and outcome so nuanced that machine will never be able to explore possibilities for us. "Rules" evolve, which means that there are no rules like in physics. However, it depends on what we consider as art. If we consider as art what machines suggests whitout proper thinking, it will become the way we institutionalize art. Is it worth it? We need to ask each other if we consider this art? Marketing and industrials making those technologies will push in favor of this. Can you find in the history of arts, in practice, arguments to tip the favot in favor of a choice? 
+In art, there are no rules and the pre-possibility is so large and outcome so nuanced that machine will never be able to explore possibilities for us. "Rules" evolve, which means that there are no fixed rules like in physics. How would you define possiblities?
 
-Novelties need to be defined with respect to contexts. A new theory, a new invention is an acceptable one with previous that what outside the scope
+What does Midjourney do? It generates pictures that ressembles existing ones. It will be able to find patterns that are outside what we thought to be art. For instance, it needs to find shapes, theses are the rules it constructs for itself. It finds rules according to previous pictures and generate something that might be outside what could be thought in our culture. However, art does not reduce to materialistic considerations, can you sum up a piece of art to its materialistic aspect? Of course not and this is what Marcel Duchamp understood. How can you think about something that retrieves a materialistic aspect but is not computable? Numeric images can all be computed, paintings all be drawn. What does it say about our history? What does it say about who we are? We have done everything not to do something. What cannot be generated on a computer or a machine ?

@@ -9,6 +9,12 @@ tags:
 - note
 ---
 
+This uses concepts that can be found in: 
+[literature note on Paic2019](note/literature%20note%20on%20Paic2019.md)
+[literature note on Hayek1945](note/literature%20note%20on%20Hayek1945.md)
+[literature note on Polanyi1962](note/literature%20note%20on%20Polanyi1962.md)
+[literature note on Henriques2013](note/literature%20note%20on%20Henriques2013.md)
+
 We gives five caracteristics of the marketization and industrialisation of research. 
 
 #### Exogeous cause prevail on endogeous one

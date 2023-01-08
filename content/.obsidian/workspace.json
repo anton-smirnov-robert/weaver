@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/novelty in chess and arts.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/novelty in chess and arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/novelty in chess and arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/marketization_of_scientific_research.md"
+                "file": "note/novelty in chess and arts.md"
               }
             }
           }
@@ -159,13 +159,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0abca9c362957d1d",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
-    "note/literature note on Polanyi1962.md",
     "note/marketization_of_scientific_research.md",
+    "note/literature note on Polanyi1962.md",
     "note/A letter to Michael Polanyi.md",
     "note/literature note on Paic2019.md",
-    "note/Does A.I. be creative?.md",
+    "note/novelty in chess and arts.md",
     "paper_shaking_invisible_hand.canvas",
     "reference/Elzinga1997.md",
     "note/literature note on Montevil2021.md",
