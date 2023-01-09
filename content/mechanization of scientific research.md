@@ -43,4 +43,6 @@ However, it is also possible that machines requires the maximum number of a spec
 
 
 
+**principe de parcimonie**
+
 
