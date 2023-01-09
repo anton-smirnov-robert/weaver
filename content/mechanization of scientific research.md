@@ -12,10 +12,10 @@ Call a system a set of parts interacting together.
 Call an organization a system that is structured for a specific purpose.  
 Physical systems do not have a *telos* unless they are organized by a designer to have one, in which case they are machines. 
 Call mechanism the deterministic process that a machine realizes, once it has been enabled to do so. 
-Call a mechanistic organization (MO) a system that is structured for a specific purpose, where part of not necessaraly made of inert matter. 
-A physical mechanistic organization can be called a mechanical organization, a mechanical system, a machine.
-I posit 6 necessary conditions for a organization to be qualified as mechanistic: 
+Call a mechanistic organization (MO) a system that is structured for a specific purpose, where part of not necesserly made of inert matter. 
+A physical mechanistic organization is a mechanical organization, or a mechanical system, or a machine.
 
+I posit 5 necessary conditions for a organization to be qualified as mechanistic: 
 
 C1: The organization has an extrinsic *telos*.
 
@@ -40,9 +40,7 @@ For machines, Newton's laws give the trajectory of a physical object when its ex
 In unphysical cases, a specific deterministic law (e.g. relying on minimization/maximization principles) should be given. 
 
 
+Let's dismiss some ambiguities. For a mechanistic organization to work, it needs to be open in some sense (thermodynamically for machines). However, we do not choose this characteristic to be relevant because it does not differentiate MO from other types of organization. However, we call ressources what is outside of the organization but that is required to enable the mechanism to operate. 
+Indeed, there exist infinitely many MO completing the same task with varying amount of ressources. Also, in the case their goal is not binary but unidimensionalized, they can be said to perform more or less efficiently (with respect to those objectives). In practice, MO are rarely designed to be inefficient. However, naming the most efficient MO for a given task is still too abstract, because we cannot explicit it in general. In fact, MOs can complete the same task using different mechanism. Therefore, we group MOs by their mechanism, to be understood as its informal description using the pinciple of parsimony (Occam's razor). Now, we define the efficiency of an MO as a relevant extensive measure quantifying the realization of the *telos*, given a fixed amount of ressources. 
 
-
-We need to precise the definition of our observable, because we face an ambiguity. Indeed, there exist infinitely many MO completing the same task with varying amount of ressources. Also, in the case their goal is not binary but unidimensionalized, they can be said to perform more or less efficiently (with respect to those objectives).
-In practice, MO are rarely designed to be inefficient. However, taking as observable the most efficient MO for a given task is still too abstract, because we cannot explicit it with certitude. In fact, MOs can complete the same task with or without the resorting to the same mechanism. Therefore, we group MOs by their mechanism, to be understood as its informal description one would give using the pinciple of parsimony (Occam's razor). Now, we define the efficiency of an MO as the ratio of a relevant extensive measure quantifying the realization of the *telos*, and its required amount of ressources. I posit a necessary condition for an MO to be qualified as efficient: 
-
-C6: A efficient mechanistic organisation (eMO) is the most efficient organisation realizing a given mechanism. 
+C6: A productivist mechanistic organisation (pMO) is the most efficient MO realizing a given mechanism. 
