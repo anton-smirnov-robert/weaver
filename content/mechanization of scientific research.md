@@ -27,9 +27,20 @@ C4: The number of every part follows a minimization/maximization criteria.
 The design of an artefact relies on a minimization principle, the one of using the least possible parts. There are various ways to design machines for a given purpose, and all of them do not require the same number of parts. However, we posit that for a given design, the number of parts is reduced to the minimum when designing an artefact.
 However, it is also possible that machines requires the maximum number of a specific part, given *external* constraints. For instance, the maximum number of workers in a field given an amount of ressources or the maximum number of pipettes. 
 
-C5: It is not generative and cannot self-determinate (variation is creative ideas, statibilization is organization of peer-review process)
-6) Its functionning does not depend on its past.  
+C5: As part do not change, there is no generativity. 
+Generativity is grounded in the variation/stability duality. 
 
-9) is not capable of generativity (no self-determination, it cannot act on what it does)
+Generativity is grounded in dialogics (conformism/dissent).
+Generativity is (stability/variation)
+6) Parts do not change in time, or capable of agentivity. 
+
+Générativité 
+Parts cannot
+
+
+Agentivité permet de faire 
+
+
+1) is not capable of generativity (no self-determination, it cannot act on what it does)
 
 
