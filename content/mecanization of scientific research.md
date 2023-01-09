@@ -8,12 +8,11 @@ tags:
 - note
 ---
 
-We gives 6 characteristics:
+We gives 5 characteristics:
 - has a extrinsic telos
-- its components, taken separately, are inert by principle
-- its components follow a maximization/minimization principle
+- its components are inert by principle and follow a geodesic (maximization/minimization principle)
 - its components are generic (and replacable)
-- no redundant labor
-- memoryless organization
+- non-overlapping division of labor
+- has no generativity (no self-determination)
 
 
