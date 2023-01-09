@@ -12,7 +12,7 @@ We gives 5 characteristics:
 - has a extrinsic telos
 - its components are inert by principle and follow a geodesic (maximization/minimization principle)
 - its components are generic (and replacable)
-- non-overlapping division of labor
+- what it produces can be described by the individual contribution of its components
 - has no generativity (no self-determination)
 
 
