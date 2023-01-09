@@ -8,35 +8,33 @@ tags:
 - note
 ---
 
-We gives 5 characteristics of a mechanistic organization: 
 
-C1: It has an extrinsic telos.
+I call an organization a system of parts interacting together.
+I call mechanism the deterministic process by which an mechanistic organization (MO) is enabled to produce an effect. 
+I call machine a physical MO.
+I posit 5 necessary conditions for a organization to be qualified as mechanistic: 
 
-Let's clarify this point. We distinguish the relations of material entities in three categories depending on their relation to teleology. Physical systems do not have a telos. Artefacts, physical systems that have an extrinsic telos, given by the designer of the artefact. Biological organisms have an instrinsic telos: the one of establishing and maintaining their own conditions of existence.  
+C1: The organization has an extrinsic telos.
+
+Physical systems do not have a telos unless they are organized by a designer to do so. In this case, the machine (or more generally the MO) has an *extrinsic* telos. In contrast, biological organism have an instrinsic telos: the one of establishing and maintaining their own conditions of existence.  
 
 C2: Its parts are generic.
 
-To be more precise: a piece of a machine can be replaced by another piece, leaving the machine invariant by this transformation.
+A part of a MO can be replaced by another similar part, leaving the MO invariant with this transformation.
 
-C3: Its parts are inert, by principle. 
+C3: Outside the organization, parts are in a state of inertia. 
 
-Specializing to matter, Galileo's posits that isolated objects are immobile in the relevant referential. Newton's laws give the trajectory of this object whe experiencing external forces. More generally, physics can be understood with respect to a principle of least action, where the action has a precise definition depending on the theory.  
+For machines, Galileo's inertial principle posits that isolated physical objects are immobile in the relevant referential. 
+For unphysical objects, a specific argumentation should be given. 
 
 C4: The evolution of the state of its parts follows a law (principle of least action).
 
-In contrast to organization, it lacks of generativity which requires internal variations. , at least a variation/stability duality. 
-However, because parts of a mechanistic organization cannot change, 
+For machines, Newton's laws give the trajectory of a physical object when its experiences an external forces. More generally, physics can be understood with respect to a principle of least action, where the action has a precise definition depending on the theory.  
+In unphysical cases, a specific deterministic law (relying on minimization/maximization principles) should be given. 
 
 C5: The state of its parts can vary within a predefined sets of possibilities. 
 
-Parts of a mechanistic organization can vary within a predefined set of possibiliites. Circular organization (i.e. organizations containing causal circularities) are homeostatic ones: they permit the stability (for instance, using negative feedback loops) of the organization. However, in contrast to self-determined systems, such as biological one, there is no intrinsic variations of variations of its parts. In other words, the organization is not generative because it lacks a duality 
-
-
-
-
-
-
-
+Parts of a mechanistic organization can vary within a predefined (by the designer) set of possibiliites. Within this respect, circular organization (i.e. organizations containing causal circularities) are homeostatic ones: they permit the stability (for instance, using negative feedback loops) of the organization. However, in contrast to generative organizations — such as biological ones — there are no intrinsic imprestatable variations. The absence of a variation/stability duality prevents the adoption of novelties. 
 
 C6: The number of every part follows a minimization/maximization criteria. 
 
