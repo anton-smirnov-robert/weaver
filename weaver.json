@@ -99,7 +99,7 @@
   },
   "version": {
     "zotero": "6.0.19",
-    "bbt": "6.7.43"
+    "bbt": "6.7.46"
   },
   "collections": {},
   "items": [
@@ -7743,6 +7743,61 @@
       "itemKey": "N6GH3DXA",
       "libraryID": 1,
       "select": "zotero://select/library/items/N6GH3DXA"
+    },
+    {
+      "key": "DSXKSEJH",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://link.springer.com/10.1007/s11229-014-0594-z",
+      "volume": "194",
+      "issue": "4",
+      "pages": "1089-1114",
+      "publicationTitle": "Synthese",
+      "ISSN": "0039-7857, 1573-0964",
+      "date": "2014",
+      "journalAbbreviation": "Synthese",
+      "DOI": "10.1007/s11229-014-0594-z",
+      "accessDate": "2023-01-09T06:33:55Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "This paper argues that biological organisation can be legitimately conceived of as an intrinsically teleological causal regime. The core of the argument consists in establishing a connection between organisation and teleology through the concept of self-determination: biological organisation determines itself in the sense that the effects of its activity contribute to determine its own conditions of existence. We suggest that not any kind of circular regime realises self-determination, which should be speci\ufb01cally understood as self-constraint: in biological systems, in particular, selfconstraint takes the form of closure, i.e. a network of mutually dependent constitutive constraints. We then explore the occurrence of intrinsic teleology in the biological domain and beyond. On the one hand, the organisational account might possibly concede that supra-organismal biological systems (as symbioses or ecosystems) could realise closure, and hence be teleological. On the other hand, the realisation of closure beyond the biological realm appears to be highly unlikely. In turn, the occurrence of simpler forms of self-determination remains a controversial issue, in particular with respect to the case of self-organising dissipative systems.",
+      "title": "What makes biological organisation teleological?",
+      "creators": [
+        {
+          "firstName": "Matteo",
+          "lastName": "Mossio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Leonardo",
+          "lastName": "Bich",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-09T06:33:55Z",
+      "dateModified": "2023-01-09T06:34:58Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/DSXKSEJH",
+      "itemID": 6076,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mossio et Bich - 2017 - What makes biological organisation teleological.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-09T06:33:51Z",
+          "dateModified": "2023-01-09T06:33:56Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/MIBX7G6U",
+          "path": "/Users/robert/Dropbox/zotero/storage/MIBX7G6U/Mossio et Bich - 2017 - What makes biological organisation teleological.pdf",
+          "select": "zotero://select/library/items/MIBX7G6U"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Mossio2014",
+      "itemKey": "DSXKSEJH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DSXKSEJH"
     },
     {
       "key": "5G37W6AM",
