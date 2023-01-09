@@ -10,7 +10,7 @@ tags:
 
 
 Call an organization a system of parts interacting together. Call mechanism the deterministic process by which an mechanistic organization (MO) is enabled to produce an effect. 
-Call a machine a physical MO. I posit 6 necessary conditions for a organization to be qualified as mechanistic: 
+Machines are physical MO, built with energy and matter. I posit 6 necessary conditions for a organization to be qualified as mechanistic: 
 
 C1: The organization is open to ressources that enable its mechanism to operate.
 
