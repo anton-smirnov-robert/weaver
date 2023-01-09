@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/A letter to Michael Polanyi.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/novelty in chess and arts.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/novelty in chess and arts.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/novelty in chess and arts.md"
+                "file": "note/marketization_of_scientific_research.md"
               }
             }
           }
@@ -159,13 +158,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "eab914cf93c6544c",
   "lastOpenFiles": [
+    "note/A letter to Michael Polanyi.md",
+    "note/novelty in chess and arts.md",
     "note/marketization_of_scientific_research.md",
     "note/literature note on Polanyi1962.md",
-    "note/A letter to Michael Polanyi.md",
     "note/literature note on Paic2019.md",
-    "note/novelty in chess and arts.md",
     "paper_shaking_invisible_hand.canvas",
     "reference/Elzinga1997.md",
     "note/literature note on Montevil2021.md",
