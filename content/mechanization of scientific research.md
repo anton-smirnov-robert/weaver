@@ -48,11 +48,10 @@ C6: A productivist mechanistic organisation (pMO) is the most efficient MO reali
 
 
 
-We posit a definition of a mechanistic organization to detect authors that have suggested to organize living beings based on the idea of machines. *themata* of 
-When designers aim to organize a system with the idea of machines in mind 
-
-of economic or political suggestion of two  designers: F. Hayek's market system and M. Polayni's Republic of Science. 
-Based on a schematic policy model reconstituated from OECD documents from the 60's to this day and recents critics, we evaluate and conclude of a mechanistic organization of scientific research.
+I posit a definition of a mechanistic organization to detect designers' *themata* related to machines in their proposals to organize living beings. 
+F. Hayek's market system, M. Polayni's Republic of Science, and an OECD model reconstituated from policy papers are analyzed within that respect. 
+With the help of on recent critics, we argue that empirical issues stem from to those epistemological mismatch. 
+Finally, we suggest a distopia. 
 After drawing the rapid consequences of such, we finally suggests a distopia that reverse by thematisation of automaticity. 
 
 
