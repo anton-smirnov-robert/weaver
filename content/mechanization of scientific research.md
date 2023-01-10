@@ -41,18 +41,16 @@ A principle should be given.
 In mechanics, Galileo's inertial principle posits that isolated physical objects are immobile in the relevant referential. 
 
 
-C3: The state of parts can vary within a predefined sets of possibilities. 
+C3: Parts can vary within a predefined sets of possibilities. 
 
 The predefined set of possibilities should be given[^2].  
 In mechanics, phase spaces have this role. 
  
-C4: The evolution of the state of parts follows a deterministic law (be it on probability densities).
+C4: Parts or group of parts minimize their actions. 
 
-
-A specific deterministic law should be stated are a minimization (or maximization) principle.
-In classical mechanics, Newton's laws give the geodesics followed by objects. 
-In quantum mechanics, Schrödinger gives the equation the probability density. 
-They both rely on a minimization of the action.   
+A specific deterministic law for parts or should be stated are a minimization (or maximization) principle.
+In classical mechanics, the principle of least action gives the geodesic followed by an object.  
+Stochasticity process can be formulated. 
 
 
 There exist infinitely many MO completing the same task with varying amount of ressources. Also, in the case their goal is not binary but unidimensionalized, they can be said to perform more or less efficiently (with respect to those objectives). In practice, MO are rarely designed to be inefficient. However, naming the most efficient MO for a given task is still too abstract, because we cannot explicit it in general. In fact, MOs can complete the same task using different mechanism. Therefore, we group MOs by their mechanism, to be understood as its informal description using the pinciple of parsimony (Occam's razor). Now, we define the efficiency of an MO as a relevant extensive measure quantifying the realization of the *telos*, given a fixed amount of ressources. 
