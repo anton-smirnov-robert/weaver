@@ -63,5 +63,7 @@ evaluate the mathemata of several authors
 F. Hayek's market system, M. Polanyi's Republic of Science and the actual organization of scientific research that is schematize based on 
 
 
+physicalist reductivism: "all events which fall under the laws of any science are physical events and hence fall under the laws of physics."
+
 
 [^1]: In contrast, biological organisms have an *instrinsic* *telos*: the one of establishing and maintaining their own conditions of existence. [Mossio2014](reference/Mossio2014.md)
