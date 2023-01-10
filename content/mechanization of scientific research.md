@@ -55,6 +55,10 @@ Finally, we suggest a distopia.
 After drawing the rapid consequences of such, we finally suggests a distopia that reverse by thematisation of automaticity. 
 
 
+Reductive physicalism: everything can be explained in the language of physics. 
+Biology can be reduced to physics. 
+There is a continuity betwe theroies Continuities between disciplines
+
 evaluate the mathemata of several authors
 F. Hayek's market system, M. Polanyi's Republic of Science and the actual organization of scientific research that is schematize based on 
 
