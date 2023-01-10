@@ -4187,6 +4187,51 @@
       "select": "zotero://select/library/items/GLPECEET"
     },
     {
+      "key": "JFWV5H5J",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://www.jstor.org/stable/20114958",
+      "volume": "28",
+      "issue": "2",
+      "pages": "97-115",
+      "publicationTitle": "Synthese",
+      "date": "1974",
+      "libraryCatalog": "Zotero",
+      "language": "en",
+      "title": "Special Sciences (Or: The Disunity of Science as a Working Hypothesis)",
+      "creators": [
+        {
+          "firstName": "J. A. Fodor Reviewed",
+          "lastName": "Fodor",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-10T16:56:26Z",
+      "dateModified": "2023-01-10T16:56:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/JFWV5H5J",
+      "itemID": 6107,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "work(s) - 1974 - Special Sciences (Or The Disunity of Science as a.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-10T16:56:23Z",
+          "dateModified": "2023-01-10T16:56:27Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/9EYTEV5D",
+          "path": "/Users/robert/Dropbox/zotero/storage/9EYTEV5D/work(s) - 1974 - Special Sciences (Or The Disunity of Science as a.pdf",
+          "select": "zotero://select/library/items/9EYTEV5D"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Fodor1974",
+      "itemKey": "JFWV5H5J",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JFWV5H5J"
+    },
+    {
       "key": "NWZ6KTDI",
       "version": 0,
       "itemType": "videoRecording",
