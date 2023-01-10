@@ -12,9 +12,9 @@ tags:
 
 ## **Abstract**
 
-I posit five characteristics of a mechanistic organization to sniff out Holton's themata related to machines in proposals to organize living beings, such as humans. 
-Hayek's market system, Polayni's Republic of Science, and an OECD model reconstituated from Science & Technology policy papers are analyzed within that respect. 
-I relate some reported issues in the academic community to a mechanization of scientific research, and introduce the concept of *epistemological mismatch*. 
+I posit five characteristics of a mechanistic organization to sniff out (Holton's) themata related to machines in proposals to organize living beings, such as humans. 
+Hayek's market system, Polanyi's Republic of Science, and a reconstituated OECD policy model of science are analyzed within that respect. 
+I argue that the organization of scientific research is being mechanized and relate diagnozed symptomes of distress of the community to this process. 
 
 ### Introduction
  
