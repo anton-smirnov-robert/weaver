@@ -34,9 +34,10 @@ We sketch the essence of a market organization ([Hayek1945](reference/Hayek1945.
 
 According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand (T5). Planning how everyone should react from a central point would require centralizing all kinds of knowledge dispersed among actors — "which by its nature cannot enter into statistics and therefore cannot be conveyed to any central authority in statistical form" — to come up with the best plan on how to react. This would be slow, imperfect and several plans would be suggested (raising political conflicts). Hayek suggests a highly influential idea. 
 
-Economic actors are by FIXED TASTES and FIXED PRODUCTIONS CAPACITIES. 
-The state of economic actors is defined by their variable amount of consumption and production of goods. The state of goods is defined by their variable price. Discussion is made on those generic variables in the following (T1). 
-The number of economic actors, and the number of goods are predefined on a finite list. Variables are all positive decimals (T2). Isolated from the system, actors have nothing to buy or sell and theire state do not change (T3).
+
+The state of economic actors is described by their variable amount of consumption and production of goods. The state of goods are described by their variable price. Discussion is made on those generic variables (T1). 
+Economic actors are defined by their interest in goods. 
+The number of economic actors, and the number of goods are predefined on a finite list. Variables are all positive decimals (T2). Isolated from the system, actors have nothing to buy or sell and their state do not change (T3).
 
 Hayek's idea is that for the global economy to adapt to external changes, each actor refers to its own knowledge of the differential change in demand or offer of one good. 
 

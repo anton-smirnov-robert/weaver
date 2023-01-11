@@ -10,10 +10,10 @@ tags:
 
 Call a system a set of parts interacting together. Call a physical system a system in which parts are made of inanimate objects. Call a mechanistic system (MS) a system organized like a machine. I posit that a MS is a system characterized by four traits:
 
-#### T1: The state of parts is defined by generic variables.
+#### T1: Parts are defined by relational parameters and their state is described by generic variables.
 In mechanics, parts are defined by their generic relational properties.
 
-#### T2: The number and the state of parts can vary within a predefined set of possibilities. 
+#### T2: The state of parts can vary within a predefined set of possibilities. 
 A space in which the state of parts is pertinently measured must be generically or specifically stated[^2].  
 In mechanics, phase spaces (position and momenta of parts) predefine a set of possibilities. 
 
@@ -21,12 +21,9 @@ In mechanics, phase spaces (position and momenta of parts) predefine a set of po
 A principle should be given. 
 In mechanics, Galileo's inertial principle posits that isolated physical objects are immobile in the relevant referential in the absence of forces. 
 
-#### T4: Parameters, initial conditions and/or boundary conditions are given.
-
-#### T5: The evolution of the state of (a group of) parts obey a differential deterministic law.
-What makes the state of parts change is stated by decomposing (i) the causes of the differential effect or (ii) the integrated effects of each cause. 
-In classical mechanics, Newton's law give a differential equation for the trajectory of an object as a sum of forces.
-When a deterministic law refer to groups of parts, master equations give the differential effects.
+#### T4: Parts minimize their action, or the evolution of the state of (a group of) parts obey a differential deterministic law.
+Either the action of the parts is defined and a variational principle is given, either what makes the state of parts change is given by decomposing (i) the causes of the differential effect or (ii) the integrated effects of each cause. 
+In classical mechanics, Newton's law give a differential equation for the trajectory of an object as a sum of forces that are exerted upon it. This can be expressed as a principle of least action. When a deterministic law refer to groups of parts, master equations give the differential effects.
 
 
 
