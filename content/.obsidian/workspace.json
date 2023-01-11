@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c56d5375ceb32937",
+        "id": "372d4b801cd4ef80",
         "type": "tabs",
         "children": [
           {
-            "id": "3bce30729799ab6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/mechanistic system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8552725365b884ff",
+            "id": "076eb7fab1a705ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,15 +19,32 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "e611beca8cc0bbb8",
+        "id": "d0914c65a7c1df14",
         "type": "tabs",
         "children": [
           {
-            "id": "9dca90c6b1780b61",
+            "id": "9a2ce576715abfd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/mechanistic system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d0036d49e96458ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7837c776cc07f58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "start-up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,17 +182,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8552725365b884ff",
+  "active": "076eb7fab1a705ae",
   "lastOpenFiles": [
-    "note/literature note on Hayek1945.md",
+    "concept/mechanistic system.md",
     "note/article epistemological mismatch.md",
-    "note/mechanistic system.md",
-    "Sans titre.md",
-    "note/novelty in chess and arts.md",
-    "note/marketization_of_scientific_research.md",
+    "note/literature note on Hayek1945.md",
     "note/A letter to Michael Polanyi.md",
-    "note/literature note on Polanyi1962.md",
-    "note/literature note on Paic2019.md",
-    "paper_shaking_invisible_hand.canvas"
+    "note/marketization_of_scientific_research.md",
+    "concept/mechanistic organization.md",
+    "concept/Gödel's incompleteness theorem.md",
+    "concept/effective computability.md",
+    "concept/Crick's central dogma.md",
+    "concept/Church-Turing thesis.md"
   ]
 }
