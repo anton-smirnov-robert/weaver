@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/mechanistic organization.md",
+                "file": "note/mechanistic system.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "note/article epistemological mismatch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e611beca8cc0bbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dca90c6b1780b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/literature note on Hayek1945.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/mechanistic organization.md",
+                "file": "note/article epistemological mismatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/mechanistic organization.md",
+                "file": "note/article epistemological mismatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/mechanistic organization.md"
+                "file": "note/article epistemological mismatch.md"
               }
             }
           }
@@ -158,17 +177,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3bce30729799ab6b",
+  "active": "8552725365b884ff",
   "lastOpenFiles": [
+    "note/literature note on Hayek1945.md",
     "note/article epistemological mismatch.md",
-    "note/mechanistic organization.md",
-    "note/marketization_of_scientific_research.md",
+    "note/mechanistic system.md",
+    "Sans titre.md",
     "note/novelty in chess and arts.md",
+    "note/marketization_of_scientific_research.md",
     "note/A letter to Michael Polanyi.md",
     "note/literature note on Polanyi1962.md",
     "note/literature note on Paic2019.md",
-    "paper_shaking_invisible_hand.canvas",
-    "reference/Elzinga1997.md",
-    "note/literature note on Montevil2021.md"
+    "paper_shaking_invisible_hand.canvas"
   ]
 }
