@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/mechanistic organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/mechanistic organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/article epistemological mismatch.md"
+                "file": "note/mechanistic organization.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8552725365b884ff",
+  "active": "3bce30729799ab6b",
   "lastOpenFiles": [
-    "note/mechanistic organization.md",
     "note/article epistemological mismatch.md",
+    "note/mechanistic organization.md",
     "note/marketization_of_scientific_research.md",
     "note/novelty in chess and arts.md",
     "note/A letter to Michael Polanyi.md",

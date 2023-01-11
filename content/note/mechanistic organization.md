@@ -28,7 +28,7 @@ In mechanics, Galileo's inertial principle posits that isolated physical objects
 It should be generically or specifically stated[^2].  
 In mechanics, phase spaces are the predefined set of possibilities. 
  
-#### F4: The action of parts is optimized and/or parts collectively obey a deterministic law.
+#### F4: The state of parts (collectively) obey a deterministic law.
 The action of parts and/or the deterministic law should be stated.
 In classical mechanics, the principle of least action gives the geodesic followed by an object. Master equations determine the state of parts collectively. 
 
