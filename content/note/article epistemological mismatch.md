@@ -49,8 +49,6 @@ This very short analysis allows us to conclude that Hayek's market system is a [
 
 In the Republic of Science, scientists (T5) maximize the merit they may obtain by tackling the toughest problem given their limited amount of material and intellectual resources (T1) — they naturally never tackle problems that are far too hard for them to solve.
 
-The puzzle 
-
 When a new article update a scientist's intellectual ressources, she adjusts her work by referring to the criteria of merit which are the dialogical scientific standards (plausability, scientific value, originality). The first two scientific standards tends to conformity while the third foster dissent. This tension shows the fundamental characteristic of the scientific authority which is a _dynamical orthodoxy,_ that is an orthodoxy that encourages its subversion. 
 
 The overlapping areas of expertise between specialized scientists allow them to control those criteria when articles are submitted. The authority of the scientific standards is therefore enforced using _overlapping neighborhoods_. 
