@@ -5465,6 +5465,71 @@
       "select": "zotero://select/library/items/E6KEYQN3"
     },
     {
+      "key": "V6W6UQZZ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.cambridge.org/core/product/identifier/S1744137414000150/type/journal_article",
+      "volume": "11",
+      "issue": "1",
+      "pages": "1-31",
+      "publicationTitle": "Journal of Institutional Economics",
+      "ISSN": "1744-1374, 1744-1382",
+      "date": "03/2015",
+      "journalAbbreviation": "Journal of Institutional Economics",
+      "DOI": "10.1017/S1744137414000150",
+      "accessDate": "2023-01-12T10:21:35Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Drawing on current biology, we argue that the phase space of economic evolution is not stable. Thus, there are no entailing laws of economic dynamics. In this sense, economic dynamics are creative and the economy is not a causal system. Because economic dynamics are creative, the implicit frame of analysis for the econosphere changes in unprestatable and non-algorithmic ways. New-venture, social, and political entrepreneurs solve the frame problem of the econosphere. Economic evolution is unpredictable, not entailed, and the number of things traded (\u2018cambiodiversity\u2019) increases over time. Our metatheoretic framework points out how institutions, entrepreneurs, and disparate actors enable what we call \u2018novelty intermediation\u2019. We provide examples of novelty intermediation from Rennaissance Italy to Silicon Valley. Our framework does not automatically provide clear policy prescriptions in part because our main result is negative. It may nevertheless provide a useful prolegomenon to a future economics \ufb01t for a creative world.",
+      "title": "Economics for a creative world",
+      "creators": [
+        {
+          "firstName": "Roger",
+          "lastName": "Koppl",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stuart",
+          "lastName": "Kauffman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Teppo",
+          "lastName": "Felin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-12T10:21:35Z",
+      "dateModified": "2023-01-12T10:21:35Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/V6W6UQZZ",
+      "itemID": 6111,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Koppl et al. - 2015 - Economics for a creative world.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-12T10:21:31Z",
+          "dateModified": "2023-01-12T10:21:35Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/I9I478KV",
+          "path": "/Users/robert/Dropbox/zotero/storage/I9I478KV/Koppl et al. - 2015 - Economics for a creative world.pdf",
+          "select": "zotero://select/library/items/I9I478KV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Koppl2015",
+      "itemKey": "V6W6UQZZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/V6W6UQZZ"
+    },
+    {
       "key": "YZZZ9C77",
       "version": 0,
       "itemType": "book",
