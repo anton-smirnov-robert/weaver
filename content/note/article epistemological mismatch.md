@@ -41,27 +41,26 @@ This very short analysis allows us to conclude that Hayek's market system is a [
 
 [literature note on Polanyi1962](note/literature%20note%20on%20Polanyi1962.md)
 
-In the Republic of Science, explorers
+Micheal Polanyi is to be distinguished from his older brother Karl. Even in both have made considerable contributions in economics, Micheal originally was a physical chemist. Karl is well known for his critiques of self-regulating markets. In contrast, Michael was a member of the Mont-Pelerin Society and a close friend of Friedrich Hayek. In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”. However, he underlines that the scientific organization cannot be reduced to the mechanisms of the market as defined by Hayek. Let's understand why. 
 
-scientists (T5) maximize the merit they may obtain by tackling the toughest problem given their limited amount of material and intellectual resources (T1) — they naturally never tackle problems that are far too hard for them to solve.
+Polanyi's original idea arises from comparing science as the activity that consists in collectively assembling pieces of a giant and unknown puzzle. This metaphor comes with a cumulative view of knowledge that we will endorse in this section: discoveries are made when you look under unturned stones. This implies a space of potential discoveries in which some of them have already been made. (see Fig.1) 
 
-When a new article update a scientist's intellectual ressources, she adjusts her work by referring to the criteria of merit which are the dialogical scientific standards (plausability, scientific value, originality). The first two scientific standards tends to conformity while the third foster dissent. This tension shows the fundamental characteristic of the scientific authority which is a _dynamical orthodoxy,_ that is an orthodoxy that encourages its subversion. 
+The state of explorers can be defined on the frontier of known discoveries subspace. Indeed, researchers maximize the merit they may obtain by tackling the toughest problem given their limited amount of material and intellectual resources — they naturally never tackle problems that are far too hard for them to solve. Therefore, when a new discovery is made, a explorer adjusts her work by referring to the criteria of merit which are the *scientific standards:
 
-The overlapping areas of expertise between specialized scientists allow them to control those criteria when articles are submitted. The authority of the scientific standards is therefore enforced using _overlapping neighborhoods_. 
+1. Plausibility
+2. Scientific value, that is accuracy, systematic importance and the interest in the subject matter.
+3. Originality, which is the degree of surprise caused by the discovery among scientists
 
-The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals. 
+Scientific standards associate two complementary and antagonistic logics: stability and variation (or "conformism" and "dissent"). This duality shows the fundamental characteristic of the scientific authority which is a *dynamical orthodoxy*, that is a rule that encourages its subversion. *This dynamical aspect make sciences historical because the scientific opinion change throughtout time and therefore so does the interpretation of the scientific standards by researchers*. This prevents a differential law of evolution to be valid once for all. The shape of the puzzle change throughout time and this constraints the directions explorers look at. 
 
-The dynamical aspect make sciences _traditional_: science is transmitted from generation to generation — like arts, moral or legal practices — to young scientists that are trained with a specific part of the current scientific opinion. This makes the evaluation of scientific standards change throughtout time too. 
+The overlapping areas of expertise between specialized scientists (or "overlapping neighborhoods") allow them to enforce the authority of the scientific standards when articles are submitted, by the peer-review process. The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals that endorse each other. 
 
- The dynamical aspect make sciences _traditional_: science is transmitted from generation to generation — like arts, moral or legal practices — to young scientists that are trained with a specific part of the current scientific opinion. This makes the evaluation of scientific standards change throughtout time too. 
-
+While Polanyi is inspired by the price mechanism, he underlines that the exchange of information between scientists is made by scientific papers and not prices; the former do not convey instructions to reach a known goal. Explorers don't need discoveries to work per se — they give them a better directions to look at — so they are not inert when left alone. 
 
 
 > [!quote] 
 >
 >The Republic of Science shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence depends on its constant self-renewal through the originality of its followers. —  ([Polanyi1962](reference/Polanyi1962.md), p. 72)  
-
-
  
 
 #### Conclusion

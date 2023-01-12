@@ -31,8 +31,8 @@ While Polanyi is inspired by the price mechanism, he underlines that the exchang
 ##### Self-interested scientists refer to the scientific standards
 However, scientists do maximize the merit they may obtain by tackling the toughest _problem_ given their limited amount of material and intellectual resources — they naturally never tackle problems that are far too hard for them to solve. Therefore, as a new article update a scientist's intellectual ressources, she adjusts her work by referring to the criteria of merit which are the _scientific standards:
 
-1.  Plausibility
-2.  Scientific value, that is accuracy, systematic importance and the interest in the subject matter.
+1. Plausibility
+2. Scientific value, that is accuracy, systematic importance and the interest in the subject matter.
 3. Originality, which is the degree of surprise caused by the discovery among scientists
 
 ##### The authority is enforced by the scientists themselves
