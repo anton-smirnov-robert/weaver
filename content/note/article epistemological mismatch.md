@@ -35,9 +35,10 @@ We sketch the essence of a market organization ([Hayek1945](reference/Hayek1945.
 
 According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand (T5). Planning how everyone should react from a central point would require centralizing all kinds of knowledge dispersed among actors to come up with the best plan on how to react. This would be slow, imperfect and several plans would be suggested (raising political conflicts). 
 
-The state of economic actors, defined by their inclination in consuming or producing goods, is described by their variable amount of consumption and production of goods. The state of goods are described by their variable price. Discussion is made on those generic variables (T1). Economic actors, and goods are predefined on a finite list. Variables are all positive decimals (T2). Isolated from the system, actors have nothing to buy or sell and their state do not change (T3).
+The state of economic actors is described by their variable amount of consumption and production of goods. The state of goods are described by their variable price (T2). The finite matrix of economic actors and their relation with goods is predefined, and their state variables are all positive decimals (T3). Isolated from the system, actors have nothing to buy or sell and their state cannot change (T4).
 
-Consumers can act by changing their relative consumption of goods depending on their personal inclinations and the variation of prices. Producters can alter the relative price of commodities depending on their varying capacity to produce them and the evolution of their consumption. In order to make offer meet demand, one act so as to maximizes its own benefit (T4). Offer will meet demand to reach an equilibrium as long as the field of vision — accessibility to the information of prices — of individuals sufficiently overlap. 
+Consumers can act by changing their relative consumption of goods depending on their personal inclinations and the variation of prices. Producters can alter the relative price of commodities depending on their varying capacity to produce them and the evolution of their consumption.
+The inclination to consume or produce refers to the personal "knowledge" that is reduced to a set of intrinsic parameters for the parts (T1). In order to make offer meet demand, one act so as to maximizes its own interest (T5). Offer will meet demand to reach an equilibrium as long as the field of vision — accessibility to the information of prices — of individuals sufficiently overlap. 
 
 For Hayek, competition is the decentralized plans of self-interested actor and posseses an extensive aspect (more sellers and consumers). For knowledge not to inefficiently used in a centralization process, one should maximize decentralization (or competition) when designing markets (T6) and do not alter the prices flexibilies. 
 
@@ -46,6 +47,9 @@ We conclude that Hayek's market system is a [mechanistic organization](concept/m
 ## Application to Polanyi's Republic of Science
 
 [literature note on Polanyi1962](note/literature%20note%20on%20Polanyi1962.md)
+
+
+
 
 
 
