@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
+                "file": "note/article epistemological mismatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
+                "file": "note/article epistemological mismatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/literature note on Polanyi1962.md"
+                "file": "note/article epistemological mismatch.md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3a6d55e8d2f6ce51",
+  "active": "076eb7fab1a705ae",
   "lastOpenFiles": [
-    "note/article epistemological mismatch.md",
     "note/literature note on Polanyi1962.md",
+    "note/article epistemological mismatch.md",
     "concept/mechanistic system.md",
     "note/literature note on Hayek1945.md",
     "concept/mechanistic organization.md",
