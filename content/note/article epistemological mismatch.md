@@ -16,7 +16,6 @@ I posit five characteristics of a mechanistic system to sniff out (Holton's) the
 Hayek's market system, Polanyi's Republic of Science, and a reconstituated OECD policy model of science are analyzed within that respect. 
 I argue that the organization of scientific research is being mechanized and relate diagnozed symptomes of distress of the community to this process. 
 
-
 ## Hayek's mechanistic economy of knowledge 
 
 [literature note on Hayek1945](note/literature%20note%20on%20Hayek1945.md)
@@ -62,6 +61,10 @@ While Polanyi is inspired by the price mechanism, he underlines that the exchang
 >
 >The Republic of Science shows us an association of independent initiatives, combined towards an indeterminate achievement. It is disciplined and motivated by serving a traditional authority, but this authority is dynamic; its continued existence depends on its constant self-renewal through the originality of its followers. —  ([Polanyi1962](reference/Polanyi1962.md), p. 72)  
  
+
+
+
+
 
 #### Conclusion
 As Holton points out ([Holton1975](reference/Holton1975.md)), a thematic analysis may often be related to its antithetical concept.   
