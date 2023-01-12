@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "237e27ee178f7fe9",
+        "id": "964a4a6fc523c765",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6d55e8d2f6ce51",
+            "id": "71d07e726182bccb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
+                "file": "note/literature note on Hayek1945.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,22 +40,47 @@
         ]
       },
       {
-        "id": "10b682842914cf85",
-        "type": "tabs",
+        "id": "dcfad42122465590",
+        "type": "split",
         "children": [
           {
-            "id": "f3f2d8f9e9969183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/mechanistic system.md",
-                "mode": "source",
-                "source": false
+            "id": "4540e1202da3a9c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db0adefcdabfd3b8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "concept/mechanistic organization.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "379a228c7c4aceee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f3f2d8f9e9969183",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "concept/mechanistic system.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -184,11 +209,11 @@
   },
   "active": "076eb7fab1a705ae",
   "lastOpenFiles": [
-    "note/literature note on Polanyi1962.md",
-    "note/article epistemological mismatch.md",
-    "concept/mechanistic system.md",
     "note/literature note on Hayek1945.md",
+    "note/article epistemological mismatch.md",
     "concept/mechanistic organization.md",
+    "concept/mechanistic system.md",
+    "note/literature note on Polanyi1962.md",
     "note/marketization_of_scientific_research.md",
     "note/A letter to Michael Polanyi.md",
     "concept/Gödel's incompleteness theorem.md",

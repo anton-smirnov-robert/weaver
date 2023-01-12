@@ -33,11 +33,16 @@ We sketch the essence of a market organization ([Hayek1945](reference/Hayek1945.
 >
 >(...) only by far-reaching decentralization in a market system with competition and free price-fixing is it possible to make full use of knowledge and information. — [The Royal Swedish Academy of Sciences 1974.](https://www.nobelprize.org/prizes/economic-sciences/1974/press-release/)
 
-According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand (T5). Planning how everyone should react from a central point would require centralizing all kinds of knowledge dispersed among actors to come up with the best plan on how to react. This would be slow, imperfect and several plans would be suggested (raising political conflicts). 
+According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand (T5). Planning how everyone should react from a central point would require centralizing all kinds of knowledge dispersed among actors to come up with the best plan on how to react. This would be slow, imperfect and several plans would be suggested (raising political conflicts). For this reason, the organization should build on knowledge *decentralization*.
 
-The state of economic actors is described by their variable amount of consumption and production of goods. The state of goods are described by their variable price (T2). The finite matrix of economic actors and their relation with goods is predefined, and their state variables are all positive decimals (T3). Isolated from the system, actors have nothing to buy or sell and their state cannot change (T4).
+The proposed model can be summarized as follows. A finite set of economic actors are all inclined to consume or produce a different finite set of goods. This parametrizes their field of visions which need to overlap one another. The flexibility of prices are also parametrized (T1). The state of the system is described by the individual and variable consumption and production of goods and the variable price of the latters (T2). 
+
+In fact, they only need to know if they should increase or decrease their _relative_ consumption or production of goods and commodities. Therefore, as long as people act to maximize their own benefit, the _price mechanism_ channels information (reduced to digits) between individuals whose fields of vision sufficiently overlap, and gives _instructions_. If the price of this commodity increases, I reduce my consumption of it and buy more of similar but different ones. 
+
 
 Consumers can act by changing their relative consumption of goods depending on their personal inclinations and the variation of prices. Producters can alter the relative price of commodities depending on their varying capacity to produce them and the evolution of their consumption. The inclination to consume or produce is part of their personal "knowledge", reduced to a set of intrinsic parameters for each actor (T1). The access to the information of prices is also part of this intrinsic "knowledge". Prices channel information between individuals whose fields of vision sufficiently overlap, and gives instructions if one act so as to maximizes its own interest (T5). 
+
+Alone, an economic actor does not receive the instruction of prices and does act on its state (T4).
 
 For Hayek, competition is the decentralized plans of self-interested actor and posseses an extensive aspect (more sellers and consumers). For "knowledge" to be efficiently used, decentralization (or competition) should be maximized (T6) and the flexibility of the prices be the largest not to hamper with the market self-regulation.
 
@@ -73,3 +78,10 @@ As Holton points out ([Holton1975](reference/Holton1975.md)), a thematic analysi
 Physical reductivism defined as the belief that "all events which fall under the laws of any science are physical events and hence fall under the laws of physics." ([Fodor1974](reference/Fodor1974.md)). 
 We posit that this belief is not at all restricted to phycisists. Indeed, the contrapositive statement may be more deletarious. 
 I finally suggest a distopia related to machines
+
+
+
+
+
+
+
