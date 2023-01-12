@@ -22,6 +22,7 @@ I argue that the organization of scientific research is being mechanized and rel
 
 ![mechanistic system](concept/mechanistic%20system.md)
 
+![mechanistic organization](concept/mechanistic%20organization.md)
 ## Application to Hayek's market system 
 
 [literature note on Hayek1945](note/literature%20note%20on%20Hayek1945.md)
@@ -32,53 +33,17 @@ We sketch the essence of a market organization ([Hayek1945](reference/Hayek1945.
 >
 >(...) only by far-reaching decentralization in a market system with competition and free price-fixing is it possible to make full use of knowledge and information. — [The Royal Swedish Academy of Sciences 1974.](https://www.nobelprize.org/prizes/economic-sciences/1974/press-release/)
 
-According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand (T5). Planning how everyone should react from a central point would require centralizing all kinds of knowledge dispersed among actors — "which by its nature cannot enter into statistics and therefore cannot be conveyed to any central authority in statistical form" — to come up with the best plan on how to react. This would be slow, imperfect and several plans would be suggested (raising political conflicts). Hayek suggests a highly influential idea. 
+According to Hayek, the economic problem is about collectively and quickly _adapting to changes_ (e.g. shortage, technical breakdown, etc.) in order to make offer meet demand (T5). Planning how everyone should react from a central point would require centralizing all kinds of knowledge dispersed among actors to come up with the best plan on how to react. This would be slow, imperfect and several plans would be suggested (raising political conflicts). 
 
+The state of economic actors, defined by their inclination in consuming or producing goods, is described by their variable amount of consumption and production of goods. The state of goods are described by their variable price. Discussion is made on those generic variables (T1). Economic actors, and goods are predefined on a finite list. Variables are all positive decimals (T2). Isolated from the system, actors have nothing to buy or sell and their state do not change (T3).
 
-The state of economic actors is described by their variable amount of consumption and production of goods. The state of goods are described by their variable price. Discussion is made on those generic variables (T1). 
-Economic actors are defined by their interest in goods. 
-The number of economic actors, and the number of goods are predefined on a finite list. Variables are all positive decimals (T2). Isolated from the system, actors have nothing to buy or sell and their state do not change (T3).
+Consumers can act by changing their relative consumption of goods depending on their personal inclinations and the variation of prices. Producters can alter the relative price of commodities depending on their varying capacity to produce them and the evolution of their consumption. In order to make offer meet demand, one act so as to maximizes its own benefit (T4). Offer will meet demand to reach an equilibrium as long as the field of vision — accessibility to the information of prices — of individuals sufficiently overlap. 
 
-Hayek's idea is that for the global economy to adapt to external changes, each actor refers to its own knowledge of the differential change in demand or offer of one good. 
+For Hayek, competition is the decentralized plans of self-interested actor and posseses an extensive aspect (more sellers and consumers). For knowledge not to inefficiently used in a centralization process, one should maximize decentralization (or competition) when designing markets (T6) and do not alter the prices flexibilies. 
 
+We conclude that Hayek's market system is a [mechanistic organization](concept/mechanistic%20organization.md). 
 
-. This includes (i) its intrinsic interest regarding commodities (ii) the knowledge their price. This knowledgeact as parameters (T4). 
-
-and their knowledge of prices. This "knowledge" is reduced to parameters.
-
-Consumers will balance
-
-and their respective price. Producers need to refer their interest cost of production 
-
-Consumers have in each actor relies on its particular fixed interest needs. 
-knowledge of the prices he is interested in. 
-
-Every actor rely on its own capacity to consume more or less of a good or change the price on the quantity it produces. 
-
-
-
-Isolated, economic actors have no reason change to do whatsoever. 
-Their specific knowledge is reduced to a price which can be written on a generic replaçable substrate, hence T1.
-
-Therefore, the organization should maximize *decentralization* (T6). 
-
-Their action
-
-of a predefined list 
-Their action is limited 
-
-
-and that varies within a predefined set of possibilities, namely the positive decimals (T2). 
-
-For economic actors to adapt to changes, they only need to know if they should increase or decrease their differential consumption or production of goods and commodities. Therefore, as long as people act to maximize their own benefit, the _price mechanism_ channels information (reduced to digits) between individuals whose fields of vision sufficiently overlap, and gives _instructions_. If the price of this commodity increases, I reduce my consumption of it and buy more of similar but different ones. 
-
-> [!quote] 
->
->It is always a question of the relative importance of the particular things with which he is concerned, and the causes which alter their relative importance are of no interest to him beyond the effect on those concrete things of his own environment —  (Hayek, 1945, p. 8) 
-
-The more flexible the prices are, the more efficient the mechanism is. In general, attempts to interfere with prices would hamper the market _self-regulation_.
-
-
+## Application to Polanyi's Republic of Science
 
 [literature note on Polanyi1962](note/literature%20note%20on%20Polanyi1962.md)
 
