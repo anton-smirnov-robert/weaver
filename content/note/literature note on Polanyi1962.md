@@ -33,7 +33,7 @@ However, scientists do maximize the merit they may obtain by tackling the toughe
 
 1.  Plausibility
 2.  Scientific value, that is accuracy, systematic importance and the interest in the subject matter.
-3.  Originality, which is the degree of surprise caused by the discovery among scientists
+3. Originality, which is the degree of surprise caused by the discovery among scientists
 
 ##### The authority is enforced by the scientists themselves
 The overlapping areas of expertise between specialized scientists allow them to control those criteria when articles are submitted. The authority of the scientific standards is therefore enforced using _overlapping neighborhoods_. The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals. The authority is very important because it also decides where grants and material ressources should be allocated on the same basis of the scientific standards interpretation by scientists. 

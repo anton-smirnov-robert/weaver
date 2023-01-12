@@ -10,11 +10,11 @@ tags:
 
 Call a system a set of parts interacting together. Call a physical system a system in which parts are made of inanimate objects. Call a mechanistic system (MS) a system organized like a machine. I posit that a MS is a system characterized by four traits:
 
-#### T1: Parts are defined by fixed intrinsic parameters.
+#### T1: Parts are defined by intrinsic parameters.
 In mechanics, parts are defined by their generic relational properties.
 
-#### T2: The state of part is described by generic variables.
-In mechanics, parts are defined by their generic relational properties.
+#### T2: The state of parts are described by generic variables. 
+In mechanics, the state of parts by their velocity and momentum. 
 
 #### T3: The number of parts is fixed and their states can vary within a predefined set of possibilities. 
 A space in which the state of parts is pertinently measured must be generically or specifically stated[^2].  

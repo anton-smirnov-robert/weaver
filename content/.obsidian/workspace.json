@@ -22,24 +22,6 @@
         ]
       },
       {
-        "id": "905823ae3e51bae2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d53ee5e2bf99ab6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Hayek1945.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "237e27ee178f7fe9",
         "type": "tabs",
         "children": [
@@ -139,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/article epistemological mismatch.md"
+                "file": "note/literature note on Polanyi1962.md"
               }
             }
           }
@@ -200,12 +182,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "076eb7fab1a705ae",
+  "active": "3a6d55e8d2f6ce51",
   "lastOpenFiles": [
-    "note/literature note on Hayek1945.md",
     "note/article epistemological mismatch.md",
-    "concept/mechanistic system.md",
     "note/literature note on Polanyi1962.md",
+    "concept/mechanistic system.md",
+    "note/literature note on Hayek1945.md",
     "concept/mechanistic organization.md",
     "note/marketization_of_scientific_research.md",
     "note/A letter to Michael Polanyi.md",
