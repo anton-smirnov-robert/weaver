@@ -14,8 +14,7 @@ OECD
 
 Reference: [Paic2019](reference/Paic2019.md)
 
-The neoliberal era of science ([Nedeva2006](reference/Nedeva2006.md),[Davies2006](reference/Davies2006.md),[Mirowski2011](reference/Mirowski2011.md),[Lazebnik2018](reference/Lazebnik2018.md)) herits from a organization of Science that already has some internal contradictions. It will change it by several political reforms, led by the OECD. First, some aspects are retained or slightly modified. Using the historical argument that the market cannot invest optimally, money should come from the state. International competitivity is an other goal of science that adds to economic growth and answering societal needs. The linear model is modified to include "tacit knowledge" (another idea of Polanyi). For a good transfer of knowledge, industry and universities should co-create and collaborate. The closer all actors (researcher, industrials, citizens) are, the better. Despite the strong trend in public-private collaboration, more is "strongly encouraged".  
-
+The neoliberal era of science ([Nedeva2006](reference/Nedeva2006.md),[Davies2006](reference/Davies2006.md),[Mirowski2011](reference/Mirowski2011.md),[Lazebnik2018](reference/Lazebnik2018.md)) herits from a organization of Science that already has some internal contradictions. It will change it by several political reforms, led by the OECD. First, some aspects are retained or slightly modified. Using the historical argument that the market cannot invest optimally, money should come from the state. International competitivity is an other goal of science that adds to economic growth and answering societal needs. The linear model is modified to include "tacit knowledge" (another idea of Polanyi): for a good transfer of knowledge, industries and universities should co-create and collaborate. The closer all actors (researcher, industrials, citizens) are, the better. Despite the strong trend in public-private collaboration, more is "strongly encouraged".  
 
 The major shift is that the governement should no longer plan what science should do. It should follow what "stakeholders" — a name whose merit is to be enlightning — demand or need. The later refers to the same actors in the innovation chain, public and private sector. 
 
@@ -23,7 +22,7 @@ The major shift is that the governement should no longer plan what science shoul
 >
 >Commitment at the highest level of government is a crucial means to send a signal to all stakeholders. —  (Paic et Viros, 2019, p. 5) 
 
-In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processing software and filtering out the majority by an unknown proecss, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life. Government should be *flexible* because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficcient (i.e. all the problems raised by Hayek). 
+In Netherlands, citizens ask online their scientific questions. After gathering them out thanks to a word-processing software and filtering out the majority by an unknown process, the remaining questions are then defined as a scientific priorities. The idea is to dispel the "ivory tower" of scientists, making them play a role in daily life. Government should be *flexible* because sometimes decision processes are long, and knowledge is not perfect, and it is difficult to react quickly to contextual evolutions. In other words, centralization is rather inefficient (i.e. all the problems raised by Hayek). 
 
 The second shift is about the design of "mission-oriented" policies to solve grand societal challenges, top-down initiatives responding "to the needs that are perceived as urgent by society (societal challenges), with strong political support".  
 
@@ -31,7 +30,7 @@ The second shift is about the design of "mission-oriented" policies to solve gra
 >
 >This is meant to generate increased motivation among the actors – beyond remuneration and academic recognition, the awareness of contributing to a great and noble cause is an incentive for surpassing oneself —  (Paic et Viros, 2019, p. 32) 
 
-The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councis/investment and insurance firms, and now as mayor of Lisbon. 
+The rationale is given by the Commissioner for Research, Science and Innovation of the European Commission from 2014-2019. His nuanced and elaborate view of science reflects his profound implication for research that he has cultivated at Goldman Sachs and other councils/investment and insurance firms, and now as mayor of Lisbon. 
 
 >[!quote] 
 >
