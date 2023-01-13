@@ -60,7 +60,5 @@ If the goal of the scientific enterprise is growth and international competitivi
 
 
 
-
-
 [^1]: Another possibility that is not considered by policy makers and that would be different from this averaging is to take random directions from citizens or industrials. However, the pertinence of such directions is doubtious. 
 [^2]: The realistic validity of such models is of course doubtious when they conclude that the "publish-or-perish" paradigm *reduce* misconduct. 

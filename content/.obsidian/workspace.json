@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "start-up",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/article epistemological mismatch.md",
+                "file": "note/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/article epistemological mismatch.md"
+                "file": "note/marketization_of_scientific_research.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "076eb7fab1a705ae",
   "lastOpenFiles": [
-    "note/A letter to Michael Polanyi.md",
     "note/article epistemological mismatch.md",
+    "note/A letter to Michael Polanyi.md",
     "note/Polanyi's Republic of Science.md",
     "note/Hayek's mechanistic economy of knowledge.md",
     "concept/mechanistic system.md",
