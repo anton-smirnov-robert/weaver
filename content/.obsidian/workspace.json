@@ -20,42 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4c3e4fe5bd6e892a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c0cbbd7eefdef27b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/mechanistic system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ec0c223b514f3c5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0fe1b9d02f11113b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/mechanistic organization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/mechanistic system.md",
+                "file": "note/article epistemological mismatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/mechanistic system.md",
+                "file": "note/article epistemological mismatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/mechanistic system.md"
+                "file": "note/article epistemological mismatch.md"
               }
             }
           }
@@ -182,17 +146,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c0cbbd7eefdef27b",
+  "active": "076eb7fab1a705ae",
   "lastOpenFiles": [
-    "concept/mechanistic organization.md",
-    "concept/mechanistic system.md",
+    "note/A letter to Michael Polanyi.md",
     "note/article epistemological mismatch.md",
+    "note/Polanyi's Republic of Science.md",
+    "note/Hayek's mechanistic economy of knowledge.md",
+    "concept/mechanistic system.md",
+    "concept/mechanistic organization.md",
     "note/literature note on Polanyi1962.md",
     "note/marketization_of_scientific_research.md",
-    "note/A letter to Michael Polanyi.md",
     "note/literature note on Henriques2013.md",
-    "note/literature note on Paic2019.md",
-    "note/literature note on Hayek1945.md",
-    "concept/Gödel's incompleteness theorem.md"
+    "note/literature note on Paic2019.md"
   ]
 }
