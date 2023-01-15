@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/article epistemological mismatch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0f144b5039ef2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/literature note on Polanyi1962.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/marketization_of_scientific_research.md",
+                "file": "note/literature note on Polanyi1962.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/marketization_of_scientific_research.md"
+                "file": "note/literature note on Polanyi1962.md"
               }
             }
           }
@@ -146,16 +159,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "076eb7fab1a705ae",
+  "active": "f0f144b5039ef2a3",
   "lastOpenFiles": [
     "note/article epistemological mismatch.md",
+    "note/marketization_of_scientific_research.md",
     "note/A letter to Michael Polanyi.md",
     "note/Polanyi's Republic of Science.md",
     "note/Hayek's mechanistic economy of knowledge.md",
     "concept/mechanistic system.md",
     "concept/mechanistic organization.md",
     "note/literature note on Polanyi1962.md",
-    "note/marketization_of_scientific_research.md",
     "note/literature note on Henriques2013.md",
     "note/literature note on Paic2019.md"
   ]
