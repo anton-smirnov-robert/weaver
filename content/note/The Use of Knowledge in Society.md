@@ -1,5 +1,5 @@
 ---
-title: "literature note on Hayek1945"
+title: "The Use of Knowledge in Society"
 date: 2022-12-12
 draft: false
 showthedate: true
@@ -55,7 +55,7 @@ The decentralized plans of _self-interested actors_ — e.g. consumers and selle
 
 #### Comments
 
-- Knowledge cannot be reduced to digits. This echoes the informational metaphor in biology. It tends to consider negatively (as noise) everything that cannot be digitalized, here even reduced to a single number. See [literature note on Longo2012](note/literature%20note%20on%20Longo2012.md).
+- Knowledge cannot be reduced to digits. This echoes the informational metaphor in biology. It tends to consider negatively (as noise) everything that cannot be digitalized, here even reduced to a single number. See [Information as observable in biology](note/Information%20as%20observable%20in%20biology.md).
 - It takes Whitehead remark as a goal. 
 - Everyone seems independent and does not rely on others. Individuals cannot influence themselves. No mimetism. 
 - The market needs an exogeous cause to change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. In practice, external events perturbing the cost of one commodity do occur all the time so that everything happen _as if_ prices were evolving because commodities were traded.

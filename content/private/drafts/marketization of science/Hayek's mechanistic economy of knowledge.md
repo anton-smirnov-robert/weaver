@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[literature note on Hayek1945](note/literature%20note%20on%20Hayek1945.md)
+[The Use of Knowledge in Society](note/The%20Use%20of%20Knowledge%20in%20Society.md)
 
 We sketch the essence of a market organization ([Hayek1945](reference/Hayek1945.md)) which is a system of economic actors and goods. Essentially, it amounts to explaining the reason why the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel has awarded Friedrich Hayek in 1974. According to the institute, his contribution has been to show that:
 

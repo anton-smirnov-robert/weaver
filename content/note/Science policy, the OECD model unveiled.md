@@ -1,5 +1,5 @@
 ---
-title: "literature note on Henriques2013"
+title: "Science policy: the OECD model unveiled"
 date: 2022-12-12
 draft: false
 showthedate: true

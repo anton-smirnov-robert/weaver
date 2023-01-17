@@ -1,5 +1,5 @@
 ---
-title: "literature note on Paic2019"
+title: "Governance of S&T policies"
 date: 2022-12-31
 draft: false
 showthedate: true

@@ -1,5 +1,5 @@
 ---
-title: "literature note on Polanyi1962"
+title: "The Republic of Science"
 date: 2022-12-12
 draft: false
 showthedate: true

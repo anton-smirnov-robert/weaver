@@ -740,6 +740,57 @@
       "publisher": "National Bureau of Economic Research, Inc"
     },
     {
+      "key": "6VVUE25W",
+      "version": 0,
+      "itemType": "journalArticle",
+      "date": "1957",
+      "extra": "Publisher: Chapman & Hall Ltd.",
+      "libraryCatalog": "Google Scholar",
+      "title": "An introduction to cybernetics",
+      "creators": [
+        {
+          "firstName": "W. Ross",
+          "lastName": "Ashby",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:14:29Z",
+      "dateModified": "2023-01-17T10:14:29Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/6VVUE25W",
+      "itemID": 6136,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:14:39Z",
+          "dateModified": "2023-01-17T10:14:39Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/RVSLQ5GS",
+          "path": "/Users/robert/Dropbox/zotero/storage/RVSLQ5GS/Ashby - 1957 - An introduction to cybernetics.pdf",
+          "select": "zotero://select/library/items/RVSLQ5GS"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:14:47Z",
+          "dateModified": "2023-01-17T10:14:47Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/CHKL23SJ",
+          "path": "/Users/robert/Dropbox/zotero/storage/CHKL23SJ/6344.html",
+          "select": "zotero://select/library/items/CHKL23SJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Ashby1957",
+      "itemKey": "6VVUE25W",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6VVUE25W"
+    },
+    {
       "key": "BMWWVXAL",
       "version": 0,
       "itemType": "attachment",
@@ -1318,6 +1369,88 @@
       "itemKey": "9PQ856ZQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/9PQ856ZQ"
+    },
+    {
+      "key": "AP22AVAE",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "JB Bailli\u00e8re",
+      "date": "1865",
+      "seriesNumber": "2",
+      "libraryCatalog": "Google Scholar",
+      "title": "Introduction \u00e0 l'\u00e9tude de la m\u00e9decine exp\u00e9rimentale",
+      "creators": [
+        {
+          "firstName": "Claude",
+          "lastName": "Bernard",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:00:39Z",
+      "dateModified": "2023-01-17T10:00:39Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/AP22AVAE",
+      "itemID": 6129,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:00:44Z",
+          "dateModified": "2023-01-17T10:00:44Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/9Y4J4D73",
+          "path": "/Users/robert/Dropbox/zotero/storage/9Y4J4D73/books.html",
+          "select": "zotero://select/library/items/9Y4J4D73"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Bernard1865",
+      "itemKey": "AP22AVAE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AP22AVAE"
+    },
+    {
+      "key": "XB8WXCLD",
+      "version": 0,
+      "itemType": "book",
+      "volume": "2",
+      "publisher": "Bailli\u00e8re",
+      "date": "1879",
+      "libraryCatalog": "Google Scholar",
+      "title": "Le\u00e7ons sur les ph\u00e9nom\u00e8nes de la vie commune aux animaux et aux v\u00e9g\u00e9taux",
+      "creators": [
+        {
+          "firstName": "Claude",
+          "lastName": "Bernard",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:00:48Z",
+      "dateModified": "2023-01-17T10:00:48Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XB8WXCLD",
+      "itemID": 6131,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:00:53Z",
+          "dateModified": "2023-01-17T10:00:53Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UAHHD55K",
+          "path": "/Users/robert/Dropbox/zotero/storage/UAHHD55K/books.html",
+          "select": "zotero://select/library/items/UAHHD55K"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Bernard1879",
+      "itemKey": "XB8WXCLD",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XB8WXCLD"
     },
     {
       "key": "HGJ359QW",
@@ -2174,6 +2307,60 @@
       "itemKey": "SEZHGWNP",
       "libraryID": 1,
       "select": "zotero://select/library/items/SEZHGWNP"
+    },
+    {
+      "key": "654DISCP",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "9",
+      "issue": "3",
+      "pages": "399\u2013431",
+      "publicationTitle": "Physiological reviews",
+      "date": "1929",
+      "libraryCatalog": "Google Scholar",
+      "title": "Organization for physiological homeostasis",
+      "creators": [
+        {
+          "firstName": "Walter B.",
+          "lastName": "Cannon",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:14:13Z",
+      "dateModified": "2023-01-17T10:14:13Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/654DISCP",
+      "itemID": 6133,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:14:14Z",
+          "dateModified": "2023-01-17T10:14:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/KAYTKMY6",
+          "path": "/Users/robert/Dropbox/zotero/storage/KAYTKMY6/Cannon - 1929 - Organization for physiological homeostasis.pdf",
+          "select": "zotero://select/library/items/KAYTKMY6"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:14:22Z",
+          "dateModified": "2023-01-17T10:14:22Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/YKSMBZPM",
+          "path": "/Users/robert/Dropbox/zotero/storage/YKSMBZPM/physrev.1929.9.3.html",
+          "select": "zotero://select/library/items/YKSMBZPM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Cannon1929",
+      "itemKey": "654DISCP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/654DISCP"
     },
     {
       "key": "6YA2XP79",
@@ -5463,6 +5650,57 @@
       "itemKey": "E6KEYQN3",
       "libraryID": 1,
       "select": "zotero://select/library/items/E6KEYQN3"
+    },
+    {
+      "key": "62F4DW3L",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Hackett Publishing (1987)",
+      "date": "1790",
+      "libraryCatalog": "Google Scholar",
+      "title": "Critique of judgment",
+      "creators": [
+        {
+          "firstName": "Immanuel",
+          "lastName": "Kant",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T09:55:50Z",
+      "dateModified": "2023-01-17T10:07:04Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/62F4DW3L",
+      "itemID": 6126,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T09:55:52Z",
+          "dateModified": "2023-01-17T09:55:52Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/47H55CQG",
+          "path": "/Users/robert/Dropbox/zotero/storage/47H55CQG/Kant - 1987 - Critique of judgment.pdf",
+          "select": "zotero://select/library/items/47H55CQG"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T09:55:57Z",
+          "dateModified": "2023-01-17T09:55:57Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/334VHJLB",
+          "path": "/Users/robert/Dropbox/zotero/storage/334VHJLB/books.html",
+          "select": "zotero://select/library/items/334VHJLB"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kant1790",
+      "itemKey": "62F4DW3L",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/62F4DW3L"
     },
     {
       "key": "V6W6UQZZ",
@@ -8958,6 +9196,65 @@
       "select": "zotero://select/library/items/AJC5XR85"
     },
     {
+      "key": "9CFABBJB",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.nature.com/articles/s41586-022-05543-x",
+      "volume": "613",
+      "issue": "7942",
+      "pages": "138-144",
+      "publicationTitle": "Nature",
+      "ISSN": "0028-0836, 1476-4687",
+      "date": "2023-01-05",
+      "journalAbbreviation": "Nature",
+      "DOI": "10.1038/s41586-022-05543-x",
+      "accessDate": "2023-01-13T10:27:56Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Papers and patents are becoming less disruptive over time",
+      "creators": [
+        {
+          "firstName": "Michael",
+          "lastName": "Park",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Erin",
+          "lastName": "Leahey",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Russell J.",
+          "lastName": "Funk",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-13T10:27:56Z",
+      "dateModified": "2023-01-13T10:27:56Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9CFABBJB",
+      "itemID": 6117,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Park et al. - 2023 - Papers and patents are becoming less disruptive ov.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-13T10:27:52Z",
+          "dateModified": "2023-01-13T10:27:57Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/PSFQJQRG",
+          "path": "/Users/robert/Dropbox/zotero/storage/PSFQJQRG/Park et al. - 2023 - Papers and patents are becoming less disruptive ov.pdf",
+          "select": "zotero://select/library/items/PSFQJQRG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Park2023",
+      "itemKey": "9CFABBJB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9CFABBJB"
+    },
+    {
       "key": "ID89RBWZ",
       "version": 0,
       "itemType": "journalArticle",
@@ -9186,17 +9483,6 @@
           "uri": "http://zotero.org/users/local/asN0yRvl/items/IICQ6XK5",
           "path": "/Users/robert/Dropbox/zotero/storage/IICQ6XK5/Polanyi - 1962 - The Republic of science.pdf",
           "select": "zotero://select/library/items/IICQ6XK5"
-        },
-        {
-          "itemType": "attachment",
-          "title": "polanyi_1967.pdf",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2022-10-26T11:19:56Z",
-          "dateModified": "2022-10-26T11:19:56Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/45B2KQHP",
-          "path": "/Users/robert/Dropbox/zotero/storage/45B2KQHP/polanyi_1967.pdf",
-          "select": "zotero://select/library/items/45B2KQHP"
         }
       ],
       "notes": [
@@ -11106,6 +11392,99 @@
       "itemKey": "RAJ6H6KH",
       "libraryID": 1,
       "select": "zotero://select/library/items/RAJ6H6KH"
+    },
+    {
+      "key": "L5PB7GTG",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "New York Academic Press",
+      "date": "1968",
+      "libraryCatalog": "Google Scholar",
+      "title": "Dynamics of development: experiments and inferences: selected papers on developmental biology",
+      "shortTitle": "Dynamics of development",
+      "creators": [
+        {
+          "firstName": "Paul A.",
+          "lastName": "Weiss",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:28:08Z",
+      "dateModified": "2023-01-17T10:30:55Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/L5PB7GTG",
+      "itemID": 6142,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:28:19Z",
+          "dateModified": "2023-01-17T10:28:19Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/S9U2W4WG",
+          "path": "/Users/robert/Dropbox/zotero/storage/S9U2W4WG/books.html",
+          "select": "zotero://select/library/items/S9U2W4WG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Weiss1968",
+      "itemKey": "L5PB7GTG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/L5PB7GTG"
+    },
+    {
+      "key": "KVHZAKR3",
+      "version": 0,
+      "itemType": "book",
+      "place": "Cambridge",
+      "publisher": "MIT press",
+      "date": "1948",
+      "libraryCatalog": "Google Scholar",
+      "title": "Cybernetics: or, Control and Communication in the Animal and the Machine",
+      "creators": [
+        {
+          "firstName": "Norbert",
+          "lastName": "Wiener",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:15:49Z",
+      "dateModified": "2023-01-17T10:19:07Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/KVHZAKR3",
+      "itemID": 6139,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:15:52Z",
+          "dateModified": "2023-01-17T10:15:52Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/28J4WTZF",
+          "path": "/Users/robert/Dropbox/zotero/storage/28J4WTZF/Wiener - 2019 - Cybernetics or Control and Communication in the An.pdf",
+          "select": "zotero://select/library/items/28J4WTZF"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:16:00Z",
+          "dateModified": "2023-01-17T10:16:00Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/IFTXSZH3",
+          "path": "/Users/robert/Dropbox/zotero/storage/IFTXSZH3/books.html",
+          "select": "zotero://select/library/items/IFTXSZH3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Wiener1948",
+      "itemKey": "KVHZAKR3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KVHZAKR3"
     },
     {
       "key": "F6D63FR8",

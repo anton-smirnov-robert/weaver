@@ -1,6 +1,6 @@
 
 ---
-title: "literature note on LiVigni2021"
+title: "Histoire et sociologie de la complexité"
 date: 2022-12-12
 draft: false
 showthedate: true

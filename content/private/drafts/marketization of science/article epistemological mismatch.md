@@ -27,11 +27,11 @@ I argue that the organization of scientific research is being mechanized and rel
 
 ## Two examples
 
-![Hayek's mechanistic economy of knowledge](private/article/marketization%20of%20science/Hayek's%20mechanistic%20economy%20of%20knowledge.md)
+![Hayek's mechanistic economy of knowledge](private/drafts/marketization%20of%20science/Hayek's%20mechanistic%20economy%20of%20knowledge.md)
 
 
 
-![Polanyi's Republic of Science](private/article/marketization%20of%20science/Polanyi's%20Republic%20of%20Science.md)
+![Polanyi's Republic of Science](private/drafts/marketization%20of%20science/Polanyi's%20Republic%20of%20Science.md)
 
 
 ## Today's research through the prism of mecanization 
@@ -41,7 +41,7 @@ I argue that the organization of scientific research is being mechanized and rel
 Research activities carried out before the 60's were convincingly described by Polanyi using market-inspired models. The Republic of Science operates a clear distinction between Hayek's market mechanism. The first implementations of science policies by the members of the OECD were carried out in the mid-60's. It quickly led to centralization at the governement level of science and technology coordination and planning. Research has a goal: it is the economic growth, via technological innovations. The absence of an explicit policy model makes Polanyi's Republic of Science unrefuted and implicitly valid, hence a profound theoretical contradiction. The ideology of science policy makers shifted towards neoliberalism at the turn of the XXth century. One could have expected the decentralization of Science, and the implementation of a faithful Republic of Science. Instead, a "commited" and "flexible" government is now canalizing public funds towards (ideologically constrained) directions "stakeholders" (private sectors and citizens) feel relevant. To make offer meet demand, we therefore assist to a marketization and industrialisation of research. 
 
 
-![marketization_of_scientific_research](private/article/marketization%20of%20science/marketization_of_scientific_research.md)
+![marketization_of_scientific_research](private/drafts/marketization%20of%20science/marketization_of_scientific_research.md)
 
 
 ## Conclusion

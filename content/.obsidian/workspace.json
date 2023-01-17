@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "13ec559397f44f63",
+        "id": "0b4be683cc62f34d",
         "type": "tabs",
         "children": [
           {
-            "id": "38e5ee6cd164565f",
+            "id": "f66f9be4b93c071c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/History of self-determination.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 404.5
   },
   "right": {
     "id": "9fa4fa23d5a1c7da",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/History of self-determination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/History of self-determination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/History of self-determination.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "f66f9be4b93c071c",
   "lastOpenFiles": [
-    "private/article/marketization of science/marketization_of_scientific_research.md",
-    "private/novelty in chess and arts.md",
-    "private/article/marketization of science/Hayek's mechanistic economy of knowledge.md",
-    "note/literature note on Hayek1945.md",
-    "private/article/marketization of science/Polanyi's Republic of Science.md",
-    "private/article/marketization of science/article epistemological mismatch.md",
-    "private/article/marketization of science/A letter to Michael Polanyi.md",
-    "note/literature note on Polanyi1962.md",
-    "concept/mechanistic organization.md",
-    "concept/mechanistic organization (detailed).md"
+    "reference/Weiss1968.md",
+    "note/History of self-determination.md",
+    "reference/Wiener2019.md",
+    "reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018.md",
+    "reference/Kant1987.md",
+    "note/The Use of Knowledge in Society.md",
+    "note/Computational empiricism.md",
+    "note/Histoire et sociologie de la complexité.md",
+    "note/Information as observable in biology.md",
+    "note/Science policy, the OECD model unveiled.md"
   ]
 }

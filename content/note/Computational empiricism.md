@@ -1,5 +1,5 @@
 ---
-title: "literature note on Montevil2021"
+title: "Computational empiricism"
 date: 2023-01-02
 draft: false
 showthedate: true
