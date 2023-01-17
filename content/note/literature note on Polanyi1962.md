@@ -22,7 +22,6 @@ Micheal Polanyi is to be distinguished from his older brother Karl. Even in both
 
 In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”, his model is *market-inspired*. However, he underlines that the scientific organization cannot be reduced to the mechanisms of the market as defined by Hayek ([Hayek1945](reference/Hayek1945.md)), because it has a *higher principle*. 
 
-
 ##### Science is made by mutual adjustment of independent initiatives. 
 Polanyi's original idea arises from comparing science as the activity that consists in collectively assembling pieces of a giant and unknown puzzle. By demonstrating that the most efficient way to organize the latter is by a _mutual adjustement of independent initiatives_, he concludes that it is also the most efficient way to organize the former[^1].
 

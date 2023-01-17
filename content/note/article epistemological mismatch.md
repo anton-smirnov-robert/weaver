@@ -21,7 +21,7 @@ I argue that the organization of scientific research is being mechanized and rel
 
 ## Definition of a mechanistic organization
 
-![mechanistic system](concept/mechanistic%20system.md)
+![mechanistic system (detailed)](concept/mechanistic%20system%20(detailed).md)
 
 ![mechanistic organization](concept/mechanistic%20organization.md)
 

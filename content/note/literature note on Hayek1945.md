@@ -40,7 +40,6 @@ How, then, can people know how to correctly adapt to change? In fact, they only 
 
 The more flexible the prices are, the more efficient the mechanism is. In general, attempts to interfere with prices would hamper the market _self-regulation_.
 
-
 > [!quote] 
 >
 >It is more than a metaphor to describe the price system as a kind of machinery for registering change, or a system of telecommunications which enables individual producers to watch merely the movement of a few pointers, as an engineer might watch the hands of a few dials, in order to adjust their activities to changes of which they may never know more than is reflected in the price movement. —  (Hayek, 1945, p. 10) 
@@ -48,7 +47,6 @@ The more flexible the prices are, the more efficient the mechanism is. In genera
 
 #### The market mechanism as a wider range of applicability (social phenomena)
 The decentralized plans of _self-interested actors_ — e.g. consumers and sellers aiming at maximizing their own benefit — constitute the _competition_ for Hayek. It therefore possesses an extensive aspect (e.g. more actors, sellers or consumers, increase the competition). Hayek concludes that humans have used the market system for a long time without understanding it. In fact, according to him, the mechanism he describes has something to do with nearly all social phenomena because (he reports a quote from Whitehead): “Civilization advances by extending the number of important operations which we can perform without thinking about them.”
-
 
 > [!quote] 
 >
