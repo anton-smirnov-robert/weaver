@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e728aee433aebca8",
+        "id": "13ec559397f44f63",
         "type": "tabs",
         "children": [
           {
-            "id": "88b2cb8d63b48ea8",
+            "id": "38e5ee6cd164565f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/literature note on Polanyi1962.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "affec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/literature note on Polanyi1962.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/literature note on Polanyi1962.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "88b2cb8d63b48ea8",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
-    "note/marketization_of_scientific_research.md",
-    "note/literature note on Polanyi1962.md",
-    "note/Hayek's mechanistic economy of knowledge.md",
+    "private/article/marketization of science/marketization_of_scientific_research.md",
+    "private/novelty in chess and arts.md",
+    "private/article/marketization of science/Hayek's mechanistic economy of knowledge.md",
     "note/literature note on Hayek1945.md",
+    "private/article/marketization of science/Polanyi's Republic of Science.md",
+    "private/article/marketization of science/article epistemological mismatch.md",
+    "private/article/marketization of science/A letter to Michael Polanyi.md",
+    "note/literature note on Polanyi1962.md",
     "concept/mechanistic organization.md",
-    "concept/mechanistic organization (detailed).md",
-    "concept/mechanistic system.md",
-    "concept/mechanistic system (detailed).md",
-    "note/article epistemological mismatch.md",
-    "note/A letter to Michael Polanyi.md"
+    "concept/mechanistic organization (detailed).md"
   ]
 }

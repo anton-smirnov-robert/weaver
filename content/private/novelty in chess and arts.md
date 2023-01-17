@@ -10,7 +10,7 @@ tags:
 
 
 Creativity is to be undestood as the capacity to produce novelties. 
-What are novelties? Novelties refer
+What are novelties? 
 For instance, we know the notes of a new music. We know the colors of a new painting. 
 We are not surprised by the material composition, as if we were told its composition, we would not be surprised at all. 
 "The painter used a frame of 40x40, the color blue, the chord F#". 
