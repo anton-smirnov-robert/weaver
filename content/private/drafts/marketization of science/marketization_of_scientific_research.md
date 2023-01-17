@@ -10,10 +10,10 @@ tags:
 ---
 
 This uses concepts that can be found in: 
-[Governance of S&T policies](note/Governance%20of%20S&T%20policies.md)
-[The Use of Knowledge in Society](note/The%20Use%20of%20Knowledge%20in%20Society.md)
-[The Republic of Science](note/The%20Republic%20of%20Science.md)
-[Science policy, the OECD model unveiled](note/Science%20policy,%20the%20OECD%20model%20unveiled.md)
+[notes on Paic2019](note/notes%20on%20Paic2019.md)
+[notes on Hayek1945](note/notes%20on%20Hayek1945.md)
+[notes on Polanyi1962](note/notes%20on%20Polanyi1962.md)
+[notes on Henriques2013](note/notes%20on%20Henriques2013.md)
 
 We gives five caracteristics of the marketization and industrialisation of research. 
 

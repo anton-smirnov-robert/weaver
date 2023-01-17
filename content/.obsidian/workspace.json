@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/History of self-determination.md",
+                "file": "manifesto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/History of self-determination.md",
+                "file": "manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/History of self-determination.md",
+                "file": "manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/History of self-determination.md"
+                "file": "manifesto.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "f66f9be4b93c071c",
   "lastOpenFiles": [
+    "note/notes on LiVigni2021.md",
+    "note/notes on Montevil2021.md",
+    "note/history of organisms as self-determined biological systems.md",
+    "note/notes on Hayek1945.md",
+    "note/notes on Longo2012.md",
+    "note/notes on Henriques2013.md",
+    "note/notes on Polanyi1962.md",
+    "note/notes on Paic2019.md",
     "reference/Maturana1973a.md",
-    "note/History of self-determination.md",
-    "reference/Weiss1968.md",
-    "reference/Wiener2019.md",
-    "reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018.md",
-    "reference/Kant1987.md",
-    "note/The Use of Knowledge in Society.md",
-    "note/Computational empiricism.md",
-    "note/Histoire et sociologie de la complexité.md",
-    "note/Information as observable in biology.md"
+    "reference/Weiss1968.md"
   ]
 }

@@ -212,8 +212,8 @@
         },
         {
           "source": "/concept/Laplacian-determinism",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         }
       ],
       "/concept/Maxwells-demon-paradox": [
@@ -231,8 +231,8 @@
       "/concept/Poincares-unpredictable-determinism": [
         {
           "source": "/concept/Poincares-unpredictable-determinism",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         }
       ],
       "/concept/Schrodingers-code-script-aperiodic-crystal": [
@@ -270,8 +270,8 @@
         },
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         }
       ],
       "/concept/Tarskis-undefinability-theorem": [
@@ -314,8 +314,8 @@
         },
         {
           "source": "/concept/Turing-machine",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         },
         {
           "source": "/concept/Turing-machine",
@@ -604,393 +604,465 @@
           "text": "Boolos2007"
         }
       ],
-      "/note/Computational-Empiricism": [
+      "/note/history-of-organisms-as-self-determined-biological-systems": [
         {
-          "source": "/note/Computational-Empiricism",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Kant1790",
+          "text": "Kant1790"
         },
         {
-          "source": "/note/Computational-Empiricism",
-          "target": "/concept/scientific-positivism",
-          "text": "scientific positivism"
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Bernard1865",
+          "text": "Bernard1865"
         },
         {
-          "source": "/note/Computational-Empiricism",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Bernard1879",
+          "text": "Bernard1879"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Cannon1929",
+          "text": "Cannon1929"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Wiener1948",
+          "text": "Wiener1948"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Ashby1957",
+          "text": "Ashby1957"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/VonBertalanffy1952",
+          "text": "VonBertalanffy1952"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Weiss1968",
+          "text": "Weiss1968"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Waddington1968",
+          "text": "Waddington1968"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Piaget1967",
+          "text": "Piaget1967"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Maturana1973",
+          "text": "Maturana1973"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Rosen1991",
+          "text": "Rosen1991"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Atkins1984",
+          "text": "Atkins1984"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Kauffman2000",
+          "text": "Kauffman2000"
         }
       ],
-      "/note/Governance-of-ST-policies": [
+      "/note/notes-on-Hayek1945": [
         {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
+          "source": "/note/notes-on-Hayek1945",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
         },
         {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Nedeva2006",
-          "text": "Nedeva2006"
-        },
-        {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Davies2006",
-          "text": "Davies2006"
-        },
-        {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        },
-        {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Blok2015",
-          "text": "Blok2015"
-        },
-        {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Blok2015a",
-          "text": "Blok2015a"
-        },
-        {
-          "source": "/note/Governance-of-ST-policies",
-          "target": "/reference/Nolan2021",
-          "text": "Nolan2021"
+          "source": "/note/notes-on-Hayek1945",
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         }
       ],
-      "/note/Histoire-et-sociologie-complexit%C3%A9": [
+      "/note/notes-on-Henriques2013": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/reference/LiVigni2021",
-          "text": "LiVigni2021"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/definition/complexity",
-          "text": "complexity"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/definition/Groupe-des-Dix",
-          "text": "Groupe des Dix"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/definition/complexity-sciences",
-          "text": "complexity sciences"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/concept/Kolmogorovs-incompressibility",
-          "text": "Kolmogorov's incompressibility"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/definition/complexity-sciences",
-          "text": "complexity sciences"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/definition/backcasting",
-          "text": "backcasting"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/reference/Horgan1995",
-          "text": "Horgan1995"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/reference/Israel2005",
-          "text": "Israel2005"
-        },
-        {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-          "target": "/reference/Deffuant2015",
-          "text": "Deffuant2015"
-        }
-      ],
-      "/note/Information-as-observable-in-biology": [
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Longo2012",
-          "text": "Longo2012"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/computability",
-          "text": "computability"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Turing-machine",
-          "text": "Turing machine"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
-          "text": "Schrodinger's code-script aperiodic crystal"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Cricks-central-dogma",
-          "text": "Crick's central dogma"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Mendelian-inheritance",
-          "text": "Mendelian inheritance"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Danchin2002",
-          "text": "Danchin2002"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/MaynardSmith1999",
-          "text": "MaynardSmith1999"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/computability",
-          "text": "computability"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Laplacian-determinism",
-          "text": "Laplacian determinism"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/definition/entropy",
-          "text": "entropy"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Brillouins-relation-between-entropy-and-information",
-          "text": "Brillouin's relation between entropy and information"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/negentropy",
-          "text": "negentropy"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Kolmogorovs-incompressibility",
-          "text": "Kolmogorov's incompressibility"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Chaitins-algorithmic-randomness",
-          "text": "Chaitin's algorithmic randomness"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Brillouins-relation-between-entropy-and-information",
-          "text": "Brillouin's relation between entropy and information"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Schrodinger1944",
-          "text": "Schrodinger1944"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/second-principle-of-thermodynamics",
-          "text": "second principle of thermodynamics"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Matoba2018",
-          "text": "Matoba2018"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/computability",
-          "text": "computability"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Shannons-theory-of-information-transmission",
-          "text": "Shannon's theory of information transmission"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/second-principle-of-thermodynamics",
-          "text": "second principle of thermodynamics"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Longo2012",
-          "text": "Longo2012"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Anfinsens-dogma",
-          "text": "Anfinsen's dogma"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/protein-folding-problem",
-          "text": "protein folding problem"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/concept/Cricks-central-dogma",
-          "text": "Crick's central dogma"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Taniguchi2010",
-          "text": "Taniguchi2010"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Lucitti2007",
-          "text": "Lucitti2007"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Tang2004",
-          "text": "Tang2004"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Muller2003",
-          "text": "Muller2003"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Rot-Nikcevic2007",
-          "text": "Rot-Nikcevic2007"
-        },
-        {
-          "source": "/note/Information-as-observable-in-biology",
-          "target": "/reference/Jakkaraju2003",
-          "text": "Jakkaraju2003"
-        }
-      ],
-      "/note/Science-policy-the-OECD-model-unveiled": [
-        {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/OECD1966",
           "text": "OECD1966"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Bush1945",
           "text": "Bush1945"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Piganiol1963",
           "text": "Piganiol1963"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
         }
       ],
-      "/note/The-Republic-of-Science": [
+      "/note/notes-on-LiVigni2021": [
         {
-          "source": "/note/The-Republic-of-Science",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/reference/LiVigni2021",
+          "text": "LiVigni2021"
         },
         {
-          "source": "/note/The-Republic-of-Science",
-          "target": "/reference/Fischer2009",
-          "text": "Fischer2009"
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/definition/complexity",
+          "text": "complexity"
         },
         {
-          "source": "/note/The-Republic-of-Science",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/definition/Groupe-des-Dix",
+          "text": "Groupe des Dix"
         },
         {
-          "source": "/note/The-Republic-of-Science",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/definition/complexity-sciences",
+          "text": "complexity sciences"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/definition/complexity-sciences",
+          "text": "complexity sciences"
+        },
+        {
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/definition/backcasting",
+          "text": "backcasting"
+        },
+        {
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/reference/Horgan1995",
+          "text": "Horgan1995"
+        },
+        {
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/reference/Israel2005",
+          "text": "Israel2005"
+        },
+        {
+          "source": "/note/notes-on-LiVigni2021",
+          "target": "/reference/Deffuant2015",
+          "text": "Deffuant2015"
+        }
+      ],
+      "/note/notes-on-Longo2012": [
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
+          "text": "Schrodinger's code-script aperiodic crystal"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Cricks-central-dogma",
+          "text": "Crick's central dogma"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Mendelian-inheritance",
+          "text": "Mendelian inheritance"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Danchin2002",
+          "text": "Danchin2002"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/MaynardSmith1999",
+          "text": "MaynardSmith1999"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Laplacian-determinism",
+          "text": "Laplacian determinism"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/negentropy",
+          "text": "negentropy"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Chaitins-algorithmic-randomness",
+          "text": "Chaitin's algorithmic randomness"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Matoba2018",
+          "text": "Matoba2018"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Shannons-theory-of-information-transmission",
+          "text": "Shannon's theory of information transmission"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Anfinsens-dogma",
+          "text": "Anfinsen's dogma"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/protein-folding-problem",
+          "text": "protein folding problem"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/concept/Cricks-central-dogma",
+          "text": "Crick's central dogma"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Taniguchi2010",
+          "text": "Taniguchi2010"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Lucitti2007",
+          "text": "Lucitti2007"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Tang2004",
+          "text": "Tang2004"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Muller2003",
+          "text": "Muller2003"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Rot-Nikcevic2007",
+          "text": "Rot-Nikcevic2007"
+        },
+        {
+          "source": "/note/notes-on-Longo2012",
+          "target": "/reference/Jakkaraju2003",
+          "text": "Jakkaraju2003"
+        }
+      ],
+      "/note/notes-on-Montevil2021": [
+        {
+          "source": "/note/notes-on-Montevil2021",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/notes-on-Montevil2021",
+          "target": "/concept/scientific-positivism",
+          "text": "scientific positivism"
+        },
+        {
+          "source": "/note/notes-on-Montevil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
+        }
+      ],
+      "/note/notes-on-Paic2019": [
+        {
+          "source": "/note/notes-on-Paic2019",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/notes-on-Paic2019",
+          "target": "/reference/Blok2015",
+          "text": "Blok2015"
+        },
+        {
+          "source": "/note/notes-on-Paic2019",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/note/notes-on-Paic2019",
+          "target": "/reference/Nolan2021",
+          "text": "Nolan2021"
         }
       ],
-      "/note/The-Use-of-Knowledge-in-Society": [
+      "/note/notes-on-Polanyi1962": [
         {
-          "source": "/note/The-Use-of-Knowledge-in-Society",
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Fischer2009",
+          "text": "Fischer2009"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/note/The-Use-of-Knowledge-in-Society",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/notes-on-Polanyi1962",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
         }
       ],
       "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi": [
@@ -1003,8 +1075,8 @@
       "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge": [
         {
           "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/The-Use-of-Knowledge-in-Society",
-          "text": "The Use of Knowledge in Society"
+          "target": "/note/notes-on-Hayek1945",
+          "text": "notes on Hayek1945"
         },
         {
           "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
@@ -1020,8 +1092,8 @@
       "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science": [
         {
           "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-          "target": "/note/The-Republic-of-Science",
-          "text": "The Republic of Science"
+          "target": "/note/notes-on-Polanyi1962",
+          "text": "notes on Polanyi1962"
         },
         {
           "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
@@ -1049,23 +1121,23 @@
       "/private/drafts/marketization-of-science/marketization_of_scientific_research": [
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/Governance-of-ST-policies",
-          "text": "Governance of S\u0026T policies"
+          "target": "/note/notes-on-Paic2019",
+          "text": "notes on Paic2019"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/The-Use-of-Knowledge-in-Society",
-          "text": "The Use of Knowledge in Society"
+          "target": "/note/notes-on-Hayek1945",
+          "text": "notes on Hayek1945"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/The-Republic-of-Science",
-          "text": "The Republic of Science"
+          "target": "/note/notes-on-Polanyi1962",
+          "text": "notes on Polanyi1962"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/Science-policy-the-OECD-model-unveiled",
-          "text": "Science policy, the OECD model unveiled"
+          "target": "/note/notes-on-Henriques2013",
+          "text": "notes on Henriques2013"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
@@ -1328,7 +1400,7 @@
           "text": "Anfinsen's dogma"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Anfinsens-dogma",
           "text": "Anfinsen's dogma"
         }
@@ -1350,12 +1422,12 @@
           "text": "Brillouin's relation between entropy and information"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         }
@@ -1369,19 +1441,19 @@
       ],
       "/concept/Chaitins-algorithmic-randomness": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Chaitins-algorithmic-randomness",
           "text": "Chaitin's algorithmic randomness"
         }
       ],
       "/concept/Cricks-central-dogma": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         }
@@ -1412,19 +1484,19 @@
           "text": "Kolmogorov's incompressibility"
         },
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         }
       ],
       "/concept/Laplacian-determinism": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Laplacian-determinism",
           "text": "Laplacian determinism"
         }
@@ -1438,7 +1510,7 @@
       ],
       "/concept/Mendelian-inheritance": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Mendelian-inheritance",
           "text": "Mendelian inheritance"
         }
@@ -1452,7 +1524,7 @@
       ],
       "/concept/Schrodingers-code-script-aperiodic-crystal": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
           "text": "Schrodinger's code-script aperiodic crystal"
         }
@@ -1464,7 +1536,7 @@
           "text": "Shannon's theory of information transmission"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Shannons-theory-of-information-transmission",
           "text": "Shannon's theory of information transmission"
         }
@@ -1508,7 +1580,7 @@
           "text": "Turing machine"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/Turing-machine",
           "text": "Turing machine"
         }
@@ -1530,17 +1602,17 @@
           "text": "computability"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         }
@@ -1633,7 +1705,7 @@
           "text": "negentropy"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/negentropy",
           "text": "negentropy"
         }
@@ -1645,14 +1717,14 @@
           "text": "protein folding problem"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/protein-folding-problem",
           "text": "protein folding problem"
         }
       ],
       "/concept/scientific-positivism": [
         {
-          "source": "/note/Computational-Empiricism",
+          "source": "/note/notes-on-Montevil2021",
           "target": "/concept/scientific-positivism",
           "text": "scientific positivism"
         }
@@ -1674,19 +1746,19 @@
           "text": "second principle of thermodynamics"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         }
       ],
       "/definition/Groupe-des-Dix": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/definition/Groupe-des-Dix",
           "text": "Groupe des Dix"
         }
@@ -1738,26 +1810,26 @@
       ],
       "/definition/backcasting": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/definition/backcasting",
           "text": "backcasting"
         }
       ],
       "/definition/complexity": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/definition/complexity",
           "text": "complexity"
         }
       ],
       "/definition/complexity-sciences": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/definition/complexity-sciences",
           "text": "complexity sciences"
         },
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/definition/complexity-sciences",
           "text": "complexity sciences"
         }
@@ -1793,7 +1865,7 @@
           "text": "entropy"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/definition/entropy",
           "text": "entropy"
         }
@@ -1896,69 +1968,69 @@
           "text": "manifesto"
         }
       ],
-      "/note/Governance-of-ST-policies": [
+      "/note/notes-on-Hayek1945": [
+        {
+          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
+          "target": "/note/notes-on-Hayek1945",
+          "text": "notes on Hayek1945"
+        },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/Governance-of-ST-policies",
-          "text": "Governance of S\u0026T policies"
+          "target": "/note/notes-on-Hayek1945",
+          "text": "notes on Hayek1945"
         }
       ],
-      "/note/Information-as-observable-in-biology": [
+      "/note/notes-on-Henriques2013": [
+        {
+          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "target": "/note/notes-on-Henriques2013",
+          "text": "notes on Henriques2013"
+        }
+      ],
+      "/note/notes-on-Longo2012": [
         {
           "source": "/concept/Laplacian-determinism",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         },
         {
           "source": "/concept/Poincares-unpredictable-determinism",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         },
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         },
         {
           "source": "/concept/Turing-machine",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         },
         {
-          "source": "/note/The-Use-of-Knowledge-in-Society",
-          "target": "/note/Information-as-observable-in-biology",
-          "text": "Information as observable in biology"
+          "source": "/note/notes-on-Hayek1945",
+          "target": "/note/notes-on-Longo2012",
+          "text": "notes on Longo2012"
         }
       ],
-      "/note/Science-policy-the-OECD-model-unveiled": [
+      "/note/notes-on-Paic2019": [
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/Science-policy-the-OECD-model-unveiled",
-          "text": "Science policy, the OECD model unveiled"
+          "target": "/note/notes-on-Paic2019",
+          "text": "notes on Paic2019"
         }
       ],
-      "/note/The-Republic-of-Science": [
+      "/note/notes-on-Polanyi1962": [
         {
           "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-          "target": "/note/The-Republic-of-Science",
-          "text": "The Republic of Science"
+          "target": "/note/notes-on-Polanyi1962",
+          "text": "notes on Polanyi1962"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/The-Republic-of-Science",
-          "text": "The Republic of Science"
-        }
-      ],
-      "/note/The-Use-of-Knowledge-in-Society": [
-        {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/The-Use-of-Knowledge-in-Society",
-          "text": "The Use of Knowledge in Society"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/The-Use-of-Knowledge-in-Society",
-          "text": "The Use of Knowledge in Society"
+          "target": "/note/notes-on-Polanyi1962",
+          "text": "notes on Polanyi1962"
         }
       ],
       "/reference/Alombert2021": [
@@ -1991,9 +2063,23 @@
       ],
       "/reference/Arrow1962": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
+        }
+      ],
+      "/reference/Ashby1957": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Ashby1957",
+          "text": "Ashby1957"
+        }
+      ],
+      "/reference/Atkins1984": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Atkins1984",
+          "text": "Atkins1984"
         }
       ],
       "/reference/Audetat2015": [
@@ -2010,9 +2096,23 @@
           "text": "Baker2016"
         }
       ],
+      "/reference/Bernard1865": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Bernard1865",
+          "text": "Bernard1865"
+        }
+      ],
+      "/reference/Bernard1879": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Bernard1879",
+          "text": "Bernard1879"
+        }
+      ],
       "/reference/Blok2015": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
         },
@@ -2024,7 +2124,7 @@
       ],
       "/reference/Blok2015a": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         },
@@ -2092,7 +2192,7 @@
       ],
       "/reference/Bush1945": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Bush1945",
           "text": "Bush1945"
         }
@@ -2102,6 +2202,13 @@
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
           "target": "/reference/Calude2017",
           "text": "Calude2017"
+        }
+      ],
+      "/reference/Cannon1929": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Cannon1929",
+          "text": "Cannon1929"
         }
       ],
       "/reference/Chavalarias2016": [
@@ -2134,26 +2241,26 @@
       ],
       "/reference/Danchin2002": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Danchin2002",
           "text": "Danchin2002"
         }
       ],
       "/reference/Davies2006": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         }
       ],
       "/reference/Deffuant2015": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/reference/Deffuant2015",
           "text": "Deffuant2015"
         }
@@ -2167,7 +2274,7 @@
       ],
       "/reference/Doudna2017": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         }
@@ -2209,7 +2316,7 @@
       ],
       "/reference/Fischer2009": [
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Fischer2009",
           "text": "Fischer2009"
         }
@@ -2223,12 +2330,12 @@
       ],
       "/reference/Hayek1945": [
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Hayek1945",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/note/The-Use-of-Knowledge-in-Society",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
@@ -2264,12 +2371,12 @@
       ],
       "/reference/Henriques2013": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         }
@@ -2295,40 +2402,54 @@
           "text": "Horgan1995"
         },
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/reference/Horgan1995",
           "text": "Horgan1995"
         }
       ],
       "/reference/Israel2005": [
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/reference/Israel2005",
           "text": "Israel2005"
         }
       ],
       "/reference/Jakkaraju2003": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
         }
       ],
+      "/reference/Kant1790": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Kant1790",
+          "text": "Kant1790"
+        }
+      ],
+      "/reference/Kauffman2000": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Kauffman2000",
+          "text": "Kauffman2000"
+        }
+      ],
       "/reference/Kuhn1970": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
         }
       ],
       "/reference/Lazebnik2018": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
@@ -2345,19 +2466,19 @@
           "text": "LiVigni2021"
         },
         {
-          "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
+          "source": "/note/notes-on-LiVigni2021",
           "target": "/reference/LiVigni2021",
           "text": "LiVigni2021"
         }
       ],
       "/reference/Longo2012": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         }
@@ -2378,14 +2499,14 @@
       ],
       "/reference/Longo2021": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         }
       ],
       "/reference/Lucitti2007": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Lucitti2007",
           "text": "Lucitti2007"
         }
@@ -2399,14 +2520,21 @@
       ],
       "/reference/Matoba2018": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Matoba2018",
           "text": "Matoba2018"
         }
       ],
+      "/reference/Maturana1973": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Maturana1973",
+          "text": "Maturana1973"
+        }
+      ],
       "/reference/MaynardSmith1999": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/MaynardSmith1999",
           "text": "MaynardSmith1999"
         }
@@ -2430,19 +2558,19 @@
       ],
       "/reference/Mirowski2011": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         }
       ],
       "/reference/Montevil2021": [
         {
-          "source": "/note/Computational-Empiricism",
+          "source": "/note/notes-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
@@ -2464,12 +2592,12 @@
       ],
       "/reference/Morin1982": [
         {
-          "source": "/note/Computational-Empiricism",
+          "source": "/note/notes-on-Montevil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
@@ -2493,7 +2621,7 @@
       ],
       "/reference/Muller2003": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Muller2003",
           "text": "Muller2003"
         }
@@ -2507,26 +2635,26 @@
       ],
       "/reference/Nedeva2006": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         }
       ],
       "/reference/Nelson1959": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
         }
       ],
       "/reference/Nolan2021": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Nolan2021",
           "text": "Nolan2021"
         },
@@ -2538,7 +2666,7 @@
       ],
       "/reference/OECD1966": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/OECD1966",
           "text": "OECD1966"
         },
@@ -2557,7 +2685,7 @@
       ],
       "/reference/Paic2019": [
         {
-          "source": "/note/Governance-of-ST-policies",
+          "source": "/note/notes-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
@@ -2579,7 +2707,7 @@
       ],
       "/reference/Petit2019": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         },
@@ -2596,9 +2724,16 @@
           "text": "Petit2019a"
         }
       ],
+      "/reference/Piaget1967": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Piaget1967",
+          "text": "Piaget1967"
+        }
+      ],
       "/reference/Piganiol1963": [
         {
-          "source": "/note/Science-policy-the-OECD-model-unveiled",
+          "source": "/note/notes-on-Henriques2013",
           "target": "/reference/Piganiol1963",
           "text": "Piganiol1963"
         }
@@ -2617,12 +2752,12 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/The-Republic-of-Science",
+          "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -2642,9 +2777,16 @@
           "text": "Polanyi1962"
         }
       ],
+      "/reference/Rosen1991": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Rosen1991",
+          "text": "Rosen1991"
+        }
+      ],
       "/reference/Rot-Nikcevic2007": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Rot-Nikcevic2007",
           "text": "Rot-Nikcevic2007"
         }
@@ -2671,7 +2813,7 @@
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         }
@@ -2737,14 +2879,14 @@
       ],
       "/reference/Tang2004": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Tang2004",
           "text": "Tang2004"
         }
       ],
       "/reference/Taniguchi2010": [
         {
-          "source": "/note/Information-as-observable-in-biology",
+          "source": "/note/notes-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
         }
@@ -2759,6 +2901,34 @@
           "source": "/concept/Turing-machine",
           "target": "/reference/Turing1936",
           "text": "Turing1936"
+        }
+      ],
+      "/reference/VonBertalanffy1952": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/VonBertalanffy1952",
+          "text": "VonBertalanffy1952"
+        }
+      ],
+      "/reference/Waddington1968": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Waddington1968",
+          "text": "Waddington1968"
+        }
+      ],
+      "/reference/Weiss1968": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Weiss1968",
+          "text": "Weiss1968"
+        }
+      ],
+      "/reference/Wiener1948": [
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Wiener1948",
+          "text": "Wiener1948"
         }
       ],
       "/reference/Yong2018": [
@@ -2960,8 +3130,8 @@
     },
     {
       "source": "/concept/Laplacian-determinism",
-      "target": "/note/Information-as-observable-in-biology",
-      "text": "Information as observable in biology"
+      "target": "/note/notes-on-Longo2012",
+      "text": "notes on Longo2012"
     },
     {
       "source": "/concept/Maxwells-demon-paradox",
@@ -2975,8 +3145,8 @@
     },
     {
       "source": "/concept/Poincares-unpredictable-determinism",
-      "target": "/note/Information-as-observable-in-biology",
-      "text": "Information as observable in biology"
+      "target": "/note/notes-on-Longo2012",
+      "text": "notes on Longo2012"
     },
     {
       "source": "/concept/Schrodingers-code-script-aperiodic-crystal",
@@ -3010,8 +3180,8 @@
     },
     {
       "source": "/concept/Shannons-theory-of-information-transmission",
-      "target": "/note/Information-as-observable-in-biology",
-      "text": "Information as observable in biology"
+      "target": "/note/notes-on-Longo2012",
+      "text": "notes on Longo2012"
     },
     {
       "source": "/concept/Tarskis-undefinability-theorem",
@@ -3050,8 +3220,8 @@
     },
     {
       "source": "/concept/Turing-machine",
-      "target": "/note/Information-as-observable-in-biology",
-      "text": "Information as observable in biology"
+      "target": "/note/notes-on-Longo2012",
+      "text": "notes on Longo2012"
     },
     {
       "source": "/concept/Turing-machine",
@@ -3304,379 +3474,449 @@
       "text": "Boolos2007"
     },
     {
-      "source": "/note/Computational-Empiricism",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Kant1790",
+      "text": "Kant1790"
     },
     {
-      "source": "/note/Computational-Empiricism",
-      "target": "/concept/scientific-positivism",
-      "text": "scientific positivism"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Bernard1865",
+      "text": "Bernard1865"
     },
     {
-      "source": "/note/Computational-Empiricism",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Bernard1879",
+      "text": "Bernard1879"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Cannon1929",
+      "text": "Cannon1929"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Nedeva2006",
-      "text": "Nedeva2006"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Wiener1948",
+      "text": "Wiener1948"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Davies2006",
-      "text": "Davies2006"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Ashby1957",
+      "text": "Ashby1957"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Mirowski2011",
-      "text": "Mirowski2011"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/VonBertalanffy1952",
+      "text": "VonBertalanffy1952"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Weiss1968",
+      "text": "Weiss1968"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Blok2015",
-      "text": "Blok2015"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Waddington1968",
+      "text": "Waddington1968"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Blok2015a",
-      "text": "Blok2015a"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Piaget1967",
+      "text": "Piaget1967"
     },
     {
-      "source": "/note/Governance-of-ST-policies",
-      "target": "/reference/Nolan2021",
-      "text": "Nolan2021"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Maturana1973",
+      "text": "Maturana1973"
     },
     {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/reference/LiVigni2021",
-      "text": "LiVigni2021"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Rosen1991",
+      "text": "Rosen1991"
     },
     {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/definition/complexity",
-      "text": "complexity"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Atkins1984",
+      "text": "Atkins1984"
     },
     {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/definition/Groupe-des-Dix",
-      "text": "Groupe des Dix"
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Kauffman2000",
+      "text": "Kauffman2000"
     },
     {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/definition/complexity-sciences",
-      "text": "complexity sciences"
+      "source": "/note/notes-on-Hayek1945",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
     },
     {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/concept/Kolmogorovs-incompressibility",
-      "text": "Kolmogorov's incompressibility"
+      "source": "/note/notes-on-Hayek1945",
+      "target": "/note/notes-on-Longo2012",
+      "text": "notes on Longo2012"
     },
     {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/definition/complexity-sciences",
-      "text": "complexity sciences"
-    },
-    {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/definition/backcasting",
-      "text": "backcasting"
-    },
-    {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/reference/Horgan1995",
-      "text": "Horgan1995"
-    },
-    {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/reference/Israel2005",
-      "text": "Israel2005"
-    },
-    {
-      "source": "/note/Histoire-et-sociologie-complexit%C3%A9",
-      "target": "/reference/Deffuant2015",
-      "text": "Deffuant2015"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Longo2012",
-      "text": "Longo2012"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/computability",
-      "text": "computability"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Turing-machine",
-      "text": "Turing machine"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
-      "text": "Schrodinger's code-script aperiodic crystal"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Cricks-central-dogma",
-      "text": "Crick's central dogma"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Mendelian-inheritance",
-      "text": "Mendelian inheritance"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Danchin2002",
-      "text": "Danchin2002"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/MaynardSmith1999",
-      "text": "MaynardSmith1999"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/computability",
-      "text": "computability"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Laplacian-determinism",
-      "text": "Laplacian determinism"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/definition/entropy",
-      "text": "entropy"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Brillouins-relation-between-entropy-and-information",
-      "text": "Brillouin's relation between entropy and information"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/negentropy",
-      "text": "negentropy"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Kolmogorovs-incompressibility",
-      "text": "Kolmogorov's incompressibility"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Chaitins-algorithmic-randomness",
-      "text": "Chaitin's algorithmic randomness"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Brillouins-relation-between-entropy-and-information",
-      "text": "Brillouin's relation between entropy and information"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Schrodinger1944",
-      "text": "Schrodinger1944"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/second-principle-of-thermodynamics",
-      "text": "second principle of thermodynamics"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Matoba2018",
-      "text": "Matoba2018"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Doudna2017",
-      "text": "Doudna2017"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/computability",
-      "text": "computability"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Shannons-theory-of-information-transmission",
-      "text": "Shannon's theory of information transmission"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/second-principle-of-thermodynamics",
-      "text": "second principle of thermodynamics"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Longo2012",
-      "text": "Longo2012"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Anfinsens-dogma",
-      "text": "Anfinsen's dogma"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/protein-folding-problem",
-      "text": "protein folding problem"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/concept/Cricks-central-dogma",
-      "text": "Crick's central dogma"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Taniguchi2010",
-      "text": "Taniguchi2010"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Lucitti2007",
-      "text": "Lucitti2007"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Tang2004",
-      "text": "Tang2004"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Muller2003",
-      "text": "Muller2003"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Rot-Nikcevic2007",
-      "text": "Rot-Nikcevic2007"
-    },
-    {
-      "source": "/note/Information-as-observable-in-biology",
-      "target": "/reference/Jakkaraju2003",
-      "text": "Jakkaraju2003"
-    },
-    {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Henriques2013",
       "text": "Henriques2013"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/OECD1966",
       "text": "OECD1966"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Petit2019",
       "text": "Petit2019"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Nelson1959",
       "text": "Nelson1959"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Arrow1962",
       "text": "Arrow1962"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Henriques2013",
       "text": "Henriques2013"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Bush1945",
       "text": "Bush1945"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Piganiol1963",
       "text": "Piganiol1963"
     },
     {
-      "source": "/note/Science-policy-the-OECD-model-unveiled",
+      "source": "/note/notes-on-Henriques2013",
       "target": "/reference/Kuhn1970",
       "text": "Kuhn1970"
     },
     {
-      "source": "/note/The-Republic-of-Science",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/reference/LiVigni2021",
+      "text": "LiVigni2021"
     },
     {
-      "source": "/note/The-Republic-of-Science",
-      "target": "/reference/Fischer2009",
-      "text": "Fischer2009"
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/definition/complexity",
+      "text": "complexity"
     },
     {
-      "source": "/note/The-Republic-of-Science",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/definition/Groupe-des-Dix",
+      "text": "Groupe des Dix"
     },
     {
-      "source": "/note/The-Republic-of-Science",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/definition/complexity-sciences",
+      "text": "complexity sciences"
     },
     {
-      "source": "/note/The-Republic-of-Science",
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/concept/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/definition/complexity-sciences",
+      "text": "complexity sciences"
+    },
+    {
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/definition/backcasting",
+      "text": "backcasting"
+    },
+    {
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/reference/Horgan1995",
+      "text": "Horgan1995"
+    },
+    {
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/reference/Israel2005",
+      "text": "Israel2005"
+    },
+    {
+      "source": "/note/notes-on-LiVigni2021",
+      "target": "/reference/Deffuant2015",
+      "text": "Deffuant2015"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/computability",
+      "text": "computability"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
+      "text": "Schrodinger's code-script aperiodic crystal"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Cricks-central-dogma",
+      "text": "Crick's central dogma"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Mendelian-inheritance",
+      "text": "Mendelian inheritance"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Danchin2002",
+      "text": "Danchin2002"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/MaynardSmith1999",
+      "text": "MaynardSmith1999"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/computability",
+      "text": "computability"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Laplacian-determinism",
+      "text": "Laplacian determinism"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/definition/entropy",
+      "text": "entropy"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Brillouins-relation-between-entropy-and-information",
+      "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/negentropy",
+      "text": "negentropy"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Chaitins-algorithmic-randomness",
+      "text": "Chaitin's algorithmic randomness"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Brillouins-relation-between-entropy-and-information",
+      "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/second-principle-of-thermodynamics",
+      "text": "second principle of thermodynamics"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Matoba2018",
+      "text": "Matoba2018"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/computability",
+      "text": "computability"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Shannons-theory-of-information-transmission",
+      "text": "Shannon's theory of information transmission"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/second-principle-of-thermodynamics",
+      "text": "second principle of thermodynamics"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Anfinsens-dogma",
+      "text": "Anfinsen's dogma"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/protein-folding-problem",
+      "text": "protein folding problem"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/concept/Cricks-central-dogma",
+      "text": "Crick's central dogma"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Taniguchi2010",
+      "text": "Taniguchi2010"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Lucitti2007",
+      "text": "Lucitti2007"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Tang2004",
+      "text": "Tang2004"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Muller2003",
+      "text": "Muller2003"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Rot-Nikcevic2007",
+      "text": "Rot-Nikcevic2007"
+    },
+    {
+      "source": "/note/notes-on-Longo2012",
+      "target": "/reference/Jakkaraju2003",
+      "text": "Jakkaraju2003"
+    },
+    {
+      "source": "/note/notes-on-Montevil2021",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/notes-on-Montevil2021",
+      "target": "/concept/scientific-positivism",
+      "text": "scientific positivism"
+    },
+    {
+      "source": "/note/notes-on-Montevil2021",
       "target": "/reference/Morin1982",
       "text": "Morin1982"
     },
     {
-      "source": "/note/The-Republic-of-Science",
+      "source": "/note/notes-on-Paic2019",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/notes-on-Paic2019",
       "target": "/reference/Nedeva2006",
       "text": "Nedeva2006"
     },
     {
-      "source": "/note/The-Republic-of-Science",
+      "source": "/note/notes-on-Paic2019",
       "target": "/reference/Davies2006",
       "text": "Davies2006"
     },
     {
-      "source": "/note/The-Republic-of-Science",
+      "source": "/note/notes-on-Paic2019",
       "target": "/reference/Mirowski2011",
       "text": "Mirowski2011"
     },
     {
-      "source": "/note/The-Republic-of-Science",
+      "source": "/note/notes-on-Paic2019",
       "target": "/reference/Lazebnik2018",
       "text": "Lazebnik2018"
     },
     {
-      "source": "/note/The-Use-of-Knowledge-in-Society",
+      "source": "/note/notes-on-Paic2019",
+      "target": "/reference/Blok2015",
+      "text": "Blok2015"
+    },
+    {
+      "source": "/note/notes-on-Paic2019",
+      "target": "/reference/Blok2015a",
+      "text": "Blok2015a"
+    },
+    {
+      "source": "/note/notes-on-Paic2019",
+      "target": "/reference/Nolan2021",
+      "text": "Nolan2021"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Fischer2009",
+      "text": "Fischer2009"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
     },
     {
-      "source": "/note/The-Use-of-Knowledge-in-Society",
-      "target": "/note/Information-as-observable-in-biology",
-      "text": "Information as observable in biology"
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/note/notes-on-Polanyi1962",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
     },
     {
       "source": "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi",
@@ -3685,8 +3925,8 @@
     },
     {
       "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/note/The-Use-of-Knowledge-in-Society",
-      "text": "The Use of Knowledge in Society"
+      "target": "/note/notes-on-Hayek1945",
+      "text": "notes on Hayek1945"
     },
     {
       "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
@@ -3700,8 +3940,8 @@
     },
     {
       "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-      "target": "/note/The-Republic-of-Science",
-      "text": "The Republic of Science"
+      "target": "/note/notes-on-Polanyi1962",
+      "text": "notes on Polanyi1962"
     },
     {
       "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
@@ -3725,23 +3965,23 @@
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/Governance-of-ST-policies",
-      "text": "Governance of S\u0026T policies"
+      "target": "/note/notes-on-Paic2019",
+      "text": "notes on Paic2019"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/The-Use-of-Knowledge-in-Society",
-      "text": "The Use of Knowledge in Society"
+      "target": "/note/notes-on-Hayek1945",
+      "text": "notes on Hayek1945"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/The-Republic-of-Science",
-      "text": "The Republic of Science"
+      "target": "/note/notes-on-Polanyi1962",
+      "text": "notes on Polanyi1962"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/Science-policy-the-OECD-model-unveiled",
-      "text": "Science policy, the OECD model unveiled"
+      "target": "/note/notes-on-Henriques2013",
+      "text": "notes on Henriques2013"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",

@@ -1,6 +1,6 @@
 
 ---
-title: "Information as observable in biology"
+title: "notes on Longo2012"
 date: 2022-12-07
 draft: false
 showthedate: true

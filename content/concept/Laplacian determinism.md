@@ -12,4 +12,4 @@ A demiurge could predict the future with solely position and velocity of all par
 
 #### Sources
 
-[Information as observable in biology](note/Information%20as%20observable%20in%20biology.md)
+[notes on Longo2012](note/notes%20on%20Longo2012.md)

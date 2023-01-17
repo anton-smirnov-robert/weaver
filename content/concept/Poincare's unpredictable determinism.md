@@ -13,4 +13,4 @@ Non-observable continuous fluctuations (below any physical instrument precision)
 
 #### Sources
 
-[Information as observable in biology](note/Information%20as%20observable%20in%20biology.md)
+[notes on Longo2012](note/notes%20on%20Longo2012.md)

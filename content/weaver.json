@@ -5754,6 +5754,57 @@
       "select": "zotero://select/library/items/62F4DW3L"
     },
     {
+      "key": "IAYQBKZC",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Oxford University Press",
+      "date": "2000",
+      "libraryCatalog": "Google Scholar",
+      "title": "Investigations",
+      "creators": [
+        {
+          "firstName": "Stuart A.",
+          "lastName": "Kauffman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T11:30:26Z",
+      "dateModified": "2023-01-17T11:30:26Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/IAYQBKZC",
+      "itemID": 6163,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T11:30:28Z",
+          "dateModified": "2023-01-17T11:30:28Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/KYSN9VRE",
+          "path": "/Users/robert/Dropbox/zotero/storage/KYSN9VRE/Kauffman - 2000 - Investigations.pdf",
+          "select": "zotero://select/library/items/KYSN9VRE"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T11:30:32Z",
+          "dateModified": "2023-01-17T11:30:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8TIBKXQT",
+          "path": "/Users/robert/Dropbox/zotero/storage/8TIBKXQT/books.html",
+          "select": "zotero://select/library/items/8TIBKXQT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kauffman2000",
+      "itemKey": "IAYQBKZC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IAYQBKZC"
+    },
+    {
       "key": "V6W6UQZZ",
       "version": 0,
       "itemType": "journalArticle",
