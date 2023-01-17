@@ -791,6 +791,57 @@
       "select": "zotero://select/library/items/6VVUE25W"
     },
     {
+      "key": "YAV8H5FV",
+      "version": 0,
+      "itemType": "book",
+      "place": "New York",
+      "publisher": "Scientific American Library",
+      "ISBN": "978-0-7167-5004-8",
+      "date": "1984",
+      "extra": "Open Library ID: OL2843410M",
+      "libraryCatalog": "The Open Library",
+      "language": "eng",
+      "title": "The second law",
+      "numPages": "ix, 230",
+      "creators": [
+        {
+          "firstName": "P. W.",
+          "lastName": "Atkins",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Thermodynamics.",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-01-17T11:16:21Z",
+      "dateModified": "2023-01-17T11:16:21Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YAV8H5FV",
+      "itemID": 6161,
+      "attachments": [],
+      "notes": [
+        {
+          "key": "QSXMNZ4X",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "YAV8H5FV",
+          "note": "Bibliography: p. [222]-223.\nIncludes index., Bibliography: p. [222]-223.\nIncludes index.",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-01-17T11:16:21Z",
+          "dateModified": "2023-01-17T11:16:21Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/QSXMNZ4X"
+        }
+      ],
+      "citationKey": "Atkins1984",
+      "itemKey": "YAV8H5FV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YAV8H5FV"
+    },
+    {
       "key": "BMWWVXAL",
       "version": 0,
       "itemType": "attachment",
@@ -6996,6 +7047,40 @@
       "select": "zotero://select/library/items/ZVJ6Z9KN"
     },
     {
+      "key": "CRBQ7WP2",
+      "version": 0,
+      "itemType": "journalArticle",
+      "publicationTitle": "Maturana H, Varela F (1980) Autopoiesis and Cognition. The Realization of the Living. Reidel Publishing, Dordrecth",
+      "date": "1973",
+      "libraryCatalog": "Google Scholar",
+      "title": "De M\u00e1quinas y Seres Vivos: Una teor\u00eda sobre la organizaci\u00f3n biol\u00f3gica, Editorial Universitaria, Santiago",
+      "shortTitle": "De M\u00e1quinas y Seres Vivos",
+      "creators": [
+        {
+          "firstName": "H.",
+          "lastName": "Maturana",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "F. J.",
+          "lastName": "Varela",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T11:08:25Z",
+      "dateModified": "2023-01-17T11:08:25Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/CRBQ7WP2",
+      "itemID": 6159,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Maturana1973",
+      "itemKey": "CRBQ7WP2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CRBQ7WP2"
+    },
+    {
       "key": "KE4ZQCWT",
       "version": 0,
       "itemType": "journalArticle",
@@ -9350,6 +9435,46 @@
       "select": "zotero://select/library/items/7QNTSA9T"
     },
     {
+      "key": "XNHZS7SS",
+      "version": 0,
+      "itemType": "journalArticle",
+      "date": "1967",
+      "extra": "Publisher: Gallimard",
+      "libraryCatalog": "Google Scholar",
+      "title": "Biologie et connaissance; essai sur les relations entre les regulations organiques et les processus cognitifs",
+      "creators": [
+        {
+          "firstName": "Jean",
+          "lastName": "Piaget",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:58:45Z",
+      "dateModified": "2023-01-17T10:58:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XNHZS7SS",
+      "itemID": 6154,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:58:55Z",
+          "dateModified": "2023-01-17T10:58:55Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/DSBFV82Z",
+          "path": "/Users/robert/Dropbox/zotero/storage/DSBFV82Z/search.html",
+          "select": "zotero://select/library/items/DSBFV82Z"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Piaget1967",
+      "itemKey": "XNHZS7SS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XNHZS7SS"
+    },
+    {
       "key": "WBB555W8",
       "version": 0,
       "itemType": "book",
@@ -10107,6 +10232,35 @@
       "select": "zotero://select/library/items/5AMJ6TM6",
       "number": "arXiv:2204.08779",
       "publisher": "arXiv"
+    },
+    {
+      "key": "TMUIXBLJ",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Columbia University Press",
+      "date": "1991",
+      "libraryCatalog": "Google Scholar",
+      "title": "Life itself: a comprehensive inquiry into the nature, origin, and fabrication of life",
+      "shortTitle": "Life itself",
+      "creators": [
+        {
+          "firstName": "Robert",
+          "lastName": "Rosen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T11:10:40Z",
+      "dateModified": "2023-01-17T11:10:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/TMUIXBLJ",
+      "itemID": 6160,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Rosen1991",
+      "itemKey": "TMUIXBLJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TMUIXBLJ"
     },
     {
       "key": "JJZIC3J7",
@@ -11392,6 +11546,74 @@
       "itemKey": "RAJ6H6KH",
       "libraryID": 1,
       "select": "zotero://select/library/items/RAJ6H6KH"
+    },
+    {
+      "key": "M4DJ6G5W",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "John Wiley & Sons, New York",
+      "date": "1952",
+      "title": "Problems of Life. An Evaluation of Modern Biological Thought",
+      "creators": [
+        {
+          "firstName": "Ludwig",
+          "lastName": "Von Bertalanffy",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:54:30Z",
+      "dateModified": "2023-01-17T10:56:12Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/M4DJ6G5W",
+      "itemID": 6153,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "VonBertalanffy1952",
+      "itemKey": "M4DJ6G5W",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M4DJ6G5W"
+    },
+    {
+      "key": "4Z9EK7PF",
+      "version": 0,
+      "itemType": "bookSection",
+      "edition": "New York: Atheneum",
+      "pages": "1-41",
+      "date": "1968",
+      "title": "The basic ideas of biology",
+      "creators": [
+        {
+          "firstName": "Conrad Hal",
+          "lastName": "Waddington",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-17T10:46:16Z",
+      "dateModified": "2023-01-17T10:47:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/4Z9EK7PF",
+      "itemID": 6149,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Waddington - 1968 - The basic ideas of biology.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-17T10:48:05Z",
+          "dateModified": "2023-01-17T10:48:05Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/CF2YI69G",
+          "path": "/Users/robert/Dropbox/zotero/storage/CF2YI69G/Waddington - 1968 - The basic ideas of biology.pdf",
+          "select": "zotero://select/library/items/CF2YI69G"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Waddington1968",
+      "itemKey": "4Z9EK7PF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4Z9EK7PF",
+      "publicationTitle": "Towards a Theoretical Biology: Prolegomena"
     },
     {
       "key": "L5PB7GTG",
