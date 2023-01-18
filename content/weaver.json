@@ -31,6 +31,7 @@
       "citekeyFormat": "auth +  year",
       "citekeyFormatBackup": "auth +  year",
       "citekeySearch": false,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
       "csquotes": "",
       "DOIandURL": "both",
       "exportBibTeXStrings": "off",
@@ -85,7 +86,7 @@
       "strings": "",
       "stringsOverride": "",
       "testing": false,
-      "verbatimFields": "url,doi,file,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
       "warnBulkModify": 10,
       "warnTitleCased": false,
       "texmap": {}
@@ -98,8 +99,8 @@
     }
   },
   "version": {
-    "zotero": "6.0.19",
-    "bbt": "6.7.46"
+    "zotero": "6.0.20",
+    "bbt": "6.7.52"
   },
   "collections": {},
   "items": [
