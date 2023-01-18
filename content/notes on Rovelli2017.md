@@ -24,3 +24,8 @@ Le choix d'observable est donc primordial.
 De grosse molécules qui se cassent en plus petites est-elle une augmentation de l'entropie ? 
 Cela dépend du couplage avec un autre sous-système?
 Est-ce que çaa dépend aalors de la fonction des  petites molécules pour le sous-système ?
+
+
+
+Produire de l'anti-entropie c'est bien choisir ses observables, c'est-à-dire son couplage avec le sous-système. 
+Autrement dit, on peut considérer que des grosse molécules qui se cassent en plus petites sont une augmentation de l'entropie. 
