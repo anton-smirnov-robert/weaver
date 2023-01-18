@@ -323,6 +323,25 @@
           "text": "Turing1936"
         }
       ],
+      "/concept/biological-function": [
+        {
+          "source": "/concept/biological-function",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/concept/biological-function",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        }
+      ],
+      "/concept/closure-of-constraints": [
+        {
+          "source": "/concept/closure-of-constraints",
+          "target": "/definition/dependence-between-constraints",
+          "text": "dependence between constraints"
+        }
+      ],
       "/concept/computability": [
         {
           "source": "/concept/computability",
@@ -541,6 +560,25 @@
           "text": "Sipser2013"
         }
       ],
+      "/definition/biological-constraint": [
+        {
+          "source": "/definition/biological-constraint",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/definition/biological-constraint",
+          "target": "/definition/biological-process",
+          "text": "biological process"
+        }
+      ],
+      "/definition/biological-process": [
+        {
+          "source": "/definition/biological-process",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        }
+      ],
       "/definition/complexity-sciences": [
         {
           "source": "/definition/complexity-sciences",
@@ -566,6 +604,18 @@
           "source": "/definition/complexity-sciences",
           "target": "/reference/Estrada2013",
           "text": "Estrada2013"
+        }
+      ],
+      "/definition/dependence-between-constraints": [
+        {
+          "source": "/definition/dependence-between-constraints",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/definition/dependence-between-constraints",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
         }
       ],
       "/definition/enumerable-set": [
@@ -957,6 +1007,53 @@
           "source": "/note/notes-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
+        }
+      ],
+      "/note/notes-on-Mont%C3%A9vil2015": [
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "text": "history of organisms as self-determined biological systems"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/definition/biological-process",
+          "text": "biological process"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/definition/dependence-between-constraints",
+          "text": "dependence between constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/biological-function",
+          "text": "biological function"
         }
       ],
       "/note/notes-on-Montevil2021": [
@@ -1585,6 +1682,35 @@
           "text": "Turing machine"
         }
       ],
+      "/concept/biological-function": [
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/biological-function",
+          "text": "biological function"
+        }
+      ],
+      "/concept/closure-of-constraints": [
+        {
+          "source": "/concept/biological-function",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        }
+      ],
       "/concept/computability": [
         {
           "source": "/concept/Chaitins-algorithmic-randomness",
@@ -1815,6 +1941,35 @@
           "text": "backcasting"
         }
       ],
+      "/definition/biological-constraint": [
+        {
+          "source": "/concept/biological-function",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/definition/dependence-between-constraints",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        }
+      ],
+      "/definition/biological-process": [
+        {
+          "source": "/definition/biological-constraint",
+          "target": "/definition/biological-process",
+          "text": "biological process"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/definition/biological-process",
+          "text": "biological process"
+        }
+      ],
       "/definition/complexity": [
         {
           "source": "/note/notes-on-LiVigni2021",
@@ -1839,6 +1994,18 @@
           "source": "/definition/formal-system",
           "target": "/definition/deductive-system",
           "text": "deductive system"
+        }
+      ],
+      "/definition/dependence-between-constraints": [
+        {
+          "source": "/concept/closure-of-constraints",
+          "target": "/definition/dependence-between-constraints",
+          "text": "dependence between constraints"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/definition/dependence-between-constraints",
+          "text": "dependence between constraints"
         }
       ],
       "/definition/deterministic-system": [
@@ -1966,6 +2133,13 @@
           "source": "/About-me",
           "target": "/manifesto",
           "text": "manifesto"
+        }
+      ],
+      "/note/history-of-organisms-as-self-determined-biological-systems": [
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "text": "history of organisms as self-determined biological systems"
         }
       ],
       "/note/notes-on-Hayek1945": [
@@ -2566,6 +2740,28 @@
           "source": "/note/notes-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
+        }
+      ],
+      "/reference/Montevil2015": [
+        {
+          "source": "/definition/biological-constraint",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/definition/biological-process",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/definition/dependence-between-constraints",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
         }
       ],
       "/reference/Montevil2021": [
@@ -3229,6 +3425,21 @@
       "text": "Turing1936"
     },
     {
+      "source": "/concept/biological-function",
+      "target": "/definition/biological-constraint",
+      "text": "biological constraint"
+    },
+    {
+      "source": "/concept/biological-function",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/concept/closure-of-constraints",
+      "target": "/definition/dependence-between-constraints",
+      "text": "dependence between constraints"
+    },
+    {
       "source": "/concept/computability",
       "target": "/concept/Turing-machine",
       "text": "Turing machine"
@@ -3419,6 +3630,21 @@
       "text": "Sipser2013"
     },
     {
+      "source": "/definition/biological-constraint",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/definition/biological-constraint",
+      "target": "/definition/biological-process",
+      "text": "biological process"
+    },
+    {
+      "source": "/definition/biological-process",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
       "source": "/definition/complexity-sciences",
       "target": "/definition/Santa-Fe-Institute-SFI",
       "text": "Santa Fe Institute (SFI)"
@@ -3442,6 +3668,16 @@
       "source": "/definition/complexity-sciences",
       "target": "/reference/Estrada2013",
       "text": "Estrada2013"
+    },
+    {
+      "source": "/definition/dependence-between-constraints",
+      "target": "/definition/biological-constraint",
+      "text": "biological constraint"
+    },
+    {
+      "source": "/definition/dependence-between-constraints",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
     },
     {
       "source": "/definition/enumerable-set",
@@ -3832,6 +4068,51 @@
       "source": "/note/notes-on-Montevil2021",
       "target": "/reference/Morin1982",
       "text": "Morin1982"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "text": "history of organisms as self-determined biological systems"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/definition/biological-process",
+      "text": "biological process"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/definition/biological-constraint",
+      "text": "biological constraint"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/definition/dependence-between-constraints",
+      "text": "dependence between constraints"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "target": "/concept/biological-function",
+      "text": "biological function"
     },
     {
       "source": "/note/notes-on-Paic2019",

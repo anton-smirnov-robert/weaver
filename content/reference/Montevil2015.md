@@ -63,10 +63,6 @@ DOI: 10.1016/j.jtbi.2015.02.029
 
 > [!quote] 
 >
->Definition 1 (Constraint) Given a process A ! B (A becomes B), C is a constraint on A ! B, at a specific time scale ⌧ , if and only if the following two conditions are fulfilled: I/ The situations A ! B and AC ! BC (i.e. A ! B under the influence of C ) are not, as far as B is concerned, symmetric at a time scale ⌧ . Note CA ! B those aspects of C which play a role in the above asymmetry between A ! B and AC ! BC at time scale ⌧ . II/ A temporal symmetry is associated with all aspects of CA ! B with respect to the process AC ! BC , at time scale ⌧ . —  (Montévil et Mossio, 2015, p. 7) 
-
-> [!quote] 
->
 >The first condition requires that a constraint exerts a causal role on the target process. In formal terms, we express this by stating that the situations with or without the constraint are different10 (asymmetric). This must be true when considering the effects of the constraint rather than its mere presence11. —  (Montévil et Mossio, 2015, p. 7) 
 
 > [!quote] 
@@ -83,35 +79,7 @@ DOI: 10.1016/j.jtbi.2015.02.029
 
 > [!quote] 
 >
->in order to adequately characterise processes, and the constraints acting on them, one must consider the relevant system, and hence the relevant quantity of space (extension, volume, etc.). —  (Montévil et Mossio, 2015, p. 9) 
-
-> [!quote] 
->
->However, while it is of course true that constraints do depend on spatial scales, we maintain that this scale does not play a specific role in characterising constraints in the sense that, on a first approximation —  (Montévil et Mossio, 2015, p. 9) 
-
-> [!quote] 
->
->The proper symmetries of biological constraints can be broken over time and, therefore, must be actively maintained or rebuilt within the system (which, as we will see, leads to organisational closure) —  (Montévil et Mossio, 2015, p. 9) 
-
-> [!quote] 
->
->thelevelsofdescription,whichcanberoughlythought of as the degree of “detail” or “granularity” with which a situation is described at some temporal and spatial scales. In many cases, an equivalence can be drawn between the descriptions of constraints at different levels. —  (Montévil et Mossio, 2015, p. 9) 
-
-> [!quote] 
->
->levels of description do not play a specific role in the characterisation of constraints and are therefore not included in the definition. —  (Montévil et Mossio, 2015, p. 10) 
-
-> [!quote] 
->
->following our definition, a constraint alters the behaviour of a process although, strictly speaking, it does not lead in many cases to new possible behaviours for the constrained process —  (Montévil et Mossio, 2015, p. 10) 
-
-> [!quote] 
->
 >when the set of possibilities are determined by conserved quantities, the latter cannot be altered by fluxes coming from constraints, which are themselves, by definition, conserved through (i.e. are symmetric with regard to) the process. —  (Montévil et Mossio, 2015, p. 10) 
-
-> [!quote] 
->
->a constraint does not play a role in the balance equation of a given chemical reaction, an equation which is based on the conservation of matter (i.e. the conservation of the quantity of every type of atom and electron). That chemical reaction would therefore be possible in principle, but so slow (or, from a molecular viewpoint, so unlikely) that it would require centuries to take place, and would be quantitatively irrelevant. —  (Montévil et Mossio, 2015, p. 10) 
 
 > [!quote] 
 >
@@ -131,8 +99,38 @@ DOI: 10.1016/j.jtbi.2015.02.029
 
 > [!quote] 
 >
->the inputs or reactants (in Rosen’s terms, the “material” causes) that are altered and consumed through the process, and the constraints (the “efficient” causes, at ⌧ ), which are conserved through that very process. —  (Montévil et Mossio, 2015, p. 12) 
+>a dependence between constraints is conceptually different from dependence between processes, which corresponds to a situation in which a set of constraints act successively on a chain of processes depending on each other —  (Montévil et Mossio, 2015, p. 13) 
+
+> [!quote] 
+>
+>a relationship of dependence between constraints does not involve a thermodynamic flow between the generative and the dependent constraints —  (Montévil et Mossio, 2015, p. 13) 
+
+> [!quote] 
+>
+>In a general sense, dependence between constraints can be taken as the organisational principle underlying any “repair mechanisms” at work in the organism —  (Montévil et Mossio, 2015, p. 14) 
+
+> [!quote] 
+>
+>dependence between constraints can occur in two different ways, depending on the relations between the time scales involved: slow dependence with ⌧2 &gt;⌧1 (below left), or fast dependence with ⌧1 &gt;⌧2 —  (Montévil et Mossio, 2015, p. 14) 
 
 
+
+> [!quote] 
+>
+>Slow and fast dependence differ in an interesting way. When the dependent constraint is faster, its stability is quite straightforward because something that changes very slowly seems to stand still from the point of view of something faster. In the opposite case, when the dependent constraint is slower (which is actually the case for many chemicals involved in development), then a sustained and stable activity of the faster process is required. As we will suggest in the following section, orga —  (Montévil et Mossio, 2015, p. 15) 
+
+
+
+> [!quote] 
+>
+>closure is a context-dependent determination —  (Montévil et Mossio, 2015, p. 18) 
+
+> [!quote] 
+>
+>by abstracting them from the physical time in which they occur —  (Montévil et Mossio, 2015, p. 19) 
+
+> [!quote] 
+>
+>the specificity of biological systems lies in their capacity for self-determination as self-constraint. As discussed above, the central idea is that self-constraint occurs in biological systems in the form of closure, i.e. a causal regime in which a set of mutually dependent constraints act on the flows of energy and matter so as to collectively maintain themselves, and their organisation, over time. In turn, the fundamental formal distinction between the two regimes of causation at work (constraints and processes) relies on the identification of symmetries, and local conservations, at the relevant (temporal) scales. —  (Montévil et Mossio, 2015, p. 25) 
 
 
