@@ -10448,6 +10448,56 @@
       "select": "zotero://select/library/items/GV59HLT8"
     },
     {
+      "key": "8E6THULZ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.mdpi.com/1099-4300/24/8/1022",
+      "volume": "24",
+      "issue": "8",
+      "pages": "1022",
+      "publicationTitle": "Entropy",
+      "ISSN": "1099-4300",
+      "date": "2022-07-24",
+      "journalAbbreviation": "Entropy",
+      "DOI": "10.3390/e24081022",
+      "accessDate": "2023-01-18T22:20:04Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "I study the physical nature of traces. Surprisingly, (i) systems separation with (ii) temperature differences and (iii) long thermalization times are suf\ufb01cient conditions to produce macroscopic traces. Traces of the past are ubiquitous because these conditions are largely satis\ufb01ed in our universe. I quantify these thermodynamical conditions for memory and derive an expression for the maximum amount of information stored in such memories as a function of the relevant thermodynamical parameters. This mechanism transforms low entropy into available information. I suggest that all macroscopic information has this origin in past low entropy.",
+      "title": "Memory and Entropy",
+      "creators": [
+        {
+          "firstName": "Carlo",
+          "lastName": "Rovelli",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-18T22:20:04Z",
+      "dateModified": "2023-01-18T22:20:04Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/8E6THULZ",
+      "itemID": 6224,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rovelli - 2022 - Memory and Entropy.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-18T22:20:01Z",
+          "dateModified": "2023-01-18T22:20:05Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/JSFXHN9K",
+          "path": "/Users/robert/Dropbox/zotero/storage/JSFXHN9K/Rovelli - 2022 - Memory and Entropy.pdf",
+          "select": "zotero://select/library/items/JSFXHN9K"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Rovelli2022",
+      "itemKey": "8E6THULZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8E6THULZ"
+    },
+    {
       "key": "YCX7DYQY",
       "version": 0,
       "itemType": "journalArticle",
