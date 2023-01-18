@@ -10498,6 +10498,70 @@
       "select": "zotero://select/library/items/8E6THULZ"
     },
     {
+      "key": "LS6RJ2D3",
+      "version": 0,
+      "itemType": "preprint",
+      "url": "http://arxiv.org/abs/2211.00888",
+      "date": "2022-11-03",
+      "extra": "arXiv:2211.00888 [physics]",
+      "accessDate": "2023-01-18T22:47:51Z",
+      "libraryCatalog": "arXiv.org",
+      "language": "en",
+      "abstractNote": "The notions of cause and effect are widely employed in science. I discuss why and how they are rooted into thermodynamics. The entropy gradient (i) explains in which sense interventions affect the future rather than the past, and (ii) underpins the time orientation of the subject of knowledge as a physical system. Via these two distinct paths, it is this gradient, and only this gradient, the source of the time orientation of causation, namely the fact the cause comes before its effects.",
+      "title": "How causation is rooted into thermodynamics",
+      "creators": [
+        {
+          "firstName": "Carlo",
+          "lastName": "Rovelli",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Physics - History and Philosophy of Physics",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-01-18T22:47:51Z",
+      "dateModified": "2023-01-18T22:47:51Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LS6RJ2D3",
+      "itemID": 6226,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rovelli - 2022 - How causation is rooted into thermodynamics.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-18T22:47:46Z",
+          "dateModified": "2023-01-18T22:47:52Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/RYB32A77",
+          "path": "/Users/robert/Dropbox/zotero/storage/RYB32A77/Rovelli - 2022 - How causation is rooted into thermodynamics.pdf",
+          "select": "zotero://select/library/items/RYB32A77"
+        }
+      ],
+      "notes": [
+        {
+          "key": "DGSWFQQ5",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "LS6RJ2D3",
+          "note": "Comment: 8 pages",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-01-18T22:47:51Z",
+          "dateModified": "2023-01-18T22:47:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/DGSWFQQ5"
+        }
+      ],
+      "citationKey": "Rovelli2022a",
+      "itemKey": "LS6RJ2D3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LS6RJ2D3",
+      "number": "arXiv:2211.00888",
+      "publisher": "arXiv"
+    },
+    {
       "key": "YCX7DYQY",
       "version": 0,
       "itemType": "journalArticle",
