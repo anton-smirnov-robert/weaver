@@ -17,5 +17,12 @@ DOI: 10.1016/j.jtbi.2015.02.029
 Référence:  [Montevil2015](reference/Montevil2015.md)
 
 
+### Introduction 
 
-$$ \begin{array}{l}\text { Definition } 1 \text { (Constraint) Given a process } A \longrightarrow B \text { (A becomes } B \text { ), } C \text { is a constraint } \\ \text { on } A \longrightarrow B \text {, at a specific time scale } \tau \text {, if and only if the following two conditions are } \\ \text { fulfilled: } \\ \text { I/ The situations } A \longrightarrow B \text { and } A_{C} \longrightarrow B_{C} \text { (i.e. } A \longrightarrow B \text { under the influence of } C \text { ) } \\ \text { are not, as far as } B \text { is concerned, symmetric at a time scale } \tau \text {. } \\ \quad \text { Note } C_{A} \longrightarrow B \text { those aspects of } C \text { which play a role in the above asymmetry between } \\ \qquad A \longrightarrow B \text { and } A_{C} \longrightarrow B_{C} \text { at time scale } \tau \text {. } \\ \text { II/ } A \text { temporal symmetry is associated with all aspects of } C_{A} \longrightarrow B \text { with respect to the } \\ \text { process } A_{C} \longrightarrow B_{C} \text {, at time scale } \tau \text {. }\end{array}$$ 
+About the [history of organisms as self-determined biological systems](note/history%20of%20organisms%20as%20self-determined%20biological%20systems.md). 
+Definition of a [biological process](definition/biological%20process.md). 
+Definition of a [biological constraint](definition/biological%20constraint.md). 
+
+- The proper symmetries of biological constraints can be broken over time and, therefore, must be actively maintained or rebuilt within the system (which, as we will see, leads to organisational closure) —  (Montévil et Mossio, 2015, p. 9) 
+
+#### Constraints
