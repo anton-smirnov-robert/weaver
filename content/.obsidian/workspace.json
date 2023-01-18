@@ -11,8 +11,12 @@
             "id": "581fc051bf42fd81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/notes on Montévil2015.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/notes on Montévil2015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/notes on Montévil2015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/notes on Montévil2015.md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "581fc051bf42fd81",
   "lastOpenFiles": [
+    "reference/Montevil2015.md",
+    "note/notes on Montévil2015.md",
     "note/history of organisms as self-determined biological systems.md",
-    "Sans titre.md",
     "concept/Anfinsen's dogma.md",
     "manifesto.md",
     "concept/mechanistic system.md",
     "note/notes on LiVigni2021.md",
     "note/notes on Montevil2021.md",
     "note/notes on Hayek1945.md",
-    "note/notes on Longo2012.md",
-    "note/notes on Henriques2013.md"
+    "note/notes on Longo2012.md"
   ]
 }
