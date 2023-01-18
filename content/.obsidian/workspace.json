@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62d43a94a8b07c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Rovelli2017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09fba581f1c41f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes on Rovelli2017.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/notes on Montévil2015.md",
+                "file": "notes on Rovelli2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/notes on Montévil2015.md",
+                "file": "notes on Rovelli2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/notes on Montévil2015.md"
+                "file": "notes on Rovelli2017.md"
               }
             }
           }
@@ -146,17 +171,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "31007f10284eefcc",
+  "active": "09fba581f1c41f34",
   "lastOpenFiles": [
+    "reference/Rovelli2017.md",
+    "notes on Rovelli2017.md",
+    "note/notes on Montévil2015.md",
     "reference/Montevil2015.md",
     "reference/Montevil2021.md",
-    "note/notes on Montévil2015.md",
     "concept/closure of constraints.md",
     "concept/biological function.md",
     "About me.md",
     "definition/dependence between constraints.md",
-    "definition/biological constraint.md",
-    "Pasted image 20230118121903.png",
-    "Pasted image 20230118121914.png"
+    "definition/biological constraint.md"
   ]
 }
