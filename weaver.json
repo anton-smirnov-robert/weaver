@@ -8031,6 +8031,53 @@
       "select": "zotero://select/library/items/D2QQ5LP6"
     },
     {
+      "key": "Q34ZWK6H",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://link.springer.com/10.1007/s00146-021-01221-0",
+      "publicationTitle": "AI & SOCIETY",
+      "ISSN": "0951-5666, 1435-5655",
+      "date": "2021-05-15",
+      "journalAbbreviation": "AI & Soc",
+      "DOI": "10.1007/s00146-021-01221-0",
+      "accessDate": "2023-01-19T12:39:01Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "The Anthropocene crisis is frequently described as the rarefaction of resources or resources per capita. However, both energy and minerals correspond to fundamentally conserved quantities from the perspective of physics. A specific concept is required to understand the rarefaction of available resources. This concept, entropy, pertains to energy and matter configurations and not just to their sheer amount. However, the physics concept of entropy is insufficient to understand biological and social organizations. Biological phenomena display both historicity and systemic properties. A biological organization, the ability of a specific living being to last over time, results from history, expresses itself by systemic properties, and may require generating novelties The concept of anti-entropy stems from the combination of these features. We propose that Anthropocene changes disrupt biological organizations by randomizing them, that is, decreasing anti-entropy. Moreover, second-order disruptions correspond to the decline of the ability to produce functional novelties, that is, to produce anti-entropy.",
+      "title": "Entropies and the Anthropocene crisis",
+      "creators": [
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-19T12:39:01Z",
+      "dateModified": "2023-01-19T12:39:01Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/Q34ZWK6H",
+      "itemID": 6244,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mont\u00e9vil - 2021 - Entropies and the Anthropocene crisis.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-19T12:38:57Z",
+          "dateModified": "2023-01-19T12:39:02Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/CDS5DYVG",
+          "path": "/Users/robert/Dropbox/zotero/storage/CDS5DYVG/Mont\u00e9vil - 2021 - Entropies and the Anthropocene crisis.pdf",
+          "select": "zotero://select/library/items/CDS5DYVG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Montevil2021a",
+      "itemKey": "Q34ZWK6H",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Q34ZWK6H"
+    },
+    {
       "key": "XK88APPS",
       "version": 0,
       "itemType": "journalArticle",
