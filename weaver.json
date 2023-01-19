@@ -10495,6 +10495,56 @@
       "select": "zotero://select/library/items/GV59HLT8"
     },
     {
+      "key": "JJZC27WH",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.mdpi.com/1099-4300/21/5/466",
+      "volume": "21",
+      "issue": "5",
+      "pages": "466",
+      "publicationTitle": "Entropy",
+      "ISSN": "1099-4300",
+      "date": "2019-05-04",
+      "journalAbbreviation": "Entropy",
+      "DOI": "10.3390/e21050466",
+      "accessDate": "2023-01-19T17:18:07Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Where was the past low-entropy of the early universe located? Contrary to some popular answers, I argue that that the dominant source of low-entropy is the fact that a single degree of freedom, the scale factor, was not at equilibrium. I also discuss possible interpretations of the \u201cimprobability\u201d of this early low-entropy.",
+      "title": "Where Was Past Low-Entropy?",
+      "creators": [
+        {
+          "firstName": "Carlo",
+          "lastName": "Rovelli",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-19T17:18:07Z",
+      "dateModified": "2023-01-19T17:18:07Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/JJZC27WH",
+      "itemID": 6256,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rovelli - 2019 - Where Was Past Low-Entropy.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-19T17:18:05Z",
+          "dateModified": "2023-01-19T17:18:08Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/B24ETDTD",
+          "path": "/Users/robert/Dropbox/zotero/storage/B24ETDTD/Rovelli - 2019 - Where Was Past Low-Entropy.pdf",
+          "select": "zotero://select/library/items/B24ETDTD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Rovelli2019",
+      "itemKey": "JJZC27WH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JJZC27WH"
+    },
+    {
       "key": "DVLRNHXD",
       "version": 0,
       "itemType": "preprint",
