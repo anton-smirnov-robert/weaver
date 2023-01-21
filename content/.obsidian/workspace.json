@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TOREAD.md",
+                "file": "private/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/TOREAD.md",
+                "file": "private/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/TOREAD.md",
+                "file": "private/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/TOREAD.md"
+                "file": "private/TODO.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "81390fc756389296",
   "lastOpenFiles": [
-    "private/TODO.md",
     "private/TOREAD.md",
+    "private/TODO.md",
     "note/history of organisms as self-determined biological systems.md",
     "note/notes on Rovelli2022.md",
     "note/notes on Rovelli2017.md",
