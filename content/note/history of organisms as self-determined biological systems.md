@@ -19,11 +19,11 @@ The internal milieu *self-determines* (all components contribute to the realisat
 #### Cannon (homeostatis)
 Homeostasis: the capability of actively compensating for environmental perturbations through a coordinated physiological action. ([Cannon1929](reference/Cannon1929.md))
 
+#### von Bertalanffy and Schrödinger (thermodynamic openeness)
+Flux of energy and matter flow throught living beings ([Schrodinger1944](reference/Schrodinger1944.md), [VonBertalanffy1952](reference/VonBertalanffy1952.md))
+
 #### Wiener and Ashby (cybernetics)
 Homeostasis is mathematically expressed in terms of feedback loops by first-order Cybernetics. ([Wiener1948](reference/Wiener1948.md), [Ashby1957](reference/Ashby1957.md) )
-
-#### von Bertalanffy (thermodynamic openeness)
-Flux of energy and matter flow throught living beings ([VonBertalanffy1952](reference/VonBertalanffy1952.md))
 
 #### Waddington and Weiss (biological applications of cybernetics)
 Specific application of cybernetics for biological process (canalisation of "molecular self-organisation", with "quasi-finalistic" process). ([Weiss1968](reference/Weiss1968.md), [Waddington1968](reference/Waddington1968.md)). 
