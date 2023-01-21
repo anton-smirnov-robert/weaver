@@ -6271,6 +6271,80 @@
       "select": "zotero://select/library/items/ST2CHFJ6"
     },
     {
+      "key": "W3N2B58Z",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.nature.com/articles/nature09333",
+      "rights": "2010 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+      "volume": "467",
+      "issue": "7312",
+      "pages": "174-178",
+      "publicationTitle": "Nature",
+      "ISSN": "1476-4687",
+      "date": "2010-09",
+      "extra": "Number: 7312\nPublisher: Nature Publishing Group",
+      "DOI": "10.1038/nature09333",
+      "accessDate": "2023-01-21T12:42:06Z",
+      "libraryCatalog": "www.nature.com",
+      "language": "en",
+      "abstractNote": "Negative feedback is common in biological processes and can increase a system\u2019s stability to internal and external perturbations. But at the molecular level, control loops always involve signalling steps with finite rates for random births and deaths of individual molecules. Here we show, by developing mathematical tools that merge control and information theory with physical chemistry, that seemingly mild constraints on these rates place severe limits on the ability to suppress molecular fluctuations. Specifically, the minimum standard deviation in abundances decreases with the quartic root of the number of signalling events, making it extremely expensive to increase accuracy. Our results are formulated in terms of experimental observables, and existing data show that cells use brute force when noise suppression is essential; for example, regulatory genes are transcribed tens of thousands of times per cell cycle. The theory challenges conventional beliefs about biochemical accuracy and presents an approach to the rigorous analysis of poorly characterized biological systems.",
+      "title": "Fundamental limits on the suppression of molecular fluctuations",
+      "creators": [
+        {
+          "firstName": "Ioannis",
+          "lastName": "Lestas",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Glenn",
+          "lastName": "Vinnicombe",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Johan",
+          "lastName": "Paulsson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applied physics",
+          "type": 1
+        },
+        {
+          "tag": "Cell biology",
+          "type": 1
+        },
+        {
+          "tag": "Molecular biophysics",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-01-21T12:42:06Z",
+      "dateModified": "2023-01-21T12:42:06Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/W3N2B58Z",
+      "itemID": 6314,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version accept\u00e9e",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-21T12:42:08Z",
+          "dateModified": "2023-01-21T12:42:08Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UXRN2G4N",
+          "path": "/Users/robert/Dropbox/zotero/storage/UXRN2G4N/Lestas et al. - 2010 - Fundamental limits on the suppression of molecular.pdf",
+          "select": "zotero://select/library/items/UXRN2G4N"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Lestas2010",
+      "itemKey": "W3N2B58Z",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/W3N2B58Z"
+    },
+    {
       "key": "6HDNSVJV",
       "version": 0,
       "itemType": "journalArticle",
