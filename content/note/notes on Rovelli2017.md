@@ -18,12 +18,12 @@ by Rovelli C. (2017)
 L'entropie se réfère à un couplage avec un autre sous-système qui définit un coarse-graining, c'est-à-dire un choix d'observables.
 Pour le même trajectoire on peut trouver un choix d'observble de sorte que l'entropie diminue.
 Le fait que l'univers vienne d'un état de basse entropie n'est-il qu'une question de perspective ?
+Nos couplages (instruments de mesures) pour ces système nous amène à voir de l'accrroissement d'entropie.
 
 
-### Critique:
 
-Mon objection: En pratique, on partitionne toujours l'espace des phases en fonction de critères qui détermine au moins partiellement la trajectoire.   
-  
+
+En pratique, on partitionne toujours l'espace des phases en fonction de critères qui détermine au moins partiellement la trajectoire.   
 Par exemple, on cartographie un espace des phases en fonction de l'énergie potentielle des micro-états.  
 Les "vallées" sont des états relativement stables, les "cols" sont des états intermédiaires, instables.  
 Or l'énergie potentielle du système détermine en grande partie la trajectoire.  
