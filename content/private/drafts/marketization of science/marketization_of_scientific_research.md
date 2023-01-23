@@ -10,10 +10,10 @@ tags:
 ---
 
 This uses concepts that can be found in: 
-[notes on Paic2019](note/notes%20on%20Paic2019.md)
-[notes on Hayek1945](note/notes%20on%20Hayek1945.md)
-[notes on Polanyi1962](note/notes%20on%20Polanyi1962.md)
-[notes on Henriques2013](note/notes%20on%20Henriques2013.md)
+[note on Paic2019](note/note%20on%20Paic2019.md)
+[note on Hayek1945](note/note%20on%20Hayek1945.md)
+[note on Polanyi1962](note/note%20on%20Polanyi1962.md)
+[note on Henriques2013](note/note%20on%20Henriques2013.md)
 
 We gives five caracteristics of the marketization and industrialisation of research. 
 

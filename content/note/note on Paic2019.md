@@ -1,5 +1,5 @@
 ---
-title: "notes on Paic2019"
+title: "note on Paic2019"
 date: 2022-12-31
 draft: false
 showthedate: true

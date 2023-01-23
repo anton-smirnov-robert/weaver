@@ -14,4 +14,4 @@ A series of fair coin tosses have a maximal entropy $H$ since all throw are equi
 
 #### Sources 
 [Shannon1948](reference/Shannon1948.md)
-note [notes on Longo2012](note/notes%20on%20Longo2012.md)
+note [note on Longo2012](note/note%20on%20Longo2012.md)

@@ -9,7 +9,7 @@ tags:
 ---
 
 
-[notes on Polanyi1962](note/notes%20on%20Polanyi1962.md)
+[note on Polanyi1962](note/note%20on%20Polanyi1962.md)
 
 Michael Polanyi is to be distinguished from his older brother Karl. Even in both have made considerable contributions in economics, Michael was first of all a physical chemist. Karl is well known for his critiques of self-regulating markets. In contrast, Michael was a member of the Mont-Pelerin Society and a close friend of Hayek. In the Republic of Science, Polanyi (i.e. Michael for now on) explicitly acknowledges being inspired by Adam Smith's “invisible hand”. However, he underlines that the scientific organization cannot be reduced to the mechanisms of the market as defined by Hayek. Let's understand why. 
 

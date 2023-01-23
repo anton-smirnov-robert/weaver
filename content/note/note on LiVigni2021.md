@@ -1,6 +1,6 @@
 
 ---
-title: "notes on LiVigni2021"
+title: "note on LiVigni2021"
 date: 2022-12-12
 draft: false
 showthedate: true

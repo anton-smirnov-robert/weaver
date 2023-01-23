@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca2427c58b2b227",
+        "id": "c453620b32ddbc94",
         "type": "tabs",
         "children": [
           {
-            "id": "42136911e80d0654",
+            "id": "d0f10a2cadb00ac3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81390fc756389296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/TODO.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/TODO.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +138,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "81390fc756389296",
+  "active": "d0f10a2cadb00ac3",
   "lastOpenFiles": [
-    "private/TOREAD.md",
-    "private/TODO.md",
+    "note/note on Mossio2014.md",
+    "reference/Mossio2014.md",
     "note/history of organisms as self-determined biological systems.md",
+    "concept/mechanistic organization (detailed).md",
+    "concept/mechanistic organization.md",
+    "note/Sans titre.md",
+    "note/note on Rovelli2017.md",
     "note/notes on Rovelli2022.md",
-    "note/notes on Rovelli2017.md",
-    "reference/Rovelli2022.md",
-    "note/notes on Montévil2015.md",
     "reference/Rovelli2017.md",
-    "reference/Montevil2015.md",
-    "reference/Montevil2021.md"
+    "note/note on Polanyi1962.md"
   ]
 }

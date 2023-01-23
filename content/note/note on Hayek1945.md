@@ -1,5 +1,5 @@
 ---
-title: "notes on Hayek1945"
+title: "note on Hayek1945"
 date: 2022-12-12
 draft: false
 showthedate: true
@@ -55,7 +55,7 @@ The decentralized plans of _self-interested actors_ — e.g. consumers and selle
 
 #### Comments
 
-- Knowledge cannot be reduced to digits. This echoes the informational metaphor in biology. It tends to consider negatively (as noise) everything that cannot be digitalized, here even reduced to a single number. See [notes on Longo2012](note/notes%20on%20Longo2012.md).
+- Knowledge cannot be reduced to digits. This echoes the informational metaphor in biology. It tends to consider negatively (as noise) everything that cannot be digitalized, here even reduced to a single number. See [note on Longo2012](note/note%20on%20Longo2012.md).
 - It takes Whitehead remark as a goal. 
 - Everyone seems independent and does not rely on others. Individuals cannot influence themselves. No mimetism. 
 - The market needs an exogeous cause to change its prices. Once the market has operated those changes, the prices stop evolving, an equilibrium has been reached. In practice, external events perturbing the cost of one commodity do occur all the time so that everything happen _as if_ prices were evolving because commodities were traded.

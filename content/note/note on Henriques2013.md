@@ -1,5 +1,5 @@
 ---
-title: "notes on Henriques2013"
+title: "note on Henriques2013"
 date: 2022-12-12
 draft: false
 showthedate: true

@@ -212,8 +212,8 @@
         },
         {
           "source": "/concept/Laplacian-determinism",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         }
       ],
       "/concept/Maxwells-demon-paradox": [
@@ -231,8 +231,8 @@
       "/concept/Poincares-unpredictable-determinism": [
         {
           "source": "/concept/Poincares-unpredictable-determinism",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         }
       ],
       "/concept/Schrodingers-code-script-aperiodic-crystal": [
@@ -270,8 +270,8 @@
         },
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         }
       ],
       "/concept/Tarskis-undefinability-theorem": [
@@ -314,8 +314,8 @@
         },
         {
           "source": "/concept/Turing-machine",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
           "source": "/concept/Turing-machine",
@@ -340,6 +340,11 @@
           "source": "/concept/closure-of-constraints",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
+        },
+        {
+          "source": "/concept/closure-of-constraints",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
         }
       ],
       "/concept/computability": [
@@ -677,6 +682,16 @@
         },
         {
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/VonBertalanffy1952",
+          "text": "VonBertalanffy1952"
+        },
+        {
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
           "target": "/reference/Wiener1948",
           "text": "Wiener1948"
         },
@@ -684,11 +699,6 @@
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
           "target": "/reference/Ashby1957",
           "text": "Ashby1957"
-        },
-        {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
-          "target": "/reference/VonBertalanffy1952",
-          "text": "VonBertalanffy1952"
         },
         {
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
@@ -726,440 +736,489 @@
           "text": "Kauffman2000"
         }
       ],
-      "/note/notes-on-Hayek1945": [
+      "/note/note-on-Hayek1945": [
         {
-          "source": "/note/notes-on-Hayek1945",
+          "source": "/note/note-on-Hayek1945",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/note/notes-on-Hayek1945",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "source": "/note/note-on-Hayek1945",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         }
       ],
-      "/note/notes-on-Henriques2013": [
+      "/note/note-on-Henriques2013": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/OECD1966",
           "text": "OECD1966"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Bush1945",
           "text": "Bush1945"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Piganiol1963",
           "text": "Piganiol1963"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
         }
       ],
-      "/note/notes-on-LiVigni2021": [
+      "/note/note-on-LiVigni2021": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/LiVigni2021",
           "text": "LiVigni2021"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/complexity",
           "text": "complexity"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/Groupe-des-Dix",
           "text": "Groupe des Dix"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/complexity-sciences",
           "text": "complexity sciences"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/complexity-sciences",
           "text": "complexity sciences"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/backcasting",
           "text": "backcasting"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/Horgan1995",
           "text": "Horgan1995"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/Israel2005",
           "text": "Israel2005"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/Deffuant2015",
           "text": "Deffuant2015"
         }
       ],
-      "/note/notes-on-Longo2012": [
+      "/note/note-on-Longo2012": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Turing-machine",
           "text": "Turing machine"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
           "text": "Schrodinger's code-script aperiodic crystal"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Mendelian-inheritance",
           "text": "Mendelian inheritance"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Danchin2002",
           "text": "Danchin2002"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/MaynardSmith1999",
           "text": "MaynardSmith1999"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Laplacian-determinism",
           "text": "Laplacian determinism"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/definition/entropy",
           "text": "entropy"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/negentropy",
           "text": "negentropy"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Chaitins-algorithmic-randomness",
           "text": "Chaitin's algorithmic randomness"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Matoba2018",
           "text": "Matoba2018"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Shannons-theory-of-information-transmission",
           "text": "Shannon's theory of information transmission"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Anfinsens-dogma",
           "text": "Anfinsen's dogma"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/protein-folding-problem",
           "text": "protein folding problem"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Lucitti2007",
           "text": "Lucitti2007"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Tang2004",
           "text": "Tang2004"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Muller2003",
           "text": "Muller2003"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Rot-Nikcevic2007",
           "text": "Rot-Nikcevic2007"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
         }
       ],
-      "/note/notes-on-Mont%C3%A9vil2015": [
+      "/note/note-on-Mont%C3%A9vil2015": [
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/note/history-of-organisms-as-self-determined-biological-systems",
           "text": "history of organisms as self-determined biological systems"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/definition/biological-process",
           "text": "biological process"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/definition/biological-constraint",
           "text": "biological constraint"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/biological-function",
           "text": "biological function"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
         }
       ],
-      "/note/notes-on-Montevil2021": [
+      "/note/note-on-Montevil2021": [
         {
-          "source": "/note/notes-on-Montevil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/note/notes-on-Montevil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/concept/scientific-positivism",
           "text": "scientific positivism"
         },
         {
-          "source": "/note/notes-on-Montevil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         }
       ],
-      "/note/notes-on-Paic2019": [
+      "/note/note-on-Mossio2014": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Mossio2014",
+          "target": "/reference/Mossio2014",
+          "text": "Mossio2014"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "text": "history of organisms as self-determined biological systems"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/concept/mechanistic-organization",
+          "text": "mechanistic organization"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/reference/Maturana1973",
+          "text": "Maturana1973"
+        }
+      ],
+      "/note/note-on-Paic2019": [
+        {
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         },
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Nolan2021",
           "text": "Nolan2021"
         }
       ],
-      "/note/notes-on-Polanyi1962": [
+      "/note/note-on-Polanyi1962": [
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Fischer2009",
           "text": "Fischer2009"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
+        }
+      ],
+      "/note/note-on-Rovelli2017": [
+        {
+          "source": "/note/note-on-Rovelli2017",
+          "target": "/reference/Rovelli2017",
+          "text": "Rovelli2017"
+        },
+        {
+          "source": "/note/note-on-Rovelli2017",
+          "target": "/definition/entropy",
+          "text": "entropy"
         }
       ],
       "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi": [
@@ -1172,8 +1231,8 @@
       "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge": [
         {
           "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/notes-on-Hayek1945",
-          "text": "notes on Hayek1945"
+          "target": "/note/note-on-Hayek1945",
+          "text": "note on Hayek1945"
         },
         {
           "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
@@ -1189,8 +1248,8 @@
       "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science": [
         {
           "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-          "target": "/note/notes-on-Polanyi1962",
-          "text": "notes on Polanyi1962"
+          "target": "/note/note-on-Polanyi1962",
+          "text": "note on Polanyi1962"
         },
         {
           "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
@@ -1218,23 +1277,23 @@
       "/private/drafts/marketization-of-science/marketization_of_scientific_research": [
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Paic2019",
-          "text": "notes on Paic2019"
+          "target": "/note/note-on-Paic2019",
+          "text": "note on Paic2019"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Hayek1945",
-          "text": "notes on Hayek1945"
+          "target": "/note/note-on-Hayek1945",
+          "text": "note on Hayek1945"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Polanyi1962",
-          "text": "notes on Polanyi1962"
+          "target": "/note/note-on-Polanyi1962",
+          "text": "note on Polanyi1962"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Henriques2013",
-          "text": "notes on Henriques2013"
+          "target": "/note/note-on-Henriques2013",
+          "text": "note on Henriques2013"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
@@ -1497,7 +1556,7 @@
           "text": "Anfinsen's dogma"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Anfinsens-dogma",
           "text": "Anfinsen's dogma"
         }
@@ -1519,12 +1578,12 @@
           "text": "Brillouin's relation between entropy and information"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
         }
@@ -1538,19 +1597,19 @@
       ],
       "/concept/Chaitins-algorithmic-randomness": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Chaitins-algorithmic-randomness",
           "text": "Chaitin's algorithmic randomness"
         }
       ],
       "/concept/Cricks-central-dogma": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         }
@@ -1581,19 +1640,19 @@
           "text": "Kolmogorov's incompressibility"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Kolmogorovs-incompressibility",
           "text": "Kolmogorov's incompressibility"
         }
       ],
       "/concept/Laplacian-determinism": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Laplacian-determinism",
           "text": "Laplacian determinism"
         }
@@ -1607,7 +1666,7 @@
       ],
       "/concept/Mendelian-inheritance": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Mendelian-inheritance",
           "text": "Mendelian inheritance"
         }
@@ -1621,7 +1680,7 @@
       ],
       "/concept/Schrodingers-code-script-aperiodic-crystal": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
           "text": "Schrodinger's code-script aperiodic crystal"
         }
@@ -1633,7 +1692,7 @@
           "text": "Shannon's theory of information transmission"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Shannons-theory-of-information-transmission",
           "text": "Shannon's theory of information transmission"
         }
@@ -1677,14 +1736,14 @@
           "text": "Turing machine"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Turing-machine",
           "text": "Turing machine"
         }
       ],
       "/concept/biological-function": [
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/biological-function",
           "text": "biological function"
         }
@@ -1696,17 +1755,22 @@
           "text": "closure of constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "target": "/concept/closure-of-constraints",
+          "text": "closure of constraints"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         }
@@ -1728,17 +1792,17 @@
           "text": "computability"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
         }
@@ -1793,6 +1857,11 @@
       ],
       "/concept/mechanistic-organization": [
         {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/concept/mechanistic-organization",
+          "text": "mechanistic organization"
+        },
+        {
           "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
           "target": "/concept/mechanistic-organization",
           "text": "mechanistic organization"
@@ -1831,7 +1900,7 @@
           "text": "negentropy"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/negentropy",
           "text": "negentropy"
         }
@@ -1843,14 +1912,14 @@
           "text": "protein folding problem"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/protein-folding-problem",
           "text": "protein folding problem"
         }
       ],
       "/concept/scientific-positivism": [
         {
-          "source": "/note/notes-on-Montevil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/concept/scientific-positivism",
           "text": "scientific positivism"
         }
@@ -1872,19 +1941,19 @@
           "text": "second principle of thermodynamics"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
         }
       ],
       "/definition/Groupe-des-Dix": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/Groupe-des-Dix",
           "text": "Groupe des Dix"
         }
@@ -1936,7 +2005,7 @@
       ],
       "/definition/backcasting": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/backcasting",
           "text": "backcasting"
         }
@@ -1953,7 +2022,12 @@
           "text": "biological constraint"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "target": "/definition/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
           "target": "/definition/biological-constraint",
           "text": "biological constraint"
         }
@@ -1965,26 +2039,26 @@
           "text": "biological process"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/definition/biological-process",
           "text": "biological process"
         }
       ],
       "/definition/complexity": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/complexity",
           "text": "complexity"
         }
       ],
       "/definition/complexity-sciences": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/complexity-sciences",
           "text": "complexity sciences"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/definition/complexity-sciences",
           "text": "complexity sciences"
         }
@@ -2003,7 +2077,7 @@
           "text": "dependence between constraints"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
         }
@@ -2032,7 +2106,12 @@
           "text": "entropy"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/note/note-on-Rovelli2017",
           "target": "/definition/entropy",
           "text": "entropy"
         }
@@ -2137,74 +2216,79 @@
       ],
       "/note/history-of-organisms-as-self-determined-biological-systems": [
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "text": "history of organisms as self-determined biological systems"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
           "target": "/note/history-of-organisms-as-self-determined-biological-systems",
           "text": "history of organisms as self-determined biological systems"
         }
       ],
-      "/note/notes-on-Hayek1945": [
+      "/note/note-on-Hayek1945": [
         {
           "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/notes-on-Hayek1945",
-          "text": "notes on Hayek1945"
+          "target": "/note/note-on-Hayek1945",
+          "text": "note on Hayek1945"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Hayek1945",
-          "text": "notes on Hayek1945"
+          "target": "/note/note-on-Hayek1945",
+          "text": "note on Hayek1945"
         }
       ],
-      "/note/notes-on-Henriques2013": [
+      "/note/note-on-Henriques2013": [
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Henriques2013",
-          "text": "notes on Henriques2013"
+          "target": "/note/note-on-Henriques2013",
+          "text": "note on Henriques2013"
         }
       ],
-      "/note/notes-on-Longo2012": [
+      "/note/note-on-Longo2012": [
         {
           "source": "/concept/Laplacian-determinism",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
           "source": "/concept/Poincares-unpredictable-determinism",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
           "source": "/concept/Turing-machine",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
-          "source": "/note/notes-on-Hayek1945",
-          "target": "/note/notes-on-Longo2012",
-          "text": "notes on Longo2012"
+          "source": "/note/note-on-Hayek1945",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         }
       ],
-      "/note/notes-on-Paic2019": [
+      "/note/note-on-Paic2019": [
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Paic2019",
-          "text": "notes on Paic2019"
+          "target": "/note/note-on-Paic2019",
+          "text": "note on Paic2019"
         }
       ],
-      "/note/notes-on-Polanyi1962": [
+      "/note/note-on-Polanyi1962": [
         {
           "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-          "target": "/note/notes-on-Polanyi1962",
-          "text": "notes on Polanyi1962"
+          "target": "/note/note-on-Polanyi1962",
+          "text": "note on Polanyi1962"
         },
         {
           "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/notes-on-Polanyi1962",
-          "text": "notes on Polanyi1962"
+          "target": "/note/note-on-Polanyi1962",
+          "text": "note on Polanyi1962"
         }
       ],
       "/reference/Alombert2021": [
@@ -2237,7 +2321,7 @@
       ],
       "/reference/Arrow1962": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
         }
@@ -2286,7 +2370,7 @@
       ],
       "/reference/Blok2015": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
         },
@@ -2298,7 +2382,7 @@
       ],
       "/reference/Blok2015a": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         },
@@ -2366,7 +2450,7 @@
       ],
       "/reference/Bush1945": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Bush1945",
           "text": "Bush1945"
         }
@@ -2415,26 +2499,26 @@
       ],
       "/reference/Danchin2002": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Danchin2002",
           "text": "Danchin2002"
         }
       ],
       "/reference/Davies2006": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         }
       ],
       "/reference/Deffuant2015": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/Deffuant2015",
           "text": "Deffuant2015"
         }
@@ -2448,7 +2532,7 @@
       ],
       "/reference/Doudna2017": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         }
@@ -2490,7 +2574,7 @@
       ],
       "/reference/Fischer2009": [
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Fischer2009",
           "text": "Fischer2009"
         }
@@ -2504,12 +2588,12 @@
       ],
       "/reference/Hayek1945": [
         {
-          "source": "/note/notes-on-Hayek1945",
+          "source": "/note/note-on-Hayek1945",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
@@ -2545,12 +2629,12 @@
       ],
       "/reference/Henriques2013": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         }
@@ -2576,21 +2660,21 @@
           "text": "Horgan1995"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/Horgan1995",
           "text": "Horgan1995"
         }
       ],
       "/reference/Israel2005": [
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/Israel2005",
           "text": "Israel2005"
         }
       ],
       "/reference/Jakkaraju2003": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Jakkaraju2003",
           "text": "Jakkaraju2003"
         }
@@ -2611,19 +2695,19 @@
       ],
       "/reference/Kuhn1970": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
         }
       ],
       "/reference/Lazebnik2018": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
@@ -2640,19 +2724,19 @@
           "text": "LiVigni2021"
         },
         {
-          "source": "/note/notes-on-LiVigni2021",
+          "source": "/note/note-on-LiVigni2021",
           "target": "/reference/LiVigni2021",
           "text": "LiVigni2021"
         }
       ],
       "/reference/Longo2012": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         }
@@ -2673,14 +2757,14 @@
       ],
       "/reference/Longo2021": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         }
       ],
       "/reference/Lucitti2007": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Lucitti2007",
           "text": "Lucitti2007"
         }
@@ -2694,7 +2778,7 @@
       ],
       "/reference/Matoba2018": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Matoba2018",
           "text": "Matoba2018"
         }
@@ -2704,11 +2788,16 @@
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
           "target": "/reference/Maturana1973",
           "text": "Maturana1973"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/reference/Maturana1973",
+          "text": "Maturana1973"
         }
       ],
       "/reference/MaynardSmith1999": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/MaynardSmith1999",
           "text": "MaynardSmith1999"
         }
@@ -2732,17 +2821,22 @@
       ],
       "/reference/Mirowski2011": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         }
       ],
       "/reference/Montevil2015": [
+        {
+          "source": "/concept/closure-of-constraints",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
         {
           "source": "/definition/biological-constraint",
           "target": "/reference/Montevil2015",
@@ -2759,14 +2853,19 @@
           "text": "Montevil2015"
         },
         {
-          "source": "/note/notes-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         }
       ],
       "/reference/Montevil2021": [
         {
-          "source": "/note/notes-on-Montevil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
@@ -2788,12 +2887,12 @@
       ],
       "/reference/Morin1982": [
         {
-          "source": "/note/notes-on-Montevil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
@@ -2813,11 +2912,16 @@
           "source": "/concept/mechanistic-organization-detailed",
           "target": "/reference/Mossio2014",
           "text": "Mossio2014"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/reference/Mossio2014",
+          "text": "Mossio2014"
         }
       ],
       "/reference/Muller2003": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Muller2003",
           "text": "Muller2003"
         }
@@ -2831,26 +2935,26 @@
       ],
       "/reference/Nedeva2006": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         }
       ],
       "/reference/Nelson1959": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
         }
       ],
       "/reference/Nolan2021": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Nolan2021",
           "text": "Nolan2021"
         },
@@ -2862,7 +2966,7 @@
       ],
       "/reference/OECD1966": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/OECD1966",
           "text": "OECD1966"
         },
@@ -2881,7 +2985,7 @@
       ],
       "/reference/Paic2019": [
         {
-          "source": "/note/notes-on-Paic2019",
+          "source": "/note/note-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
@@ -2903,7 +3007,7 @@
       ],
       "/reference/Petit2019": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         },
@@ -2929,7 +3033,7 @@
       ],
       "/reference/Piganiol1963": [
         {
-          "source": "/note/notes-on-Henriques2013",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Piganiol1963",
           "text": "Piganiol1963"
         }
@@ -2948,12 +3052,12 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/notes-on-Polanyi1962",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -2982,9 +3086,16 @@
       ],
       "/reference/Rot-Nikcevic2007": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Rot-Nikcevic2007",
           "text": "Rot-Nikcevic2007"
+        }
+      ],
+      "/reference/Rovelli2017": [
+        {
+          "source": "/note/note-on-Rovelli2017",
+          "target": "/reference/Rovelli2017",
+          "text": "Rovelli2017"
         }
       ],
       "/reference/Schrodinger1944": [
@@ -3009,7 +3120,12 @@
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         }
@@ -3075,14 +3191,14 @@
       ],
       "/reference/Tang2004": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Tang2004",
           "text": "Tang2004"
         }
       ],
       "/reference/Taniguchi2010": [
         {
-          "source": "/note/notes-on-Longo2012",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
         }
@@ -3326,8 +3442,8 @@
     },
     {
       "source": "/concept/Laplacian-determinism",
-      "target": "/note/notes-on-Longo2012",
-      "text": "notes on Longo2012"
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
     },
     {
       "source": "/concept/Maxwells-demon-paradox",
@@ -3341,8 +3457,8 @@
     },
     {
       "source": "/concept/Poincares-unpredictable-determinism",
-      "target": "/note/notes-on-Longo2012",
-      "text": "notes on Longo2012"
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
     },
     {
       "source": "/concept/Schrodingers-code-script-aperiodic-crystal",
@@ -3376,8 +3492,8 @@
     },
     {
       "source": "/concept/Shannons-theory-of-information-transmission",
-      "target": "/note/notes-on-Longo2012",
-      "text": "notes on Longo2012"
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
     },
     {
       "source": "/concept/Tarskis-undefinability-theorem",
@@ -3416,8 +3532,8 @@
     },
     {
       "source": "/concept/Turing-machine",
-      "target": "/note/notes-on-Longo2012",
-      "text": "notes on Longo2012"
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
     },
     {
       "source": "/concept/Turing-machine",
@@ -3438,6 +3554,11 @@
       "source": "/concept/closure-of-constraints",
       "target": "/definition/dependence-between-constraints",
       "text": "dependence between constraints"
+    },
+    {
+      "source": "/concept/closure-of-constraints",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
     },
     {
       "source": "/concept/computability",
@@ -3731,6 +3852,16 @@
     },
     {
       "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "target": "/reference/VonBertalanffy1952",
+      "text": "VonBertalanffy1952"
+    },
+    {
+      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
       "target": "/reference/Wiener1948",
       "text": "Wiener1948"
     },
@@ -3738,11 +3869,6 @@
       "source": "/note/history-of-organisms-as-self-determined-biological-systems",
       "target": "/reference/Ashby1957",
       "text": "Ashby1957"
-    },
-    {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
-      "target": "/reference/VonBertalanffy1952",
-      "text": "VonBertalanffy1952"
     },
     {
       "source": "/note/history-of-organisms-as-self-determined-biological-systems",
@@ -3780,424 +3906,469 @@
       "text": "Kauffman2000"
     },
     {
-      "source": "/note/notes-on-Hayek1945",
+      "source": "/note/note-on-Hayek1945",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
     },
     {
-      "source": "/note/notes-on-Hayek1945",
-      "target": "/note/notes-on-Longo2012",
-      "text": "notes on Longo2012"
+      "source": "/note/note-on-Hayek1945",
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Henriques2013",
       "text": "Henriques2013"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/OECD1966",
       "text": "OECD1966"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Petit2019",
       "text": "Petit2019"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Nelson1959",
       "text": "Nelson1959"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Arrow1962",
       "text": "Arrow1962"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Henriques2013",
       "text": "Henriques2013"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Bush1945",
       "text": "Bush1945"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Piganiol1963",
       "text": "Piganiol1963"
     },
     {
-      "source": "/note/notes-on-Henriques2013",
+      "source": "/note/note-on-Henriques2013",
       "target": "/reference/Kuhn1970",
       "text": "Kuhn1970"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/reference/LiVigni2021",
       "text": "LiVigni2021"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/definition/complexity",
       "text": "complexity"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/definition/Groupe-des-Dix",
       "text": "Groupe des Dix"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/definition/complexity-sciences",
       "text": "complexity sciences"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/concept/Kolmogorovs-incompressibility",
       "text": "Kolmogorov's incompressibility"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/definition/complexity-sciences",
       "text": "complexity sciences"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/definition/backcasting",
       "text": "backcasting"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/reference/Horgan1995",
       "text": "Horgan1995"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/reference/Israel2005",
       "text": "Israel2005"
     },
     {
-      "source": "/note/notes-on-LiVigni2021",
+      "source": "/note/note-on-LiVigni2021",
       "target": "/reference/Deffuant2015",
       "text": "Deffuant2015"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Longo2012",
       "text": "Longo2012"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/computability",
       "text": "computability"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Turing-machine",
       "text": "Turing machine"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Schrodingers-code-script-aperiodic-crystal",
       "text": "Schrodinger's code-script aperiodic crystal"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Cricks-central-dogma",
       "text": "Crick's central dogma"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Mendelian-inheritance",
       "text": "Mendelian inheritance"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Danchin2002",
       "text": "Danchin2002"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/MaynardSmith1999",
       "text": "MaynardSmith1999"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/computability",
       "text": "computability"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Laplacian-determinism",
       "text": "Laplacian determinism"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/definition/entropy",
       "text": "entropy"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Brillouins-relation-between-entropy-and-information",
       "text": "Brillouin's relation between entropy and information"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/negentropy",
       "text": "negentropy"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Kolmogorovs-incompressibility",
       "text": "Kolmogorov's incompressibility"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Chaitins-algorithmic-randomness",
       "text": "Chaitin's algorithmic randomness"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Brillouins-relation-between-entropy-and-information",
       "text": "Brillouin's relation between entropy and information"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Schrodinger1944",
       "text": "Schrodinger1944"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/second-principle-of-thermodynamics",
       "text": "second principle of thermodynamics"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Matoba2018",
       "text": "Matoba2018"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Doudna2017",
       "text": "Doudna2017"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Longo2021",
       "text": "Longo2021"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/computability",
       "text": "computability"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Shannons-theory-of-information-transmission",
       "text": "Shannon's theory of information transmission"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/second-principle-of-thermodynamics",
       "text": "second principle of thermodynamics"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Longo2012",
       "text": "Longo2012"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Anfinsens-dogma",
       "text": "Anfinsen's dogma"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/protein-folding-problem",
       "text": "protein folding problem"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Cricks-central-dogma",
       "text": "Crick's central dogma"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Taniguchi2010",
       "text": "Taniguchi2010"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Lucitti2007",
       "text": "Lucitti2007"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Tang2004",
       "text": "Tang2004"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Muller2003",
       "text": "Muller2003"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Rot-Nikcevic2007",
       "text": "Rot-Nikcevic2007"
     },
     {
-      "source": "/note/notes-on-Longo2012",
+      "source": "/note/note-on-Longo2012",
       "target": "/reference/Jakkaraju2003",
       "text": "Jakkaraju2003"
     },
     {
-      "source": "/note/notes-on-Montevil2021",
+      "source": "/note/note-on-Montevil2021",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/note/notes-on-Montevil2021",
+      "source": "/note/note-on-Montevil2021",
       "target": "/concept/scientific-positivism",
       "text": "scientific positivism"
     },
     {
-      "source": "/note/notes-on-Montevil2021",
+      "source": "/note/note-on-Montevil2021",
       "target": "/reference/Morin1982",
       "text": "Morin1982"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/reference/Montevil2015",
       "text": "Montevil2015"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/note/history-of-organisms-as-self-determined-biological-systems",
       "text": "history of organisms as self-determined biological systems"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/definition/biological-process",
       "text": "biological process"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/definition/biological-constraint",
       "text": "biological constraint"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/definition/dependence-between-constraints",
       "text": "dependence between constraints"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/concept/closure-of-constraints",
       "text": "closure of constraints"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/concept/closure-of-constraints",
       "text": "closure of constraints"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/concept/closure-of-constraints",
       "text": "closure of constraints"
     },
     {
-      "source": "/note/notes-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
       "target": "/concept/biological-function",
       "text": "biological function"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/reference/Mossio2014",
+      "text": "Mossio2014"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "text": "history of organisms as self-determined biological systems"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/concept/mechanistic-organization",
+      "text": "mechanistic organization"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/definition/biological-constraint",
+      "text": "biological constraint"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/reference/Maturana1973",
+      "text": "Maturana1973"
+    },
+    {
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Paic2019",
       "text": "Paic2019"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Nedeva2006",
       "text": "Nedeva2006"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Davies2006",
       "text": "Davies2006"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Mirowski2011",
       "text": "Mirowski2011"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Lazebnik2018",
       "text": "Lazebnik2018"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Blok2015",
       "text": "Blok2015"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Blok2015a",
       "text": "Blok2015a"
     },
     {
-      "source": "/note/notes-on-Paic2019",
+      "source": "/note/note-on-Paic2019",
       "target": "/reference/Nolan2021",
       "text": "Nolan2021"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Polanyi1962",
       "text": "Polanyi1962"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Fischer2009",
       "text": "Fischer2009"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Polanyi1962",
       "text": "Polanyi1962"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Morin1982",
       "text": "Morin1982"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Nedeva2006",
       "text": "Nedeva2006"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Davies2006",
       "text": "Davies2006"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Mirowski2011",
       "text": "Mirowski2011"
     },
     {
-      "source": "/note/notes-on-Polanyi1962",
+      "source": "/note/note-on-Polanyi1962",
       "target": "/reference/Lazebnik2018",
       "text": "Lazebnik2018"
+    },
+    {
+      "source": "/note/note-on-Rovelli2017",
+      "target": "/reference/Rovelli2017",
+      "text": "Rovelli2017"
+    },
+    {
+      "source": "/note/note-on-Rovelli2017",
+      "target": "/definition/entropy",
+      "text": "entropy"
     },
     {
       "source": "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi",
@@ -4206,8 +4377,8 @@
     },
     {
       "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/note/notes-on-Hayek1945",
-      "text": "notes on Hayek1945"
+      "target": "/note/note-on-Hayek1945",
+      "text": "note on Hayek1945"
     },
     {
       "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
@@ -4221,8 +4392,8 @@
     },
     {
       "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-      "target": "/note/notes-on-Polanyi1962",
-      "text": "notes on Polanyi1962"
+      "target": "/note/note-on-Polanyi1962",
+      "text": "note on Polanyi1962"
     },
     {
       "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
@@ -4246,23 +4417,23 @@
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/notes-on-Paic2019",
-      "text": "notes on Paic2019"
+      "target": "/note/note-on-Paic2019",
+      "text": "note on Paic2019"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/notes-on-Hayek1945",
-      "text": "notes on Hayek1945"
+      "target": "/note/note-on-Hayek1945",
+      "text": "note on Hayek1945"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/notes-on-Polanyi1962",
-      "text": "notes on Polanyi1962"
+      "target": "/note/note-on-Polanyi1962",
+      "text": "note on Polanyi1962"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/notes-on-Henriques2013",
-      "text": "notes on Henriques2013"
+      "target": "/note/note-on-Henriques2013",
+      "text": "note on Henriques2013"
     },
     {
       "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
