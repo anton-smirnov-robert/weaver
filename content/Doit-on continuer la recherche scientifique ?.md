@@ -43,6 +43,9 @@ Même sans mentionner des pressions économique et des compétitions qui peuvent
 
 
 #### 
+La réponse qui semble être proposé par un cercle de penseurs et la sortie de la "tour d'ivoire".  
+Du conseil scientifique. 
+
 
 Le problème c'est qu'on compte comprendre ce qui est destructeur du vivant avec la même science que l'outil qui le détruit. 
 On ne peut comprendre ce qui détruit les systèmes biologiques avec la même science. Il y a un renversement paradigmatique à faire ici. 

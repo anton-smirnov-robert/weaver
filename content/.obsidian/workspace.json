@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Mossio2014.md",
+                "file": "Doit-on continuer la recherche scientifique ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Mossio2014.md",
+                "file": "Doit-on continuer la recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Mossio2014.md",
+                "file": "Doit-on continuer la recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Mossio2014.md"
+                "file": "Doit-on continuer la recherche scientifique ?.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "d0f10a2cadb00ac3",
   "lastOpenFiles": [
+    "note/note on Mossio2014.md",
     "concept/axiom of choice.md",
     "definition/choice function.md",
-    "note/note on Mossio2014.md",
     "definition/taxonomy.md",
     "definition/systematics.md",
     "note/note on Longo2012.md",
