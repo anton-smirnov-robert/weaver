@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doit-on continuer la recherche scientifique ?.md",
+                "file": "note/note on Longo2012.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doit-on continuer la recherche scientifique ?.md",
+                "file": "note/note on Longo2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doit-on continuer la recherche scientifique ?.md",
+                "file": "note/note on Longo2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doit-on continuer la recherche scientifique ?.md"
+                "file": "note/note on Longo2012.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "d0f10a2cadb00ac3",
   "lastOpenFiles": [
-    "concept/mechanistic system.md",
+    "reference/Longo2012.md",
+    "reference/MaynardSmith1999.md",
     "Doit-on continuer la recherche scientifique ?.md",
+    "concept/mechanistic system.md",
     "reference/Brillouin1951.md",
     "note/note on Mossio2014.md",
     "reference/Mossio2014.md",
     "note/history of organisms as self-determined biological systems.md",
     "concept/mechanistic organization (detailed).md",
-    "concept/mechanistic organization.md",
-    "note/Sans titre.md",
-    "note/note on Rovelli2017.md"
+    "concept/mechanistic organization.md"
   ]
 }

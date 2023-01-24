@@ -22,12 +22,12 @@ The concepts of [computability](concept/computability.md) (hardware, software), 
 
 
 #### The informational metaphor prompts biologits to think about biological phenomena in terms of programs.
-It relies on an informational metaphor and states linear causation from the DNA to the proteins. However, it is a misleading metaphor because it forces the way to think about biological problems. Indeed, most biologists see the genome as the "program" for producing proteins ([Danchin2002](reference/Danchin2002.md)). This view directly eliminates the radical materiality of living organisms. For instance, Maynard Smith states:
+It relies on an informational metaphor and states linear causation from the DNA to the proteins. However, it is a misleading metaphor because it forces the way to think about biological problems. Indeed, most biologists see the genome as the "program" for producing proteins ([Danchin2002](reference/Danchin2002.md)). This view directly eliminates the radical materiality of living organisms. For instance, Maynard Smith (that tries to explicitate the notion of information in biology without managing to distinguish Turing and Shannon'concepts) states:
 
 > [!quote] 
 >
 >There is, however, one feature of the control of development which closely resembles both a computer program, and verbal instructions. This is the symbolic nature of the process (...) —  ([MaynardSmith1999](reference/MaynardSmith1999.md), p. 398)  
- 
+
 #### However, programs rely on a very specific structure of determination...
 Programming or encoding/decoding in cryptography implies the writing and reading of **symbols** on **discrete** entities. The concept of [computability](concept/computability.md) requires **identical iterations**,  **portability** (software on hardware), **linear causation**, **predictability** (because of discreteness) and therefore implies [Laplacian determinism](concept/Laplacian%20determinism.md). 
 
