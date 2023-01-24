@@ -43,6 +43,6 @@ Natural selection is teleological (like geodesics) but it relies on individuals 
 
 Homeostatis, wich is explicited by Cybernetics, lacks the crucial aspect of adaptativity beyond regulation within a predefined interval. 
 
-Varela et Maturana ([Maturana1973](reference/Maturana1973.md)) believe that biological systems have no telos. 
+Varela et Maturana ([Maturana1973](reference/Maturana1973.md)) support that biological systems have no telos, but this is mainly to distinguish from genocentrism. 
 
 What about autocatalytic sets or other form of non-biological systems that make closure of constraint? Either they have nothing tot do with biological system or they are nearly biological systems. It may require some additional thought but we are again looking at frontiers.   
