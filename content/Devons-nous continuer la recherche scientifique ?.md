@@ -15,7 +15,7 @@ Ces machines, outils, technologies ou autre entités mécaniques rendent possibl
 Puisqu'ils sont une condition nécéssaire à l'ampleur des dégats causés pourquoi ne pas arrêter l'activité qui rend leur production possible ? 
 
 Avant de reformuler les termes du débat et d'y répondre, l'éléphant dans la pièce. 
-Il ne fait aucun doute que l'efficacité, l'indifférence suscitée apparente et la vitesse d'un tel processus auto-destructeur ne puisse s'expliquer sans le modèle économique capitaliste dans lequel il se déroule. 
+Il ne fait aucun doute que l'efficacité et la vitesse d'un tel processus auto-destructeur ne puisse s'expliquer sans le modèle économique capitaliste dans lequel il se déroule. 
 Pour comprendre notre entrée dans l'Anthropocène, il me parait plus judicieux de travailler son rôle causal: le capitalisme est-il un catalyseur puissant de cette transformation ? 
 Autrement dit, dans un autre système économique, n'aurions-nous pas eu les mêmes problèmes quelques dizaines ou centaines d'années plus tard ?
 Bien que cette question ne soit pas traitée ici, des éléments de réponses me semble apparaître en répondant à la première. 
