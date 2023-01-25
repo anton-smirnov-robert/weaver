@@ -100,7 +100,7 @@
   },
   "version": {
     "zotero": "6.0.20",
-    "bbt": "6.7.52"
+    "bbt": "6.7.53"
   },
   "collections": {},
   "items": [
@@ -4718,6 +4718,81 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/MJU4B4FW",
       "publicationTitle": "The Stanford Encyclopedia of Philosophy"
+    },
+    {
+      "key": "H9MYJF6P",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.elgaronline.com/display/edcoll/9781784715939/9781784715939.00020.xml",
+      "pages": "185-203",
+      "publicationTitle": "Handbook on Science and Public Policy",
+      "date": "2019/06/28",
+      "extra": "ISBN: 9781784715946\nPublisher: Edward Elgar Publishing\nSection: Handbook on Science and Public Policy",
+      "accessDate": "2023-01-25T18:37:57Z",
+      "libraryCatalog": "www.elgaronline.com",
+      "language": "en_US",
+      "abstractNote": "Today, research, particularly basic research, is relatively absent from the vocabulary of governments and industry compared to the 1960s and 1970s. Research is discussed, if at all, as part of the rhetoric on technological innovation. In many respects, research has disappeared as an autonomous object. This chapter documents a key moment in history, in that it was an occurrence responsible for the marginalization of research in scholarly and public discourses. Beginning in the 1960s, a diversity of scholars and practitioners began to question the role of research in contributing to socio-economic progress. They did so by choosing innovation as a key concept. Innovation in this view is a social or holistic process that includes far more than research. In this chapter, I give social existence to a discourse of the 1960s and 1970s, now forgotten but emblematic in the intervening decades, that marginalized research as a perceived source of socio-economic progress.",
+      "title": "Innovation and the marginalization of research",
+      "creators": [
+        {
+          "firstName": "Beno\u00eet",
+          "lastName": "Godin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-25T18:37:57Z",
+      "dateModified": "2023-01-25T18:37:57Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/H9MYJF6P",
+      "itemID": 6363,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Godin2019",
+      "itemKey": "H9MYJF6P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/H9MYJF6P"
+    },
+    {
+      "key": "2PBC6ZBR",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Edward Elgar Publishing",
+      "date": "2020",
+      "libraryCatalog": "Google Scholar",
+      "title": "The idea of technological innovation: A brief alternative history",
+      "shortTitle": "The idea of technological innovation",
+      "creators": [
+        {
+          "firstName": "Beno\u00eet",
+          "lastName": "Godin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-25T18:39:51Z",
+      "dateModified": "2023-01-25T18:39:51Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2PBC6ZBR",
+      "itemID": 6364,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-25T18:40:01Z",
+          "dateModified": "2023-01-25T18:40:01Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/D4F5296N",
+          "path": "/Users/robert/Dropbox/zotero/storage/D4F5296N/books.html",
+          "select": "zotero://select/library/items/D4F5296N"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Godin2020",
+      "itemKey": "2PBC6ZBR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2PBC6ZBR"
     },
     {
       "key": "U697RFRL",
@@ -11965,6 +12040,47 @@
       "itemKey": "43F7PIPQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/43F7PIPQ"
+    },
+    {
+      "key": "57XK9XXY",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "La d\u00e9couverte",
+      "date": "2021",
+      "libraryCatalog": "Google Scholar",
+      "title": "La croissance verte contre la nature: critique de l'\u00e9cologie marchande",
+      "shortTitle": "La croissance verte contre la nature",
+      "creators": [
+        {
+          "firstName": "H\u00e9l\u00e8ne",
+          "lastName": "Tordjman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-25T18:23:31Z",
+      "dateModified": "2023-01-25T18:23:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/57XK9XXY",
+      "itemID": 6359,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-25T18:23:36Z",
+          "dateModified": "2023-01-25T18:23:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/P8GBRNYM",
+          "path": "/Users/robert/Dropbox/zotero/storage/P8GBRNYM/books.html",
+          "select": "zotero://select/library/items/P8GBRNYM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Tordjman2021a",
+      "itemKey": "57XK9XXY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/57XK9XXY"
     },
     {
       "key": "MXWJJ2RP",
