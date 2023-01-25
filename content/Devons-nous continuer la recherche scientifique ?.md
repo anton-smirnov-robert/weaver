@@ -21,7 +21,7 @@ Autrement dit, dans un autre système économique, n'aurions-nous pas eu les mê
 Bien que cette question ne soit pas traitée ici, des éléments de réponses me semble apparaître en répondant à la première. 
 
 La question du mathématicien ne peut s'avérer plus actuelle. 
-Alors que Grothendieck ne peut s'inquièter principalement "que" de la bombe nucléaire en cette année 1972 qui verra la publication du rapport Meadows, les problèmes existentiels ou délétaires auquels nous faisons face et dont nous avons connaissance sont bien plus nombreux aaujourd'hui: chute de la biodiversité, fragilisation de l'agriculture en surexploitant, dissémination de perturbateurs endocriniens, épidémies d'épidemies, crises d'antibiotiques, réchauffement climatique, etc. 
+Alors que Grothendieck ne peut s'inquièter principalement "que" de la bombe nucléaire en cette année 1972 qui verra la publication du rapport Meadows, les problèmes existentiels ou délétaires auquels nous faisons face et dont nous avons connaissance sont bien plus nombreux aujourd'hui: chute de la biodiversité, fragilisation de l'agriculture en surexploitant, dissémination de perturbateurs endocriniens, épidémies d'épidemies, crises d'antibiotiques, réchauffement climatique, etc. 
 Or, ces problèmes caractérisant l'Anthropocène (restraint à ces aspects strictement biologiques ici) sont tous provoqués "grâce" (double guillemet) à des technologies: OGM, pesticides, médicaments de synthèse, machines extractivistes ou de construction, etc.
 
 Ce point, bien qu'indéniable, ne peut se faire réellement entendre par des autorités gouvernantes pour qui la techologie ne peut avoir qu'un impact positif ([Nolan2021](reference/Nolan2021.md)). 
@@ -36,10 +36,11 @@ Répondre à la question politique de Grothendieck nécéssite sans surprise un 
 Il est urgent de trouver, sous l'impulsion de la pensée de Bernard Stiegler, l'espace politique pour discuter de ces *pharmaka*, drogues à la fois poisons et remèdes que constituent les entités techniques. 
 Néanmoins, ce bref détour a le mérite de nous pointer la chose suivante : comment construire un discours pharmakologique si ce n'est sur des connaissances élaborées par la recherche scientifique ? 
 À l'instar de ces climatologues attérés, la science peut aussi interpeller sur les dégats qu'elle permet de causer. 
+L'origine de cette question politique, technique, réside bien dans l'élaboration des connaissances et la démarche de recherche. 
 
-Mais la question exacte (mais moins poilitique) de Grothendieck: "Allons-nous continuer la recherche scientifique ?" résonne d'une seconde manière aujourd'hui. 
+"Allons-nous continuer la recherche scientifique ?" (question originale de Grothendieck) résonne d'une nouvelle manière aujourd'hui. 
 Nous assistons à des désertions, des dépressions, des burn-outs, des pertes de sens. 
-Dès lors 
+Une autre façon de poser cette question est donc : "aurons nous la volonté de continuer cette activitité de plus en plus décomposée."
 
 N'allons nous pas 
 
