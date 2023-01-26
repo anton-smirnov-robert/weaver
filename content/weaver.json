@@ -2361,13 +2361,13 @@
       "select": "zotero://select/library/items/SEZHGWNP"
     },
     {
-      "key": "GG87X9UU",
+      "key": "F9KTYDXQ",
       "version": 0,
-      "itemType": "book",
+      "itemType": "bookSection",
       "publisher": "Vrin",
+      "pages": "129-164",
       "date": "1992",
-      "libraryCatalog": "Google Scholar",
-      "title": "La connaissance de la vie",
+      "title": "Machine et organisme",
       "creators": [
         {
           "firstName": "Georges",
@@ -2377,28 +2377,17 @@
       ],
       "tags": [],
       "relations": [],
-      "dateAdded": "2023-01-26T16:21:53Z",
-      "dateModified": "2023-01-26T16:21:53Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/GG87X9UU",
-      "itemID": 6372,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Snapshot",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-01-26T16:21:58Z",
-          "dateModified": "2023-01-26T16:21:58Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/HAHRIJQE",
-          "path": "/Users/robert/Dropbox/zotero/storage/HAHRIJQE/books.html",
-          "select": "zotero://select/library/items/HAHRIJQE"
-        }
-      ],
+      "dateAdded": "2023-01-26T17:27:04Z",
+      "dateModified": "2023-01-26T17:30:47Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/F9KTYDXQ",
+      "itemID": 6374,
+      "attachments": [],
       "notes": [],
-      "citationKey": "Canguilhem1992a",
-      "itemKey": "GG87X9UU",
+      "citationKey": "Canguilhem1992b",
+      "itemKey": "F9KTYDXQ",
       "libraryID": 1,
-      "select": "zotero://select/library/items/GG87X9UU"
+      "select": "zotero://select/library/items/F9KTYDXQ",
+      "publicationTitle": "La connaissance de la vie"
     },
     {
       "key": "654DISCP",
@@ -8085,66 +8074,6 @@
       "select": "zotero://select/library/items/K2QW76TC"
     },
     {
-      "key": "NCUMR4Y3",
-      "version": 0,
-      "itemType": "bookSection",
-      "date": "2020",
-      "libraryCatalog": "Google Scholar",
-      "title": "Anthropocene, exosomatization and negentropy",
-      "creators": [
-        {
-          "firstName": "Ma\u00ebl",
-          "lastName": "Mont\u00e9vil",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Bernard",
-          "lastName": "Stiegler",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Giuseppe",
-          "lastName": "Longo",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Ana M.",
-          "lastName": "Soto",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Carlos",
-          "lastName": "Sonnenschein",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2022-07-30T12:30:19Z",
-      "dateModified": "2022-07-30T12:30:19Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/NCUMR4Y3",
-      "itemID": 5343,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Full Text",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2022-07-30T12:30:24Z",
-          "dateModified": "2022-07-30T12:30:24Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/HB8AKI3Z",
-          "path": "/Users/robert/Dropbox/zotero/storage/HB8AKI3Z/2020-msl-anthropocene-exosomatization-negentropy.html",
-          "select": "zotero://select/library/items/HB8AKI3Z"
-        }
-      ],
-      "notes": [],
-      "citationKey": "Montevil2020",
-      "itemKey": "NCUMR4Y3",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/NCUMR4Y3",
-      "publicationTitle": "On transition: in response to Antonio Guterres"
-    },
-    {
       "key": "RNYNY633",
       "version": 0,
       "itemType": "journalArticle",
@@ -8314,6 +8243,55 @@
       "itemKey": "Q34ZWK6H",
       "libraryID": 1,
       "select": "zotero://select/library/items/Q34ZWK6H"
+    },
+    {
+      "key": "84BZUAD4",
+      "version": 0,
+      "itemType": "bookSection",
+      "place": "Paris",
+      "publisher": "Les Liens qui Lib\u00e8rent",
+      "date": "2021",
+      "title": "Anthropoc\u00e8ne, exosomatisation et n\u00e9guentropie",
+      "creators": [
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ana",
+          "lastName": "Soto",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlos",
+          "lastName": "Sonnenschein",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-26T17:36:10Z",
+      "dateModified": "2023-01-26T17:42:34Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/84BZUAD4",
+      "itemID": 6376,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Montevil2021b",
+      "itemKey": "84BZUAD4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/84BZUAD4",
+      "publicationTitle": "Bifurquer, \"il n'y a pas d'alternative\""
     },
     {
       "key": "XK88APPS",
@@ -11804,6 +11782,48 @@
       "itemKey": "YPD6X7FL",
       "libraryID": 1,
       "select": "zotero://select/library/items/YPD6X7FL"
+    },
+    {
+      "key": "B2RI8VVZ",
+      "version": 0,
+      "itemType": "book",
+      "date": "2020",
+      "libraryCatalog": "Google Scholar",
+      "title": "Bifurquer:\" il n'y a pas d'alternative\"",
+      "shortTitle": "Bifurquer",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jean-Marie Gustave",
+          "lastName": "Le Cl\u00e9zio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alain",
+          "lastName": "Supiot",
+          "creatorType": "author"
+        },
+        {
+          "name": "Internation/Geneva2020",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-26T17:35:48Z",
+      "dateModified": "2023-01-26T17:35:48Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/B2RI8VVZ",
+      "itemID": 6375,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Stiegler2020",
+      "itemKey": "B2RI8VVZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/B2RI8VVZ"
     },
     {
       "key": "AHH764BR",
