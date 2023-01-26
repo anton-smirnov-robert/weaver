@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c5703defe50ece4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/drafts/marketization of science/marketization_of_scientific_research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1d7db9a2550b89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/drafts/marketization of science/A letter to Michael Polanyi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,15 +172,15 @@
   },
   "active": "5f0b5cb2d58182b3",
   "lastOpenFiles": [
-    "note/note on Paic2019.md",
+    "private/drafts/marketization of science/marketization_of_scientific_research.md",
     "Allons-nous continuer la recherche scientifique ?.md",
+    "private/drafts/marketization of science/A letter to Michael Polanyi.md",
+    "note/note on Paic2019.md",
     "note/note on Henriques2013.md",
     "note/note on Polanyi1962.md",
-    "private/drafts/marketization of science/marketization_of_scientific_research.md",
     "private/drafts/marketization of science/Polanyi's Republic of Science.md",
     "reference/Mirowski2011.md",
     "reference/Anderson2007.md",
-    "reference/Hill2020.md",
-    "reference/Yong2018.md"
+    "reference/Hill2020.md"
   ]
 }

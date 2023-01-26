@@ -2361,6 +2361,46 @@
       "select": "zotero://select/library/items/SEZHGWNP"
     },
     {
+      "key": "GG87X9UU",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Vrin",
+      "date": "1992",
+      "libraryCatalog": "Google Scholar",
+      "title": "La connaissance de la vie",
+      "creators": [
+        {
+          "firstName": "Georges",
+          "lastName": "Canguilhem",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-26T16:21:53Z",
+      "dateModified": "2023-01-26T16:21:53Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/GG87X9UU",
+      "itemID": 6372,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-26T16:21:58Z",
+          "dateModified": "2023-01-26T16:21:58Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/HAHRIJQE",
+          "path": "/Users/robert/Dropbox/zotero/storage/HAHRIJQE/books.html",
+          "select": "zotero://select/library/items/HAHRIJQE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Canguilhem1992a",
+      "itemKey": "GG87X9UU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GG87X9UU"
+    },
+    {
       "key": "654DISCP",
       "version": 0,
       "itemType": "journalArticle",
