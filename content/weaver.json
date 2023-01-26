@@ -7636,6 +7636,55 @@
       "select": "zotero://select/library/items/QRM647BV"
     },
     {
+      "key": "L69VTGFB",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/02691728.2012.697210",
+      "volume": "26",
+      "issue": "3-4",
+      "pages": "285-310",
+      "publicationTitle": "Social Epistemology",
+      "ISSN": "0269-1728, 1464-5297",
+      "date": "10/2012",
+      "journalAbbreviation": "Social Epistemology",
+      "DOI": "10.1080/02691728.2012.697210",
+      "accessDate": "2023-01-25T23:45:44Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "The Modern Commercialization of Science is a Passel of Ponzi Schemes <sup>1</sup>",
+      "creators": [
+        {
+          "firstName": "Philip",
+          "lastName": "Mirowski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-25T23:45:44Z",
+      "dateModified": "2023-01-25T23:45:44Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/L69VTGFB",
+      "itemID": 6367,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mirowski - 2012 - The Modern Commercialization of Science is a Passe.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-25T23:45:41Z",
+          "dateModified": "2023-01-25T23:45:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/JL9AH2AT",
+          "path": "/Users/robert/Dropbox/zotero/storage/JL9AH2AT/Mirowski - 2012 - The Modern Commercialization of Science is a Passe.pdf",
+          "select": "zotero://select/library/items/JL9AH2AT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Mirowski2012",
+      "itemKey": "L69VTGFB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/L69VTGFB"
+    },
+    {
       "key": "LGEXTE4L",
       "version": 0,
       "itemType": "journalArticle",

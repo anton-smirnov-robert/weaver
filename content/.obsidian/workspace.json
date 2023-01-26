@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "847f0980af147b23",
+            "id": "5f0b5cb2d58182b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devons-nous continuer la recherche scientifique ?.md",
+                "file": "Jusqu'où allons-nous continuer cette recherche scientifique ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d14c1041794fa192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8de1a4c87526cad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/note on Paic2019.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devons-nous continuer la recherche scientifique ?.md",
+                "file": "Jusqu'où allons-nous continuer cette recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devons-nous continuer la recherche scientifique ?.md",
+                "file": "Jusqu'où allons-nous continuer cette recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devons-nous continuer la recherche scientifique ?.md"
+                "file": "Jusqu'où allons-nous continuer cette recherche scientifique ?.md"
               }
             }
           }
@@ -147,17 +164,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "847f0980af147b23",
+  "active": "5f0b5cb2d58182b3",
   "lastOpenFiles": [
+    "note/note on Paic2019.md",
+    "Jusqu'où allons-nous continuer cette recherche scientifique ?.md",
+    "note/note on Henriques2013.md",
+    "note/note on Polanyi1962.md",
     "private/drafts/marketization of science/marketization_of_scientific_research.md",
-    "private/drafts/marketization of science/article epistemological mismatch.md",
-    "private/drafts/marketization of science/A letter to Michael Polanyi.md",
-    "Devons-nous continuer la recherche scientifique ?.md",
-    "(brouillon) Doit-on continuer la recherche scientifique ?.md",
-    "manifesto.md",
-    "note/note on Mossio2014.md",
-    "concept/axiom of choice.md",
-    "definition/choice function.md",
-    "definition/taxonomy.md"
+    "private/drafts/marketization of science/Polanyi's Republic of Science.md",
+    "reference/Mirowski2011.md",
+    "reference/Anderson2007.md",
+    "reference/Hill2020.md",
+    "reference/Yong2018.md"
   ]
 }

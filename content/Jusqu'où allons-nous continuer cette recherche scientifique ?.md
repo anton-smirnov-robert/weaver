@@ -1,0 +1,61 @@
+---
+title: "Devons-nous continuer la recherche scientifique ?"
+date: 2023-01-25
+draft: false
+showthedate: true
+enabletoc: true
+tags:
+- note
+---
+
+C'est lors d'une conférence au CERN (Centre Européen de recherches nucléaires) en 1972 qu'Alexandre Grothendieck ouvre le débat. 
+La radicalité de la question a le mérite d'obliger la discussion frontale des problèmes qu'elle soulève. 
+Les connaissances scientifiques nous permettent de construire des objects techniques de plus en plus sophistiqués. 
+Ces machines, outils, technologies ou autre entités mécaniques rendent possible la destruction, ou plus justement, la désorganisation de la biosphère, c'est à dire des systèmes vivants et sociaux. 
+Puisqu'ils sont une condition nécéssaire à l'ampleur des dégats causés pourquoi ne pas arrêter l'activité qui rend leur production possible ? 
+
+Avant de reformuler les termes du débat et d'y répondre, l'éléphant dans la pièce. 
+Il ne fait aucun doute que l'efficacité et la vitesse d'un tel processus auto-destructeur ne puisse s'expliquer sans le modèle économique capitaliste dans lequel il se déroule. 
+Pour comprendre notre entrée dans l'Anthropocène, il me parait plus judicieux de travailler son rôle causal: le capitalisme est-il un catalyseur puissant de cette transformation ? 
+Autrement dit, dans un autre système économique, n'aurions-nous pas eu les mêmes problèmes quelques dizaines ou centaines d'années plus tard ?
+Bien que cette question ne soit pas traitée ici, des éléments de réponses me semble apparaître en répondant à la première. 
+
+La question du mathématicien ne peut s'avérer plus actuelle. 
+Alors que Grothendieck ne peut s'inquièter principalement "que" de la bombe nucléaire en cette année 1972 qui verra la publication du rapport Meadows, les problèmes existentiels ou délétaires auquels nous faisons face et dont nous avons connaissance sont bien plus nombreux aujourd'hui: chute de la biodiversité, fragilisation de l'agriculture en surexploitant, dissémination de perturbateurs endocriniens, épidémies d'épidemies, crises d'antibiotiques, réchauffement climatique, etc. 
+Or, ces problèmes caractérisant l'Anthropocène (restraint à ces aspects strictement biologiques ici) sont tous provoqués "grâce" (double guillemet) à des technologies: OGM, pesticides, médicaments de synthèse, machines extractivistes ou de construction, etc.
+
+Ce point, bien qu'indéniable, ne peut se faire réellement entendre par des autorités gouvernantes pour qui la techologie ne peut avoir qu'un impact positif ([Nolan2021](reference/Nolan2021.md),[Blok2015a](reference/Blok2015a.md)). 
+Depuis les années soixantes[^1] ([OECD1966](reference/OECD1966.md)), seuls les aspects bénéfiques (pour la croissance économique) des technologies est considérée ([Godin2020](reference/Godin2020.md)).
+Dès lors, la question qui nous interesse ne peut pas être posée car la technique est la solution aux problèmes. 
+Admettre que la technique peut nuire au-delà de quelques erreures mineures, revient à remettre en question la corrélation entre croissance économique et bien-être des sociétés.
+Il n'est plus possible de maximiser la croissance économique sans impact délétaires sur la société. 
+En retour, ce déni donne lieu à des solutions technologiques proposées très peu convaincantes ([Tordjman2021a](reference/Tordjman2021a.md)), pouvant même aggraver les maux dans leur version technopropéhtiques. 
+
+Répondre à la question politique de Grothendieck nécéssite sans surprise un détour majeur par la technique que nous ne pourions faire. 
+Il est urgent de trouver, sous l'impulsion de la pensée de Bernard Stiegler, l'espace politique pour discuter de ces *pharmaka*, drogues à la fois poisons et remèdes que constituent les entités techniques. 
+Néanmoins, ce bref détour a le mérite de nous pointer la chose suivante : comment construire un discours pharmakologique si ce n'est sur des connaissances élaborées par la recherche scientifique ? 
+À l'instar de ces climatologues attérés, la science peut aussi interpeller sur les dégats qu'elle permet de causer. 
+L'origine de cette question politique, technique, réside bien dans l'élaboration des connaissances et la démarche de recherche. 
+
+"Allons-nous continuer la recherche scientifique ?" (question originale de Grothendieck) résonne d'une nouvelle manière aujourd'hui. 
+Nous assistons à des désertions, des dépressions, des burn-outs, des pertes de sens, attèrements, démissions du milieu scientifique, surtout chez la jeunesse. 
+L'enjeu est renversé: a-t-on les moyens humains et la volonté de continuer cette activité ? 
+Celle qui alimente nos argumentations en la chose qui se partage le plus facilement et qui, par définition, constitue le savoir sur lequel nous sommes collectivement d'accord et qui est un ciment de notre culture.
+Il faut dire que la situation est grave. 
+
+La chercheuse, à qui il revient donc, par élimination séquentiel des maillons de la chaine menant à l'innovation technologique salvatrice, de sauver la planète, se retrouve dans deux cas de figure. Soit elle doit accumuler de nouvelles données pour diagnostiquer encore un peu mieux l'état avancé du processus en cours et ses effets devastateurs pour la biosphère dont son ensemble. Ainsi, elle portera ses résultats à des conseils politique qui n'auront aucune capacité d'action et s'en agacera. Soit, elle essayera de convaincre ses collègues et soi-même que la bio/nano/geo-technologie sur laquelle elle travaille pourra effectivement avoir un réel effet paliatif sur ces crises. 
+
+Elle devra participer au rites des promesses délirantes ([Audetat2015](reference/Audetat2015.md)) pour espérer avoir la possibilité d'accomplir ce qu'elle sait intimement impossible. À défaut d'amener de la science dans les start-ups ([Maxmen2019](reference/Maxmen2019.md)), ces dernières ont diffusé les système de ponzi ([Mirowski2012](reference/Mirowski2012.md)) et les "morales commerciales" ([Lazebnik2018](reference/Lazebnik2018.md)) dans la recherche: une étude est bonne *parce qu'elle* est acceptée dans un bon journal. Cette transformation témoigne du tournant néolibérale que le monde académique a emprunté depuis un quart de siècle ([Nedeva2006](reference/Nedeva2006.md),[Davies2006](reference/Davies2006.md), [Mirowski2011](reference/Mirowski2011.md)) et qui se confronte maintenant aux effets pervers de la "loi de Goodhart" ([Fire2019](reference/Fire2019.md)). La reproductivité et les fraudes explosent ([Baker2016](reference/Baker2016.md),[Fang2012](reference/Fang2012.md), [Edwards2017](reference/Edwards2017.md)), mais les modèles économiques montrent que c'est en intensifiant le pression "publier ou périr" qu'ils diminueront ([Lacetera2011](reference/Lacetera2011.md)), alors le PDG scientiste du CNRS peut se permettre de souhaiter une compétition "darwinienne" entre chercheurs ([Petit2019a](reference/Petit2019a.md)). Tout ceci se passent dans la révolte unanime des universités, associations de chercheurs et autre organisations qui prennent des fois de leurs temps pour accumuler des preuves montrant le caractère infondé des politiques dont ils sont victimes ([Anderson2007](reference/Anderson2007.md), [Chavalarias2016](reference/Chavalarias2016.md), [Sandstrom2018](reference/Sandstrom2018.md), [Hill2020](reference/Hill2020.md)). 
+
+Remontons un peu plus loin pour comprendre d'où vient ce malaise. Dans les années soixantes, quand la corrélation entre production technologiques, croissance économique et bien-être de la société occidentale était positive. Le lien de causalité en a été déclaré, la science considérée comme bien public et trop importante pour être laissée seulement aux scientifiques. L'OCDE outrepasse sur son rôle de conseillers politique et commence à prendre la baguette sans jamais expliciter son modèle théorique ([Henriques2013](reference/Henriques2013.md)): il faut centraliser la science et le gouvernement doit poser des priorités en matière de recherche. La recherche est financée par de l'argent publique car les investissements privés ne sauraient être optimaux ([Nelson1959](reference/Nelson1959.md), [Arrow1962](reference/Arrow1962.md)). Dans ce contexte de guerre froide, aller sur la lune ou construire une bombe atomique ne peut plus être qu'une question de curiosité. Il faut être de plus en plus compétitif, c'est-à-dire rapide et innovant. Science et technologies ne font plus qu'un pôle de politique publique qui marginalisera la recherche de ces ddiscussions au profit de l'innovation ([Godin2019](reference/Godin2019.md)). 
+
+Comment comprendre les effets sur la science de la prise en main de l'appareil étatique par l'idéologie néolibéral, doctrine dont tout processus de centralisation et de planification lui est insuportable ? On est d'abord forcer de noter que les libéraux ne sont pas tous des puristes. Alors qu'au moins un brillant texte ([Polanyi1962](reference/Polanyi1962.md)) permet de rendre compte des miracles de la science moderne (avant les années 1960) en terme d'initiatives individuelles guidées par une main invisible (nous y reviendrons), il est bafoué par les nouveaux libéraux pour qui il est quand même beaucoup trop pratique de pouvoir lui dire quoi chercher. Mais est-ce vraiment le cas ? Plus d'un pourrait s'y perdre avec cette science Frankenstein dont nous héritons ([Lazebnik2018](reference/Lazebnik2018.md)). L'OCDE nous guide cependant ([Paic2019](reference/Paic2019.md)). L'état devra maintenant écouter ceux que les "stakeholders" — un nom qui a le mérite d'être éclairant — veulent que l'on cherche. Ces derniers sont des acteurs du privé et des citoyens a qui il faudra envoyer des signaux d'engagement en se montrant flexibles et en financant les projets vers les directions qu'il souhaitent. 
+
+Cette régression — dont les premiers néolibéraux mettaient déjà en garde ! ([Polanyi1962](reference/Polanyi1962.md)) — qui consiste à réduire la science à des mécanismes de marché ([Hayek1945](reference/Hayek1945.md)) prend cette forme simple: la demande en recherche (du privé ou du public) doit être assouvie par l'offre scientifique sous forme de "missions". Bien que la recherche soit en pratique centralisée, l'État ne doit plus que transmettre des instructions, c'est-à-dire permettre de refléter dans l'attribution des financements de projets la demande de la société et des entreprises privés. Aux Pays-bas ([Paic2019](reference/Paic2019.md)), les citoyens posent leurs questions scientifiques sur internet. Elles sont regroupées automatiquement par un logiciel de traitement de mot, filtrés (par un processus qui m'est incconu) et ensuite considérées comme des priorités scientifiques. Peut-être n'y a-t-il pas d'erreur plus cruelle que de considérer ce processus comme démocratique. 
+
+Nous pourrions soulever d'autres inquiétudes regardant la corrélation négative entre l'activité de recherche des industries privés et de leur participation grandissante dans le processus d'orientation de la recherche public. Où se déroule la recherche qui leur est nécéssaire si ce n'est en interne ? Un gouvernement assez complaisant pour augmenter le crédit d'impôt recherche des entreprises qui en font de moins en moins, pourrait s'avérer complaisant dans l'établissement de priorités de académiques et fonction des appétits des plus gourmands. Produire des connaissances scienifiques grâce à de l'argent public et dans l'intérêt du privé et avec l'aval du gouvernement s'apparenterai à un véritable pillage organisé de fonds public.
+
+
+#### Le caractère anthropologique. 
+
+[^1]: "If governments succeed in helping to increase the pace of technical innovation, it will facilitate structural changes in the economy, and increase the supply of new and improved products necessary for Member Governments to achieve rapid economic growth and full employment and without inflation." (OECD, 1966: 8) 
