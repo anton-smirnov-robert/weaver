@@ -28,20 +28,48 @@ L'institut pilote de la CID est l'**Institut de physique**
 ## École doctorale
 
 
-**ED 474** — Frontière du vivant — Sorbonne Université (François TADDEI).
-
-Automatique, Bioingénierie, Biologie Moléculaire, Biotechnologie, Chimie Analytique, Chimie des Matériaux, Chimie Organique, Chimie Physique, Climatologie, Ecologie, **Epistémologie**, Ethnologie, Géophysique, Mathématiques appliquées, Mécanique des Fluides
-
 **ED 227** — Science de la Nature et de l'Homme : évolution et écologie;  — Muséum d'histoire naturelle. 
 
-Agroalimentaire, Biologie Moléculaire, Biotechnologie, Chimie Analytique, Chimie Organique, Climatologie, Ecologie, **Economie**, **Epistémologie**, Ethnologie, Géographie, Géophysique, Histoire Ancienne et Médiévale, Histoire Moderne et Contemporaine, Lettres
+> **Biologie, médecine et santé** - 39%  
+> **Sciences agronomiques et écologiques** - 24%  
+> **Sciences humaines et humanités** - 16%  
+> **Chimie** - 12%  
+> **Sciences de la terre et de l'univers, espace** - 11%  
+> **Sciences de la société** - 5%  
+> **Physique** - 1%
+
+
+**ED 515** — Complexité du vivant — SU (PSL)
+
+Génétique, de la génomique, de la biologie cellulaire et du développement, de la microbiologie et de l’immunologie, de la biochimie, de la biologie structurale, de la biologie des systèmes, de la biologie évolutive. Une part importante des projets menés s’inscrit dans une démarche intégrative associant des approches multiples et différents niveaux d’analyse. L’école doctorale favorise ainsi les **projets transdisciplinaires** et CDV accueille dans ses rangs des chercheurs et des doctorant(e)s conduisant des projets de recherche dans le périmètre scientifique de l’ED, dont la formation initiale n’est pas en biologie.
+
+
+**ED 562** — BioSPC — Universié Paris Cité.
+
+Biologie Cellulaire et Moléculaire, le Développement, l’Immunologie, l’Infectiologie, la Génétique, la Neurobiologie , la Physiologie, la Physiopathologie, la Reproduction et le Vieillissement.
+
 
 **ED 577** — Structure et dynamique des systèmes vivants. — Université Paris Saclay.
 
-Bioingénierie, Biologie Moléculaire, Biotechnologie, Capteurs, Chimie Analytique, Chimie des Matériaux, Chimie Organique, Ecologie, **Epistémologie,** Ethique et Déontologie, Histoire du Droit et des Institutions, Mathématiques appliquées, Pharmacologie, Physiologie, Recherche Clinique.
+-   Biologie 
+-   Biochimie
+-   Biochimie et biologie structurale
+-   Biologie de la reproduction 
+-   Biologie du développement
+-   Biologie moléculaire et cellulaire
+-   Biotechnologies
+-   Ecologie
+-   Evolution
+-   Génétique
+-   Microbiologie
+-   Neurosciences
+-   Biologie Computationnelle
+-   Biologie Systémique
+-   Sciences de la vie et de la santé
 
 
 ## Contenu
+
 Le problème de l’Anthropocène est un problème lié à l’épistémologie de la biologie. 
 
 Je crois qu’on est d’accord pour dire que la meilleure façon malgré tout de faire changer les mentalités, c’est de faire des théories solides dans un contexte donné et bien précis. Ensuite, et seulement ensuite, elle diffuse dans le reste des idées et étende les manières dont on résout les problèmes. 
