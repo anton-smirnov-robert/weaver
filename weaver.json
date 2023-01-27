@@ -867,6 +867,58 @@
       "select": "zotero://select/library/items/BMWWVXAL"
     },
     {
+      "key": "HPA22GTE",
+      "version": 0,
+      "itemType": "attachment",
+      "url": "https://www.cnrs.fr/comitenational/evaluation/criteresdevaluation/PDF/52_criteres_2022.pdf",
+      "accessDate": "2023-01-27T12:39:16Z",
+      "title": "52_criteres_2022.pdf",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "52_criteres_2022.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-01-27T12:39:16Z",
+      "dateModified": "2023-01-27T12:39:16Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/HPA22GTE",
+      "itemID": 6377,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/HPA22GTE/52_criteres_2022.pdf",
+      "defaultPath": "files/6377/52_criteres_2022.pdf",
+      "itemKey": "HPA22GTE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HPA22GTE"
+    },
+    {
+      "key": "QKMDZSQ5",
+      "version": 0,
+      "itemType": "attachment",
+      "url": "https://www.cnrs.fr/comitenational/evaluation/criteresdevaluation/PDF/54_criteres_2018.pdf",
+      "accessDate": "2023-01-27T12:39:22Z",
+      "title": "54_criteres_2018.pdf",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "54_criteres_2018.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-01-27T12:39:22Z",
+      "dateModified": "2023-01-27T12:39:22Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/QKMDZSQ5",
+      "itemID": 6378,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/QKMDZSQ5/54_criteres_2018.pdf",
+      "defaultPath": "files/6378/54_criteres_2018.pdf",
+      "itemKey": "QKMDZSQ5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QKMDZSQ5"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
