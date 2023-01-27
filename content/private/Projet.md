@@ -92,8 +92,6 @@ Ces choses là, qui montrent que ce travail est plus que nécessaire, ne doit pa
 
 **Une (grande) partie : (année 1)**
 
-  
-
 **Stabiliser** ce que tu as fais avec les autres qui travaille sur dans cette direction **depuis ta thèse** en prenant les éléments essentiels avant ta thèse (nouveautés, des identités, des clotures de contraintes, etc.). **Enlever le gras.** Dans ta thèse, c’est une exploration qui pose des choses très importantes mais qui sont des fois pas formulé dans la version qu’elle a aujourd’hui.
 
 **Articule ensemble les différents concepts** et de les mettre en relation, dans leur spécificité et dans leur ensemble et de les mettre en contraste avec l’épistémologie de la physique.

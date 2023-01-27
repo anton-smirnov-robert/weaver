@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f0b5cb2d58182b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/novelty in chess and arts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1526f2284b9df8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Projet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5703defe50ece4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/drafts/marketization of science/marketization_of_scientific_research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f1d7db9a2550b89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/drafts/marketization of science/A letter to Michael Polanyi.md",
+                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Projet.md",
+                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Projet.md",
+                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Projet.md"
+                "file": "Allons-nous continuer la recherche scientifique ?.md"
               }
             }
           }
@@ -186,14 +149,14 @@
   "active": "a1526f2284b9df8f",
   "lastOpenFiles": [
     "private/novelty in chess and arts.md",
+    "concept/mechanistic system.md",
+    "concept/mechanistic organization.md",
     "Allons-nous continuer la recherche scientifique ?.md",
-    "reference/Canguilhem1992b.md",
-    "reference/Stiegler2021.md",
     "private/drafts/marketization of science/marketization_of_scientific_research.md",
-    "private/drafts/marketization of science/A letter to Michael Polanyi.md",
-    "note/note on Paic2019.md",
-    "note/note on Henriques2013.md",
     "note/note on Polanyi1962.md",
-    "private/drafts/marketization of science/Polanyi's Republic of Science.md"
+    "reference/Montevil2021.md",
+    "(brouillon) Doit-on continuer la recherche scientifique ?.md",
+    "About me.md",
+    "about the website.md"
   ]
 }
