@@ -1,8 +1,13 @@
 
 
+### Quand et quelle école doctorale ?
+
+
+Comission 52 et 54. 
+
+### Sujet 
 Le problème de l’Anthropocène est un problème lié à l’épistémologie de la biologie. 
 
-  
 Je crois qu’on est d’accord pour dire que la meilleure façon malgré tout de faire changer les mentalités, c’est de faire des théories solides dans un contexte donné et bien précis. Ensuite, et seulement ensuite, elle diffuse dans le reste des idées et étende les manières dont on résout les problèmes. 
 
 
