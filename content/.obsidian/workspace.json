@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
+                "file": "private/novelty in chess and arts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1526f2284b9df8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/projet thèse.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
+                "file": "private/projet thèse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
+                "file": "private/projet thèse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md"
+                "file": "private/projet thèse.md"
               }
             }
           }
@@ -170,17 +183,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5f0b5cb2d58182b3",
+  "active": "a1526f2284b9df8f",
   "lastOpenFiles": [
-    "reference/Canguilhem1992b.md",
+    "private/novelty in chess and arts.md",
     "Allons-nous continuer la recherche scientifique ?.md",
+    "reference/Canguilhem1992b.md",
     "reference/Stiegler2021.md",
     "private/drafts/marketization of science/marketization_of_scientific_research.md",
     "private/drafts/marketization of science/A letter to Michael Polanyi.md",
     "note/note on Paic2019.md",
     "note/note on Henriques2013.md",
     "note/note on Polanyi1962.md",
-    "private/drafts/marketization of science/Polanyi's Republic of Science.md",
-    "reference/Mirowski2011.md"
+    "private/drafts/marketization of science/Polanyi's Republic of Science.md"
   ]
 }
