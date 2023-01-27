@@ -40,23 +40,25 @@ Nous avons vu que depuis les années soixantes, la science occidentale est canal
 
 #### Biologiser la technique et dialectiser les sciences
 
-Les premiers interessés par la technique ont été les paléontologues et non les philosophes des sciences. On comprend en effet différement l'outil quand on le regarde comme moyen pour un organisme vivant ou comme finalité d'un processus industriel. Comprendre cette intersection entre biologie et technologie est au coeur de la problèmatique de l'Anthropocène où la technique permet au vivant de s'autodétruire. Nous relèverons seulement un aspect marquant de cette pensée qui est celui de considérer l'objet technique comme prolongement du corps, organe supplémentaire d'un organisme qui lui donne une fonction particulière ([Canguilhem1992b](reference/Canguilhem1992b.md),  [Montevil2021](reference/Montevil2021.md)). 
+Les premiers interessés par la technique ont été les paléontologues et non les philosophes des sciences. On comprend en effet différement l'outil quand on le regarde comme moyen pour un organisme vivant ou comme finalité d'un processus scientifique. Comprendre cette intersection entre biologie et technologie est au coeur de la problèmatique de l'Anthropocène où la technique permet au vivant de s'autodétruire. Nous relèverons seulement un aspect marquant de cette pensée qui est celui de considérer l'objet technique comme prolongement du corps, organe supplémentaire d'un organisme qui lui donne une fonction particulière ([Canguilhem1992b](reference/Canguilhem1992b.md)). 
 
 Partons de ce paradoxe apparent. En utilisant les lois de la physique et ses méthodes, nous parvenons à faire naître dans un univers régit par les seules lois de la mécanique une entité matérielle qui peut éxécuter un mécanisme précis étant donné une utilisation précise. La formation de la machine a lieu dans un univers où l'on s'efforce d'éliminer toute forme de vie ou variations imprévisible. Mais quand l'objet technique est terminé, il est projeté dans la biosphère. Et ce nouveau monde n'est pas régis par les mêmes règles, bien que ces dernière soient *compatibles* avec les premières. Il y a donc une incompatibilité profonde pour un objet technique d'exister dans un monde auquel il n'appartient pas. 
 
 Or l'humain évolue biologiquement et socialement par l'objet technique (feu, écriture, outils, machines, ordinateurs, etc.). S'il se plie aux mécanismes de la machine sans les comprendre il se prolétarise (selon Marx) et automatise son comportement. Pour résoudre l'incompatibilité, il se place dans l'univers de celle-ci et devient *homo computans*, désindividué qui agit mécaniquement (selon Simondon). À l'inverse, il peut être le *virtuso*, l'artisan, le pilote de l'outils mais ceci demande d'amener la machine dans son monde organique, c'est-à-dire l'accompagner d'une pratique individuée (un art spécifique du geste qui n'est plus conscientisé et simple application protocolaire générique) et de règles ou coutumes (pas de feu sans surveillance, pas de lame à l'enfant, etc.). Faire cela nécéssite obligatoirement des savoirs biologiques ou anthropologiques, c'est-à-dire non technique. 
 
-Nous venons donc de voir qu'un objet technique est projeté malgré lui dans la biosphère à laquelle il n'appartient pas car il est construit par des humains qui font justement absraction du vivant pour le fabriquer. Il doit donc être contextualisé et adopté pour y trouver sa place. En dépassant l'idée d'une bonté essentielle de la technique, on peut donc amorcer une réponse à la question de Grothendieck en dialectisant une double fonction des sciences. L'une, technique, permet de construire la machine, l'outils ou la technologie. L'autre, non-technique permet de préserver l'organisation vivante qui l'utilise. Le pharmakon à la fois remède est poison
-
-La technique   [Montevil2021](reference/Montevil2021.md)
+Nous venons donc de voir qu'un objet technique est projeté malgré lui dans la biosphère à laquelle il n'appartient pas car il est construit par des humains qui font justement absraction du vivant pour le fabriquer. Il doit donc être contextualisé et adopté pour y trouver sa place. En dépassant l'idée d'une bonté essentielle de l'objet technique et en le considérant comme un *pharmakon*, drogue à la fois remède et poison, on peut donc amorcer une réponse à la question de Grothendieck en dialectisant deux fonctions de la recherche scienifique. L'une, technique, permet de construire la machine, l'outils, la technologie. L'autre, non-technique, permet de générer des savoirs qui préservent l'organisation vivante et sociale qui l'utilise, en prenne *soin* ([Montevil2021](reference/Montevil2021.md)). 
 
 
+Mais peut-être faut-il encore grossir le trait pour mettre notre aargument plus clair encore. et répondre à l'argument plus fataliste encore que reflète la question, l'impuissance des scientifiques les menaces toujours plus grandes, les nouvelles idées destrcurices qui s'accumule. C'est le détournement de l'objet à ses fins. C'est la edstruction et l'utilisation qui est toujours nouvelle et impréscriptible. L'apparition de nouvelles technologies toujours nouvelles. 
+
+#### Juste une science technicisée et un savoir mal partagé ?
+
+A cet argument nous répondons qu'il s'agit toujours de la connaissance car elle est plus que support décisionel dans un conseil politiques. Elle est aussi infra-décisionel. Elle présuppose les possibles utilisation. Se pose alors la question de la diffusion des savoirs. Elle est d'ordre épistémologique et théorique. 
 
 
+#### L'ordre épistémologique du problème
 
-Néanmoins, ce bref détour a le mérite de nous pointer la chose suivante : comment construire un discours pharmakologique si ce n'est sur des connaissances élaborées par la recherche scientifique ? 
- Il est urgent de trouver, sous l'impulsion de la pensée de Bernard Stiegler, l'espace politique pour discuter de ces *pharmaka*, drogues à la fois poisons et remèdes que constituent les entités techniques. 
-
+Ici on en concluerait que la science technicisée a envahi toutes les sciences et que celle-ci sont minoritaires. Mais c'est faux et on a les cris d'alertes et quelques des explictions suffisantes (physique) pour comprendre le réchauffement climatique. Pourquoi ne pas faire tout simplement plus attention? Pourquoi continuons-nous alors? 
 
 
 
