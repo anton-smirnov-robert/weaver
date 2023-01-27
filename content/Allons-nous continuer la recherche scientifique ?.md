@@ -48,10 +48,14 @@ Or l'humain évolue biologiquement et socialement par l'objet technique (feu, é
 
 Nous venons donc de voir qu'un objet technique est projeté malgré lui dans la biosphère à laquelle il n'appartient pas car il est construit par des humains qui font justement absraction du vivant pour le fabriquer. Il doit donc être contextualisé et adopté pour y trouver sa place. En dépassant l'idée d'une bonté essentielle de l'objet technique et en le considérant comme un *pharmakon*, drogue à la fois remède et poison, on peut donc amorcer une réponse à la question de Grothendieck en dialectisant deux fonctions de la recherche scienifique. L'une, technique, permet de construire la machine, l'outils, la technologie. L'autre, non-technique, permet de générer des savoirs qui préservent l'organisation vivante et sociale qui l'utilise, en prenne *soin* ([Montevil2021](reference/Montevil2021.md)). 
 
+#### Juste une science technicisée et un savoir mal partagé ?
+
+Pourrait-on alors expliquer l'Anthropocène par une technicisation des sciences où les savoirs biologiques, anthropologiques seraient relayées au second plan ? Peut-être, mais l'explication peine à convaincre. Les biologistes diagnostisent bel et bien les catastrophes une à une. Ils peuvent identifier les éléments responsables (Ripple 2017). Il paraît clair qu'il faut *arrêter* certaine choses. 
+
 
 Mais peut-être faut-il encore grossir le trait pour mettre notre aargument plus clair encore. et répondre à l'argument plus fataliste encore que reflète la question, l'impuissance des scientifiques les menaces toujours plus grandes, les nouvelles idées destrcurices qui s'accumule. C'est le détournement de l'objet à ses fins. C'est la edstruction et l'utilisation qui est toujours nouvelle et impréscriptible. L'apparition de nouvelles technologies toujours nouvelles. 
 
-#### Juste une science technicisée et un savoir mal partagé ?
+
 
 A cet argument nous répondons qu'il s'agit toujours de la connaissance car elle est plus que support décisionel dans un conseil politiques. Elle est aussi infra-décisionel. Elle présuppose les possibles utilisation. Se pose alors la question de la diffusion des savoirs. Elle est d'ordre épistémologique et théorique. 
 
