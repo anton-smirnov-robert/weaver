@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Projet.md",
+                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Projet.md",
+                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Projet.md",
+                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Projet.md"
+                "file": "Allons-nous continuer la recherche scientifique ?.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "60614129c472b5b0",
   "lastOpenFiles": [
+    "private/Projet.md",
     "Allons-nous continuer la recherche scientifique ?.md",
     "private/novelty in chess and arts.md",
     "concept/mechanistic system.md",
@@ -156,7 +157,6 @@
     "note/note on Polanyi1962.md",
     "reference/Montevil2021.md",
     "(brouillon) Doit-on continuer la recherche scientifique ?.md",
-    "About me.md",
-    "about the website.md"
+    "About me.md"
   ]
 }

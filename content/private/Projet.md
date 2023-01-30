@@ -105,4 +105,5 @@ Première partie de la thèse + article review en format plus court.** 
   
 **Une deuxième partie :**
 
-Sur quelque chose que j’aurais forcément plus de recul à choisir à la fin de la première partie. Mais, ça peut être la question de mémoire dans le sens de Rovelli. Une contrainte en tant que mémoire. Une trace du passé.
+Sur quelque chose que j’aurais forcément plus de recul à choisir à la fin de la première partie. Mais, ça peut être la question de mémoire dans le sens de Rovelli. 
+Une contrainte en tant que mémoire. Une trace du passé.
