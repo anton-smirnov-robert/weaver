@@ -6272,6 +6272,111 @@
       "select": "zotero://select/library/items/V6W6UQZZ"
     },
     {
+      "key": "5I44NERM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.nature.com/articles/s42254-022-00518-3",
+      "volume": "4",
+      "issue": "12",
+      "pages": "761-769",
+      "publicationTitle": "Nature Reviews Physics",
+      "ISSN": "2522-5820",
+      "date": "2022-10-11",
+      "journalAbbreviation": "Nat Rev Phys",
+      "DOI": "10.1038/s42254-022-00518-3",
+      "accessDate": "2023-01-30T21:55:56Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "An oracle that correctly predicts the outcome of every particle physics experiment, the products of every possible chemical reaction or the function of every protein would revolutionize science and technology. However, scientists would not be entirely satisfied because they would want to comprehend how the oracle made these predictions. This is scientific understanding, one of the main aims of science. With the increase in the available computational power and advances in artificial intelligence, a natural question arises: how can advanced computational systems, and specifically artificial intelligence, contribute to new scientific understanding or gain it autonomously? Trying to answer this question, we adopted a definition of \u2018scientific understanding\u2019 from the philosophy of science that enabled us to overview the scattered literature on the topic and, combined with dozens of anecdotes from scientists, map out three dimensions of computer-assisted scientific understanding. For each dimension, we review the existing state of the art and discuss future developments. We hope that this Perspective will inspire and focus research directions in this multidisciplinary emerging field.",
+      "title": "On scientific understanding with artificial intelligence",
+      "creators": [
+        {
+          "firstName": "Mario",
+          "lastName": "Krenn",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Robert",
+          "lastName": "Pollice",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Si Yue",
+          "lastName": "Guo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Matteo",
+          "lastName": "Aldeghi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alba",
+          "lastName": "Cervera-Lierta",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pascal",
+          "lastName": "Friederich",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gabriel",
+          "lastName": "dos\u00a0Passos\u00a0Gomes",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Florian",
+          "lastName": "H\u00e4se",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Adrian",
+          "lastName": "Jinich",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "AkshatKumar",
+          "lastName": "Nigam",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhenpeng",
+          "lastName": "Yao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Al\u00e1n",
+          "lastName": "Aspuru-Guzik",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-30T21:55:56Z",
+      "dateModified": "2023-01-30T21:55:56Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/5I44NERM",
+      "itemID": 6399,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Krenn et al. - 2022 - On scientific understanding with artificial intell.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-30T21:55:51Z",
+          "dateModified": "2023-01-30T21:55:57Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/K4XUI6Z2",
+          "path": "/Users/robert/Dropbox/zotero/storage/K4XUI6Z2/Krenn et al. - 2022 - On scientific understanding with artificial intell.pdf",
+          "select": "zotero://select/library/items/K4XUI6Z2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Krenn2022",
+      "itemKey": "5I44NERM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5I44NERM"
+    },
+    {
       "key": "YZZZ9C77",
       "version": 0,
       "itemType": "book",
