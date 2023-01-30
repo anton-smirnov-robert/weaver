@@ -2999,6 +2999,66 @@
       "select": "zotero://select/library/items/2MK9QRXL"
     },
     {
+      "key": "UHQMI5DW",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.science.org/doi/10.1126/science.aal4217",
+      "volume": "355",
+      "issue": "6324",
+      "pages": "477-480",
+      "publicationTitle": "Science",
+      "ISSN": "0036-8075, 1095-9203",
+      "date": "2017-02-03",
+      "journalAbbreviation": "Science",
+      "DOI": "10.1126/science.aal4217",
+      "accessDate": "2023-01-30T20:45:35Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "The desire to predict discoveries\u2014to have some idea, in advance, of what will be discovered, by whom, when, and where\u2014pervades nearly all aspects of modern science, from individual scientists to publishers, from funding agencies to hiring committees. In this Essay, we survey the emerging and interdisciplinary field of the \u201cscience of science\u201d and what it teaches us about the predictability of scientific discovery. We then discuss future opportunities for improving predictions derived from the science of science and its potential impact, positive and negative, on the scientific community.",
+      "title": "Data-driven predictions in the science of science",
+      "creators": [
+        {
+          "firstName": "Aaron",
+          "lastName": "Clauset",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Daniel B.",
+          "lastName": "Larremore",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Roberta",
+          "lastName": "Sinatra",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-30T20:45:35Z",
+      "dateModified": "2023-01-30T20:45:36Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/UHQMI5DW",
+      "itemID": 6390,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Clauset et al. - 2017 - Data-driven predictions in the science of science.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-30T20:45:31Z",
+          "dateModified": "2023-01-30T20:45:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/YTUYASTY",
+          "path": "/Users/robert/Dropbox/zotero/storage/YTUYASTY/Clauset et al. - 2017 - Data-driven predictions in the science of science.pdf",
+          "select": "zotero://select/library/items/YTUYASTY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Clauset2017",
+      "itemKey": "UHQMI5DW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UHQMI5DW"
+    },
+    {
       "key": "GB32SD29",
       "version": 0,
       "itemType": "journalArticle",
