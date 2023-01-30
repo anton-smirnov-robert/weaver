@@ -3020,6 +3020,61 @@
       "select": "zotero://select/library/items/RE5CDG97"
     },
     {
+      "key": "2U78MLGN",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://pnas.org/doi/full/10.1073/pnas.2021636118",
+      "volume": "118",
+      "issue": "41",
+      "pages": "e2021636118",
+      "publicationTitle": "Proceedings of the National Academy of Sciences",
+      "ISSN": "0027-8424, 1091-6490",
+      "date": "2021-10-12",
+      "journalAbbreviation": "Proc. Natl. Acad. Sci. U.S.A.",
+      "DOI": "10.1073/pnas.2021636118",
+      "accessDate": "2023-01-30T21:09:06Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Significance\n            The size of scientific fields may impede the rise of new ideas. Examining 1.8 billion citations among 90 million papers across 241 subjects, we find a deluge of papers does not lead to turnover of central ideas in a field, but rather to ossification of canon. Scholars in fields where many papers are published annually face difficulty getting published, read, and cited unless their work references already widely cited articles. New papers containing potentially important contributions cannot garner field-wide attention through gradual processes of diffusion. These findings suggest fundamental progress may be stymied if quantitative growth of scientific endeavors\u2014in number of scientists, institutes, and papers\u2014is not balanced by structures fostering disruptive scholarship and focusing attention on novel ideas.\n          , \n            In many academic fields, the number of papers published each year has increased significantly over time. Policy measures aim to increase the quantity of scientists, research funding, and scientific output, which is measured by the number of papers produced. These quantitative metrics determine the career trajectories of scholars and evaluations of academic departments, institutions, and nations. Whether and how these increases in the numbers of scientists and papers translate into advances in knowledge is unclear, however. Here, we first lay out a theoretical argument for why too many papers published each year in a field can lead to stagnation rather than advance. The deluge of new papers may deprive reviewers and readers the cognitive slack required to fully recognize and understand novel ideas. Competition among many new ideas may prevent the gradual accumulation of focused attention on a promising new idea. Then, we show data supporting the predictions of this theory. When the number of papers published per year in a scientific field grows large, citations flow disproportionately to already well-cited papers; the list of most-cited papers ossifies; new papers are unlikely to ever become highly cited, and when they do, it is not through a gradual, cumulative process of attention gathering; and newly published papers become unlikely to disrupt existing work. These findings suggest that the progress of large scientific fields may be slowed, trapped in existing canon. Policy measures shifting how scientific work is produced, disseminated, consumed, and rewarded may be called for to push fields into new, more fertile areas of study.",
+      "title": "Slowed canonical progress in large fields of science",
+      "creators": [
+        {
+          "firstName": "Johan S. G.",
+          "lastName": "Chu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James A.",
+          "lastName": "Evans",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-30T21:09:06Z",
+      "dateModified": "2023-01-30T21:09:06Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2U78MLGN",
+      "itemID": 6395,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Chu et Evans - 2021 - Slowed canonical progress in large fields of scien.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-30T21:08:59Z",
+          "dateModified": "2023-01-30T21:09:06Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/3MZ774S9",
+          "path": "/Users/robert/Dropbox/zotero/storage/3MZ774S9/Chu et Evans - 2021 - Slowed canonical progress in large fields of scien.pdf",
+          "select": "zotero://select/library/items/3MZ774S9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Chu2021",
+      "itemKey": "2U78MLGN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2U78MLGN"
+    },
+    {
       "key": "2MK9QRXL",
       "version": 0,
       "itemType": "journalArticle",
