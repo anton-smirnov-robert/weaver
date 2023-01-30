@@ -100,7 +100,7 @@
   },
   "version": {
     "zotero": "6.0.20",
-    "bbt": "6.7.53"
+    "bbt": "6.7.54"
   },
   "collections": {},
   "items": [
@@ -1982,6 +1982,72 @@
       "select": "zotero://select/library/items/AF8LL93U",
       "publisher": "Universit\u00e9 Victor Segalen - Bordeaux II",
       "type": "phdthesis"
+    },
+    {
+      "key": "R2KN36JI",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://pubsonline.informs.org/doi/10.1287/mnsc.2015.2285",
+      "volume": "62",
+      "issue": "10",
+      "pages": "2765-2783",
+      "publicationTitle": "Management Science",
+      "ISSN": "0025-1909, 1526-5501",
+      "date": "09/2016",
+      "journalAbbreviation": "Management Science",
+      "DOI": "10.1287/mnsc.2015.2285",
+      "accessDate": "2023-01-30T20:36:13Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Selecting among alternative projects is a core management task in all innovating organizations. In this paper, we focus on the evaluation of frontier scientific research projects. We argue that the \u201cintellectual distance\u201d between the knowledge embodied in research proposals and an evaluator\u2019s own expertise systematically relates to the evaluations given. To estimate relationships, we designed and executed a grant proposal process at a leading research university in which we randomized the assignment of evaluators and proposals to generate 2,130 evaluator\u2013proposal pairs. We find that evaluators systematically give lower scores to research proposals that are closer to their own areas of expertise and to those that are highly novel. The patterns are consistent with biases associated with boundedly rational evaluation of new ideas. The patterns are inconsistent with intellectual distance simply contributing \u201cnoise\u201d or being associated with private interests of evaluators. We discuss implications for policy, managerial intervention, and allocation of resources in the ongoing accumulation of scientific knowledge.\n            This paper was accepted by Lee Fleming, entrepreneurship and innovation.",
+      "title": "Looking Across and Looking Beyond the Knowledge Frontier: Intellectual Distance, Novelty, and Resource Allocation in Science",
+      "shortTitle": "Looking Across and Looking Beyond the Knowledge Frontier",
+      "creators": [
+        {
+          "firstName": "Kevin J.",
+          "lastName": "Boudreau",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eva C.",
+          "lastName": "Guinan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Karim R.",
+          "lastName": "Lakhani",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Christoph",
+          "lastName": "Riedl",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-30T20:36:13Z",
+      "dateModified": "2023-01-30T20:36:13Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/R2KN36JI",
+      "itemID": 6388,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Boudreau et al. - 2016 - Looking Across and Looking Beyond the Knowledge Fr.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-30T20:36:07Z",
+          "dateModified": "2023-01-30T20:36:13Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/C8RIUP3L",
+          "path": "/Users/robert/Dropbox/zotero/storage/C8RIUP3L/Boudreau et al. - 2016 - Looking Across and Looking Beyond the Knowledge Fr.pdf",
+          "select": "zotero://select/library/items/C8RIUP3L"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Boudreau2016",
+      "itemKey": "R2KN36JI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/R2KN36JI"
     },
     {
       "key": "YD2XZY4K",
