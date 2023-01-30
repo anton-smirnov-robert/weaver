@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3ece87dbfaf58265",
+        "id": "ce6160ea19d8120a",
         "type": "tabs",
         "children": [
           {
-            "id": "a1526f2284b9df8f",
+            "id": "60614129c472b5b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a1526f2284b9df8f",
+  "active": "60614129c472b5b0",
   "lastOpenFiles": [
+    "Allons-nous continuer la recherche scientifique ?.md",
     "private/novelty in chess and arts.md",
     "concept/mechanistic system.md",
     "concept/mechanistic organization.md",
-    "Allons-nous continuer la recherche scientifique ?.md",
     "private/drafts/marketization of science/marketization_of_scientific_research.md",
     "note/note on Polanyi1962.md",
     "reference/Montevil2021.md",
