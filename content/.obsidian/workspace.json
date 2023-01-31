@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a36c1501b09935d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/normal science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
+                "file": "concept/normal science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
+                "file": "concept/normal science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md"
+                "file": "concept/normal science.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "60614129c472b5b0",
+  "active": "0a36c1501b09935d",
   "lastOpenFiles": [
-    "private/Projet.md",
     "Allons-nous continuer la recherche scientifique ?.md",
+    "concept/theory-ladenness.md",
+    "concept/commensurability.md",
+    "private/Projet.md",
     "private/novelty in chess and arts.md",
     "concept/mechanistic system.md",
     "concept/mechanistic organization.md",
     "private/drafts/marketization of science/marketization_of_scientific_research.md",
     "note/note on Polanyi1962.md",
-    "reference/Montevil2021.md",
-    "(brouillon) Doit-on continuer la recherche scientifique ?.md",
-    "About me.md"
+    "reference/Montevil2021.md"
   ]
 }

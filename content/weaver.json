@@ -6418,6 +6418,57 @@
       "select": "zotero://select/library/items/YZZZ9C77"
     },
     {
+      "key": "EF4RFSYC",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "University of Chicago press",
+      "date": "2012",
+      "libraryCatalog": "Google Scholar",
+      "title": "The structure of scientific revolutions",
+      "creators": [
+        {
+          "firstName": "Thomas S.",
+          "lastName": "Kuhn",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-01-31T22:07:42Z",
+      "dateModified": "2023-01-31T22:07:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/EF4RFSYC",
+      "itemID": 6409,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-31T22:08:12Z",
+          "dateModified": "2023-01-31T22:08:12Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/3NB2JLGQ",
+          "path": "/Users/robert/Dropbox/zotero/storage/3NB2JLGQ/Kuhn - 2012 - The structure of scientific revolutions.pdf",
+          "select": "zotero://select/library/items/3NB2JLGQ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-01-31T22:08:17Z",
+          "dateModified": "2023-01-31T22:08:17Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/22W5KDID",
+          "path": "/Users/robert/Dropbox/zotero/storage/22W5KDID/books.html",
+          "select": "zotero://select/library/items/22W5KDID"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kuhn2012",
+      "itemKey": "EF4RFSYC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EF4RFSYC"
+    },
+    {
       "key": "HY5R8L4U",
       "version": 0,
       "itemType": "journalArticle",
