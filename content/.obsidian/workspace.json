@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perte de science et recherche de sens..md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md"
+                "file": "Le dangereux prétexte de la tour d'ivoire..md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2cc1d52eb256ab13",
+  "active": "678059274b6f9750",
   "lastOpenFiles": [
-    "Perte de science et recherche de sens..md",
     "private/Allons-nous continuer la recherche scientifique ?.md",
+    "Le dangereux prétexte de la tour d'ivoire..md",
     "concept/normal science.md",
     "concept/theory-ladenness.md",
     "concept/commensurability.md",
