@@ -85,4 +85,8 @@ La citation d'Einstein.
 
 
 
+- Remarque de Maël sur l'Anthropocène. 
+- Premier coupable c'est la biologie.
+
+
 [^1]: "If governments succeed in helping to increase the pace of technical innovation, it will facilitate structural changes in the economy, and increase the supply of new and improved products necessary for Member Governments to achieve rapid economic growth and full employment and without inflation." (OECD, 1966: 8) 
