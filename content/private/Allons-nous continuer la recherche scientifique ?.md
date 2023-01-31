@@ -75,20 +75,8 @@ Elle permet d'ouvrir une sous-pape libérerant la pression de la pluralité conf
 
 Le système de marché, tel que défini par Hayek ([Hayek1945](reference/Hayek1945.md)) a un but (équilibre de l'offre et la demande) et peut se décrire en utilisant l'épistémologie de la mécanique (en tant que partie de la physique) ([Koppl2015](reference/Koppl2015.md)). Il repose alors sur le modèle de la machine. Or si l'on considère que le travail d'un scientifique est avant tout de *poser* les "bonnes questions" — qui seront impréscripteblement pertinente pour la société puisqu'il y appartient ! —, notre analyse montre que les politiques publiques de recherche depuis un demi-siècles ont déléguer ce rôle aux mécanismes du marché. Les chercheurs sont prolètarisés au sens de Marx ([Marx2005](reference/Marx2005.md)). 
 `
-https://sciencespourtous.univ-lyon1.fr/sciences-en-anthropocene-2/
 
 
-#### Conclusion/Discussion/Réponse
-
-
-On va dans le mur si on continue à faire une science paliative. Il faut générer des théories/épisttémoloige radicalement différentes et qui ne sont pas des notions empiriques. 
-La citation d'Einstein. 
-
-
-
-
-- Remarque de Maël sur l'Anthropocène. 
-- Premier coupable c'est la biologie.
 
 
 [^1]: "If governments succeed in helping to increase the pace of technical innovation, it will facilitate structural changes in the economy, and increase the supply of new and improved products necessary for Member Governments to achieve rapid economic growth and full employment and without inflation." (OECD, 1966: 8) 

@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allons-nous continuer la recherche scientifique ?.md",
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a36c1501b09935d",
+            "id": "678059274b6f9750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept/normal science.md",
+                "file": "Perte de science et recherche de sens..md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b7ada1d9f92832a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc1d52eb256ab13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/normal science.md",
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/normal science.md",
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/normal science.md"
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md"
               }
             }
           }
@@ -159,17 +177,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0a36c1501b09935d",
+  "active": "2cc1d52eb256ab13",
   "lastOpenFiles": [
-    "Allons-nous continuer la recherche scientifique ?.md",
+    "Perte de science et recherche de sens..md",
+    "private/Allons-nous continuer la recherche scientifique ?.md",
+    "concept/normal science.md",
     "concept/theory-ladenness.md",
     "concept/commensurability.md",
     "private/Projet.md",
     "private/novelty in chess and arts.md",
     "concept/mechanistic system.md",
     "concept/mechanistic organization.md",
-    "private/drafts/marketization of science/marketization_of_scientific_research.md",
-    "note/note on Polanyi1962.md",
-    "reference/Montevil2021.md"
+    "private/drafts/marketization of science/marketization_of_scientific_research.md"
   ]
 }
