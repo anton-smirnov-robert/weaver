@@ -6679,6 +6679,52 @@
       "select": "zotero://select/library/items/3TFPI3SG"
     },
     {
+      "key": "GKN3NFWP",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Agone",
+      "date": "2022",
+      "libraryCatalog": "Google Scholar",
+      "title": "Gouverner la science: Anatomie d\u2019une r\u00e9forme (2004-2020)",
+      "shortTitle": "Gouverner la science",
+      "creators": [
+        {
+          "firstName": "Jo\u00ebl",
+          "lastName": "Laillier",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Christian",
+          "lastName": "Topalov",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-01T15:42:37Z",
+      "dateModified": "2023-02-01T15:42:37Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/GKN3NFWP",
+      "itemID": 6412,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-01T15:42:42Z",
+          "dateModified": "2023-02-01T15:42:42Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8YMW6LVW",
+          "path": "/Users/robert/Dropbox/zotero/storage/8YMW6LVW/books.html",
+          "select": "zotero://select/library/items/8YMW6LVW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Laillier2022",
+      "itemKey": "GKN3NFWP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GKN3NFWP"
+    },
+    {
       "key": "3ENVXMML",
       "version": 0,
       "itemType": "journalArticle",

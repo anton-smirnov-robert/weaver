@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce40465cbd710ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Laillier2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "file": "private/drafts/marketization of science/marketization_of_scientific_research.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +45,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "91a1745b56d1a252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda76cdaf2b19765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note on Laillier2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "file": "note on Laillier2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "file": "note on Laillier2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md"
+                "file": "note on Laillier2022.md"
               }
             }
           }
@@ -159,17 +189,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "678059274b6f9750",
+  "active": "bda76cdaf2b19765",
   "lastOpenFiles": [
-    "private/Allons-nous continuer la recherche scientifique ?.md",
+    "reference/Laillier2022.md",
     "Le dangereux prétexte de la tour d'ivoire..md",
+    "note on Laillier2022.md",
+    "private/Allons-nous continuer la recherche scientifique ?.md",
+    "private/drafts/marketization of science/marketization_of_scientific_research.md",
+    "private/Projet.md",
     "concept/normal science.md",
     "concept/theory-ladenness.md",
     "concept/commensurability.md",
-    "private/Projet.md",
-    "private/novelty in chess and arts.md",
-    "concept/mechanistic system.md",
-    "concept/mechanistic organization.md",
-    "private/drafts/marketization of science/marketization_of_scientific_research.md"
+    "private/novelty in chess and arts.md"
   ]
 }
