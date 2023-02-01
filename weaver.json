@@ -4954,6 +4954,60 @@
       "select": "zotero://select/library/items/M7QRGYTW"
     },
     {
+      "key": "ACF236UV",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.cairn.info/revue-internationale-de-politique-comparee-2022-1-page-173.htm?ref=doi",
+      "volume": "Vol. 29",
+      "issue": "1",
+      "pages": "173-199",
+      "publicationTitle": "Revue internationale de politique compar\u00e9e",
+      "ISSN": "1370-0731",
+      "date": "2022-6-28",
+      "DOI": "10.3917/ripc.291.0173",
+      "accessDate": "2023-02-01T16:07:27Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "fr",
+      "title": "L\u2019Agence nationale de la recherche, fer de lance d\u2019une internationalisation n\u00e9olib\u00e9rale de la politique scientifique fran\u00e7aise (2004-2010) ?:",
+      "shortTitle": "L\u2019Agence nationale de la recherche, fer de lance d\u2019une internationalisation n\u00e9olib\u00e9rale de la politique scientifique fran\u00e7aise (2004-2010) ?",
+      "creators": [
+        {
+          "firstName": "Johan",
+          "lastName": "Giry",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "\u00c9milien",
+          "lastName": "Schultz",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-01T16:07:27Z",
+      "dateModified": "2023-02-01T16:07:27Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ACF236UV",
+      "itemID": 6415,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Giry et Schultz - 2022 - L\u2019Agence nationale de la recherche, fer de lance d.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-01T16:07:24Z",
+          "dateModified": "2023-02-01T16:07:27Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/TUY32NNB",
+          "path": "/Users/robert/Dropbox/zotero/storage/TUY32NNB/Giry et Schultz - 2022 - L\u2019Agence nationale de la recherche, fer de lance d.pdf",
+          "select": "zotero://select/library/items/TUY32NNB"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Giry2022",
+      "itemKey": "ACF236UV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ACF236UV"
+    },
+    {
       "key": "MJU4B4FW",
       "version": 0,
       "itemType": "bookSection",
