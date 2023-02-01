@@ -8,7 +8,8 @@ Libérez: https://sciencespourtous.univ-lyon1.fr/sciences-en-anthropocene-2/
 - Contexte et introduction (Grothendieck, poitiques, déserteur)
 - Science et maltraitance du tournant néolibérale.
 
-- "Tour d'ivoire" : Isabelle Stengers, Bruno Latour, Science pour tous à Lyon, etc.
+- "Tour d'ivoire" : Isabelle Stengers, Bruno Latour, Science pour tous à Lyon, etc. "un scientifique aime rester dans sa zone de confort".
+- Une autre type d'approche où on vient irriguer les problèmes. 
 - Marché de l'offre et la demande
 - Mécanismes du marché (voir OCDE)
 
