@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference/Laillier2022.md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md",
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Le dangereux prétexte de la tour d'ivoire..md"
+                "file": "private/Allons-nous continuer la recherche scientifique ?.md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "60614129c472b5b0",
   "lastOpenFiles": [
-    "reference/Laillier2022.md",
-    "note on Laillier2022.md",
     "Le dangereux prétexte de la tour d'ivoire..md",
+    "reference/Laillier2022.md",
     "private/Allons-nous continuer la recherche scientifique ?.md",
+    "reference/Krenn2022.md",
+    "reference/Clauset2017.md",
+    "note on Laillier2022.md",
     "private/drafts/marketization of science/marketization_of_scientific_research.md",
     "private/Projet.md",
     "concept/normal science.md",
-    "concept/theory-ladenness.md",
-    "concept/commensurability.md",
-    "private/novelty in chess and arts.md"
+    "concept/theory-ladenness.md"
   ]
 }
