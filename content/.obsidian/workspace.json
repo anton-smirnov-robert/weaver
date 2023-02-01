@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bee0b90e14ac6d37",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md",
+                "file": "Le dangereux prétexte de la tour d'ivoire..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Allons-nous continuer la recherche scientifique ?.md"
+                "file": "Le dangereux prétexte de la tour d'ivoire..md"
               }
             }
           }
@@ -176,10 +177,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "60614129c472b5b0",
+  "active": "ce40465cbd710ed4",
   "lastOpenFiles": [
-    "private/drafts/marketization of science/Polanyi's Republic of Science.md",
     "private/Allons-nous continuer la recherche scientifique ?.md",
+    "private/drafts/marketization of science/Polanyi's Republic of Science.md",
     "Le dangereux prétexte de la tour d'ivoire..md",
     "reference/Laillier2022.md",
     "reference/Krenn2022.md",

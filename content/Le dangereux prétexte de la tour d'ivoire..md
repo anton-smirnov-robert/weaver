@@ -20,3 +20,4 @@ Sur la technique.
 Pourquoi ce marché est pas bon ? Parce que c'est un mécanisme qui prolètarise les chercheurs. Il ne génère permet pas de générer de nouvelles hypothèses pour l'Anthropocène. Empirisme. 
 - Avec Polanyi, double rôle de l'intégration/interprétation des opinions standards scientifiques. 
 
+- Automatisation .
