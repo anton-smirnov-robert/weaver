@@ -21,9 +21,12 @@ The state of explorers can be defined on the frontier of the known discoveries s
 2. Scientific value, that is accuracy, systematic importance and the interest in the subject matter.
 3. Originality, which is the degree of surprise caused by the discovery among scientists
 
-Scientific standards associate two complementary and antagonistic logics: stability and variation (or "conformism" and "dissent"). This duality shows the fundamental characteristic of the scientific authority that encourages its subversion. This aspect make sciences historical because the scientific opinion change throughtout time and therefore so does the interpretation of the scientific standards by researchers. This prevents a differential law of evolution to be valid once for all. The shape of the puzzle change throughout time and this constraints the directions explorers look at. 
+Scientific standards associate two complementary and antagonistic logics: stability and variation (or "conformism" and "dissent"). This duality shows the fundamental characteristic of the scientific orthodoxy that encourages its subversion. 
 
-The overlapping areas of expertise between specialized scientists (or "overlapping neighborhoods") allow them to enforce the authority of the scientific standards when articles are submitted, by the peer-review process. The fragmentized _scientific opinion_ is not held by one single person but by a multitude of individuals that endorse each other. 
+The overlapping areas of expertise between specialized scientists (or "overlapping neighborhoods") allow them to enforce the scientific authority which results from a *contextual interpretation* of the scientific standards. This includes project selection by fundings and the peer-review process of preprints. Because each scientist respect this authority locally, she endorse the overall fragmentized _scientific opinion_ that is not held by one single person but by a multitude of individuals.
+
+In turn, because the scientific opinion change throughtout time, so does the interpretation of the scientific standards by researchers. This makes science traditional (that is historical and specific) because new directions for knowledge to grow (in this simple cumulative view where chronological order implies logical superiority) are chosen by numerous subjective individuals that have access to imprestatable discoveries. 
+
 
 While Polanyi is inspired by the price mechanism, he underlines that the exchange of information between scientists is made by scientific papers and not prices; the former do not convey instructions to reach a known goal. Explorers don't need discoveries to work per se — they give them a better directions to look at — so they are not inert when left alone. 
 
