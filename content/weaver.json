@@ -421,6 +421,51 @@
       "select": "zotero://select/library/items/RSVGRT9W"
     },
     {
+      "key": "23TGVYDW",
+      "version": 0,
+      "itemType": "book",
+      "place": "Cambridge, Mass.",
+      "publisher": "The Academy",
+      "ISBN": "978-0-87724-071-6",
+      "date": "2008",
+      "extra": "OCLC: 231317592",
+      "libraryCatalog": "Open WorldCat",
+      "language": "en",
+      "title": "ARISE: advancing research in science and engineering : investing in early-career scientists and high-risk, high-reward research",
+      "shortTitle": "ARISE",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "American Academy of Arts and Sciences",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-03T15:56:57Z",
+      "dateModified": "2023-02-03T15:59:08Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/23TGVYDW",
+      "itemID": 6430,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "2008 - ARISE advancing research in science and engineeri.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-03T15:56:53Z",
+          "dateModified": "2023-02-03T15:56:58Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VXB956TH",
+          "path": "/Users/robert/Dropbox/zotero/storage/VXB956TH/2008 - ARISE advancing research in science and engineeri.pdf",
+          "select": "zotero://select/library/items/VXB956TH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "AmericanAcademyofArtsandSciences2008",
+      "itemKey": "23TGVYDW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/23TGVYDW"
+    },
+    {
       "key": "CGN3ITLW",
       "version": 0,
       "itemType": "journalArticle",
@@ -9354,6 +9399,69 @@
       "select": "zotero://select/library/items/HST2G4NN"
     },
     {
+      "key": "PESF6QKH",
+      "version": 0,
+      "itemType": "book",
+      "url": "http://purl.access.gpo.gov/GPO/LPS83656",
+      "place": "Arlington, VA",
+      "publisher": "National Science Foundation",
+      "date": "2007",
+      "extra": "Medium: electronic resource",
+      "accessDate": "2023-02-03T16:04:55Z",
+      "libraryCatalog": "National Library of Australia (new catalog)",
+      "title": "Enhancing support of transformative research at the National Science Foundation",
+      "numPages": "13",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "National Science Board (U.S.)",
+          "creatorType": "editor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "National Science Foundation (U.S.)",
+          "type": 1
+        },
+        {
+          "tag": "Research",
+          "type": 1
+        },
+        {
+          "tag": "Science and state",
+          "type": 1
+        },
+        {
+          "tag": "United States",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-02-03T16:04:55Z",
+      "dateModified": "2023-02-03T16:04:55Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/PESF6QKH",
+      "itemID": 6431,
+      "attachments": [],
+      "notes": [
+        {
+          "key": "N63QN7KV",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "PESF6QKH",
+          "note": "Title from title screen (viewed on July 17, 2007) May 7, 2007 \"NSB-07-32.\"",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-03T16:04:55Z",
+          "dateModified": "2023-02-03T16:04:55Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/N63QN7KV"
+        }
+      ],
+      "citationKey": "NationalScienceBoardU.S.2007",
+      "itemKey": "PESF6QKH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PESF6QKH"
+    },
+    {
       "key": "JZHBZMEL",
       "version": 0,
       "itemType": "journalArticle",
@@ -9694,6 +9802,44 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/VBK4YYRV",
       "publisher": "OECD"
+    },
+    {
+      "key": "KV7RMD5Q",
+      "version": 0,
+      "itemType": "report",
+      "date": "2014",
+      "title": "The culture of scientific research: the findings of a series of engagement activities exploring the culture of scientific research in the UK",
+      "creators": [
+        {
+          "firstName": "",
+          "lastName": "Nuffield Council on Bioethics",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-03T16:06:41Z",
+      "dateModified": "2023-02-03T16:07:25Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/KV7RMD5Q",
+      "itemID": 6433,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "The-culture-of-scientific-research-report.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-03T15:56:37Z",
+          "dateModified": "2023-02-03T16:07:47Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/FJ6U2RN6",
+          "path": "/Users/robert/Dropbox/zotero/storage/FJ6U2RN6/The-culture-of-scientific-research-report.pdf",
+          "select": "zotero://select/library/items/FJ6U2RN6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "NuffieldCouncilonBioethics2014",
+      "itemKey": "KV7RMD5Q",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KV7RMD5Q"
     },
     {
       "key": "IAKGQKHD",

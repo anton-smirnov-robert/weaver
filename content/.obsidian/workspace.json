@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce4f83889affb68d",
+            "id": "6869da25c924a86d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "plan article sur science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fbdfb0bd9e5d8d4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4f83889affb68d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,17 +164,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ce4f83889affb68d",
+  "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "private/TOREAD.md",
-    "private/TODO.md",
-    "private/random/projet thèse.md",
-    "private/random/novelty in chess and arts.md",
-    "stop working so hard.md",
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
-    "note/history of organisms as self-determined biological systems.md",
+    "plan article sur science.md",
+    "reference/Chu2021.md",
+    "reference/2008.md",
+    "reference/Stiegler2021.md",
+    "reference/Montevil2021.md",
+    "private/drafts/on science organization/(brouillon) Doit-on continuer la recherche scientifique ?.md",
     "private/drafts/on science organization/Le dangereux prétexte de la tour d'ivoire..md",
-    "private/drafts/on science organization/Polanyi's Republic of Science.md",
-    "reference/Laillier2022.md"
+    "reference/Boudreau2016.md",
+    "private/TOREAD.md"
   ]
 }
