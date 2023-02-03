@@ -1,5 +1,4 @@
 
-
 There was a long period of my life where I biked six miles, took a CrossFit class, ate dry protein powder straight from the scooper, and showered twice before walking into the office at 8 a.m.
 
 For this punishing routine, at the end of each work day (who am I kidding, I went back to the gym for workout number two) I brought home the awe of my colleagues at the design agency where I was a creative director, external validation from my clients who commented on my biceps over Zoom while cooing over designs I'd spent my weekends on, and a raging eating disorder.
