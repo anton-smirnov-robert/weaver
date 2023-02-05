@@ -323,6 +323,18 @@
           "text": "Turing1936"
         }
       ],
+      "/concept/axiom-of-choice": [
+        {
+          "source": "/concept/axiom-of-choice",
+          "target": "/definition/choice-function",
+          "text": "choice function"
+        },
+        {
+          "source": "/concept/axiom-of-choice",
+          "target": "/definition/choice-function",
+          "text": "choice function"
+        }
+      ],
       "/concept/biological-function": [
         {
           "source": "/concept/biological-function",
@@ -503,6 +515,13 @@
           "text": "Brillouin1956"
         }
       ],
+      "/concept/normal-science": [
+        {
+          "source": "/concept/normal-science",
+          "target": "/reference/Kuhn2012",
+          "text": "Kuhn2012"
+        }
+      ],
       "/concept/protein-folding-problem": [
         {
           "source": "/concept/protein-folding-problem",
@@ -659,6 +678,13 @@
           "text": "Boolos2007"
         }
       ],
+      "/definition/systematics": [
+        {
+          "source": "/definition/systematics",
+          "target": "/definition/taxonomy",
+          "text": "taxonomy"
+        }
+      ],
       "/note/history-of-organisms-as-self-determined-biological-systems": [
         {
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
@@ -793,6 +819,13 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
+        }
+      ],
+      "/note/note-on-Laillier2022": [
+        {
+          "source": "/note/note-on-Laillier2022",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
         }
       ],
       "/note/note-on-LiVigni2021": [
@@ -1019,54 +1052,54 @@
           "text": "Jakkaraju2003"
         }
       ],
-      "/note/note-on-Mont%C3%A9vil2015": [
+      "/note/note-on-Monte%CC%81vil2015": [
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/note/history-of-organisms-as-self-determined-biological-systems",
           "text": "history of organisms as self-determined biological systems"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/biological-process",
           "text": "biological process"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/biological-constraint",
           "text": "biological constraint"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/biological-function",
           "text": "biological function"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         }
@@ -1221,302 +1254,821 @@
           "text": "entropy"
         }
       ],
-      "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi": [
+      "/plan-article-sur-science": [
         {
-          "source": "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi",
-          "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
-          "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
-        }
-      ],
-      "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge": [
-        {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/note-on-Hayek1945",
-          "text": "note on Hayek1945"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
         },
         {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
         },
         {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/concept/mechanistic-organization",
-          "text": "mechanistic organization"
-        }
-      ],
-      "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science": [
-        {
-          "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-          "target": "/note/note-on-Polanyi1962",
-          "text": "note on Polanyi1962"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Ripple2017",
+          "text": "Ripple2017"
         },
         {
-          "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        }
-      ],
-      "/private/drafts/marketization-of-science/article-epistemological-mismatch": [
-        {
-          "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
-          "target": "/reference/Holton1975",
-          "text": "Holton1975"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
         },
         {
-          "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
-          "target": "/reference/Fodor1974",
-          "text": "Fodor1974"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
         },
         {
-          "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
-        }
-      ],
-      "/private/drafts/marketization-of-science/marketization_of_scientific_research": [
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/note-on-Paic2019",
-          "text": "note on Paic2019"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/note-on-Hayek1945",
-          "text": "note on Hayek1945"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/note-on-Polanyi1962",
-          "text": "note on Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/note/note-on-Henriques2013",
-          "text": "note on Henriques2013"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Marx2005",
-          "text": "Marx2005"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Stiegler2012",
-          "text": "Stiegler2012"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Alombert2021",
-          "text": "Alombert2021"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Longo2013",
-          "text": "Longo2013"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Blok2015",
-          "text": "Blok2015"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Smith1887",
-          "text": "Smith1887"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Schwartz2015",
-          "text": "Schwartz2015"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/OECD2021a",
-          "text": "OECD2021a"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Chavalarias2020a",
-          "text": "Chavalarias2020a"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Yong2018",
-          "text": "Yong2018"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Elzinga1997",
-          "text": "Elzinga1997"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Longo2016",
-          "text": "Longo2016"
-        },
-        {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Muthukrishna2019",
-          "text": "Muthukrishna2019"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/NuffieldCouncilonBioethics2014",
+          "text": "NuffieldCouncilonBioethics2014"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/AmericanAcademyofArtsandSciences2008",
+          "text": "AmericanAcademyofArtsandSciences2008"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/plan-article-sur-science",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/OECD1966",
-          "text": "OECD1966"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Godin2019",
+          "text": "Godin2019"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        }
+      ],
+      "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi": [
+        {
+          "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
+          "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
+          "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
+        }
+      ],
+      "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique": [
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Nolan2021",
           "text": "Nolan2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/OECD1966",
+          "text": "OECD1966"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-          "target": "/reference/Stiegler2021",
-          "text": "Stiegler2021"
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Tordjman2021a",
+          "text": "Tordjman2021a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Godin2019",
+          "text": "Godin2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Ripple2017",
+          "text": "Ripple2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Marx2005",
+          "text": "Marx2005"
+        }
+      ],
+      "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge": [
+        {
+          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+          "target": "/note/note-on-Hayek1945",
+          "text": "note on Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+          "target": "/concept/mechanistic-organization",
+          "text": "mechanistic organization"
+        }
+      ],
+      "/private/drafts/on-science-organization/Polanyis-Republic-of-Science": [
+        {
+          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
+          "target": "/note/note-on-Polanyi1962",
+          "text": "note on Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        }
+      ],
+      "/private/drafts/on-science-organization/article-epistemological-mismatch": [
+        {
+          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
+          "target": "/reference/Holton1975",
+          "text": "Holton1975"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
+          "target": "/reference/Fodor1974",
+          "text": "Fodor1974"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        }
+      ],
+      "/private/drafts/on-science-organization/marketization_of_scientific_research": [
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/note/note-on-Paic2019",
+          "text": "note on Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/note/note-on-Hayek1945",
+          "text": "note on Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/note/note-on-Polanyi1962",
+          "text": "note on Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/note/note-on-Henriques2013",
+          "text": "note on Henriques2013"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Marx2005",
+          "text": "Marx2005"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Stiegler2012",
+          "text": "Stiegler2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Longo2013",
+          "text": "Longo2013"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Blok2015",
+          "text": "Blok2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Smith1887",
+          "text": "Smith1887"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Schwartz2015",
+          "text": "Schwartz2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/OECD2021a",
+          "text": "OECD2021a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Chavalarias2020a",
+          "text": "Chavalarias2020a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Yong2018",
+          "text": "Yong2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Longo2016",
+          "text": "Longo2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/OECD1966",
+          "text": "OECD1966"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Nolan2021",
+          "text": "Nolan2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Stiegler2021",
+          "text": "Stiegler2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Calude2017",
           "text": "Calude2017"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Anderson2008",
           "text": "Anderson2008"
         }
@@ -1743,7 +2295,7 @@
       ],
       "/concept/biological-function": [
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/biological-function",
           "text": "biological function"
         }
@@ -1755,17 +2307,17 @@
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
@@ -1862,7 +2414,7 @@
           "text": "mechanistic organization"
         },
         {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
+          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
           "target": "/concept/mechanistic-organization",
           "text": "mechanistic organization"
         }
@@ -2022,7 +2574,7 @@
           "text": "biological constraint"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/biological-constraint",
           "text": "biological constraint"
         },
@@ -2039,9 +2591,21 @@
           "text": "biological process"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/biological-process",
           "text": "biological process"
+        }
+      ],
+      "/definition/choice-function": [
+        {
+          "source": "/concept/axiom-of-choice",
+          "target": "/definition/choice-function",
+          "text": "choice function"
+        },
+        {
+          "source": "/concept/axiom-of-choice",
+          "target": "/definition/choice-function",
+          "text": "choice function"
         }
       ],
       "/definition/complexity": [
@@ -2077,7 +2641,7 @@
           "text": "dependence between constraints"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
         }
@@ -2207,6 +2771,13 @@
           "text": "syntax"
         }
       ],
+      "/definition/taxonomy": [
+        {
+          "source": "/definition/systematics",
+          "target": "/definition/taxonomy",
+          "text": "taxonomy"
+        }
+      ],
       "/manifesto": [
         {
           "source": "/About-me",
@@ -2216,7 +2787,7 @@
       ],
       "/note/history-of-organisms-as-self-determined-biological-systems": [
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/note/history-of-organisms-as-self-determined-biological-systems",
           "text": "history of organisms as self-determined biological systems"
         },
@@ -2228,19 +2799,19 @@
       ],
       "/note/note-on-Hayek1945": [
         {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
+          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
           "target": "/note/note-on-Hayek1945",
           "text": "note on Hayek1945"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/note/note-on-Hayek1945",
           "text": "note on Hayek1945"
         }
       ],
       "/note/note-on-Henriques2013": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/note/note-on-Henriques2013",
           "text": "note on Henriques2013"
         }
@@ -2274,40 +2845,57 @@
       ],
       "/note/note-on-Paic2019": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/note/note-on-Paic2019",
           "text": "note on Paic2019"
         }
       ],
       "/note/note-on-Polanyi1962": [
         {
-          "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
+          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
           "target": "/note/note-on-Polanyi1962",
           "text": "note on Polanyi1962"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/note/note-on-Polanyi1962",
           "text": "note on Polanyi1962"
         }
       ],
       "/reference/Alombert2021": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Alombert2021",
           "text": "Alombert2021"
         }
       ],
+      "/reference/AmericanAcademyofArtsandSciences2008": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/AmericanAcademyofArtsandSciences2008",
+          "text": "AmericanAcademyofArtsandSciences2008"
+        }
+      ],
       "/reference/Anderson2007": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Anderson2007",
           "text": "Anderson2007"
         }
       ],
       "/reference/Anderson2008": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Anderson2008",
           "text": "Anderson2008"
         }
@@ -2319,9 +2907,31 @@
           "text": "Anfinsen1973"
         }
       ],
+      "/reference/Arora2018": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        }
+      ],
       "/reference/Arrow1962": [
         {
           "source": "/note/note-on-Henriques2013",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Arrow1962",
+          "text": "Arrow1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
         }
@@ -2342,14 +2952,34 @@
       ],
       "/reference/Audetat2015": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Audetat2015",
           "text": "Audetat2015"
         }
       ],
       "/reference/Baker2016": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Baker2016",
           "text": "Baker2016"
         }
@@ -2375,7 +3005,7 @@
           "text": "Blok2015"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
         }
@@ -2387,7 +3017,12 @@
           "text": "Blok2015a"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         }
@@ -2424,6 +3059,18 @@
           "text": "Boolos2007"
         }
       ],
+      "/reference/Boudreau2016": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        }
+      ],
       "/reference/Brillouin1951": [
         {
           "source": "/concept/Brillouins-relation-between-entropy-and-information",
@@ -2457,9 +3104,16 @@
       ],
       "/reference/Calude2017": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Calude2017",
           "text": "Calude2017"
+        }
+      ],
+      "/reference/Canguilhem1992b": [
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
         }
       ],
       "/reference/Cannon1929": [
@@ -2471,16 +3125,38 @@
       ],
       "/reference/Chavalarias2016": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Chavalarias2016",
           "text": "Chavalarias2016"
         }
       ],
       "/reference/Chavalarias2020a": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Chavalarias2020a",
           "text": "Chavalarias2020a"
+        }
+      ],
+      "/reference/Chu2021": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
         }
       ],
       "/reference/Crick1958": [
@@ -2514,6 +3190,16 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
         }
       ],
       "/reference/Deffuant2015": [
@@ -2525,7 +3211,7 @@
       ],
       "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018": [
         {
-          "source": "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi",
+          "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
           "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
           "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
         }
@@ -2535,18 +3221,38 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
         }
       ],
       "/reference/Edwards2017": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Edwards2017",
           "text": "Edwards2017"
         }
       ],
       "/reference/Elzinga1997": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Elzinga1997",
           "text": "Elzinga1997"
         }
@@ -2560,14 +3266,39 @@
       ],
       "/reference/Fang2012": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Fang2012",
           "text": "Fang2012"
         }
       ],
       "/reference/Fire2019": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Fire2019",
           "text": "Fire2019"
         }
@@ -2581,9 +3312,42 @@
       ],
       "/reference/Fodor1974": [
         {
-          "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
+          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
           "target": "/reference/Fodor1974",
           "text": "Fodor1974"
+        }
+      ],
+      "/reference/Giry2022": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        }
+      ],
+      "/reference/Godin2019": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Godin2019",
+          "text": "Godin2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Godin2019",
+          "text": "Godin2019"
+        }
+      ],
+      "/reference/Godin2020": [
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        }
+      ],
+      "/reference/Grothendieck1972": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
         }
       ],
       "/reference/Hayek1945": [
@@ -2598,24 +3362,39 @@
           "text": "Hayek1945"
         },
         {
-          "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         }
       ],
       "/reference/Hayek1979": [
         {
-          "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
+          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
           "target": "/reference/Hayek1979",
           "text": "Hayek1979"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Hayek1979",
           "text": "Hayek1979"
         }
@@ -2637,18 +3416,43 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
         }
       ],
       "/reference/Hill2020": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Hill2020",
           "text": "Hill2020"
         }
       ],
       "/reference/Holton1975": [
         {
-          "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
+          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
           "target": "/reference/Holton1975",
           "text": "Holton1975"
         }
@@ -2693,11 +3497,54 @@
           "text": "Kauffman2000"
         }
       ],
+      "/reference/Koppl2015": [
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        }
+      ],
       "/reference/Kuhn1970": [
         {
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Kuhn1970",
           "text": "Kuhn1970"
+        }
+      ],
+      "/reference/Kuhn2012": [
+        {
+          "source": "/concept/normal-science",
+          "target": "/reference/Kuhn2012",
+          "text": "Kuhn2012"
+        }
+      ],
+      "/reference/Lacetera2011": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        }
+      ],
+      "/reference/Laillier2022": [
+        {
+          "source": "/note/note-on-Laillier2022",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
         }
       ],
       "/reference/Lazebnik2018": [
@@ -2712,7 +3559,32 @@
           "text": "Lazebnik2018"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         }
@@ -2739,18 +3611,23 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
         }
       ],
       "/reference/Longo2013": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Longo2013",
           "text": "Longo2013"
         }
       ],
       "/reference/Longo2016": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Longo2016",
           "text": "Longo2016"
         }
@@ -2758,6 +3635,16 @@
       "/reference/Longo2021": [
         {
           "source": "/note/note-on-Longo2012",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         }
@@ -2771,7 +3658,12 @@
       ],
       "/reference/Marx2005": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Marx2005",
+          "text": "Marx2005"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Marx2005",
           "text": "Marx2005"
         }
@@ -2795,6 +3687,18 @@
           "text": "Maturana1973"
         }
       ],
+      "/reference/Maxmen2019": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        }
+      ],
       "/reference/MaynardSmith1999": [
         {
           "source": "/note/note-on-Longo2012",
@@ -2804,17 +3708,17 @@
       ],
       "/reference/Merton1957": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Merton1957",
           "text": "Merton1957"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Merton1957",
           "text": "Merton1957"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Merton1957",
           "text": "Merton1957"
         }
@@ -2829,6 +3733,28 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        }
+      ],
+      "/reference/Mirowski2012": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
         }
       ],
       "/reference/Montevil2015": [
@@ -2853,12 +3779,12 @@
           "text": "Montevil2015"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
         {
-          "source": "/note/note-on-Mont%C3%A9vil2015",
+          "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         }
@@ -2870,19 +3796,41 @@
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        }
+      ],
+      "/reference/Montevil2021b": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
         }
       ],
       "/reference/Morin1982": [
@@ -2897,12 +3845,17 @@
           "text": "Morin1982"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         }
@@ -2928,7 +3881,7 @@
       ],
       "/reference/Muthukrishna2019": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Muthukrishna2019",
           "text": "Muthukrishna2019"
         }
@@ -2943,11 +3896,31 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
         }
       ],
       "/reference/Nelson1959": [
         {
           "source": "/note/note-on-Henriques2013",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Nelson1959",
+          "text": "Nelson1959"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
         }
@@ -2959,9 +3932,21 @@
           "text": "Nolan2021"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Nolan2021",
           "text": "Nolan2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Nolan2021",
+          "text": "Nolan2021"
+        }
+      ],
+      "/reference/NuffieldCouncilonBioethics2014": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/NuffieldCouncilonBioethics2014",
+          "text": "NuffieldCouncilonBioethics2014"
         }
       ],
       "/reference/OECD1966": [
@@ -2971,14 +3956,26 @@
           "text": "OECD1966"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/OECD1966",
+          "text": "OECD1966"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/OECD1966",
           "text": "OECD1966"
         }
       ],
+      "/reference/OECD2021": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        }
+      ],
       "/reference/OECD2021a": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/OECD2021a",
           "text": "OECD2021a"
         }
@@ -2990,19 +3987,71 @@
           "text": "Paic2019"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        }
+      ],
+      "/reference/Park2023": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
         }
       ],
       "/reference/Petit2019": [
@@ -3012,14 +4061,29 @@
           "text": "Petit2019"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         }
       ],
       "/reference/Petit2019a": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Petit2019a",
           "text": "Petit2019a"
         }
@@ -3029,6 +4093,13 @@
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
           "target": "/reference/Piaget1967",
           "text": "Piaget1967"
+        }
+      ],
+      "/reference/Pieiller2023": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
         }
       ],
       "/reference/Piganiol1963": [
@@ -3062,12 +4133,37 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
+          "source": "/plan-article-sur-science",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -3075,6 +4171,18 @@
           "source": "/reference/Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
+        }
+      ],
+      "/reference/Ripple2017": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Ripple2017",
+          "text": "Ripple2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Ripple2017",
+          "text": "Ripple2017"
         }
       ],
       "/reference/Rosen1991": [
@@ -3096,6 +4204,18 @@
           "source": "/note/note-on-Rovelli2017",
           "target": "/reference/Rovelli2017",
           "text": "Rovelli2017"
+        }
+      ],
+      "/reference/Sandstrom2018": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
         }
       ],
       "/reference/Schrodinger1944": [
@@ -3132,7 +4252,7 @@
       ],
       "/reference/Schwartz2015": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Schwartz2015",
           "text": "Schwartz2015"
         }
@@ -3163,28 +4283,45 @@
       ],
       "/reference/Smith1887": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Smith1887",
           "text": "Smith1887"
         }
       ],
       "/reference/Soto2021": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
         }
       ],
+      "/reference/Soto2021a": [
+        {
+          "source": "/plan-article-sur-science",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
+        }
+      ],
       "/reference/Stiegler2012": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Stiegler2012",
           "text": "Stiegler2012"
         }
       ],
       "/reference/Stiegler2021": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Stiegler2021",
           "text": "Stiegler2021"
         }
@@ -3201,6 +4338,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
+        }
+      ],
+      "/reference/Tordjman2021a": [
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Tordjman2021a",
+          "text": "Tordjman2021a"
         }
       ],
       "/reference/Turing1936": [
@@ -3245,7 +4389,7 @@
       ],
       "/reference/Yong2018": [
         {
-          "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Yong2018",
           "text": "Yong2018"
         }
@@ -3541,6 +4685,16 @@
       "text": "Turing1936"
     },
     {
+      "source": "/concept/axiom-of-choice",
+      "target": "/definition/choice-function",
+      "text": "choice function"
+    },
+    {
+      "source": "/concept/axiom-of-choice",
+      "target": "/definition/choice-function",
+      "text": "choice function"
+    },
+    {
       "source": "/concept/biological-function",
       "target": "/definition/biological-constraint",
       "text": "biological constraint"
@@ -3701,6 +4855,11 @@
       "text": "Brillouin1956"
     },
     {
+      "source": "/concept/normal-science",
+      "target": "/reference/Kuhn2012",
+      "text": "Kuhn2012"
+    },
+    {
       "source": "/concept/protein-folding-problem",
       "target": "/reference/Zwanzig1992",
       "text": "Zwanzig1992"
@@ -3831,6 +4990,11 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/definition/systematics",
+      "target": "/definition/taxonomy",
+      "text": "taxonomy"
+    },
+    {
       "source": "/note/history-of-organisms-as-self-determined-biological-systems",
       "target": "/reference/Kant1790",
       "text": "Kant1790"
@@ -3959,6 +5123,11 @@
       "source": "/note/note-on-Henriques2013",
       "target": "/reference/Kuhn1970",
       "text": "Kuhn1970"
+    },
+    {
+      "source": "/note/note-on-Laillier2022",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
     },
     {
       "source": "/note/note-on-LiVigni2021",
@@ -4196,52 +5365,52 @@
       "text": "Morin1982"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/reference/Montevil2015",
       "text": "Montevil2015"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/note/history-of-organisms-as-self-determined-biological-systems",
       "text": "history of organisms as self-determined biological systems"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/definition/biological-process",
       "text": "biological process"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/definition/biological-constraint",
       "text": "biological constraint"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/definition/dependence-between-constraints",
       "text": "dependence between constraints"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/concept/closure-of-constraints",
       "text": "closure of constraints"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/concept/closure-of-constraints",
       "text": "closure of constraints"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/concept/closure-of-constraints",
       "text": "closure of constraints"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/concept/biological-function",
       "text": "biological function"
     },
     {
-      "source": "/note/note-on-Mont%C3%A9vil2015",
+      "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/reference/Montevil2015",
       "text": "Montevil2015"
     },
@@ -4371,292 +5540,807 @@
       "text": "entropy"
     },
     {
-      "source": "/private/drafts/marketization-of-science/A-letter-to-Michael-Polanyi",
-      "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
-      "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Pieiller2023",
+      "text": "Pieiller2023"
     },
     {
-      "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/note/note-on-Hayek1945",
-      "text": "note on Hayek1945"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Grothendieck1972",
+      "text": "Grothendieck1972"
     },
     {
-      "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Ripple2017",
+      "text": "Ripple2017"
     },
     {
-      "source": "/private/drafts/marketization-of-science/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/concept/mechanistic-organization",
-      "text": "mechanistic organization"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Soto2021a",
+      "text": "Soto2021a"
     },
     {
-      "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-      "target": "/note/note-on-Polanyi1962",
-      "text": "note on Polanyi1962"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Montevil2021b",
+      "text": "Montevil2021b"
     },
     {
-      "source": "/private/drafts/marketization-of-science/Polanyis-Republic-of-Science",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
     },
     {
-      "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
-      "target": "/reference/Holton1975",
-      "text": "Holton1975"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
     },
     {
-      "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
-      "target": "/reference/Fodor1974",
-      "text": "Fodor1974"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/article-epistemological-mismatch",
-      "target": "/reference/Hayek1979",
-      "text": "Hayek1979"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/note-on-Paic2019",
-      "text": "note on Paic2019"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/note-on-Hayek1945",
-      "text": "note on Hayek1945"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/note-on-Polanyi1962",
-      "text": "note on Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/note/note-on-Henriques2013",
-      "text": "note on Henriques2013"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Marx2005",
-      "text": "Marx2005"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Stiegler2012",
-      "text": "Stiegler2012"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Alombert2021",
-      "text": "Alombert2021"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Longo2013",
-      "text": "Longo2013"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Blok2015",
-      "text": "Blok2015"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Smith1887",
-      "text": "Smith1887"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Schwartz2015",
-      "text": "Schwartz2015"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/OECD2021a",
-      "text": "OECD2021a"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Chavalarias2020a",
-      "text": "Chavalarias2020a"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Audetat2015",
-      "text": "Audetat2015"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Fang2012",
-      "text": "Fang2012"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Edwards2017",
-      "text": "Edwards2017"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Petit2019a",
-      "text": "Petit2019a"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Anderson2007",
-      "text": "Anderson2007"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Chavalarias2016",
-      "text": "Chavalarias2016"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Yong2018",
-      "text": "Yong2018"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Hill2020",
-      "text": "Hill2020"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Hayek1979",
-      "text": "Hayek1979"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Elzinga1997",
-      "text": "Elzinga1997"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Longo2016",
-      "text": "Longo2016"
-    },
-    {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/plan-article-sur-science",
       "target": "/reference/Soto2021",
       "text": "Soto2021"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Muthukrishna2019",
-      "text": "Muthukrishna2019"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Boudreau2016",
+      "text": "Boudreau2016"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/plan-article-sur-science",
+      "target": "/reference/NuffieldCouncilonBioethics2014",
+      "text": "NuffieldCouncilonBioethics2014"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/AmericanAcademyofArtsandSciences2008",
+      "text": "AmericanAcademyofArtsandSciences2008"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/OECD2021",
+      "text": "OECD2021"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/plan-article-sur-science",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/OECD1966",
-      "text": "OECD1966"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Petit2019",
-      "text": "Petit2019"
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Nelson1959",
+      "text": "Nelson1959"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Arrow1962",
+      "text": "Arrow1962"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Godin2019",
+      "text": "Godin2019"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Maxmen2019",
+      "text": "Maxmen2019"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Mirowski2012",
+      "text": "Mirowski2012"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Lacetera2011",
+      "text": "Lacetera2011"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Sandstrom2018",
+      "text": "Sandstrom2018"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Arora2018",
+      "text": "Arora2018"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Giry2022",
+      "text": "Giry2022"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
+    },
+    {
+      "source": "/plan-article-sur-science",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
+      "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
+      "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
       "target": "/reference/Nolan2021",
       "text": "Nolan2021"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
       "target": "/reference/Blok2015a",
       "text": "Blok2015a"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/OECD1966",
+      "text": "OECD1966"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
-      "target": "/reference/Stiegler2021",
-      "text": "Stiegler2021"
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Godin2020",
+      "text": "Godin2020"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Tordjman2021a",
+      "text": "Tordjman2021a"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Maxmen2019",
+      "text": "Maxmen2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Mirowski2012",
+      "text": "Mirowski2012"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Lacetera2011",
+      "text": "Lacetera2011"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Sandstrom2018",
+      "text": "Sandstrom2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Nelson1959",
+      "text": "Nelson1959"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Arrow1962",
+      "text": "Arrow1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Godin2019",
+      "text": "Godin2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Arora2018",
+      "text": "Arora2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Canguilhem1992b",
+      "text": "Canguilhem1992b"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Ripple2017",
+      "text": "Ripple2017"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Boudreau2016",
+      "text": "Boudreau2016"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Koppl2015",
+      "text": "Koppl2015"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "target": "/reference/Marx2005",
+      "text": "Marx2005"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+      "target": "/note/note-on-Hayek1945",
+      "text": "note on Hayek1945"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
+      "target": "/concept/mechanistic-organization",
+      "text": "mechanistic organization"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
+      "target": "/note/note-on-Polanyi1962",
+      "text": "note on Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
+      "target": "/reference/Holton1975",
+      "text": "Holton1975"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
+      "target": "/reference/Fodor1974",
+      "text": "Fodor1974"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/note/note-on-Paic2019",
+      "text": "note on Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/note/note-on-Hayek1945",
+      "text": "note on Hayek1945"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/note/note-on-Polanyi1962",
+      "text": "note on Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/note/note-on-Henriques2013",
+      "text": "note on Henriques2013"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Marx2005",
+      "text": "Marx2005"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Stiegler2012",
+      "text": "Stiegler2012"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Alombert2021",
+      "text": "Alombert2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Longo2013",
+      "text": "Longo2013"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Blok2015",
+      "text": "Blok2015"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Smith1887",
+      "text": "Smith1887"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Schwartz2015",
+      "text": "Schwartz2015"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/OECD2021a",
+      "text": "OECD2021a"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Chavalarias2020a",
+      "text": "Chavalarias2020a"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Yong2018",
+      "text": "Yong2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Longo2016",
+      "text": "Longo2016"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Muthukrishna2019",
+      "text": "Muthukrishna2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/OECD1966",
+      "text": "OECD1966"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Nolan2021",
+      "text": "Nolan2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Blok2015a",
+      "text": "Blok2015a"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Stiegler2021",
+      "text": "Stiegler2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
       "target": "/reference/Calude2017",
       "text": "Calude2017"
     },
     {
-      "source": "/private/drafts/marketization-of-science/marketization_of_scientific_research",
+      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
       "target": "/reference/Anderson2008",
       "text": "Anderson2008"
     },
