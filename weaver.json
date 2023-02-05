@@ -99,7 +99,7 @@
     }
   },
   "version": {
-    "zotero": "6.0.20",
+    "zotero": "6.0.21",
     "bbt": "6.7.54"
   },
   "collections": {},
@@ -5265,6 +5265,36 @@
       "itemKey": "U697RFRL",
       "libraryID": 1,
       "select": "zotero://select/library/items/U697RFRL"
+    },
+    {
+      "key": "AKHVSZ62",
+      "version": 0,
+      "itemType": "conferencePaper",
+      "volume": "27",
+      "date": "1972",
+      "libraryCatalog": "Google Scholar",
+      "title": "Allons-nous continuer la recherche scientifique ?",
+      "shortTitle": "Allons-nous continuer la recherche scientifique?",
+      "creators": [
+        {
+          "firstName": "Alexandre",
+          "lastName": "Grothendieck",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-05T11:58:35Z",
+      "dateModified": "2023-02-05T11:58:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/AKHVSZ62",
+      "itemID": 6434,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Grothendieck1972",
+      "itemKey": "AKHVSZ62",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AKHVSZ62",
+      "publicationTitle": "Transcrit par Jacqueline Picard de la conf\u00e9rence-d\u00e9bat donn\u00e9e au CERN le"
     },
     {
       "key": "INX97ID8",
