@@ -9,12 +9,12 @@ Plusieurs acteurs ont récemment tirer la sonnette d'alarme concernant le décli
 
 #### Introduction
 
-- Perte de sens dans le système, nouveaux imaginaires, nouvelles propositions et philosophies. Mais il faut aussi de nouveaux savoirs rationels et fiables pour transformer le monde concrètement. 
+- Perte de sens dans le système, nouveaux imaginaires, nouvelles propositions et philosophies ([Pieiller2023](reference/Pieiller2023.md)). Mais il faut aussi de nouveaux savoirs rationels et fiables pour transformer le monde concrètement. 
 
 - Or la science, depuis l'interrogation de Grothendieck ou même Marx est ambivalente ([Grothendieck1972](reference/Grothendieck1972.md)). C'est le bras droit du. capitalisme quand il lui donne les moyens techniques d'exploitation et de production, mais il permet aussi de diagnostiquer les dégats.
 
 - Il semble se dessiner une polarisation simpliste d'une science productrice de technique délétaires et d'une science défensive qui diagnostique, toujours trop tard les problèmes. Par exemple, le cas des perturbateurs endocrinien montre qu'on est dans la disruption et que tant qu'on sera dans ce système il y aura des problèmes. 
-
+- 
 - Cette disruption vient d'une vision naive des technologies qui  doivent être biologisés et intégrés chez un humain ou dans une société. Pour réussir à faire cela il faut générer de nouveaux savoirs sur la biosphère, la technosphère, et leurs recouvrements etc.
 
 - Or, pour ne pas être dans le diagnostique, la détection de données, l'observation pures des catastrophes, il faut générer de nouvelles façons de voir les choses, c'est-à-dire de nouvelles théories. Il est donc crucial (non pas d'arrêter la science) que la science puisse obtenir des résultats qui la pousse vers d'autres directions. 

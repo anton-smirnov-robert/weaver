@@ -10499,6 +10499,34 @@
       "select": "zotero://select/library/items/XNHZS7SS"
     },
     {
+      "key": "NG4KA58H",
+      "version": 0,
+      "itemType": "newspaperArticle",
+      "pages": "3",
+      "publicationTitle": "Le Monde diplomatique",
+      "date": "02/2023",
+      "title": "Imaginaires de l\u2019avenir",
+      "creators": [
+        {
+          "firstName": "Evelyne",
+          "lastName": "Pieiller",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-05T12:09:49Z",
+      "dateModified": "2023-02-05T12:12:27Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/NG4KA58H",
+      "itemID": 6435,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Pieiller2023",
+      "itemKey": "NG4KA58H",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NG4KA58H"
+    },
+    {
       "key": "WBB555W8",
       "version": 0,
       "itemType": "book",
