@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fbdfb0bd9e5d8d4a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce4f83889affb68d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -167,14 +149,14 @@
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
+    "note/note on Polanyi1962.md",
+    "private/drafts/on science organization/Polanyi's Republic of Science.md",
     "plan article sur science.md",
     "reference/Chu2021.md",
     "reference/2008.md",
     "reference/Stiegler2021.md",
     "reference/Montevil2021.md",
     "private/drafts/on science organization/(brouillon) Doit-on continuer la recherche scientifique ?.md",
-    "private/drafts/on science organization/Le dangereux prétexte de la tour d'ivoire..md",
-    "reference/Boudreau2016.md",
-    "private/TOREAD.md"
+    "private/drafts/on science organization/Le dangereux prétexte de la tour d'ivoire..md"
   ]
 }

@@ -7,6 +7,23 @@ Absract:
 Plusieurs acteurs ont récemment tirer la sonnette d'alarme concernant le déclin de la capacité des articles scientifiques à faire rebondire la recherche dans de nouvelles directions. Bien que les politiques de la science de ces dernières décennies soient à l'origine de cette inquiétante tendance, une explication invoquant exclusivement et vaguement une technicisation ou une marchandisation de la science n'est pas concluante. En partant de la République de la Science de Micheal Polanyi et en y discutant les effets cumulatifs de ces deux processus présicément définis, nous suggérons une explication à la perte d'historicité, spécificité et générativité de la science. 
 
 
+#### Introduction
+
+- Perte de sens dans le système, nouveaux imaginaires, nouvelles propositions et philosophies. Mais il faut aussi de nouveaux savoirs rationels et fiables pour transformer le monde concrètement. 
+
+- Or la science, depuis l'interrogation de Grothendieck ou même Marx est ambivalente ([Grothendieck1972](reference/Grothendieck1972.md)). C'est le bras droit du. capitalisme quand il lui donne les moyens techniques d'exploitation et de production, mais il permet aussi de diagnostiquer les dégats.
+
+- Il semble se dessiner une polarisation simpliste d'une science productrice de technique délétaires et d'une science défensive qui diagnostique, toujours trop tard les problèmes. Par exemple, le cas des perturbateurs endocrinien montre qu'on est dans la disruption et que tant qu'on sera dans ce système il y aura des problèmes. 
+
+- Cette disruption vient d'une vision naive des technologies qui  doivent être biologisés et intégrés chez un humain ou dans une société. Pour réussir à faire cela il faut générer de nouveaux savoirs sur la biosphère, la technosphère, et leurs recouvrements etc.
+
+- Or, pour ne pas être dans le diagnostique, la détection de données, l'observation pures des catastrophes, il faut générer de nouvelles façons de voir les choses, c'est-à-dire de nouvelles théories. Il est donc crucial (non pas d'arrêter la science) que la science puisse obtenir des résultats qui la pousse vers d'autres directions. 
+ 
+- Pour être très concret, au lieu de repousser le problème en dehors des sciences sur l'utilisation des produits qu'elle permet de faire, il faut voir comment le choix politique de l'utilisation d'un techniqiue est contraint par la théorie qui la permet. On est dans une crise sur le vivant et la prix Nobel Jennifer Doudna dit qu'elle est capable de reprogrammer le vivant. Elle tend un perche en s'appuyant sur une théorie qui peine à être dépassée en biologie. Il y a donc du très concret à opérer à l'intérieur même des sciences rapidement. ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md))
+
+- Comment comprendre cette perte de la capacité à se rénouveller ? + plan
+
+
 # Des sonettes d'alarmes
 
 ##### Pourquoi c'est important que la science puisse se régénerer.
@@ -15,7 +32,9 @@ Allons-nous continuer la rechercher scientifique ? de Grothendiek. Aujourd'hui, 
 Pour cela, la science, bien qu'elle ait toujours était un bras droit quand elle se réduit au service de la technique, a le pouvoir de marcher par négation, lui empêcher de faire des choses ou montrer ses défauts, changer les imaginaires, ouvrir des possible. Autrement dit, il faut qu'elle puisse elle-même se régénérer car aujourd'hui, elle ne suffit pas. Peut-être que la chose la plus grave serait justement qu'elle soit à l'arrêt. 
 
 ##### Un exemple: le vivant, l'Anthropocène et les prix Nobel
+
 Un exemple frappant qui montre que le problème ne peut être expulser des sciences et peut-être l'exemple de Jennifer Doudna. ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md)).
+
 Ici, on comprend clairement que le problème se trouve dans les sciences, et que la théorie scientifique lui permet donc dire cette chose. Clairement elle tend la perche au technoprophète. Autrement dit, s'il est possible de redonnner un peu de capacité d'action au scientifiques, peut-être faudrait-ils qu'il balayent devant leur porte avant de crier à la manipulation abusive de leur résultat.
 
 A travers cet exemple, on comprend que ce qui reste c'est les vestiges de la théorie pan-génétique qui permet d'introduire une determination laplacienne entre un génome et un phénotype. Il y a clairement dessous un problème théorique, ce qui montre l'absence de régénération de la discipline.
