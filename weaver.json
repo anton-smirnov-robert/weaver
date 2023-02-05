@@ -12407,6 +12407,67 @@
       "select": "zotero://select/library/items/9DUDMYDH"
     },
     {
+      "key": "9EUIQAEM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.nature.com/articles/s41574-020-00460-3",
+      "volume": "17",
+      "issue": "4",
+      "pages": "247-256",
+      "publicationTitle": "Nature Reviews Endocrinology",
+      "ISSN": "1759-5029, 1759-5037",
+      "date": "04/2021",
+      "journalAbbreviation": "Nat Rev Endocrinol",
+      "DOI": "10.1038/s41574-020-00460-3",
+      "accessDate": "2023-02-05T12:20:30Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "In the three decades since endocrine disruption was conceptualized at the Wingspread Conference, we have witnessed the growth of this multidisciplinary field and the accumulation of evidence showing the deleterious health effects of endocrine-disrupting chemicals. It is only within the past decade that, albeit slowly, some changes regarding regulatory measures have taken place. In this Perspective, we address some historical points regarding the advent of the endocrine disruption field and the conceptual changes that endocrine disruption brought about. We also provide our personal recollection of the events triggered by our serendipitous discovery of oestrogenic activity in plastic, a founder event in the field of endocrine disruption. This recollection ends with the CLARITY study as an example of a discordance between \u2018science for its own sake\u2019 and \u2018regulatory science\u2019 and leads us to offer a perspective that could be summarized by the motto attributed to Ludwig Boltzmann: \u201cNothing is more practical than a good theory\u201d.",
+      "title": "From Wingspread to CLARITY: a personal trajectory",
+      "shortTitle": "From Wingspread to CLARITY",
+      "creators": [
+        {
+          "firstName": "Ana M.",
+          "lastName": "Soto",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Cheryl M.",
+          "lastName": "Schaeberle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlos",
+          "lastName": "Sonnenschein",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-05T12:20:30Z",
+      "dateModified": "2023-02-05T12:20:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9EUIQAEM",
+      "itemID": 6437,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Soto et al. - 2021 - From Wingspread to CLARITY a personal trajectory.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-05T12:20:26Z",
+          "dateModified": "2023-02-05T12:20:31Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/YM5B7BCB",
+          "path": "/Users/robert/Dropbox/zotero/storage/YM5B7BCB/Soto et al. - 2021 - From Wingspread to CLARITY a personal trajectory.pdf",
+          "select": "zotero://select/library/items/YM5B7BCB"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Soto2021a",
+      "itemKey": "9EUIQAEM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9EUIQAEM"
+    },
+    {
       "key": "RX4SX8QZ",
       "version": 0,
       "itemType": "journalArticle",
