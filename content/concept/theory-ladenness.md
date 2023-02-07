@@ -13,3 +13,4 @@ An observation is theory-laden when it is affected by theoretical presupposition
 #### Sources:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Theory-ladenness)
+[Standford Encyclopedia](https://plato.stanford.edu/entries/science-theory-observation/#Theoryandvalueladenness)

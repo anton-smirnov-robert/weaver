@@ -104,12 +104,17 @@ Comment comprendre celà à la lumière des politiques de la science ?
 
 - L'écueil de la notion d'autonomie: Sans définition claire de la notion d'autonomie, on a des problèmes. Un système de marché consiste à réguler une perturbation ou une demande extérieure. Donc si on prend ce critère, ce n'est pas exactement juste que la science est marchandisée car l'ANR. D'un point de vue extérieur c'est toujours autonome [Giry2022](reference/Giry2022.md).  Il y a donc une "intériorisation" de ces notions. Il y a un aspect sociologique [Laillier2022](reference/Laillier2022.md), mais il n'est pas suffisant. En fait, pas de modèles pour les politiques et puis il y a beaaucoup de contradiction. Des libéraux non libéraux, ou des Dr. Frankenstein. [Lazebnik2018](reference/Lazebnik2018.md). 
 
+- Le troisième critère permet de libérer une sous-pape qui permet de libérer la pression de la pluralité conflictuelle, qui est ce qu'il faut absoluement sauvgardé pour que le jeu de la science [Morin1982](reference/Morin1982.md). On passe de anta-agon à concurrence libre vers le même point. Il y a une partition de la science qui se répartit les tâches et qui n'a plus interêt à se contredire. Or c'est par là que naissent des théories, dans la contradiction et l'élaboration de meilleurs arguments par rapport aux précédents. Une fois que l'illusion d'une science pure et objective est dissipée, ce qu'elle doit être absolument, alors c'est par la dialectique d'arguments empirico-logique que nous pouvons trouver le consensus. La compétition artificielle est la catalyseur car c'est la libre concurrence de ne pas trouver d'obstacle.
+
+- En quadrillant la savoir concevable et en soulèvant toutes les pierres à un endroit automatiquement choisi avec la même théorie en tête, on rend générique le savoir qui a perd sa propre dynamique. Il reste contingent et spécifique mais c'est une spécificité qui s'ignore et qui prend ses théories, trop longtemps restées indemnes, pour dogmatismes. Or si ses théories sont invariantes dans le temps, la science n'est plus un processus historique. Plutôt, elle ratisse large avec les même outils. Bien qu'elle puisse encore concevoir sa spécificité qui s'estompe inévitalement, elle ignore les conditins d'apparition du cadre dans lequel elle observe ces objets d'étude ([theory-ladenness](concept/theory-ladenness.md)).  
+
+- Les sujets sont choisis automatiquement, c'est-à-dire que le chercheurs n'ont plus d'interet personel à opérer la synthèse critique de la bibliographie dans le but d'identifier ce qui est original. Par ailleurs, cela constituait leur autorité scientifique. Quand bien même leur consigne serait de d'accepter ponctuellement des sujets risqués, ils en seraient incapable car ils n'aurait pas consititué cette authorité scientifiques centrale. 
+
+- Entropique et moyenne et automatisme: disruption de second-ordre. 
 
 #### Discussion 
 
 
 #### Conclusion
-
-
 
 - Vision naïve de la technique
