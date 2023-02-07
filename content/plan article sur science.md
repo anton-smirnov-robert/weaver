@@ -57,9 +57,22 @@ Comment comprendre celà à la lumière des politiques de la science ?
 #### La République de la Science de Polanyi 
 
 - C'est notre base que l'on modifiera. C'est aussi justifié par le fait que depuis 1960, aucune autorité politique européenne n'a donné une vision aussi explicite de la manière dont fonctionnait la science ([Henriques2013](reference/Henriques2013.md), [Laillier2022](reference/Laillier2022.md)). C'est donc une base implicite modifiée.
-- 
-- Déscription libérale.
-- Éléments clés.
+
+- Description libérale, main invisible. Polanyi, sa famille et son histoire. Mais article et non les prix. [Hayek1945](reference/Hayek1945.md). Ici on va décrire le stricte nécéssaire. 
+
+- Initiatives indépendante mutuellement indépendantes. Metaphore du puzzle. Égoïste quant à leur réputation et recherche de la vérité [Merton1957](reference/Merton1957.md). Le problème qui va maximiser leur mérite scientifique, c'est-à-dire leur adéquation aux critères de mérite scientifique (*scientific standards* Conformisme/contestation. 
+
+-  L'authorité scientifique (*scientific authority*) est assurée entre les scientifiqque grâce aux zones d'expertise partagées (*overlapping neighborhood*). Si chacun assure l'autorité dans sa zone, et si l'ensemble des champs étudiés est connexe, alors chaques scientifique peut se porter garant de l'ensemble de l'opinion scientifique (*scientific opinion*) et peut lui même l'utiliser les résultats qu'il n'a pourtant pas supervisé. La conaissance scientifique est fragmentée et chaque scientifique en porte un élément. 
+
+- Les critère de mérites étant générique, l'authorité scientifique est assurée dans un champ spécifique de la science après un processus *d'interprétation contextuelle* des critères de mérites que *tout* scientifique doit faire. (Qu'est qu'est original ou conforme sur ce sujet là précis?) Cette autorité spécifique est centrale car elle détermine les résultats des *processus de peer-review* mais aussi le *processus d'allocation des ressources matérielles et des fonds*. 
+
+- La particularité de la science — mais plus généralement d'une société d'Exploreurs qui se dirige vers une *direction inconnue* —, c'est de reposer sur un orthodoxie qui encourage sa subversion. Les critères de mérites dialogiques permettent l'amélioration de la connaissance scientifique car chaque scientifique intègre les résultats de ses collègues pour choisir son prochain sujet de recherche. Ce travail est aussi assuré par la constitution de son authorité scientifique : elle sait donc quel est, pour elle, le sujet le plus original, plausible auquel elle peut s'attaquer. C'est la troisième fonction (implicite) de la constitution d'une authorité scientifique. 
+
+- Puisque l'opinion scientifique évolue, l'authorité scientifique, qui l'utilise pour interpréter spécifiquement les critères de mérites évolue aussi. Or cette authorité détermine aussi les nouveaux projets étudiés et donc en partie l'opinion scientifique future. Cette circularité rend
+- les scientifiques se pose un problème après, en théorie au moins,
+
+- dont chaque fragment se trouve porté par un scientifique
+
 
 #### Les années 60 et l'idéologie dominante
 
