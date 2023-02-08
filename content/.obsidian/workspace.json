@@ -34,16 +34,16 @@
         ]
       },
       {
-        "id": "7f4a7259e665374f",
+        "id": "a772b0df9551abcf",
         "type": "tabs",
         "children": [
           {
-            "id": "00b50a7463739f7c",
+            "id": "021b2da29eacc235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Paic2019.md",
+                "file": "note/note on Montevil2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,15 +178,15 @@
   },
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "reference/Canguilhem1992a.md",
+    "note/note on Montevil2021.md",
+    "note/note on Paic2019.md",
     "plan article sur science.md",
+    "reference/Canguilhem1992a.md",
     "reference/Canguilhem1992b.md",
     "concept/theory-ladenness.md",
-    "note/note on Paic2019.md",
     "reference/Lazebnik2018.md",
     "reference/Hayek1979.md",
     "private/drafts/on science organization/marketization_of_scientific_research.md",
-    "reference/Arora2018.md",
-    "reference/Petit2019a.md"
+    "reference/Arora2018.md"
   ]
 }
