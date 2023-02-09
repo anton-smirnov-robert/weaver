@@ -46,12 +46,6 @@ Plusieurs acteurs ont récemment tirer la sonnette d'alarme concernant le décli
 
 - Ce dont tout le monde parle, avec des langages différents qui vont du politique, au scientifique, jusqu'au philosophe des sciences c'est en fait tout simplement une théorie avec une empreinte de Thomas Kuhn sur la révolution scientifique, c'est à dire changement de paradigme ou tout simplement de théories. Une recherche transformatrice est une recherche théorique, qui génère de nouvelle théorie.  
 
-- Les causes pour ces choses là sont donnés par :
-	- Moins de retour dans l'histoire. 
-	- Industrialisation de la recherche. 
-	- Eye-catching results.
-	- etc. 
-
 Comment comprendre celà à la lumière des politiques de la science ? 
 
 #### La République de la Science de Polanyi 
@@ -104,7 +98,7 @@ Comment comprendre celà à la lumière des politiques de la science ?
 
 #### Les effets sur la science de ces changements 
 
-- L'écueil de la notion d'autonomie: Sans définition claire de la notion d'autonomie, on a des problèmes. Un système de marché consiste à réguler une perturbation ou une demande extérieure. Donc si on prend ce critère, ce n'est pas exactement juste que la science est marchandisée car l'ANR. D'un point de vue extérieur c'est toujours autonome [Giry2022](reference/Giry2022.md).  Il y a donc une "intériorisation" de ces notions. Il y a un aspect sociologique [Laillier2022](reference/Laillier2022.md), mais il n'est pas suffisant. En fait, pas de modèles pour les politiques et puis il y a beaaucoup de contradiction. Des libéraux non libéraux, ou des Dr. Frankenstein. [Lazebnik2018](reference/Lazebnik2018.md). 
+- L'écueil de la notion d'autonomie: Sans définition claire de la notion d'autonomie, on a des problèmes. Un système de marché consiste à réguler une perturbation ou une demande extérieure. Donc si on prend ce critère, ce n'est pas exactement juste que la science est marchandisée car l'ANR. D'un point de vue extérieur c'est toujours autonome [Giry2022](reference/Giry2022.md).  Il y a donc une "intériorisation" de ces notions. Il y a un aspect sociologique [Laillier2022](reference/Laillier2022.md), mais il n'est pas suffisant. En fait, pas de modèles pour les politiques et puis il y a beaaucoup de contradiction. Des libéraux non libéraux, ou des Dr. Frankenstein. [Lazebnik2018](reference/Lazebnik2018.md). Pour des politiques ayant un langage dérivé de la cybernétique, les boucles de feed back sont des bons prétexte pour accélérer les processus sans penser aux conditions de possibilité. Par exemple, accroître la productivité des chercheurs en négligeant la transmission du savoir. 
 
 - Le troisième critère est une sous-pape qui permet de libérer la pression de la pluralité conflictuelle, qui est ce qu'il faut absoluement sauvgardé pour que le jeu de la science [Morin1982](reference/Morin1982.md). On passe de anta-agon à concurrence libre vers le même point. Il y a une partition de la science qui se répartit les tâches et qui n'a plus interêt à se contredire. Or c'est par là que naissent des théories, dans la contradiction et l'élaboration de meilleurs arguments par rapport aux précédents. Une fois que l'illusion d'une science pure et objective est dissipée, ce qu'elle doit être absolument, alors c'est par la dialectique d'arguments empirico-logique que nous pouvons trouver le consensus. La compétition artificielle est la catalyseur car c'est la libre concurrence de ne pas trouver d'obstacle.
 
@@ -122,7 +116,7 @@ Comment comprendre celà à la lumière des politiques de la science ?
 
 - Sous l'effet de cette industrialisation de la recherche, un empirisme computationel génère massivement des donnée de manière de plus en plus automatisée. Dans la confusion répandue entre automatisme et objectivité, il est commun d'identifier ces données comme la cristallisation des faits objectifs de notre réalité. Si les données sont omniprésentes et que les outils permettant leur manipulation sont précieux, ce qui les rend objectives n'est que le rationel extrêmement spécifique qui choisit de les mesurer. Or ce rationel est précisément la théorie sous-jacente qui doit être en constante métamorphose ([theory-ladenness](concept/theory-ladenness.md)). 
 
-- L'automaticité fait que personne ne prend de décision. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela. *Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon.* L'objectivité est toujours est une subjectivité qui se justifie. Autrement c'est un auttomatisme et c'est la prolètarisation. 
+- L'automaticité fait que personne ne prend de décision. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela. *Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon.* L'objectivité est toujours est une subjectivité qui se justifie. Autrement c'est un automatisme et c'est la prolètarisation. 
 
 - Aussi, il est plus facile d'être génératif avec des quelques opinions qu'avec des tonnes d'informations. Des informations doivent être analysés, comparées, critiquées, etc. En homogénéisant les articles scientifique, en les désubjectivisant (information theory), au nom d'une "objectivié", on perd en fait l'opinion qui est générative car elle polarise (pour ou contre) et demande de prendre position. Elle engage la discussion avec l'auteur et donc l'esprit critique et donc la génération de nouvelles idées et hypothèses. 
 
