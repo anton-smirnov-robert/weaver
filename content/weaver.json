@@ -3962,6 +3962,56 @@
       "select": "zotero://select/library/items/YNFWFK5J"
     },
     {
+      "key": "FS383VF2",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1467-8330.00137",
+      "volume": "32",
+      "issue": "3",
+      "pages": "308-329",
+      "publicationTitle": "Antipode",
+      "ISSN": "0066-4812, 1467-8330",
+      "date": "07/2000",
+      "journalAbbreviation": "Antipode",
+      "DOI": "10.1111/1467-8330.00137",
+      "accessDate": "2023-02-09T09:47:32Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "The New Social Contract for Science: Accountability, Relevance,and Value in US and UK Science and Research Policy",
+      "shortTitle": "The New Social Contract for Science",
+      "creators": [
+        {
+          "firstName": "David",
+          "lastName": "Demeritt",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-09T09:47:32Z",
+      "dateModified": "2023-02-09T09:47:32Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/FS383VF2",
+      "itemID": 6442,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Demeritt - 2000 - The New Social Contract for Science Accountabilit.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-09T09:47:28Z",
+          "dateModified": "2023-02-09T09:47:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ITH4KW3V",
+          "path": "/Users/robert/Dropbox/zotero/storage/ITH4KW3V/Demeritt - 2000 - The New Social Contract for Science Accountabilit.pdf",
+          "select": "zotero://select/library/items/ITH4KW3V"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Demeritt2000",
+      "itemKey": "FS383VF2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FS383VF2"
+    },
+    {
       "key": "7JVGIGAI",
       "version": 0,
       "itemType": "webpage",
@@ -8122,6 +8172,57 @@
       "itemKey": "37MF8WTA",
       "libraryID": 1,
       "select": "zotero://select/library/items/37MF8WTA"
+    },
+    {
+      "key": "XFLK77KR",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S1462901106001201",
+      "volume": "10",
+      "issue": "1",
+      "pages": "17-38",
+      "publicationTitle": "Environmental Science & Policy",
+      "ISSN": "14629011",
+      "date": "2/2007",
+      "journalAbbreviation": "Environmental Science & Policy",
+      "DOI": "10.1016/j.envsci.2006.10.004",
+      "accessDate": "2023-02-09T09:51:38Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Policy makers around the world are calling for the production and diffusion of more useful information for environmental decision-making. Ideally, useful information expands alternatives, clari\ufb01es choice and enables policy makers to achieve desired outcomes. Decision makers, however, often lack the useful information needed for good decision-making. By concentrating efforts on increasing the supply of scienti\ufb01c information, scientists may not be producing information considered relevant and useful by decision makers, and may simply be producing too much of the wrong kind of information. Users may have speci\ufb01c information needs that go unmet, or may not be aware of the existence of potentially useful information. This paper de\ufb01nes the practical problem of reconciling the supply of scienti\ufb01c information with users\u2019 demands so that scientists produce information that decision makers need and use in policy decisions. Literature from a variety of disciplines and topics is reviewed to: explain the goals of reconciling the supply and demand of scienti\ufb01c information; de\ufb01ne what constitutes useful information; explore lessons learned from experience and describe the characteristics and conditioning factors that shaped those experiences; and identify various alternative strategies and processes that forge stronger science policy linkages. The paper concludes with recommendations for future research.",
+      "title": "Reconciling the supply of scientific information with user demands: an analysis of the problem and review of the literature",
+      "shortTitle": "Reconciling the supply of scientific information with user demands",
+      "creators": [
+        {
+          "firstName": "Elizabeth C.",
+          "lastName": "McNie",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-09T09:51:38Z",
+      "dateModified": "2023-02-09T09:51:38Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XFLK77KR",
+      "itemID": 6444,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "McNie - 2007 - Reconciling the supply of scientific information w.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-09T09:51:34Z",
+          "dateModified": "2023-02-09T09:51:39Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GJAWBKZ2",
+          "path": "/Users/robert/Dropbox/zotero/storage/GJAWBKZ2/McNie - 2007 - Reconciling the supply of scientific information w.pdf",
+          "select": "zotero://select/library/items/GJAWBKZ2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "McNie2007",
+      "itemKey": "XFLK77KR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XFLK77KR"
     },
     {
       "key": "YVNA8ZI5",
