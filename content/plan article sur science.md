@@ -35,16 +35,16 @@ Plusieurs acteurs ont récemment tirer la sonnette d'alarme concernant le décli
 
 #### Des sonettes d'alarmes
 
-- Niveau politique : certains s'interessent vraiment au financements, à des comportements conservatifs, à des financements de grands projets plutôt que de petits [Boudreau2016](reference/Boudreau2016.md), [NuffieldCouncilonBioethics2014](reference/NuffieldCouncilonBioethics2014.md) [AmericanAcademyofArtsandSciences2008](reference/AmericanAcademyofArtsandSciences2008.md), [OECD2021](reference/OECD2021.md). 
+- Niveau politique : certains s'interessent vraiment au financements, à des comportements conservatifs, à des financements de grands projets plutôt que de petits [Boudreau2016](reference/Boudreau2016.md), [NuffieldCouncilonBioethics2014](reference/NuffieldCouncilonBioethics2014.md) [AmericanAcademyofArtsandSciences2008](reference/AmericanAcademyofArtsandSciences2008.md), [OECD2021](reference/OECD2021.md). À ce niveau c'est la "recherche transformatrice". 
 > "ideas that have the potential to radically change our understanding of an important existing scientific or engineering concept or leading to the creation of a new paradigm or field of science or engineering." ([NationalScienceBoardU.S.2007](reference/NationalScienceBoardU.S.2007.md), p. 10)"
 
 - Niveau scientifique : Des analyses quantitative [Chu2021](reference/Chu2021.md),[Park2023](reference/Park2023.md) pour dire que c'est un processus qui se déroule sur une longue échelle de temps, avec des indicateurs diverses.
 > "break with the past in ways that push science and technology in new directions" — [Park2023](reference/Park2023.md)
 
-- Niveau science sociale : Et qualitative où l'on parle beaucoup de la pratique scientifique [Montevil2021](reference/Montevil2021.md) 
+- Niveau science sociale : Et qualitative où l'on parle beaucoup de la pratique scientifique [Montevil2021](reference/Montevil2021.md).  
 > "promotes empirical results that destabilize former theoretical frameworks because they catch attention. However, it does not promote rethinking these frameworks, leading to what may be called a theory disruption"
 
-- Ce dont tout le monde parle, avec des langages différents qui vont du politique, au scientifique, jusqu'au philosophe des sciences c'est en fait tout simplement une théorie. 
+- Ce dont tout le monde parle, avec des langages différents qui vont du politique, au scientifique, jusqu'au philosophe des sciences c'est en fait tout simplement une théorie avec une empreinte de Thomas Kuhn sur la révolution scientifique, c'est à dire changement de paradigme ou tout simplement de théories. Une recherche transformatrice est une recherche théorique, qui génère de nouvelle théorie.  
 
 - Les causes pour ces choses là sont donnés par :
 	- Moins de retour dans l'histoire. 
@@ -70,6 +70,7 @@ Comment comprendre celà à la lumière des politiques de la science ?
 
 - Puisque l'opinion scientifique évolue, l'authorité scientifique, qui l'utilise pour interpréter spécifiquement les critères de mérites évolue aussi. Or cette authorité détermine aussi les nouveaux projets étudiés et donc en partie l'opinion scientifique future. Cette circularité rend l'activité scientifique *traditionelle*, c'est-à-dire spécifique et historique. L'état des connaissances à un moment donné résulte d'une ineffable succession de choix individuels spécifiques. Il ne peut être compris qu'en retraçant son histoire et ses transmissions locales et successives de génération en générations.
 
+- Nous faisons un diagramme pour représenter cela. Trois processus d'évaluation critique qui est la qualité principale d'un scientifique. 
 
 > [!quote] 
 >
@@ -113,8 +114,6 @@ Comment comprendre celà à la lumière des politiques de la science ?
 
 - Le système de marché fini de rendre la recherche anhistorique. Elle considère maintenant des cheruchuers armés de théories intemporellement valides qui peuvent s'attaquer à des problèmes du quotidien. Dès lors, l'idée de renouvellement n'est même plus en jeu car la recherche doit s'atteler à des besoins pré-éxistants, pour lesquels une demande existe sur un marché. Ce statue permet aussi de montrer deux pôle de la recherhce: une qui diagnostise les catastrophes de l'Anthropocène toujours plus précisément et qu'il faut écouter, l'autre qui essaie de faire des technologies pour les besoins en énergies, etc. L'empiricisme, et l'induction sont des formes naturelles de ce type de recherche sur demande, où le problème est déjà formulé. 
 
-- L'automaticité fait que personne ne prend de décision. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela.  C'est la prolètarisation. 
-
 #### Discussion et conclusion
 
 - Le travail théorique demande nécessairement d'adopter un point de vue plus large qu'une théorie à deux échelles distinctes. La première échelle est temporelle : il est nécéssaire de pouvoir retracer l'histoire des théories concernant son objet d'étude car elles sont toujours plus que "le musée des erreurs de la raison" ([Canguilhem1992a](reference/Canguilhem1992a.md)) de sortes qu'ordre chronologique n'implique pas supériorité logique sous tous les aspects. La deuxième échelle concerne le point de vue disciplinaire : pour voir le cadre, il faut pouvoir voir faire le travail de comparaison des théories entre elles. 
@@ -122,6 +121,8 @@ Comment comprendre celà à la lumière des politiques de la science ?
 - En perdant ces deux aspects, d'abord "géométriquement" dans la partition des domaines d'expertise qui n'ont plus rien à gagner de se recouvrir partiellement pour rendre compte à un critère de mérite non épistémique. Ensuite historiquement, dans l'essouflement de théories qui ne peinent à se renouveller à cause de la perte d'historicité du savoir. Il devient générique et ne peut mener vers de nouveaux possible car il est attribué automatiquement pour répondre à un besoin moyen. 
 
 - Sous l'effet de cette industrialisation de la recherche, un empirisme computationel génère massivement des donnée de manière de plus en plus automatisée. Dans la confusion répandue entre automatisme et objectivité, il est commun d'identifier ces données comme la cristallisation des faits objectifs de notre réalité. Si les données sont omniprésentes et que les outils permettant leur manipulation sont précieux, ce qui les rend objectives n'est que le rationel extrêmement spécifique qui choisit de les mesurer. Or ce rationel est précisément la théorie sous-jacente qui doit être en constante métamorphose ([theory-ladenness](concept/theory-ladenness.md)). 
+
+- L'automaticité fait que personne ne prend de décision. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela. *Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon.* L'objectivité est toujours est une subjectivité qui se justifie. Autrement c'est un auttomatisme et c'est la prolètarisation. 
 
 - Aussi, il est plus facile d'être génératif avec des quelques opinions qu'avec des tonnes d'informations. Des informations doivent être analysés, comparées, critiquées, etc. En homogénéisant les articles scientifique, en les désubjectivisant (information theory), au nom d'une "objectivié", on perd en fait l'opinion qui est générative car elle polarise (pour ou contre) et demande de prendre position. Elle engage la discussion avec l'auteur et donc l'esprit critique et donc la génération de nouvelles idées et hypothèses. 
 
