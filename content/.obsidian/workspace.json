@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "d3029a1de3c00422",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc035bf47570805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,15 +166,15 @@
   },
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "reference/Davies2006.md",
+    "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
     "plan article sur science.md",
+    "reference/Davies2006.md",
     "concept/mechanistic organization.md",
     "concept/mechanistic system.md",
     "reference/Krenn2022.md",
     "reference/Chu2021.md",
     "reference/Lazebnik2018.md",
     "reference/Demeritt2000.md",
-    "reference/Longo2021.md",
-    "reference/Soto2021.md"
+    "reference/Longo2021.md"
   ]
 }
