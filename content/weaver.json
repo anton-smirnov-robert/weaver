@@ -2671,6 +2671,66 @@
       "select": "zotero://select/library/items/654DISCP"
     },
     {
+      "key": "A2IP5CPV",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Seuil",
+      "ISBN": "978-2-02-146070-4",
+      "date": "1975",
+      "extra": "Google-Books-ID: 4gJBEAAAQBAJ",
+      "libraryCatalog": "Google Books",
+      "language": "fr",
+      "abstractNote": "L\u2019institution imaginaire de la soci\u00e9t\u00e9Critique sans concession de la \u00ab pens\u00e9e h\u00e9rit\u00e9e \u00bb sur la politique, la soci\u00e9t\u00e9 et l\u2019histoire, en particulier dans sa version marxiste, ce livre inclassable s\u2019est affirm\u00e9 comme une des \u0153uvres majeures de la seconde moiti\u00e9 du XXe si\u00e8cle, au carrefour de la politique, de la philosophie, de la psychanalyse et de la r\u00e9flexion sur la science. Partant de la reconnaissance du r\u00f4le des significations imaginaires dans la cr\u00e9ation de notre monde, l\u2019auteur y d\u00e9fend le projet d\u2019une auto-institution explicite de la soci\u00e9t\u00e9. Cornelius Castoriadis (1922-1997) Co-fondateur du groupe et de la revue Socialisme ou Barbarie, ses \u00e9crits de cette p\u00e9riode sont r\u00e9\u00e9dit\u00e9s depuis 2012 aux \u00c9ditions du Sandre. Il a \u00e9t\u00e9 \u00e9conomiste \u00e0 l\u2019OCDE (1948-1970), psychanalyste (1973-1997), directeur d\u2019\u00e9tudes \u00e0 l\u2019EHESS (1980-1995). Ses s\u00e9minaires font l\u2019objet d\u2019une publication posthume au Seuil, o\u00f9 ont \u00e9t\u00e9 publi\u00e9s six volumes des Carrefours du labyrinthe.",
+      "title": "L'Institution imaginaire de la soci\u00e9t\u00e9",
+      "numPages": "466",
+      "creators": [
+        {
+          "firstName": "Cornelius",
+          "lastName": "Castoriadis",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Philosophy / General",
+          "type": 1
+        },
+        {
+          "tag": "Social Science / General",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-02-10T13:57:00Z",
+      "dateModified": "2023-02-10T13:57:16Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/A2IP5CPV",
+      "itemID": 6445,
+      "attachments": [
+        {
+          "key": "UR2H5DQD",
+          "version": 0,
+          "itemType": "attachment",
+          "url": "https://www.google.fr/books?id=4gJBEAAAQBAJ",
+          "accessDate": "2023-02-10T13:57:02Z",
+          "title": "Google Books Link",
+          "parentItem": "A2IP5CPV",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-10T13:57:02Z",
+          "dateModified": "2023-02-10T13:57:02Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UR2H5DQD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Castoriadis1975",
+      "itemKey": "A2IP5CPV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/A2IP5CPV"
+    },
+    {
       "key": "6YA2XP79",
       "version": 0,
       "itemType": "videoRecording",

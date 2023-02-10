@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,15 +148,15 @@
   },
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "reference/Krenn2022.md",
+    "reference/Davies2006.md",
     "plan article sur science.md",
+    "concept/mechanistic organization.md",
+    "concept/mechanistic system.md",
+    "reference/Krenn2022.md",
     "reference/Chu2021.md",
     "reference/Lazebnik2018.md",
     "reference/Demeritt2000.md",
     "reference/Longo2021.md",
-    "reference/Soto2021.md",
-    "private/drafts/on science organization/article epistemological mismatch.md",
-    "private/drafts/on science organization/A letter to Michael Polanyi.md",
-    "note/note on Montevil2021.md"
+    "reference/Soto2021.md"
   ]
 }
