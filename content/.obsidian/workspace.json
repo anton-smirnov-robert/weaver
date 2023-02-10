@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mechani",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,15 +149,15 @@
   },
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "reference/Chu2021.md",
+    "reference/Krenn2022.md",
     "plan article sur science.md",
+    "reference/Chu2021.md",
     "reference/Lazebnik2018.md",
     "reference/Demeritt2000.md",
     "reference/Longo2021.md",
     "reference/Soto2021.md",
     "private/drafts/on science organization/article epistemological mismatch.md",
     "private/drafts/on science organization/A letter to Michael Polanyi.md",
-    "reference/Krenn2022.md",
     "note/note on Montevil2021.md"
   ]
 }
