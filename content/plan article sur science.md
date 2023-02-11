@@ -128,13 +128,10 @@ Ces théories, qui montrent leurs limites quand elles sont mises à l'épreuve d
 
 - Ce statue permet aussi de montrer deux pôle de la recherhce: une qui diagnostise les catastrophes de l'Anthropocène toujours plus précisément et qu'il faut écouter, l'autre qui essaie de faire des technologies pour les besoins en énergies, etc. L'empiricisme, et l'induction sont des formes naturelles de ce type de recherche sur demande, où le problème est déjà formulé. Ça ne fait rien à personne que le projet de Coronavirus. 
 
-- L'automaticité fait que personne ne prend de décision. Il y a une loi. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela. Objetivité et subjectivité et c'est un scietisme. Confusion avec automatisme. *Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon.* Synthèse c'est automatique sinon c'est pas considéré comme original. 
 
 - Que l'extractivisme des ces données montrent leur limites, c'est une chose mais il est seulement secondaires de les renouvellement. Or c'est le seule façon de *faire date* d'un point de vue de l'histoire des sciences. Ce qui ne fait plus date d'une point de vue épistémique. 
 
 3) Générativité et anti-anthropie
-
-
 
 - Le travail théorique demande nécessairement d'adopter un point de vue plus large qu'une théorie à deux échelles distinctes. La première échelle est temporelle : il est nécéssaire de pouvoir retracer l'histoire des théories concernant son objet d'étude car elles sont toujours plus que "le musée des erreurs de la raison" ([Canguilhem1992a](reference/Canguilhem1992a.md)) de sortes qu'ordre chronologique n'implique pas supériorité logique sous tous les aspects. La deuxième échelle concerne le point de vue disciplinaire : pour voir le cadre, il faut pouvoir voir faire le travail de comparaison des théories entre elles. 
 
@@ -154,6 +151,9 @@ Ces théories, qui montrent leurs limites quand elles sont mises à l'épreuve d
 
 - En quadrillant le savoir concevable et en soulèvant toutes les pierres à un endroit, on rend générique le savoir. Il n'a plus sa propre dynamique gouvernée par l'originalité des chercheurs. Avec le phénomène d'étalement des chercheurs qui prennent tout l'espace. Or le fait que ce savoir soit générique freine sa propre dynamique car il le nombre d'éléments à considérer sur un domaine est maintemant gigantesque avec seulement quelques éléments qui nous serviront vraiment. C'est comme si, un point de vue n'était pas suffisant car il mènerai trop facilement à l'erreur, mais que trop de points de vue étaient déboussolant car cela donnerait l'illusion de l'exhaustivité du problème. On le considérerait qu'en tant que moyenne ou en tout cas on perdrai les individualités et la spécificité des chaque points de vue. C'est la prévalence de la quantité sur la qualité. On se souvient d'ailleurs des idées d'après une personne (le concept de un tel, la théorie de lui face à lui, etc. ). Tout se passe comme s'il était plus facile d'être génératif à partir de quelques points de vues : ni trop ni pas assez. 
 
+- L'automaticité fait que personne ne prend de décision. Il y a une loi. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela. Objetivité et subjectivité et c'est un scietisme. Confusion avec automatisme. *Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon.* Synthèse c'est automatique sinon c'est pas considéré comme original. 
+
+
 #### Discussion et conclusion
 
 Plus que jamais peut-être, la science devrait générer de nouvelles théories, c'est-à-dire imaginer de nouvelles conceptions du monde qui satisfasse des critères empiriques et logiques. Cependant, politiques, scientifiques et philosophes s'accordent pour constater que la pratique théorique se marginalise en science naturelles ([OECD2021](reference/OECD2021.md),[Park2023](reference/Park2023.md),[Montevil2021](reference/Montevil2021.md)), notamment en biologie ([Longo2021](reference/Longo2021.md), [Soto2021](reference/Soto2021.md)). Nous avons fait dialoguer ce constat avec une esquisse des politiques des sciences occidentale depuis plus d'un demi-siècle que nous avons essentialiser à deux périodes. Dans les années soixantes, une instrumentalisation des sciences afin de servir la croissance écoonomique et les besoins de la société ([Henriques2013](reference/Henriques2013.md)). Au tournant du XXIeme siècle, l'instauration d'un marché où la demande (du secteur privé et des citoyens) est transformée en appel d'offre pour les chercheurs via l'instauration de projets sélectivement financés par l'État ([Demeritt2000](reference/Demeritt2000.md), [Paic2019](reference/Paic2019.md)). 
@@ -169,6 +169,8 @@ Cette tendance est catalysée par la compétition atificielle introduites par le
 
 %%%%%%%% À revoir sûrement %%%%%%%%%%%%
 Un enjeu majeur de l'Anthropocène sera de repenser une nouvelle science qui renoue avec quelques unes de ses caractéristiques passés: pas d'asservissement à la croissance économique et la fabrication de technologies, ni aux besoins des citoyens. La recherche doit être considérée comme un pari assurément gagnant au long terme, mais dont les résultats sont radicalement impréscriptibles. Comme d'autres activités créatrices, elle nourrit nos imaginaires, s'en alimente en retour, et ne peut se résumer à son aspect utilitariste. Il est commun d'entendre que nous devons "changer notre rapport au vivant", très rarement qu'il faut reconsidérer nos théories en biologie. Dans une société dont la culture est empreinte de sciences et de ses ramifications, le rapprochement n'est pourtant pas si original.
+
+- Coronavirus 
 
 Défendre le monde en essayant de le comprendre pour ne pas lui faire violence. 
 Tout cela part de la vision naîve de la technologie. 
