@@ -121,17 +121,24 @@ Avant cette disruption partielle, l'état des savoirs à un moment donné était
 
 2) Historicité
 
-Avant cette disruption, s'il fallait expliquer l'opinion scientifique actuelle sur un certain sujet, il fallait parler de trajectoires académiques croisées, mutuellement dépendantes. Si le savoir devient générique et contribue à dissimuler l'historicité du savoir, l'introduction des mécanisme de marché prolonge et termine cette transformation. Des chercheurs armés de théories intemporellement valides vont répondre rapidement à une demande variable. Il n'est plus question de générer des théories ou mais d'extraite les données nécéssaires. 
+Avant cette disruption, pour expliquer l'opinion scientifique actuelle sur un certain sujet, il fallait parler de trajectoires académiques croisées, mutuellement dépendantes. Si le savoir devient générique et contribue à dissimuler son historicité, l'introduction des mécanisme de marché prolonge et termine cette transformation. En effet, l'épistémologie de la physique utilisée pour dérire une organisation de marché ([Hayek1945](reference/Hayek1945.md)) est anhistorique ([Koppl2015](reference/Koppl2015.md)). Une loi d'équilibre global entre offre et demande peut être inférée d'une somme d'optimisations locales : la dynamique des chercheurs est gouvernée par des signaux (les projets ou "missions" financés) qui servent d'instructions pour des acteurs rationels. En adoptant une démarche nécéssairement inductive, des problèmes *préexistants* sont étudiés avec des théories considérés intemporellement valides. 
+
+Ces théories, qui montrent leurs limites quand elles sont mises à l'épreuve d'un empirisme computationel, ne sont pas renouvellées car le marché ne prone pas une activité théorique. Il en résulte une activitée extractiviste d'informations où les instruments de production et d'analyse de données font oublier que leur potentialité d'objectivé ne réside que dans le rationel extrêmement spécifique qui choisit de les mesurer ([Montevil2021](reference/Montevil2021.md)). Nous assistons donc à l'étude de sujets de plus en plus génériques à travers des théories spécifiques et qui ne changent pas. L'absence de leur variation renforce la croyance en leur caractère intemporelle. Pour l'histoire des sciences, la seule façon de *faire date* étant l'émergence de théories, elle ne s'écrit plus
 
 
-- Epistémologie de marhcé. 
 
-- Le système de marché fini de rendre la recherche anhistorique. Elle considère maintenant des cheruchuers armés de théories intemporellement valides qui peuvent s'attaquer à des problèmes du quotidien. Dès lors, l'idée de renouvellement n'est même plus en jeu car la recherche doit s'atteler à des besoins pré-éxistants, pour lesquels une demande existe sur un marché. Ce statue permet aussi de montrer deux pôle de la recherhce: une qui diagnostise les catastrophes de l'Anthropocène toujours plus précisément et qu'il faut écouter, l'autre qui essaie de faire des technologies pour les besoins en énergies, etc. L'empiricisme, et l'induction sont des formes naturelles de ce type de recherche sur demande, où le problème est déjà formulé. Ça ne fait rien à personne que le projet de Coronavirus. 
+
+- Des théories très spécifiques et des domaines d'études génériques.
+
+- Ce statue permet aussi de montrer deux pôle de la recherhce: une qui diagnostise les catastrophes de l'Anthropocène toujours plus précisément et qu'il faut écouter, l'autre qui essaie de faire des technologies pour les besoins en énergies, etc. L'empiricisme, et l'induction sont des formes naturelles de ce type de recherche sur demande, où le problème est déjà formulé. Ça ne fait rien à personne que le projet de Coronavirus. 
 
 - L'automaticité fait que personne ne prend de décision. Il y a une loi. On va vers la moyenne. C'est comme Alan Greenspan, pourquoi faîtes vous cela ? On sait pas, on le fait, c'est les mécanismes du marché qui décident. On a déléguer notre job aux mécanisme du marché et l'on ne sait pas pourquoi l'on fait cela. Objetivité et subjectivité et c'est un scietisme. Confusion avec automatisme. *Experimenting is a project that stage a highly specific situation of the world, that is motivated by a scientific goal and derives from an interpretation of the theoretical framework it relies upon.* Synthèse c'est automatique sinon c'est pas considéré comme original. 
 
+- Que l'extractivisme des ces données montrent leur limites, c'est une chose mais il est seulement secondaires de les renouvellement. Or c'est le seule façon de *faire date* d'un point de vue de l'histoire des sciences. Ce qui ne fait plus date d'une point de vue épistémique. 
 
 3) Générativité et anti-anthropie
+
+
 
 - Le travail théorique demande nécessairement d'adopter un point de vue plus large qu'une théorie à deux échelles distinctes. La première échelle est temporelle : il est nécéssaire de pouvoir retracer l'histoire des théories concernant son objet d'étude car elles sont toujours plus que "le musée des erreurs de la raison" ([Canguilhem1992a](reference/Canguilhem1992a.md)) de sortes qu'ordre chronologique n'implique pas supériorité logique sous tous les aspects. La deuxième échelle concerne le point de vue disciplinaire : pour voir le cadre, il faut pouvoir voir faire le travail de comparaison des théories entre elles. 
 
@@ -147,7 +154,7 @@ Avant cette disruption, s'il fallait expliquer l'opinion scientifique actuelle s
 
 - On remarque la conflictualité qui est centrale pour la générativité, car c'est comme la dialectique ou la démocratrie, comme Polanyi le souligne. C'est le modèle d'une société basée sur l'auto-amélioration. 
 
-
+- La massification d'informations dépourvues de sens théorique rend la possibilité de renouvellement de plus en plus difficile à cause d'un effet d'abondance délétaire ([Chu2021](reference/Chu2021.md)). 
 
 - En quadrillant le savoir concevable et en soulèvant toutes les pierres à un endroit, on rend générique le savoir. Il n'a plus sa propre dynamique gouvernée par l'originalité des chercheurs. Avec le phénomène d'étalement des chercheurs qui prennent tout l'espace. Or le fait que ce savoir soit générique freine sa propre dynamique car il le nombre d'éléments à considérer sur un domaine est maintemant gigantesque avec seulement quelques éléments qui nous serviront vraiment. C'est comme si, un point de vue n'était pas suffisant car il mènerai trop facilement à l'erreur, mais que trop de points de vue étaient déboussolant car cela donnerait l'illusion de l'exhaustivité du problème. On le considérerait qu'en tant que moyenne ou en tout cas on perdrai les individualités et la spécificité des chaque points de vue. C'est la prévalence de la quantité sur la qualité. On se souvient d'ailleurs des idées d'après une personne (le concept de un tel, la théorie de lui face à lui, etc. ). Tout se passe comme s'il était plus facile d'être génératif à partir de quelques points de vues : ni trop ni pas assez. 
 

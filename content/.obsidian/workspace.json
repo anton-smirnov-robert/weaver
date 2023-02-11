@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d3029a1de3c00422",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcc035bf47570805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
