@@ -6,7 +6,6 @@
       {
         "id": "8a67f3ed06922598",
         "type": "tabs",
-        "dimension": 59.96420047732697,
         "children": [
           {
             "id": "6869da25c924a86d",
@@ -15,25 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "plan article sur science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b15cc3d60b83a029",
-        "type": "tabs",
-        "dimension": 40.03579952267303,
-        "children": [
-          {
-            "id": "1de2b7b1dd6530ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/drafts/on science organization/Polanyi's Republic of Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,15 +148,15 @@
   },
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "private/drafts/on science organization/Polanyi's Republic of Science.md",
+    "reference/Godin2020.md",
     "plan article sur science.md",
+    "reference/Piganiol1963.md",
+    "private/drafts/on science organization/Polanyi's Republic of Science.md",
     "reference/Chu2021.md",
     "reference/Soto2021.md",
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
     "reference/Davies2006.md",
     "concept/mechanistic organization.md",
-    "concept/mechanistic system.md",
-    "reference/Krenn2022.md",
-    "reference/Lazebnik2018.md"
+    "concept/mechanistic system.md"
   ]
 }
