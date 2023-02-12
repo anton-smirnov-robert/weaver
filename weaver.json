@@ -12115,6 +12115,67 @@
       "select": "zotero://select/library/items/CS4Z5DRA"
     },
     {
+      "key": "PWUF82R8",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0016328706002072",
+      "volume": "39",
+      "issue": "7",
+      "pages": "827-845",
+      "publicationTitle": "Futures",
+      "ISSN": "0016-3287",
+      "date": "2007-09-01",
+      "journalAbbreviation": "Futures",
+      "DOI": "10.1016/j.futures.2006.12.009",
+      "accessDate": "2023-02-12T17:39:25Z",
+      "libraryCatalog": "ScienceDirect",
+      "language": "en",
+      "abstractNote": "Recent science-policy debates have emphasised a growing role for science in helping to address some of society's most pressing challenges such as global environmental change, caring for the needs of ageing populations, and competitiveness in a global age. Other \u2018relevance\u2019 pressures include drives for public accountability, pressure for the \u2018democratisation\u2019 of science and demands from industry for usable knowledge. Underlying the question of the social relevance of science is the matter of decision-making and quality control in science, usually via the peer-review process. Peer review plays a central role in many of the key moments in science. It is the main form of decision-making around grant selection, academic publishing and the promotion of individual scientists within universities and research institutions. It also underpins methods used to evaluate scientific institutions. Yet, peer review as currently practised can be narrowly scientific, to the exclusion of other pressing quality criteria relating to social relevance. It is often also controlled and practised by scientists to the exclusion of wider groups that might bring valuable perspectives. This article sets out to examine peer review through the lens of social relevance. It challenges peer review as currently practised and makes some suggestions for ways forward.",
+      "title": "Peer review and the relevance of science",
+      "creators": [
+        {
+          "firstName": "Alister",
+          "lastName": "Scott",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-12T17:39:25Z",
+      "dateModified": "2023-02-12T17:39:25Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/PWUF82R8",
+      "itemID": 6447,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-12T17:39:32Z",
+          "dateModified": "2023-02-12T17:39:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/5LISGMBQ",
+          "path": "/Users/robert/Dropbox/zotero/storage/5LISGMBQ/S0016328706002072.html",
+          "select": "zotero://select/library/items/5LISGMBQ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Scott - 2007 - Peer review and the relevance of science.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-12T17:39:43Z",
+          "dateModified": "2023-02-12T17:39:43Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/XSL8WBFS",
+          "path": "/Users/robert/Dropbox/zotero/storage/XSL8WBFS/Scott - 2007 - Peer review and the relevance of science.pdf",
+          "select": "zotero://select/library/items/XSL8WBFS"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Scott2007",
+      "itemKey": "PWUF82R8",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PWUF82R8"
+    },
+    {
       "key": "DBVR2JX2",
       "version": 0,
       "itemType": "journalArticle",
