@@ -12834,6 +12834,47 @@
       "select": "zotero://select/library/items/9R4XKYK2"
     },
     {
+      "key": "7BZ6TLDJ",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "\u00c9ditions les liens qui lib\u00e8rent",
+      "date": "2016",
+      "libraryCatalog": "Google Scholar",
+      "title": "Dans la disruption: Comment ne pas devenir fou?",
+      "shortTitle": "Dans la disruption",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-13T12:22:26Z",
+      "dateModified": "2023-02-13T12:22:26Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/7BZ6TLDJ",
+      "itemID": 6450,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-13T12:22:31Z",
+          "dateModified": "2023-02-13T12:22:31Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LC65Y5AG",
+          "path": "/Users/robert/Dropbox/zotero/storage/LC65Y5AG/books.html",
+          "select": "zotero://select/library/items/LC65Y5AG"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Stiegler2016",
+      "itemKey": "7BZ6TLDJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7BZ6TLDJ"
+    },
+    {
       "key": "YPD6X7FL",
       "version": 0,
       "itemType": "book",
