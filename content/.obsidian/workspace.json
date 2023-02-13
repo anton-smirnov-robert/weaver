@@ -6,7 +6,7 @@
       {
         "id": "8a67f3ed06922598",
         "type": "tabs",
-        "dimension": 68.45403899721448,
+        "dimension": 59.30787589498807,
         "children": [
           {
             "id": "6869da25c924a86d",
@@ -25,7 +25,7 @@
       {
         "id": "82008e7ed614d124",
         "type": "tabs",
-        "dimension": 31.545961002785518,
+        "dimension": 40.692124105011935,
         "children": [
           {
             "id": "31663a2371f89266",
@@ -170,13 +170,13 @@
   "lastOpenFiles": [
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
     "plan article sur science.md",
+    "reference/Tordjman2021a.md",
     "reference/Godin2020.md",
     "reference/Nolan2021.md",
     "reference/Blok2015a.md",
     "reference/Pieiller2023.md",
     "reference/Mirowski2012.md",
     "reference/Piganiol1963.md",
-    "private/drafts/on science organization/Polanyi's Republic of Science.md",
-    "reference/Chu2021.md"
+    "private/drafts/on science organization/Polanyi's Republic of Science.md"
   ]
 }
