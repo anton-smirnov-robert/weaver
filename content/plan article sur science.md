@@ -18,11 +18,21 @@ Divers acteurs ont récemment sonner l'alarme concernant le déclin de la capaci
 
 #### Introduction
 
-Allons-nous continuer la recherche scientifique ? C'est lors d'une conférence au CERN (Centre Européen de recherches nucléaires) en 1972 qu'Alexandre Grothendieck ouvre le débat ([Grothendieck1972](reference/Grothendieck1972.md)). Les connaissances scientifiques nous permettent de construire des technologies de plus en plus sophistiquées. Elles rendent donc possible les dégats toujours plus grands infligeables et infligés à la biosphère. Si la menace est existentielle, pourquoi ne pas arrêter l'activité qui rend leur production possible ? 
+Allons-nous continuer la recherche scientifique ? C'est lors d'une conférence au CERN (Centre Européen de recherches nucléaires) en 1972 qu'Alexandre Grothendieck ouvre le débat ([Grothendieck1972](reference/Grothendieck1972.md)). Les connaissances scientifiques nous permettent de construire des technologies de plus en plus sophistiquées. Elles rendent donc possible les dégats, visiblement toujours plus amples, infligeables et infligés à la biosphère. Si la menace est existentielle, pourquoi ne pas arrêter l'activité qui les rend possible ? 
 
-La radicalité de cette question, assurément plus pertinente aujourd'hui qu'il y a un demi-siècle, a le mérite d'obliger la discussion frontale des problèmes qu'elle soulève. Elle est pourtant mal posée, car c'est la recherche scientifique qui diagnostique les dégats qu'elle engendre ([Ripple2017](reference/Ripple2017.md)) et nous ne pourrions nous poser la question s'il elle n'existait pas. 
+Cette question, posée un mois avant la publication du rapport Meadows, est assurément pertinente aujourd'hui encore. Ces réflexions sont à l'origine d'un mouvement décroissant — nom malheureux — important qui oscille entre une conception physicaliste du monde (évolution de la quantité d'énergie, de déchets, de matériaux, de particules, etc.) et un vague relativisme. 
 
-Le sentiment d'impuissance que revèle cette question résulte d'un désajustement entre un système technique et les savoirs nécessaires à son appropriation individuelle et sociale, période que Bernard Stielger nomme la disruption ([Stiegler2016](reference/Stiegler2016.md)). Ce décalage prend racine dans une vision naïve de la technologie par les autorités gouvernantes ([Nolan2021](reference/Nolan2021.md)), dans laquelle elle est considérée comme intrinsèquement bonne, une solution aux problèmes, synonyme de croissance économique, et donc déterminante pour le bien-être d'une société ([Blok2015a](reference/Blok2015a.md)). 
+Elle doit être dialectisée ne serait-ce que parce que c'est aussi la recherche scientifique qui alerte et détermine les dommages qu'elle permet de produire ([Ripple2017](reference/Ripple2017.md)). 
+
+
+
+elle ne peuvent s'accompagner On ne peut, question d'hygiène intellectuelle, s'empresser de jetter l'eau du bain en oubliant le principal. 
+
+
+Ce double rôle qu'endosse, malgré elle, la recherche doit porter notre regard vers une analyse dialectisée.
+
+
+Le sentiment d'impuissance sous-jacent à cette question résulte d'un désajustement entre un système technique et les savoirs nécessaires à son appropriation individuelle et sociale, période que Bernard Stielger nomme la disruption ([Stiegler2016](reference/Stiegler2016.md)). Ce décalage prend racine dans une vision naïve de la technologie par les autorités gouvernantes ([Nolan2021](reference/Nolan2021.md)), dans laquelle elle est considérée comme intrinsèquement bonne, une solution aux problèmes, synonyme de croissance économique, et donc déterminante pour le bien-être d'une société ([Blok2015a](reference/Blok2015a.md)). 
 
 L'exemple des perturbateurs endocriniens, substances chimiques qui interfèrent avec l'organisation hormonale des métabolismes, illustre ce retard presque fataliste des savoirs ([Soto2021a](reference/Soto2021a.md)). Une liste toujours grandissante de substances nocives est établie par des scientifiques. C'est seulement après plusieurs longues études et l'obtention d'un consensus scientifique qu'il est possible de constituter des arguments pouvant rivaliser avec ceux de lobbies industriels[^2] dans l'oreille d'instances politiques. Il faut donc légiférer substance après substance, mais nous savons que des combinaisons de perturbateurs endocriniens sont aussi délétaires. Le nombre d'études à conduire se multiplient alors ...  
 

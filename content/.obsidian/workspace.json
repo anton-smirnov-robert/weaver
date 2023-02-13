@@ -6,6 +6,7 @@
       {
         "id": "8a67f3ed06922598",
         "type": "tabs",
+        "dimension": 68.45403899721448,
         "children": [
           {
             "id": "6869da25c924a86d",
@@ -22,11 +23,12 @@
         ]
       },
       {
-        "id": "eebf6022f65eebd2",
+        "id": "82008e7ed614d124",
         "type": "tabs",
+        "dimension": 31.545961002785518,
         "children": [
           {
-            "id": "39a3f0b1cfc08008",
+            "id": "31663a2371f89266",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,9 +168,9 @@
   },
   "active": "6869da25c924a86d",
   "lastOpenFiles": [
-    "reference/Godin2020.md",
-    "plan article sur science.md",
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
+    "plan article sur science.md",
+    "reference/Godin2020.md",
     "reference/Nolan2021.md",
     "reference/Blok2015a.md",
     "reference/Pieiller2023.md",
