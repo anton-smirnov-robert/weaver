@@ -5582,6 +5582,50 @@
       "select": "zotero://select/library/items/8HHU8ATJ"
     },
     {
+      "key": "G9FQ9CLL",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "337",
+      "pages": "20",
+      "publicationTitle": "CAHIERS FRANCAIS-PARIS-",
+      "date": "2007",
+      "extra": "Publisher: LA DOCUMENTATION FRANCAISE",
+      "libraryCatalog": "Google Scholar",
+      "title": "Les th\u00e9ories de la d\u00e9croissance: enjeux et limites",
+      "shortTitle": "Les th\u00e9ories de la d\u00e9croissance",
+      "creators": [
+        {
+          "firstName": "J.",
+          "lastName": "Harribey",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-14T11:35:32Z",
+      "dateModified": "2023-02-14T11:35:32Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/G9FQ9CLL",
+      "itemID": 6456,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-14T11:35:34Z",
+          "dateModified": "2023-02-14T11:35:34Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/B6PZACRT",
+          "path": "/Users/robert/Dropbox/zotero/storage/B6PZACRT/Harribey - 2007 - Les th\u00e9ories de la d\u00e9croissance enjeux et limites.pdf",
+          "select": "zotero://select/library/items/B6PZACRT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Harribey2007a",
+      "itemKey": "G9FQ9CLL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/G9FQ9CLL"
+    },
+    {
       "key": "99UTAVDR",
       "version": 0,
       "itemType": "journalArticle",
