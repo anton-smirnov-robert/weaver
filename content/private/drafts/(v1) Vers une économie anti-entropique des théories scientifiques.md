@@ -101,3 +101,6 @@ Sortir de la disruption ([Stiegler2016](reference/Stiegler2016.md)) causée par 
 [^2]: Je ne résiste pas à noter que les modèles économiques en vigueur assurent qu'il faut "augmenter la pression publish-or-perish" pour diminuer les fraudes ([Lacetera2011](reference/Lacetera2011.md)).
   [^3]: Une minorité sélectionnent des projets, et des critères sociologiques seraient ici pertinents ([Laillier2022](reference/Laillier2022.md)). Nous n'opérons pas ces distinctions dans notre approche. 
 
+
+
+
