@@ -13368,6 +13368,84 @@
       "select": "zotero://select/library/items/57XK9XXY"
     },
     {
+      "key": "LLMU29KK",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://dx.doi.org/10.1088/2058-7058/22/11/47",
+      "volume": "22",
+      "issue": "11",
+      "pages": "56",
+      "publicationTitle": "Physics World",
+      "ISSN": "2058-7058",
+      "date": "2009-11",
+      "journalAbbreviation": "Phys. World",
+      "DOI": "10.1088/2058-7058/22/11/47",
+      "accessDate": "2023-02-16T10:43:46Z",
+      "libraryCatalog": "Institute of Physics",
+      "language": "en",
+      "abstractNote": "You read a journal article that \u201cproves\u201d that your life's work is wrong. Fortunately, you realize that the paper is totally wrong, so you decide to write a comment \u2013 the option provided by scientific journals to correct such errors. The procedure for doing this is very simple. You prepare by reading previous comments in the journal, all three pages long. You e-mail the paper's authors, politely asking for key parameters they omitted. Receiving no response, you determine the parameters instead from the authors' graphs. You write and submit your comment.",
+      "title": "How to publish a scientific comment",
+      "creators": [
+        {
+          "firstName": "Rick",
+          "lastName": "Trebino",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-16T10:43:46Z",
+      "dateModified": "2023-02-16T10:43:46Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LLMU29KK",
+      "itemID": 6458,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Trebino2009",
+      "itemKey": "LLMU29KK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LLMU29KK"
+    },
+    {
+      "key": "ATYYGVG7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "publicationTitle": "Georgia Institute of Technology miemo, https://www. scribd. com/document/18773744/How-to-Publish-a-Scientific-Comment-in-1-2-3-Easy-Steps",
+      "date": "2009",
+      "libraryCatalog": "Google Scholar",
+      "title": "How to Publish a Scientific Comment in 123 Easy Steps",
+      "creators": [
+        {
+          "firstName": "Rick",
+          "lastName": "Trebino",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-16T10:48:01Z",
+      "dateModified": "2023-02-16T10:48:01Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ATYYGVG7",
+      "itemID": 6459,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-16T10:48:15Z",
+          "dateModified": "2023-02-16T10:48:15Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/XJ33CST3",
+          "path": "/Users/robert/Dropbox/zotero/storage/XJ33CST3/Trebino - 2009 - How to Publish a Scientific Comment in 123 Easy St.pdf",
+          "select": "zotero://select/library/items/XJ33CST3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Trebino2009a",
+      "itemKey": "ATYYGVG7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ATYYGVG7"
+    },
+    {
       "key": "MXWJJ2RP",
       "version": 0,
       "itemType": "journalArticle",
