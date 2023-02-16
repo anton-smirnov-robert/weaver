@@ -9880,6 +9880,102 @@
       "select": "zotero://select/library/items/UHF7HCMP"
     },
     {
+      "key": "FJDJUGX5",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1162/qss_a_00146",
+      "volume": "2",
+      "issue": "3",
+      "pages": "882-898",
+      "publicationTitle": "Quantitative Science Studies",
+      "ISSN": "2641-3337",
+      "date": "2021-11-05",
+      "journalAbbreviation": "Quantitative Science Studies",
+      "DOI": "10.1162/qss_a_00146",
+      "accessDate": "2023-02-16T11:34:12Z",
+      "libraryCatalog": "Silverchair",
+      "abstractNote": "Citation indices are tools used by the academic community for research and research evaluation that aggregate scientific literature output and measure impact by collating citation counts. Citation indices help measure the interconnections between scientific papers but fall short because they fail to communicate contextual information about a citation. The use of citations in research evaluation without consideration of context can be problematic because a citation that presents contrasting evidence to a paper is treated the same as a citation that presents supporting evidence. To solve this problem, we have used machine learning, traditional document ingestion methods, and a network of researchers to develop a \u201csmart citation index\u201d called scite, which categorizes citations based on context. Scite shows how a citation was used by displaying the surrounding textual context from the citing paper and a classification from our deep learning model that indicates whether the statement provides supporting or contrasting evidence for a referenced work, or simply mentions it. Scite has been developed by analyzing over 25 million full-text scientific articles and currently has a database of more than 880 million classified citation statements. Here we describe how scite works and how it can be used to further research and research evaluation.",
+      "title": "scite: A smart citation index that displays the context of citations and classifies their intent using deep learning",
+      "shortTitle": "scite",
+      "creators": [
+        {
+          "firstName": "Josh M.",
+          "lastName": "Nicholson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Milo",
+          "lastName": "Mordaunt",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Patrice",
+          "lastName": "Lopez",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ashish",
+          "lastName": "Uppala",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Domenic",
+          "lastName": "Rosati",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Neves P.",
+          "lastName": "Rodrigues",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Grabitz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sean C.",
+          "lastName": "Rife",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-16T11:34:12Z",
+      "dateModified": "2023-02-16T11:34:12Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/FJDJUGX5",
+      "itemID": 6461,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-16T11:34:14Z",
+          "dateModified": "2023-02-16T11:34:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/NBN9GV3H",
+          "path": "/Users/robert/Dropbox/zotero/storage/NBN9GV3H/Nicholson et al. - 2021 - scite A smart citation index that displays the co.pdf",
+          "select": "zotero://select/library/items/NBN9GV3H"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-16T11:34:22Z",
+          "dateModified": "2023-02-16T11:34:22Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/SDX274A5",
+          "path": "/Users/robert/Dropbox/zotero/storage/SDX274A5/scite-A-smart-citation-index-that-displays-the.html",
+          "select": "zotero://select/library/items/SDX274A5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Nicholson2021",
+      "itemKey": "FJDJUGX5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FJDJUGX5"
+    },
+    {
       "key": "VQ6BA7I4",
       "version": 0,
       "itemType": "journalArticle",
