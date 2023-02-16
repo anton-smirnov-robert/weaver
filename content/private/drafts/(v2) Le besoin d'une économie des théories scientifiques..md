@@ -8,12 +8,13 @@ tags:
 - note
 ---
 
+[note on Longo2012](note/note%20on%20Longo2012.md)
 
 **Abstract:**
 
 Divers acteurs ont récemment sonné l'alarme concernant le déclin de la capacité des articles scientifiques à faire rebondir la recherche dans de nouvelles directions. Comment l'expliquer à la lumière des politiques de la science de ces dernières décennies ? À partir de la *République de la Science* de M. Polanyi, et en essentialisant deux périodes de "bonnes pratiques" formulées par l'OCDE, nous tentons d'éclairer d'un point de vue systémique et économique le déclin de la théorisation en science. 
 
-D'abord, l'introduction d'un critère de mérite non épistémique permet l'éparpillement des projets de recherches, effaçant la spécificité du savoir et la pluralité conflictuelle nécessaire à l'activité théorique. Ensuite, la mise en place d'un marché du projet scientifique promeut la démarche inductive et semble, d'un point de vue épistémologique, terminer l'histoire de la science, où les changements de théories faisaient date. La "workforce" scientifique, assujettie aux mécanismes qui équilibrent la demande et les projets sélectionnés, est prolétarisée. En n'ayant plus d'intérêt économique à effectuer une synthèse critique des connaissances — activité nécessaire à l'élaboration d'un projet original —, les chercheurs perdent ce savoir-faire crucial pour la théorisation.
+D'abord, l'introduction d'un critère de mérite non épistémique permet l'éparpillement des projets de recherches, effaçant la spécificité du savoir et la pluralité conflictuelle nécessaire à l'activité théorique. Ensuite, la mise en place d'un marché du projet scientifique promeut la démarche inductive et semble, d'un point de vue épistémologique, terminer l'histoire de la science, où les changements de théories faisaient date. La "workforce" scientifique, financièrement assujettie aux mécanismes qui équilibrent la demande et les projets sélectionnés, est prolétarisée. En n'ayant plus d'intérêt économique à effectuer une synthèse critique des connaissances — activité nécessaire à l'élaboration d'un projet original —, les chercheurs perdent ce savoir-faire crucial pour la théorisation.
 
 
 ## Introduction 

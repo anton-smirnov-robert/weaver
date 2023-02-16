@@ -1254,256 +1254,376 @@
           "text": "entropy"
         }
       ],
-      "/plan-article-sur-science": [
+      "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.": [
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Pieiller2023",
-          "text": "Pieiller2023"
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Grothendieck1972",
           "text": "Grothendieck1972"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Ripple2017",
-          "text": "Ripple2017"
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Harribey2007a",
+          "text": "Harribey2007a"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Soto2021a",
           "text": "Soto2021a"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Montevil2021b",
           "text": "Montevil2021b"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Boudreau2016",
-          "text": "Boudreau2016"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/NuffieldCouncilonBioethics2014",
-          "text": "NuffieldCouncilonBioethics2014"
-        },
-        {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/AmericanAcademyofArtsandSciences2008",
           "text": "AmericanAcademyofArtsandSciences2008"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/NuffieldCouncilonBioethics2014",
+          "text": "NuffieldCouncilonBioethics2014"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/OECD2021",
           "text": "OECD2021"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Chu2021",
           "text": "Chu2021"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Park2023",
           "text": "Park2023"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Laillier2022",
-          "text": "Laillier2022"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Nelson1959",
-          "text": "Nelson1959"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Arrow1962",
-          "text": "Arrow1962"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Godin2019",
-          "text": "Godin2019"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Maxmen2019",
-          "text": "Maxmen2019"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Mirowski2012",
-          "text": "Mirowski2012"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Nedeva2006",
-          "text": "Nedeva2006"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Davies2006",
-          "text": "Davies2006"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Lacetera2011",
-          "text": "Lacetera2011"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Sandstrom2018",
-          "text": "Sandstrom2018"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
-        },
-        {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Arora2018",
           "text": "Arora2018"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Giry2022",
-          "text": "Giry2022"
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Trebino2009a",
+          "text": "Trebino2009a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Nicholson2021",
+          "text": "Nicholson2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Castoriadis1975",
+          "text": "Castoriadis1975"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
         }
       ],
       "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi": [
@@ -1826,6 +1946,108 @@
           "text": "Hayek1979"
         }
       ],
+      "/private/drafts/on-science-organization/conclusion": [
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        }
+      ],
       "/private/drafts/on-science-organization/marketization_of_scientific_research": [
         {
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
@@ -2071,6 +2293,373 @@
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Anderson2008",
           "text": "Anderson2008"
+        }
+      ],
+      "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques": [
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Harribey2007a",
+          "text": "Harribey2007a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/AmericanAcademyofArtsandSciences2008",
+          "text": "AmericanAcademyofArtsandSciences2008"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/NuffieldCouncilonBioethics2014",
+          "text": "NuffieldCouncilonBioethics2014"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
         }
       ],
       "/reference/Polanyi1962": [
@@ -2838,6 +3427,11 @@
           "text": "note on Longo2012"
         },
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
+        },
+        {
           "source": "/note/note-on-Hayek1945",
           "target": "/note/note-on-Longo2012",
           "text": "note on Longo2012"
@@ -2864,6 +3458,16 @@
       ],
       "/reference/Alombert2021": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Alombert2021",
           "text": "Alombert2021"
@@ -2871,14 +3475,24 @@
       ],
       "/reference/AmericanAcademyofArtsandSciences2008": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/AmericanAcademyofArtsandSciences2008",
+          "text": "AmericanAcademyofArtsandSciences2008"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/AmericanAcademyofArtsandSciences2008",
           "text": "AmericanAcademyofArtsandSciences2008"
         }
       ],
       "/reference/Anderson2007": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Anderson2007",
           "text": "Anderson2007"
         },
@@ -2909,7 +3523,12 @@
       ],
       "/reference/Arora2018": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Arora2018",
           "text": "Arora2018"
         },
@@ -2922,11 +3541,6 @@
       "/reference/Arrow1962": [
         {
           "source": "/note/note-on-Henriques2013",
-          "target": "/reference/Arrow1962",
-          "text": "Arrow1962"
-        },
-        {
-          "source": "/plan-article-sur-science",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
         },
@@ -2952,7 +3566,12 @@
       ],
       "/reference/Audetat2015": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Audetat2015",
           "text": "Audetat2015"
         },
@@ -2969,7 +3588,12 @@
       ],
       "/reference/Baker2016": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Baker2016",
           "text": "Baker2016"
         },
@@ -3012,7 +3636,17 @@
       ],
       "/reference/Blok2015a": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
           "source": "/note/note-on-Paic2019",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         },
@@ -3061,7 +3695,12 @@
       ],
       "/reference/Boudreau2016": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Boudreau2016",
           "text": "Boudreau2016"
         },
@@ -3109,6 +3748,38 @@
           "text": "Calude2017"
         }
       ],
+      "/reference/Canguilhem1992a": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        }
+      ],
       "/reference/Canguilhem1992b": [
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
@@ -3123,9 +3794,21 @@
           "text": "Cannon1929"
         }
       ],
+      "/reference/Castoriadis1975": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Castoriadis1975",
+          "text": "Castoriadis1975"
+        }
+      ],
       "/reference/Chavalarias2016": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Chavalarias2016",
           "text": "Chavalarias2016"
         },
@@ -3149,12 +3832,32 @@
       ],
       "/reference/Chu2021": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Chu2021",
           "text": "Chu2021"
         },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Chu2021",
           "text": "Chu2021"
         }
@@ -3182,6 +3885,11 @@
       ],
       "/reference/Davies2006": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
@@ -3192,7 +3900,7 @@
           "text": "Davies2006"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         },
@@ -3209,6 +3917,23 @@
           "text": "Deffuant2015"
         }
       ],
+      "/reference/Demeritt2000": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        }
+      ],
       "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018": [
         {
           "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
@@ -3218,12 +3943,17 @@
       ],
       "/reference/Doudna2017": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
@@ -3231,11 +3961,21 @@
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
         }
       ],
       "/reference/Edwards2017": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Edwards2017",
           "text": "Edwards2017"
         },
@@ -3252,6 +3992,26 @@
       ],
       "/reference/Elzinga1997": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Elzinga1997",
           "text": "Elzinga1997"
@@ -3266,7 +4026,12 @@
       ],
       "/reference/Fang2012": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Fang2012",
           "text": "Fang2012"
         },
@@ -3283,7 +4048,17 @@
       ],
       "/reference/Fire2019": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Fire2019",
           "text": "Fire2019"
         },
@@ -3319,17 +4094,22 @@
       ],
       "/reference/Giry2022": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Giry2022",
           "text": "Giry2022"
         }
       ],
       "/reference/Godin2019": [
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Godin2019",
-          "text": "Godin2019"
-        },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Godin2019",
@@ -3338,6 +4118,16 @@
       ],
       "/reference/Godin2020": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        },
+        {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Godin2020",
           "text": "Godin2020"
@@ -3345,12 +4135,39 @@
       ],
       "/reference/Grothendieck1972": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Grothendieck1972",
           "text": "Grothendieck1972"
         }
       ],
+      "/reference/Harribey2007a": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Harribey2007a",
+          "text": "Harribey2007a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Harribey2007a",
+          "text": "Harribey2007a"
+        }
+      ],
       "/reference/Hayek1945": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
         {
           "source": "/note/note-on-Hayek1945",
           "target": "/reference/Hayek1945",
@@ -3362,7 +4179,12 @@
           "text": "Hayek1945"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         },
@@ -3389,6 +4211,16 @@
       ],
       "/reference/Hayek1979": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
           "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
           "target": "/reference/Hayek1979",
           "text": "Hayek1979"
@@ -3408,7 +4240,7 @@
       ],
       "/reference/Henriques2013": [
         {
-          "source": "/note/note-on-Henriques2013",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
@@ -3418,12 +4250,12 @@
           "text": "Henriques2013"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         },
@@ -3431,11 +4263,21 @@
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
         }
       ],
       "/reference/Hill2020": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Hill2020",
           "text": "Hill2020"
         },
@@ -3499,6 +4341,16 @@
       ],
       "/reference/Koppl2015": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Koppl2015",
           "text": "Koppl2015"
@@ -3520,7 +4372,7 @@
       ],
       "/reference/Lacetera2011": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Lacetera2011",
           "text": "Lacetera2011"
         },
@@ -3532,22 +4384,47 @@
       ],
       "/reference/Laillier2022": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
           "source": "/note/note-on-Laillier2022",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
         }
       ],
       "/reference/Lazebnik2018": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Lazebnik2018",
@@ -3559,17 +4436,22 @@
           "text": "Lazebnik2018"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
@@ -3579,7 +4461,7 @@
           "text": "Lazebnik2018"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         },
@@ -3634,17 +4516,32 @@
       ],
       "/reference/Longo2021": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         }
@@ -3689,7 +4586,12 @@
       ],
       "/reference/Maxmen2019": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Maxmen2019",
           "text": "Maxmen2019"
         },
@@ -3706,7 +4608,34 @@
           "text": "MaynardSmith1999"
         }
       ],
+      "/reference/McNie2007": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        }
+      ],
       "/reference/Merton1957": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
         {
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Merton1957",
@@ -3725,6 +4654,16 @@
       ],
       "/reference/Mirowski2011": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
@@ -3735,7 +4674,12 @@
           "text": "Mirowski2011"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         },
@@ -3743,11 +4687,21 @@
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
         }
       ],
       "/reference/Mirowski2012": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Mirowski2012",
           "text": "Mirowski2012"
         },
@@ -3791,12 +4745,27 @@
       ],
       "/reference/Montevil2021": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
           "source": "/note/note-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
@@ -3807,6 +4776,16 @@
         },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
@@ -3828,12 +4807,22 @@
       ],
       "/reference/Montevil2021b": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Montevil2021b",
           "text": "Montevil2021b"
         }
       ],
       "/reference/Morin1982": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
         {
           "source": "/note/note-on-Montevil2021",
           "target": "/reference/Morin1982",
@@ -3841,6 +4830,11 @@
         },
         {
           "source": "/note/note-on-Polanyi1962",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
@@ -3881,12 +4875,27 @@
       ],
       "/reference/Muthukrishna2019": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Muthukrishna2019",
           "text": "Muthukrishna2019"
         }
       ],
       "/reference/Nedeva2006": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Nedeva2006",
@@ -3898,7 +4907,7 @@
           "text": "Nedeva2006"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         },
@@ -3915,14 +4924,16 @@
           "text": "Nelson1959"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Nelson1959",
-          "text": "Nelson1959"
-        },
-        {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
+        }
+      ],
+      "/reference/Nicholson2021": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Nicholson2021",
+          "text": "Nicholson2021"
         }
       ],
       "/reference/Nolan2021": [
@@ -3944,7 +4955,12 @@
       ],
       "/reference/NuffieldCouncilonBioethics2014": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/NuffieldCouncilonBioethics2014",
+          "text": "NuffieldCouncilonBioethics2014"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/NuffieldCouncilonBioethics2014",
           "text": "NuffieldCouncilonBioethics2014"
         }
@@ -3968,7 +4984,17 @@
       ],
       "/reference/OECD2021": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/OECD2021",
           "text": "OECD2021"
         }
@@ -3982,27 +5008,37 @@
       ],
       "/reference/Paic2019": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
@@ -4018,6 +5054,16 @@
         },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
@@ -4039,12 +5085,22 @@
       ],
       "/reference/Park2023": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Park2023",
           "text": "Park2023"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Park2023",
           "text": "Park2023"
         },
@@ -4052,11 +5108,31 @@
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Park2023",
           "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
         }
       ],
       "/reference/Petit2019": [
         {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
           "source": "/note/note-on-Henriques2013",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         },
@@ -4073,7 +5149,12 @@
       ],
       "/reference/Petit2019a": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Petit2019a",
           "text": "Petit2019a"
         },
@@ -4097,7 +5178,17 @@
       ],
       "/reference/Pieiller2023": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Pieiller2023",
+          "text": "Pieiller2023"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Pieiller2023",
           "text": "Pieiller2023"
         }
@@ -4123,7 +5214,7 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/note/note-on-Polanyi1962",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -4133,12 +5224,12 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
         {
-          "source": "/plan-article-sur-science",
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         },
@@ -4163,6 +5254,11 @@
           "text": "Polanyi1962"
         },
         {
+          "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
@@ -4174,11 +5270,6 @@
         }
       ],
       "/reference/Ripple2017": [
-        {
-          "source": "/plan-article-sur-science",
-          "target": "/reference/Ripple2017",
-          "text": "Ripple2017"
-        },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Ripple2017",
@@ -4208,7 +5299,12 @@
       ],
       "/reference/Sandstrom2018": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Sandstrom2018",
           "text": "Sandstrom2018"
         },
@@ -4257,6 +5353,28 @@
           "text": "Schwartz2015"
         }
       ],
+      "/reference/Scott2007": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Scott2007",
+          "text": "Scott2007"
+        }
+      ],
       "/reference/Shannon1948": [
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
@@ -4290,12 +5408,32 @@
       ],
       "/reference/Soto2021": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
         },
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
         },
@@ -4307,9 +5445,26 @@
       ],
       "/reference/Soto2021a": [
         {
-          "source": "/plan-article-sur-science",
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
           "target": "/reference/Soto2021a",
           "text": "Soto2021a"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
+        }
+      ],
+      "/reference/Stephan2015": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
         }
       ],
       "/reference/Stiegler2012": [
@@ -4317,6 +5472,40 @@
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Stiegler2012",
           "text": "Stiegler2012"
+        }
+      ],
+      "/reference/Stiegler2016": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        }
+      ],
+      "/reference/Stiegler2020": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
         }
       ],
       "/reference/Stiegler2021": [
@@ -4345,6 +5534,13 @@
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Tordjman2021a",
           "text": "Tordjman2021a"
+        }
+      ],
+      "/reference/Trebino2009a": [
+        {
+          "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+          "target": "/reference/Trebino2009a",
+          "text": "Trebino2009a"
         }
       ],
       "/reference/Turing1936": [
@@ -4995,6 +6191,376 @@
       "text": "taxonomy"
     },
     {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Grothendieck1972",
+      "text": "Grothendieck1972"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Harribey2007a",
+      "text": "Harribey2007a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Blok2015a",
+      "text": "Blok2015a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Soto2021a",
+      "text": "Soto2021a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Montevil2021b",
+      "text": "Montevil2021b"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/AmericanAcademyofArtsandSciences2008",
+      "text": "AmericanAcademyofArtsandSciences2008"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/NuffieldCouncilonBioethics2014",
+      "text": "NuffieldCouncilonBioethics2014"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/OECD2021",
+      "text": "OECD2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Boudreau2016",
+      "text": "Boudreau2016"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Muthukrishna2019",
+      "text": "Muthukrishna2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Godin2020",
+      "text": "Godin2020"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Scott2007",
+      "text": "Scott2007"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Arora2018",
+      "text": "Arora2018"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Maxmen2019",
+      "text": "Maxmen2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Mirowski2012",
+      "text": "Mirowski2012"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Sandstrom2018",
+      "text": "Sandstrom2018"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Demeritt2000",
+      "text": "Demeritt2000"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/McNie2007",
+      "text": "McNie2007"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Scott2007",
+      "text": "Scott2007"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Giry2022",
+      "text": "Giry2022"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Stephan2015",
+      "text": "Stephan2015"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Koppl2015",
+      "text": "Koppl2015"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Trebino2009a",
+      "text": "Trebino2009a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Nicholson2021",
+      "text": "Nicholson2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Alombert2021",
+      "text": "Alombert2021"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Castoriadis1975",
+      "text": "Castoriadis1975"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Pieiller2023",
+      "text": "Pieiller2023"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/note/v2-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques.",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
       "source": "/note/history-of-organisms-as-self-determined-biological-systems",
       "target": "/reference/Kant1790",
       "text": "Kant1790"
@@ -5540,254 +7106,369 @@
       "text": "entropy"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Pieiller2023",
-      "text": "Pieiller2023"
-    },
-    {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Grothendieck1972",
       "text": "Grothendieck1972"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Ripple2017",
-      "text": "Ripple2017"
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Harribey2007a",
+      "text": "Harribey2007a"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Blok2015a",
+      "text": "Blok2015a"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Soto2021a",
       "text": "Soto2021a"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Montevil2021b",
       "text": "Montevil2021b"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Doudna2017",
-      "text": "Doudna2017"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Boudreau2016",
-      "text": "Boudreau2016"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/NuffieldCouncilonBioethics2014",
-      "text": "NuffieldCouncilonBioethics2014"
-    },
-    {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/AmericanAcademyofArtsandSciences2008",
       "text": "AmericanAcademyofArtsandSciences2008"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/NuffieldCouncilonBioethics2014",
+      "text": "NuffieldCouncilonBioethics2014"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/OECD2021",
       "text": "OECD2021"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Boudreau2016",
+      "text": "Boudreau2016"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Chu2021",
       "text": "Chu2021"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Park2023",
       "text": "Park2023"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Park2023",
-      "text": "Park2023"
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Muthukrishna2019",
+      "text": "Muthukrishna2019"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Laillier2022",
       "text": "Laillier2022"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Nelson1959",
-      "text": "Nelson1959"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Arrow1962",
-      "text": "Arrow1962"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Godin2019",
-      "text": "Godin2019"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Audetat2015",
-      "text": "Audetat2015"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Maxmen2019",
-      "text": "Maxmen2019"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Mirowski2012",
-      "text": "Mirowski2012"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Nedeva2006",
-      "text": "Nedeva2006"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Davies2006",
-      "text": "Davies2006"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Mirowski2011",
-      "text": "Mirowski2011"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Fang2012",
-      "text": "Fang2012"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Edwards2017",
-      "text": "Edwards2017"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Lacetera2011",
-      "text": "Lacetera2011"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Petit2019a",
-      "text": "Petit2019a"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Anderson2007",
-      "text": "Anderson2007"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Chavalarias2016",
-      "text": "Chavalarias2016"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Sandstrom2018",
-      "text": "Sandstrom2018"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Hill2020",
-      "text": "Hill2020"
-    },
-    {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Polanyi1962",
       "text": "Polanyi1962"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Hayek1945",
       "text": "Hayek1945"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Godin2020",
+      "text": "Godin2020"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Scott2007",
+      "text": "Scott2007"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Paic2019",
       "text": "Paic2019"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Arora2018",
       "text": "Arora2018"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Giry2022",
-      "text": "Giry2022"
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
     },
     {
-      "source": "/plan-article-sur-science",
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Maxmen2019",
+      "text": "Maxmen2019"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Mirowski2012",
+      "text": "Mirowski2012"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Sandstrom2018",
+      "text": "Sandstrom2018"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Demeritt2000",
+      "text": "Demeritt2000"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/McNie2007",
+      "text": "McNie2007"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Scott2007",
+      "text": "Scott2007"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
       "target": "/reference/Laillier2022",
       "text": "Laillier2022"
     },
     {
-      "source": "/plan-article-sur-science",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Giry2022",
+      "text": "Giry2022"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Stephan2015",
+      "text": "Stephan2015"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Koppl2015",
+      "text": "Koppl2015"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Alombert2021",
+      "text": "Alombert2021"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Pieiller2023",
+      "text": "Pieiller2023"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Lacetera2011",
+      "text": "Lacetera2011"
+    },
+    {
+      "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
     },
     {
       "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
@@ -6098,6 +7779,106 @@
       "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
       "target": "/reference/Hayek1979",
       "text": "Hayek1979"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/OECD2021",
+      "text": "OECD2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Demeritt2000",
+      "text": "Demeritt2000"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Giry2022",
+      "text": "Giry2022"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Pieiller2023",
+      "text": "Pieiller2023"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/drafts/on-science-organization/conclusion",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
     },
     {
       "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
