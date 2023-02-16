@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md",
+                "file": "private/drafts/(v2) Vers une économie anti-entropique des théories scientifiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md",
+                "file": "private/drafts/(v2) Vers une économie anti-entropique des théories scientifiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md"
+                "file": "private/drafts/(v2) Vers une économie anti-entropique des théories scientifiques.md"
               }
             }
           }
@@ -164,10 +164,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6869da25c924a86d",
+  "active": "aa9b999ba342b3b6",
   "lastOpenFiles": [
-    "private/drafts/(v2) Vers une économie anti-entropique des théories scientifiques.md",
     "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md",
+    "private/drafts/(v2) Vers une économie anti-entropique des théories scientifiques.md",
     "reference/Stiegler2021.md",
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
     "reference/Soto2021.md",
