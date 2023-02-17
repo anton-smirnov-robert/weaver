@@ -4305,6 +4305,36 @@
       "select": "zotero://select/library/items/JTQ6TG6W"
     },
     {
+      "key": "IAGXQ4AN",
+      "version": 0,
+      "itemType": "journalArticle",
+      "pages": "191\u2013217",
+      "publicationTitle": "The university research system",
+      "date": "1985",
+      "extra": "Publisher: Stockholm: Almqvist & Wiksell",
+      "libraryCatalog": "Google Scholar",
+      "title": "Research, bureaucracy and the drift of epistemic criteria",
+      "creators": [
+        {
+          "firstName": "Aant",
+          "lastName": "Elzinga",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-17T10:51:04Z",
+      "dateModified": "2023-02-17T10:51:04Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/IAGXQ4AN",
+      "itemID": 6466,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Elzinga1985",
+      "itemKey": "IAGXQ4AN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IAGXQ4AN"
+    },
+    {
       "key": "ES3PASM8",
       "version": 0,
       "itemType": "journalArticle",
