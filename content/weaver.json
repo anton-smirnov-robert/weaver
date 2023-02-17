@@ -11256,6 +11256,56 @@
       "select": "zotero://select/library/items/TLMY2CWD"
     },
     {
+      "key": "28YJHIYY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1007/BF01383569",
+      "volume": "28",
+      "issue": "1",
+      "pages": "3-23",
+      "publicationTitle": "Higher Education",
+      "ISSN": "1573-174X",
+      "date": "1994-07-01",
+      "journalAbbreviation": "High Educ",
+      "DOI": "10.1007/BF01383569",
+      "accessDate": "2023-02-17T10:21:33Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "Research councils began as channels for state patronage of science (a widespread phenomenon after World War II) and were captured by the scientists: peer review of proposals, panels, board membership. In this way, they became an important organ of the \u2018Republic of Science\u2019 (Michael Polanyi's concept). Being awarded a grant is now as important for the reputation or status of a scientist as the money value per se: research councils have become part of the reward system of science. Credibility-cycle analysis (Latour and Woolgar) is used to show this; and then applied to the research council itself, between the State and the national scientific community. Current concerns about proposal success rates and conservatism are analysed in terms of dynamics of this research world. This sociological approach to research councils allows analysis of changes in the reward system of science (where \u2018relevance\u2019 is becoming an accepted criterion world-wide) and of the complex environment of research councils, where many actors now compete for the intermediary role. Research councils must also become entrepreneurial-or become obsolete.",
+      "title": "The republic of science in the 1990s",
+      "creators": [
+        {
+          "firstName": "Arie",
+          "lastName": "Rip",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-17T10:21:33Z",
+      "dateModified": "2023-02-17T10:21:33Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/28YJHIYY",
+      "itemID": 6464,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-17T10:21:36Z",
+          "dateModified": "2023-02-17T10:21:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/BG5VZ3NQ",
+          "path": "/Users/robert/Dropbox/zotero/storage/BG5VZ3NQ/Rip - 1994 - The republic of science in the 1990s.pdf",
+          "select": "zotero://select/library/items/BG5VZ3NQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Rip1994",
+      "itemKey": "28YJHIYY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/28YJHIYY"
+    },
+    {
       "key": "27I38YYR",
       "version": 0,
       "itemType": "journalArticle",
