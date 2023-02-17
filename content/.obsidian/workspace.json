@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/drafts/(v3) Le besoin d'une économie des théories scientifiques. 1.md",
-                "mode": "source",
+                "file": "private/drafts/(v3) L'urgence d'une économie des théories scientifiques.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -45,24 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "9683445af0c615b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6886a7c341f384f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Fang2012.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/Fang2012.md",
+                "file": "private/drafts/(v3) L'urgence d'une économie des théories scientifiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/Fang2012.md",
+                "file": "private/drafts/(v3) L'urgence d'une économie des théories scientifiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/Fang2012.md"
+                "file": "private/drafts/(v3) L'urgence d'une économie des théories scientifiques.md"
               }
             }
           }
@@ -189,17 +171,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b6886a7c341f384f",
+  "active": "ad63c568f30f2f50",
   "lastOpenFiles": [
-    "private/drafts/(v3) Le besoin d'une économie des théories scientifiques. 1.md",
+    "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md",
+    "private/drafts/(v3) L'urgence d'une économie des théories scientifiques.md",
+    "reference/Giry2022.md",
+    "reference/Edwards2017.md",
+    "reference/Fang2012.md",
     "reference/Chavalarias2016.md",
     "reference/Sandstrom2018.md",
     "reference/Anderson2007.md",
     "reference/Petit2019.md",
-    "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md",
-    "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md",
-    "reference/NationalScienceBoardU.S.2007.md",
-    "private/drafts/on science organization/Polanyi's Republic of Science.md",
-    "private/drafts/on science organization/marketization_of_scientific_research.md"
+    "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md"
   ]
 }
