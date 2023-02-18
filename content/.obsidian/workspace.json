@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7cf797771fe2a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/drafts/(v4) L'urgence d'une économie des théories scientifiques.md",
+                "file": "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/drafts/(v4) L'urgence d'une économie des théories scientifiques.md",
+                "file": "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/drafts/(v4) L'urgence d'une économie des théories scientifiques.md"
+                "file": "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "aa9b999ba342b3b6",
+  "active": "b7cf797771fe2a54",
   "lastOpenFiles": [
-    "reference/Stiegler2012.md",
     "private/drafts/(v4) L'urgence d'une économie des théories scientifiques.md",
+    "reference/Stiegler2012.md",
     "reference/Lazebnik2018.md",
     "private/drafts/(v1) Vers une économie anti-entropique des théories scientifiques.md",
     "private/drafts/(v3) L'urgence d'une économie des théories scientifiques.md",
