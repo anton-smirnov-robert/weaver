@@ -4427,6 +4427,50 @@
       "select": "zotero://select/library/items/CBWU4UFA"
     },
     {
+      "key": "UPMCD7G4",
+      "version": 0,
+      "itemType": "blogPost",
+      "url": "https://www.openaccessgovernment.org/lamy-report-ensuring-inspirational-research/34970/",
+      "date": "2017-07-21T14:33:45+00:00",
+      "accessDate": "2023-02-20T21:12:56Z",
+      "language": "en-GB",
+      "abstractNote": "In a speech, EU Research Commissioner Carlos Moedas highlights the findings of the Lamy report and shares why it is necessary to reform the research system",
+      "title": "The Lamy report: Ensuring inspirational research",
+      "shortTitle": "The Lamy report",
+      "creators": [
+        {
+          "firstName": "Laura",
+          "lastName": "Evans",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-20T21:12:56Z",
+      "dateModified": "2023-02-20T21:12:56Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/UPMCD7G4",
+      "itemID": 6469,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-20T21:13:09Z",
+          "dateModified": "2023-02-20T21:13:09Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/Q9W86HFY",
+          "path": "/Users/robert/Dropbox/zotero/storage/Q9W86HFY/34970.html",
+          "select": "zotero://select/library/items/Q9W86HFY"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Evans2017",
+      "itemKey": "UPMCD7G4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UPMCD7G4",
+      "publicationTitle": "Open Access Government"
+    },
+    {
       "key": "2ZCZJJIS",
       "version": 0,
       "itemType": "journalArticle",
