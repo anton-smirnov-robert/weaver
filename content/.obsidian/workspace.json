@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
+                "file": "reference/Grothendieck1972.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
+                "file": "reference/Grothendieck1972.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
+                "file": "reference/Grothendieck1972.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md"
+                "file": "reference/Grothendieck1972.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "48ace66c71d59c11",
   "lastOpenFiles": [
-    "reference/OECD2021.md",
+    "reference/Grothendieck1972.md",
     "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
+    "reference/OECD2021.md",
     "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md",
     "reference/Godin2020.md",
     "private/drafts/(v6) Le besoin d'une économie des théories scientifiques.md",
     "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
     "reference/Audetat2015.md",
     "reference/Muthukrishna2019.md",
-    "private/drafts/(v4) L'urgence d'une économie des théories scientifiques.md",
-    "reference/Stiegler2012.md"
+    "private/drafts/(v4) L'urgence d'une économie des théories scientifiques.md"
   ]
 }

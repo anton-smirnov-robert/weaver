@@ -5410,9 +5410,8 @@
       "key": "AKHVSZ62",
       "version": 0,
       "itemType": "conferencePaper",
-      "volume": "27",
+      "url": "https://cds.cern.ch/record/912518",
       "date": "1972",
-      "libraryCatalog": "Google Scholar",
       "title": "Allons-nous continuer la recherche scientifique ?",
       "shortTitle": "Allons-nous continuer la recherche scientifique?",
       "creators": [
@@ -5425,7 +5424,7 @@
       "tags": [],
       "relations": [],
       "dateAdded": "2023-02-05T11:58:35Z",
-      "dateModified": "2023-02-05T11:58:45Z",
+      "dateModified": "2023-02-20T19:35:22Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/AKHVSZ62",
       "itemID": 6434,
       "attachments": [],
@@ -5433,8 +5432,7 @@
       "citationKey": "Grothendieck1972",
       "itemKey": "AKHVSZ62",
       "libraryID": 1,
-      "select": "zotero://select/library/items/AKHVSZ62",
-      "publicationTitle": "Transcrit par Jacqueline Picard de la conf\u00e9rence-d\u00e9bat donn\u00e9e au CERN le"
+      "select": "zotero://select/library/items/AKHVSZ62"
     },
     {
       "key": "INX97ID8",
@@ -13138,10 +13136,9 @@
       "key": "B2RI8VVZ",
       "version": 0,
       "itemType": "book",
-      "edition": "Les Liens qui Lib\u00e8rent",
+      "publisher": "Les Liens qui Lib\u00e8rent",
       "date": "2020",
-      "libraryCatalog": "Google Scholar",
-      "title": "Bifurquer:\" il n'y a pas d'alternative\"",
+      "title": "Bifurquer : \"il n'y a pas d'alternative\"",
       "shortTitle": "Bifurquer",
       "creators": [
         {
@@ -13167,7 +13164,7 @@
       "tags": [],
       "relations": [],
       "dateAdded": "2023-01-26T17:35:48Z",
-      "dateModified": "2023-02-14T18:02:13Z",
+      "dateModified": "2023-02-20T19:38:12Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/B2RI8VVZ",
       "itemID": 6375,
       "attachments": [],
