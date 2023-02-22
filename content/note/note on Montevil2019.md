@@ -47,9 +47,18 @@ finite set : The set is defined, and we can reason on each element individually.
 Symphonies are finite combinations of finite set of notes, so they are in the $\mathbb{N}$-like category. 
 
 
-#### Discipline matters (care) differently about things
+#### Physics restrict the discussion about generic properties of things 
 
 Physics matters about generic **relations** between quantities: it is not about the quantities.
+
 It uses generic initial/boundary conditions or parameters and discuss about them generically (basin of attraction, ranges of parameters, etc.)
-Even when some initial conditions matter a lot, or when ponctual transitions occur, physics aims at making them generic (period doubling of bifurcation, etc.)
-Sometimes 
+
+Defining a domain of probability means setting all others to 0. Saying that all other situation have probability zero means have a generic reasoning. 
+
+In statistical mechanics, we don't care about a specific configuration where all particles form a ring. Rather, we coarse grain a phase space to generically define a macrostate. 
+
+When bifurcations occur, physics aims at making them generic (period doubling). When they are singular, they do not convey a physical meaning.
+
+In chaotic systems, everything is actually contained in the initial condition. For a fixed dynamical law, it just dig deeper and deeper into it. Nothing is new.
+
+
