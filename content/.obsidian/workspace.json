@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "90e33d6e258ad491",
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/axiom of choice.md",
+                "file": "note/note on Montevil2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/axiom of choice.md",
+                "file": "note/note on Montevil2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/axiom of choice.md"
+                "file": "note/note on Montevil2019.md"
               }
             }
           }
@@ -203,10 +202,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4f1deb948317b495",
+  "active": "6ab3a06ea6a5e536",
   "lastOpenFiles": [
-    "note/note on Montevil2019.md",
     "concept/axiom of choice.md",
+    "note/note on Montevil2019.md",
     "reference/Montevil2019a.md",
     "concept/biological novelty.md",
     "concept/new possibility.md",

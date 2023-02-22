@@ -34,3 +34,22 @@ We can mathematically define all sheet scores of music. Does it mean all symphon
 >
 >Can we define the possibility of a symphony without composing it? —  (Montévil, 2019, p. 5) 
 
+### Generic and specific definitions
+
+Three kinds of sets in mathematics: 
+
+$\mathbb{R}$-like: The set is defined, but only a finite number can be defined specifically. Indeed, the probability of having a name for a real number taken randomly is zero. Mathematics or physics can reason on generic variables (e.g. $x^2 \geq 0$). They don't need to define specifically all real numbers to do so.
+
+$\mathbb{N}$-like: The set is defined, and all elements can be defined specifically. However, the set is infinite and therefore it requires generic reasoning (such as a recurrence relation that "propagates"). 
+
+finite set : The set is defined, and we can reason on each element individually. 
+
+Symphonies are finite combinations of finite set of notes, so they are in the $\mathbb{N}$-like category. 
+
+
+#### Discipline matters (care) differently about things
+
+Physics matters about generic **relations** between quantities: it is not about the quantities.
+It uses generic initial/boundary conditions or parameters and discuss about them generically (basin of attraction, ranges of parameters, etc.)
+Even when some initial conditions matter a lot, or when ponctual transitions occur, physics aims at making them generic (period doubling of bifurcation, etc.)
+Sometimes 
