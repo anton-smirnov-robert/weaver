@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ab3a06ea6a5e536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/note on Montevil2019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/biological function.md",
+                "file": "note/note on Montevil2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/biological function.md",
+                "file": "note/note on Montevil2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/biological function.md"
+                "file": "note/note on Montevil2019.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f938977bdff85b0a",
+  "active": "6ab3a06ea6a5e536",
   "lastOpenFiles": [
-    "definition/etiology.md",
+    "reference/Montevil2019a.md",
+    "note/note on Montevil2019.md",
     "concept/biological function.md",
+    "definition/etiology.md",
     "private/TODO.md",
     "private/TOREAD.md",
     "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
     "reference/Grothendieck1972.md",
     "reference/OECD2021.md",
-    "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md",
-    "reference/Godin2020.md",
-    "private/drafts/(v6) Le besoin d'une économie des théories scientifiques.md"
+    "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md"
   ]
 }
