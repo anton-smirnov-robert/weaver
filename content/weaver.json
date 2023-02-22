@@ -5234,6 +5234,46 @@
       "select": "zotero://select/library/items/M7QRGYTW"
     },
     {
+      "key": "6Q99EJKU",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Springer",
+      "date": "2016",
+      "libraryCatalog": "Google Scholar",
+      "title": "A critical overview of biological functions",
+      "creators": [
+        {
+          "firstName": "Justin",
+          "lastName": "Garson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-22T15:14:35Z",
+      "dateModified": "2023-02-22T15:14:35Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/6Q99EJKU",
+      "itemID": 6489,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-22T15:14:41Z",
+          "dateModified": "2023-02-22T15:14:41Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/35U4LFF5",
+          "path": "/Users/robert/Dropbox/zotero/storage/35U4LFF5/978-3-319-32020-5.html",
+          "select": "zotero://select/library/items/35U4LFF5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Garson2016",
+      "itemKey": "6Q99EJKU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6Q99EJKU"
+    },
+    {
       "key": "ACF236UV",
       "version": 0,
       "itemType": "journalArticle",
@@ -5286,6 +5326,42 @@
       "itemKey": "ACF236UV",
       "libraryID": 1,
       "select": "zotero://select/library/items/ACF236UV"
+    },
+    {
+      "key": "LT3E8W2D",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.jstor.org/stable/2216063",
+      "volume": "28",
+      "issue": "3",
+      "pages": "344-362",
+      "publicationTitle": "No\u00fbs",
+      "ISSN": "0029-4624",
+      "date": "1994",
+      "extra": "Publisher: Wiley",
+      "DOI": "10.2307/2216063",
+      "accessDate": "2023-02-22T15:12:16Z",
+      "libraryCatalog": "JSTOR",
+      "title": "A Modern History Theory of Functions",
+      "creators": [
+        {
+          "firstName": "Peter",
+          "lastName": "Godfrey-Smith",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-22T15:12:16Z",
+      "dateModified": "2023-02-22T15:12:16Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LT3E8W2D",
+      "itemID": 6487,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Godfrey-Smith1994",
+      "itemKey": "LT3E8W2D",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LT3E8W2D"
     },
     {
       "key": "MJU4B4FW",
@@ -8529,6 +8605,42 @@
       "itemKey": "LRWV5JKX",
       "libraryID": 1,
       "select": "zotero://select/library/items/LRWV5JKX"
+    },
+    {
+      "key": "69HB3FPF",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.jstor.org/stable/187875",
+      "volume": "56",
+      "issue": "2",
+      "pages": "288-302",
+      "publicationTitle": "Philosophy of Science",
+      "ISSN": "0031-8248",
+      "date": "1989",
+      "extra": "Publisher: [The University of Chicago Press, Philosophy of Science Association]",
+      "accessDate": "2023-02-22T15:13:10Z",
+      "libraryCatalog": "JSTOR",
+      "abstractNote": "I defend the historical definition of \"function\" originally given in my Language, Thought and Other Biological Categories (1984a). The definition was not offered in the spirit of conceptual analysis but is more akin to a theoretical definition of \"function\". A major theme is that nonhistorical analyses of \"function\" fail to deal adequately with items that are not capable of performing their functions.",
+      "title": "In Defense of Proper Functions",
+      "creators": [
+        {
+          "firstName": "Ruth Garrett",
+          "lastName": "Millikan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-22T15:13:10Z",
+      "dateModified": "2023-02-22T15:13:10Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/69HB3FPF",
+      "itemID": 6488,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Millikan1989",
+      "itemKey": "69HB3FPF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/69HB3FPF"
     },
     {
       "key": "L5QYGRFC",
@@ -13949,6 +14061,46 @@
       "itemKey": "L5PB7GTG",
       "libraryID": 1,
       "select": "zotero://select/library/items/L5PB7GTG"
+    },
+    {
+      "key": "NMD98VXU",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Oxford University Press",
+      "date": "2003",
+      "libraryCatalog": "Google Scholar",
+      "title": "Developmental plasticity and evolution",
+      "creators": [
+        {
+          "firstName": "Mary Jane",
+          "lastName": "West-Eberhard",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-22T15:21:01Z",
+      "dateModified": "2023-02-22T15:21:01Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/NMD98VXU",
+      "itemID": 6491,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-22T15:21:14Z",
+          "dateModified": "2023-02-22T15:21:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/TXSYQH47",
+          "path": "/Users/robert/Dropbox/zotero/storage/TXSYQH47/books.html",
+          "select": "zotero://select/library/items/TXSYQH47"
+        }
+      ],
+      "notes": [],
+      "citationKey": "West-Eberhard2003",
+      "itemKey": "NMD98VXU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NMD98VXU"
     },
     {
       "key": "KVHZAKR3",

@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb3907c566cd4328",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/biological function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/biological function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "concept/biological function.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +151,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f938977bdff85b0a",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
+    "concept/biological function.md",
     "private/TODO.md",
     "private/TOREAD.md",
     "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
@@ -156,7 +162,6 @@
     "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md",
     "reference/Godin2020.md",
     "private/drafts/(v6) Le besoin d'une économie des théories scientifiques.md",
-    "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
-    "reference/Audetat2015.md"
+    "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md"
   ]
 }

@@ -13,4 +13,6 @@ It constitutes the structure of determination of organisms.
 We talk about organisms using fonctions in biology, like we talk about dynamics of objects using forces in physics.
 
 In the organizational approach, a biological function is a [biological constraint](definition/biological%20constraint.md) subject to a [closure of constraints](concept/closure%20of%20constraints.md). 
-In the selective effect account of functions, heritbale traits are selected because of their positive consequences for the viability of the organism. 
+In the selective effect account of functions, heritbale traits are selected because of their positive consequences for the viability of the organism. ([Godfrey-Smith1994](reference/Godfrey-Smith1994.md), [Millikan1989](reference/Millikan1989.md), [Garson2016](reference/Garson2016.md)). 
+
+The example of the goat that [learns to walk on two legs](https://www.youtube.com/shorts/7yu8nw73qUU) shows that the first appraoch is larger that the second because something non-heritable can be functional ([West-Eberhard2003](reference/West-Eberhard2003.md)).
