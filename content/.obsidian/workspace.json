@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO.md",
+                "file": "concept/biological function.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/TODO.md",
+                "file": "concept/biological function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/TODO.md",
+                "file": "concept/biological function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/TODO.md"
+                "file": "concept/biological function.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "f938977bdff85b0a",
   "lastOpenFiles": [
-    "private/TOREAD.md",
     "private/TODO.md",
+    "private/TOREAD.md",
     "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
     "reference/Grothendieck1972.md",
     "reference/OECD2021.md",
