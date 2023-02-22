@@ -21,5 +21,5 @@ For an _infinite_ collection of pairs of socks (assumed to have no distinguish
 For any set _X_ of nonempty sets, there exists a [choice function](definition/choice%20function.md) _f_ that is defined on _X_ and maps each set of _X_ to an element of that set.
 
 
-###@  Source:
+###  Source:
 [Wikipedia](https://en.wikipedia.org/wiki/Axiom_of_choice)

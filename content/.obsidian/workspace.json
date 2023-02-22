@@ -8,24 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f938977bdff85b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/biological function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ab3a06ea6a5e536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "note/note on Montevil2019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f1deb948317b495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/axiom of choice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d9cc8932c6a450c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/new possibility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90e33d6e258ad491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d3fc7f95ebd23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/biological novelty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de9b46305b192869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Montevil2019a.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "axiom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Montevil2019.md",
+                "file": "concept/axiom of choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Montevil2019.md",
+                "file": "concept/axiom of choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Montevil2019.md"
+                "file": "concept/axiom of choice.md"
               }
             }
           }
@@ -159,17 +203,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6ab3a06ea6a5e536",
+  "active": "4f1deb948317b495",
   "lastOpenFiles": [
-    "reference/Montevil2019a.md",
     "note/note on Montevil2019.md",
+    "concept/axiom of choice.md",
+    "reference/Montevil2019a.md",
+    "concept/biological novelty.md",
+    "concept/new possibility.md",
+    "concept/open-ended evolution.md",
     "concept/biological function.md",
     "definition/etiology.md",
     "private/TODO.md",
-    "private/TOREAD.md",
-    "private/drafts/(v1.7) Le déclin de la théorisation en sciences.md",
-    "reference/Grothendieck1972.md",
-    "reference/OECD2021.md",
-    "private/drafts/(v2) Le besoin d'une économie des théories scientifiques..md"
+    "private/TOREAD.md"
   ]
 }
