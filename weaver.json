@@ -13270,6 +13270,56 @@
       "select": "zotero://select/library/items/B2RI8VVZ"
     },
     {
+      "key": "HB8LGQAT",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.euppublishing.com/doi/10.3366/drt.2020.0220",
+      "volume": "13",
+      "issue": "1",
+      "pages": "72-94",
+      "publicationTitle": "Derrida Today",
+      "ISSN": "1754-8500, 1754-8519",
+      "date": "05/2020",
+      "journalAbbreviation": "Derrida Today",
+      "DOI": "10.3366/drt.2020.0220",
+      "accessDate": "2023-02-22T13:56:19Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "These lectures outline the project of a general organology, which is to say an account of life when it is no longer just biological but technical, or when it involves not just organic matter but organized inorganic matter. This organology is also shown to require a modi\ufb01ed Simondonian account of the shift from vital individuation to a three-stranded process of psychic, collective and technical individuation. Furthermore, such an approach involves extending the Derridean reading of Socrates\u2019s discussion of writing as a pharmakon, so that it becomes a more general account of the pharmacological character of retention and protention. By going back to Leroi-Gourhan, we can recognize that this also means pursuing the history of retentional modi\ufb01cations unfolding in the course of the history of what, with Lotka, can also be called exosomatization. It is thus a question of how exteriorization can, today, in an epoch when it becomes digital, and in an epoch that produces vast amounts of entropy at the thermodynamic, biological and noetic levels, still possibly produce new forms of interiorization, that is, new forms of thought, care and desire, amounting to so many chances to struggle against the planetaryscale pharmacological crisis with which we are currently af\ufb02icted.",
+      "title": "Elements for a General Organology",
+      "creators": [
+        {
+          "firstName": "Bernard",
+          "lastName": "Stiegler",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-22T13:56:19Z",
+      "dateModified": "2023-02-22T13:56:19Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/HB8LGQAT",
+      "itemID": 6475,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Stiegler - 2020 - Elements for a General Organology.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-22T13:56:16Z",
+          "dateModified": "2023-02-22T13:56:20Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/K6Y8C78A",
+          "path": "/Users/robert/Dropbox/zotero/storage/K6Y8C78A/Stiegler - 2020 - Elements for a General Organology.pdf",
+          "select": "zotero://select/library/items/K6Y8C78A"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Stiegler2020a",
+      "itemKey": "HB8LGQAT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HB8LGQAT"
+    },
+    {
       "key": "AHH764BR",
       "version": 0,
       "itemType": "journalArticle",
