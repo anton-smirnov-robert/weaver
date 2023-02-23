@@ -3129,15 +3129,14 @@
       "select": "zotero://select/library/items/RZRWTUWZ"
     },
     {
-      "key": "RE5CDG97",
+      "key": "4CUQ8Z6B",
       "version": 0,
       "itemType": "journalArticle",
-      "pages": "22",
+      "publicationTitle": "ISTE Openscience",
       "date": "2022",
-      "libraryCatalog": "Zotero",
-      "language": "fr",
-      "abstractNote": "Different concepts, derived from that of entropy, but which oppose it, will be correlated in the analysis of the living state of matter: those of negentropy and anti-entropy. We will discuss the disruptive role of entropy as well as its contribution to the production of the organization of life (anti-entropy), in space and time. This will allow us to talk about the historicity of the living and to define a space of viability where anti-entropic diversity is obtained by integration/assimilation of local entropy (variation) in the spatial structures and temporal rhythms of the living. The local thus co-constructs the global, while they constitute a constraint of one on the other, in a tension at the heart of phylogenesis and ontogenesis.",
-      "title": "Entropie, Neguentropie et Anti-entropie : le jeu des tensions pour penser le vivant",
+      "libraryCatalog": "Google Scholar",
+      "title": "Entropie, Neguentropie et Anti-entropie: le jeu des tensions pour penser le vivant",
+      "shortTitle": "Entropie, Neguentropie et Anti-entropie",
       "creators": [
         {
           "firstName": "Marie",
@@ -3152,28 +3151,28 @@
       ],
       "tags": [],
       "relations": [],
-      "dateAdded": "2022-11-25T17:34:47Z",
-      "dateModified": "2022-11-25T17:34:47Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/RE5CDG97",
-      "itemID": 5693,
+      "dateAdded": "2023-02-23T15:56:31Z",
+      "dateModified": "2023-02-23T15:56:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/4CUQ8Z6B",
+      "itemID": 6515,
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Chollat-Namy et Longo - 2022 - Entropie, Neguentropie et Anti-entropie  le jeu d.pdf",
+          "title": "Full Text",
           "tags": [],
           "relations": [],
-          "dateAdded": "2022-11-25T17:34:44Z",
-          "dateModified": "2022-11-25T17:34:47Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/E5VWAWYJ",
-          "path": "/Users/robert/Dropbox/zotero/storage/E5VWAWYJ/Chollat-Namy et Longo - 2022 - Entropie, Neguentropie et Anti-entropie  le jeu d.pdf",
-          "select": "zotero://select/library/items/E5VWAWYJ"
+          "dateAdded": "2023-02-23T15:56:34Z",
+          "dateModified": "2023-02-23T15:56:34Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/P78YEZNK",
+          "path": "/Users/robert/Dropbox/zotero/storage/P78YEZNK/Chollat-Namy et Longo - 2022 - Entropie, Neguentropie et Anti-entropie le jeu de.pdf",
+          "select": "zotero://select/library/items/P78YEZNK"
         }
       ],
       "notes": [],
-      "citationKey": "Chollat-Namy2022",
-      "itemKey": "RE5CDG97",
+      "citationKey": "Chollat-Namy2022a",
+      "itemKey": "4CUQ8Z6B",
       "libraryID": 1,
-      "select": "zotero://select/library/items/RE5CDG97"
+      "select": "zotero://select/library/items/4CUQ8Z6B"
     },
     {
       "key": "2U78MLGN",
