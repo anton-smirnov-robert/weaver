@@ -20,7 +20,7 @@ Reference: [Montevil2019a](reference/Montevil2019a.md)
 
 Novelty is used to classify organisms (phylogenetic trees minimize their number to understand ancestors), but they are not properly defined in biology. In maths, everything is given by the hypothesis, all can be deduced from that ? In physics, it is not that straightforward and there is a very weak form of novelty, but it is very different from the biological one.
 
-The paper aims at defining a [biological novelty](concept/biological%20novelty.md) and the concept of [new possibility](concept/new%20possibility.md). 
+The paper aims at defining a [novelty](concept/novelty.md) and the concept of [new possibility](concept/new%20possibility.md). 
 
 A novelty is related to a diachronic emergence, in contrast to (synchronic) emergence which is used in physics in complex systems. However, there are diachronic emergence in physics when "new" macroscopic forms emerge (e.g. crystallization). 
 
@@ -70,19 +70,41 @@ Symphonies share properties, but it is not the properties that makes them what t
 In machine learning, one can find some relevant properties for some symphonies that have the same composer for instance. But the symphonies pre-exist, their generic properties are not pre-stated. The generic sets (patterns) that are identified are specific to the composer. Novelties in those sets (coming from a convex interpolation), may not be interesting from a musical point of view.
 
 
-#### Explicit possibilities and prepossibilities
+#### The concept of [novelty](concept/novelty.md) is introduced 
 
-- Explicit possibilities **if and only if** we define explicitly also how they “work”, that is to say how they take place in an appropriate theoretical framework where they have meaning. 
+DNA and phenotypes are another example. No explicit relations. Gene expression is contextual. DNA cannot discuss the viability of phenotypes. Two different theoretical levels. Even with the idea of a complete genetic determinism (postulated without the generic causal rule — the algorithm) one needs to consider new possibilities. Models of networks, chemical sets do not define possibilities either. 
 
-- Pre-possibility if its meaning is not entirely explicit for the intended phenomena. Pre-possibilities are usually possibilities defined in an initial theoretical context that are used in another context where they do not meet the criteria of explicit possibilities.
+#### The argument of all-encompassing sets are refutated
 
-Exemple: 
-> [!quote] 
->
->The set of possible music scores $M_s$ has generic properties that are relevant for writing, writing software or printing. These operations are its natural theoretical context. Music scores are used to communicate symphonies as a writing system, which means that they are typically sufficient for constraining the receiver for her to interpret some music scores as symphonies. However, the theoretical construct used to define Ms is not sufficient for a sound theoretical understanding of symphonies themselves. This limitation is not just due to $M_s$ lacking generic constructs. Instead, the meaning of musical possibilities lies at the individual level which means that musical sense is not a generic property. Thus, $M_s$ may only be seen as a set of pre-possibilities for symphonies and not as a set of explicit possibilities. —  (Montévil, 2019, p. 11) 
+Dynamical system of atoms for the organism with determinism. Then novelties are to be found in the specific initial conditions. But they do not define explicit biological possibility. 
 
-When reasoning in a given theoretical context requires discussing specific properties of elements, a generic set of pre-possibilities cannot be transformed into a generic set of explicit possibilities. Only some pre-possibilities can be completed to be explicit possibilities. The concept of new possibilities is therefore relevant and needed
+All-encompassing sets are also compatible with the notion of novelty. 
 
-In the higher-level framework, the set of pre-possibility is fragile since it is not in the adequate theoretical structure. It can change : notations define music but notations can change.
+#### Weak novelty in physics
+
+It comes from symmetry breaking. Cooled down Ising spins choose a random direction to orient. Novelty ? 
+
+- The novelty is a choice, you can prestate the possibilities (angle)
+- It can be repeated *ad libidum*
+- The novelty has to appear at a given threshold
+- It is ponctual so transition phase are elementary (binary)
+- Equation at the microscopic level does not change 
+- Macroscopic possibilities are finite, small in number, they can be predicted after investigation
+- Anhistorical system, so that novelties does not impact the future dynamic 
+
+Actual possibilities can be understood by the relations between the parts before the possibility is actualized. 
+Virtual possibilities do not follow the causal relations requires to understand the initial sitution. 
+
+#### The concept of [new possibility](concept/new%20possibility.md) in biology is nedeed
+
+It is argued that specificity + functionality leads to historicity and therefore the idea of new possibility.
+A biological function is specific because it belongs to an organization.
+Therefore, it needs the concept of new possibility. 
 
 
+#### Response to maths objections
+
+
+Being able to generate a pattern is not being able to explain it, that is to be an explicit possibility. 
+It is choosing a good initial condition. 
+Be careful with the retrospective illusion : putting a novelty as generic *a posteriori*. 
