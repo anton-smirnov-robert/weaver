@@ -46,7 +46,6 @@ finite set : The set is defined, and we can reason on each element individually.
 
 Symphonies are finite combinations of finite set of notes, so they are in the $\mathbb{N}$-like category. 
 
-
 #### Physics restrict the discussion about generic properties of things 
 
 Physics matters about generic **relations** between quantities: it is not about the quantities.
@@ -69,4 +68,21 @@ Can we have a generic definition in the set of all music scores for symphonies?
 Symphonies share properties, but it is not the properties that makes them what they are.
 
 In machine learning, one can find some relevant properties for some symphonies that have the same composer for instance. But the symphonies pre-exist, their generic properties are not pre-stated. The generic sets (patterns) that are identified are specific to the composer. Novelties in those sets (coming from a convex interpolation), may not be interesting from a musical point of view.
+
+
+#### Explicit possibilities and prepossibilities
+
+- Explicit possibilities **if and only if** we define explicitly also how they “work”, that is to say how they take place in an appropriate theoretical framework where they have meaning. 
+
+- Pre-possibility if its meaning is not entirely explicit for the intended phenomena. Pre-possibilities are usually possibilities defined in an initial theoretical context that are used in another context where they do not meet the criteria of explicit possibilities.
+
+Exemple: 
+> [!quote] 
+>
+>The set of possible music scores $M_s$ has generic properties that are relevant for writing, writing software or printing. These operations are its natural theoretical context. Music scores are used to communicate symphonies as a writing system, which means that they are typically sufficient for constraining the receiver for her to interpret some music scores as symphonies. However, the theoretical construct used to define Ms is not sufficient for a sound theoretical understanding of symphonies themselves. This limitation is not just due to $M_s$ lacking generic constructs. Instead, the meaning of musical possibilities lies at the individual level which means that musical sense is not a generic property. Thus, $M_s$ may only be seen as a set of pre-possibilities for symphonies and not as a set of explicit possibilities. —  (Montévil, 2019, p. 11) 
+
+When reasoning in a given theoretical context requires discussing specific properties of elements, a generic set of pre-possibilities cannot be transformed into a generic set of explicit possibilities. Only some pre-possibilities can be completed to be explicit possibilities. The concept of new possibilities is therefore relevant and needed
+
+In the higher-lever framework, the set of pre-possibility is fragile since it is not in the adequate theoretical structure. It can change : notations define music but notations can change.
+
 

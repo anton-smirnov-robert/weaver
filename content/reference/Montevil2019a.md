@@ -146,11 +146,7 @@ DOI: 10.1007/s11229-017-1668-5
 
 > [!quote] 
 >
->When specific properties of individual elements are what matters, then we cannot trans- —  (Montévil, 2019, p. 11) 
-
-> [!quote] 
->
->form a generic set of pre-possibilities into explicit possibilities. —  (Montévil, 2019, p. 12) 
+>When specific properties of individual elements are what matters, then we cannot transform a generic set of pre-possibilities into explicit possibilities. —  (Montévil, 2019, p. 11) 
 
 > [!quote] 
 >
