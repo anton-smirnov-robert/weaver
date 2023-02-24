@@ -107,4 +107,5 @@ Therefore, it needs the concept of new possibility.
 
 Being able to generate a pattern is not being able to explain it, that is to be an explicit possibility. 
 It is choosing a good initial condition. 
-Be careful with the retrospective illusion : putting a novelty as generic *a posteriori*. 
+Be careful with the retrospective illusion : saying that something was a possibility because it happened.
+No, it was not at that time. 
