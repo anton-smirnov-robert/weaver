@@ -62,3 +62,11 @@ When bifurcations occur, physics aims at making them generic (period doubling). 
 In chaotic systems, everything is actually contained in the initial condition. For a fixed dynamical law, it just dig deeper and deeper into it. Nothing is new.
 
 
+#### Do symphonies share some *relevant* properties ?
+
+What makes symphonies what they are (*relevant* properties), is it a shared property?  
+Can we have a generic definition in the set of all music scores for symphonies?
+Symphonies share properties, but it is not the properties that makes them what they are.
+
+In machine learning, one can find some relevant properties for some symphonies that have the same composer for instance. But the symphonies pre-exist, their generic properties are not pre-stated. The generic sets (patterns) that are identified are specific to the composer. Novelties in those sets (coming from a convex interpolation), may not be interesting from a musical point of view.
+
