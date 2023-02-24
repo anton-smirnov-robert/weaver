@@ -83,6 +83,6 @@ Exemple:
 
 When reasoning in a given theoretical context requires discussing specific properties of elements, a generic set of pre-possibilities cannot be transformed into a generic set of explicit possibilities. Only some pre-possibilities can be completed to be explicit possibilities. The concept of new possibilities is therefore relevant and needed
 
-In the higher-lever framework, the set of pre-possibility is fragile since it is not in the adequate theoretical structure. It can change : notations define music but notations can change.
+In the higher-level framework, the set of pre-possibility is fragile since it is not in the adequate theoretical structure. It can change : notations define music but notations can change.
 
 
