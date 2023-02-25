@@ -9,7 +9,7 @@ tags:
 - TODO
 ---
 
-- [ ]  Note on Novelty  — Maël , avec articulation avec fonction et clotûre de contraintes. 
+- [x]  Note on Novelty  — Maël , avec articulation avec fonction et clotûre de contraintes. 
 - [ ]  Note on anti-entropy (Longo Bailly puis Maël , puis Marie)
 - [ ] Identity — Montevil Mossio
 
