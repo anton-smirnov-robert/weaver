@@ -94,7 +94,7 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": true,
+      "keepUpdated": false,
       "worker": true
     }
   },
@@ -1152,6 +1152,59 @@
       "select": "zotero://select/library/items/XS9W4N4C"
     },
     {
+      "key": "YI6GFUTE",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://hal-ens.archives-ouvertes.fr/hal-03319785",
+      "volume": "17",
+      "issue": "1",
+      "pages": "63",
+      "publicationTitle": "Journal of Biological Systems",
+      "date": "2009",
+      "DOI": "10.1142/S0218339009002715",
+      "accessDate": "2023-02-28T17:51:27Z",
+      "libraryCatalog": "hal-u-picardie.archives-ouvertes.fr",
+      "language": "en",
+      "abstractNote": "This paper proposes a systemic perspective for some aspects of both phylogenesis and ontogenesis by expressing biological organization in terms of \"anti-entropy\", a notion to be defined below and which conceptually differs from the common use of \"negative entropy\". To this purpose, we introduce two principles, in addition to the thermodynamic ones, which are (mathematically) compatible with traditional principles but which have no meaning with regard to inert matter. A traditional balance equation for the metabolism will then be extended to the new notion as specified by these principles. We examine far from equilibrium systems and we focus in particular on the production of global entropy associated to the irreversible character of the processes. A close analysis of anti-entropy will be performed from the perspective of a diffusion equation of biomass over \"complexity\" and, as a complementary approach and as a tool for specifying a source term, in connection to Schr\u00f6dinger's method regarding his equation in the field of Quantum Mechanics. We borrow only the operatorial approach from this equation and do so using a classical framework, since we use real coefficients instead of complex ones, thus outside of the mathematical framework of quantum theories. The first application of our proposal is a simple mathematical reconstruction of Gould's complexity curve of biomass over complexity as it applies to evolution. We then present, based on the existence of different time scales, a partition of ontogenetic time, in reference to entropy and anti-entropy variation. On the grounds of this approach, we analyze the metabolism and scaling laws. This allows to compare various relevant coefficients appearing in these scaling laws, which fit empirical data. Finally, a tentative and quantitative evaluation of complexity is proposed, also in relation to some empirical data (caenorhabditis elegans).",
+      "title": "Biological Organisation and Anti-Entropy",
+      "creators": [
+        {
+          "firstName": "Francis",
+          "lastName": "Bailly",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:51:27Z",
+      "dateModified": "2023-02-28T17:51:27Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YI6GFUTE",
+      "itemID": 6549,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:51:30Z",
+          "dateModified": "2023-02-28T17:51:30Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VJNH5JPS",
+          "path": "/Users/robert/Dropbox/zotero/storage/VJNH5JPS/Bailly et Longo - 2009 - Biological Organisation and Anti-Entropy.pdf",
+          "select": "zotero://select/library/items/VJNH5JPS"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Bailly2009",
+      "itemKey": "YI6GFUTE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YI6GFUTE"
+    },
+    {
       "key": "AM379XZA",
       "version": 0,
       "itemType": "book",
@@ -1724,6 +1777,62 @@
       "itemKey": "HGJ359QW",
       "libraryID": 1,
       "select": "zotero://select/library/items/HGJ359QW"
+    },
+    {
+      "key": "TGB6U9P6",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00069",
+      "volume": "11",
+      "publicationTitle": "Frontiers in Physiology",
+      "ISSN": "1664-042X",
+      "date": "2020",
+      "accessDate": "2023-02-28T17:30:03Z",
+      "libraryCatalog": "Frontiers",
+      "abstractNote": "Endocrinologists apply the idea of feedback loops to explain how hormones regulate certain bodily functions such as glucose metabolism. In particular, feedback loops focus on the maintenance of the plasma concentrations of glucose within a narrow range. Here, we put forward a different, organicist perspective on the endocrine regulation of glycaemia, by relying on the pivotal concept of closure of constraints. From this perspective, biological systems are understood as organized ones, which means that they are constituted of a set of mutually dependent functional structures acting as constraints, whose maintenance depends on their reciprocal interactions. Closure refers specifically to the mutual dependence among functional constraints in an organism. We show that, when compared to feedback loops, organizational closure can generate much richer descriptions of the processes and constraints at play in the metabolism and regulation of glycaemia, by making explicit the different hierarchical orders involved. We expect that the proposed theoretical framework will open the way to the construction of original mathematical models, which would provide a better understanding of endocrine regulation from an organicist perspective.",
+      "title": "Glycemia Regulation: From Feedback Loops to Organizational Closure",
+      "shortTitle": "Glycemia Regulation",
+      "creators": [
+        {
+          "firstName": "Leonardo",
+          "lastName": "Bich",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Matteo",
+          "lastName": "Mossio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ana M.",
+          "lastName": "Soto",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:30:03Z",
+      "dateModified": "2023-02-28T17:30:03Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/TGB6U9P6",
+      "itemID": 6538,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:30:08Z",
+          "dateModified": "2023-02-28T17:30:08Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ELQWD8XK",
+          "path": "/Users/robert/Dropbox/zotero/storage/ELQWD8XK/Bich et al. - 2020 - Glycemia Regulation From Feedback Loops to Organi.pdf",
+          "select": "zotero://select/library/items/ELQWD8XK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Bich2020",
+      "itemKey": "TGB6U9P6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TGB6U9P6"
     },
     {
       "key": "FEQ38QCX",
@@ -8068,6 +8177,100 @@
       "publicationTitle": "Academia European Conference on\" Use and Abuse of Bibliometrics\""
     },
     {
+      "key": "G7FY43AJ",
+      "version": 0,
+      "itemType": "book",
+      "url": "https://link.springer.com/10.1007/978-3-642-35938-5",
+      "series": "Lecture Notes in Morphogenesis",
+      "place": "Berlin, Heidelberg",
+      "publisher": "Springer",
+      "ISBN": "978-3-642-35937-8 978-3-642-35938-5",
+      "date": "2014",
+      "extra": "DOI: 10.1007/978-3-642-35938-5",
+      "accessDate": "2023-02-28T18:06:21Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Perspectives on Organisms: Biological time, Symmetries and Singularities",
+      "shortTitle": "Perspectives on Organisms",
+      "creators": [
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Allometric Laws",
+          "type": 1
+        },
+        {
+          "tag": "Biological Evolution",
+          "type": 1
+        },
+        {
+          "tag": "Biological Rhythms",
+          "type": 1
+        },
+        {
+          "tag": "Biological Time",
+          "type": 1
+        },
+        {
+          "tag": "Darwin\u2019s Evolution",
+          "type": 1
+        },
+        {
+          "tag": "Gould\u2019s Analysis",
+          "type": 1
+        },
+        {
+          "tag": "Phenotypic Complexity",
+          "type": 1
+        },
+        {
+          "tag": "Symmetry in Biology",
+          "type": 1
+        },
+        {
+          "tag": "Systems Biology",
+          "type": 1
+        },
+        {
+          "tag": "Theoretical Biology",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-02-28T18:06:21Z",
+      "dateModified": "2023-02-28T18:06:21Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/G7FY43AJ",
+      "itemID": 6554,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T18:06:26Z",
+          "dateModified": "2023-02-28T18:06:26Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/MYHPFFUU",
+          "path": "/Users/robert/Dropbox/zotero/storage/MYHPFFUU/Longo et Mont\u00e9vil - 2014 - Perspectives on Organisms Biological time, Symmet.pdf",
+          "select": "zotero://select/library/items/MYHPFFUU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Longo2014",
+      "itemKey": "G7FY43AJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/G7FY43AJ"
+    },
+    {
       "key": "YFEH3DRT",
       "version": 0,
       "itemType": "journalArticle",
@@ -9541,6 +9744,114 @@
       "publicationTitle": "Bifurquer, \"il n'y a pas d'alternative\""
     },
     {
+      "key": "7FK34NT9",
+      "version": 0,
+      "itemType": "report",
+      "url": "https://www.researchsquare.com/article/rs-1359981/v1",
+      "date": "2022-03-17",
+      "extra": "DOI: 10.21203/rs.3.rs-1359981/v1",
+      "accessDate": "2023-02-28T17:49:47Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Biologists increasingly report anthropogenic disruptions of both organisms and ecosystems, suggesting that these processes are a fundamental, qualitative component of the Anthropocene. Nonetheless, the notion of disruption has not yet been theorized in biology. To progress in that regard, we work on a special case. Relatively minor temperature changes impact plant-pollinator synchrony, disrupting mutualistic interaction networks. Understanding this phenomenon requires a speci\ufb01c rationale since models describing them use both historical and systemic reasoning. Speci\ufb01cally, history justi\ufb01es that the system is initially in a very narrow part of the possibility space where it is viable, and the disruption randomizes this con\ufb01guration. Building on this rationale, we develop a formal framework inspired by Boltzmann\u2019s entropy. With empirical networks, we show historical trends depending on latitude. Then we propose an initial de\ufb01nition of disruption in ecology. When a speci\ufb01c historical outcome contributes to a system\u2019s viability, disruption randomizes this outcome, decreasing viability.",
+      "title": "Disruption of biological processes in the Anthropocene: the case of phenological mismatch",
+      "shortTitle": "Disruption of biological processes in the Anthropocene",
+      "creators": [
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:49:47Z",
+      "dateModified": "2023-02-28T17:49:48Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/7FK34NT9",
+      "itemID": 6548,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mont\u00e9vil - 2022 - Disruption of biological processes in the Anthropo.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:49:44Z",
+          "dateModified": "2023-02-28T17:49:48Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/T2AEHUIQ",
+          "path": "/Users/robert/Dropbox/zotero/storage/T2AEHUIQ/Mont\u00e9vil - 2022 - Disruption of biological processes in the Anthropo.pdf",
+          "select": "zotero://select/library/items/T2AEHUIQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Montevil2022",
+      "itemKey": "7FK34NT9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7FK34NT9",
+      "type": "preprint",
+      "publisher": "In Review"
+    },
+    {
+      "key": "ZWGW9DBE",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1007/s12064-020-00320-8",
+      "volume": "141",
+      "issue": "2",
+      "pages": "165-173",
+      "publicationTitle": "Theory in Biosciences",
+      "ISSN": "1611-7530",
+      "date": "2022-06-01",
+      "journalAbbreviation": "Theory Biosci.",
+      "DOI": "10.1007/s12064-020-00320-8",
+      "accessDate": "2023-02-28T17:56:24Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "Most mathematical modeling in biology relies either implicitly or explicitly on the epistemology of physics. The underlying conception is that the historicity of biological objects would not matter to understand a situation here and now, or, at least, historicity would not impact the method of modeling. We analyze that it is not the case with concrete examples. Historicity forces a conceptual reconfiguration where equations no longer play a central role. We argue that all observations depend on objects defined by their historical origin instead of their relations as in physics. Therefore, we propose that biological variations and historicity come first, and regularities are constraints with limited validity in biology. Their proper theoretical and empirical use requires specific rationales.",
+      "title": "Historicity at the heart of biology",
+      "creators": [
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:56:24Z",
+      "dateModified": "2023-02-28T17:56:24Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZWGW9DBE",
+      "itemID": 6551,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mont\u00e9vil - 2022 - Historicity at the heart of biology.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:56:44Z",
+          "dateModified": "2023-02-28T17:56:44Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/6YYWZNXF",
+          "path": "/Users/robert/Dropbox/zotero/storage/6YYWZNXF/Mont\u00e9vil - 2022 - Historicity at the heart of biology.pdf",
+          "select": "zotero://select/library/items/6YYWZNXF"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:56:28Z",
+          "dateModified": "2023-02-28T17:56:28Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ACEJ3S8Y",
+          "path": "/Users/robert/Dropbox/zotero/storage/ACEJ3S8Y/Mont\u00e9vil - 2022 - Historicity at the heart of biology.pdf",
+          "select": "zotero://select/library/items/ACEJ3S8Y"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Montevil2022a",
+      "itemKey": "ZWGW9DBE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZWGW9DBE"
+    },
+    {
       "key": "XK88APPS",
       "version": 0,
       "itemType": "journalArticle",
@@ -9610,6 +9921,105 @@
       "itemKey": "XK88APPS",
       "libraryID": 1,
       "select": "zotero://select/library/items/XK88APPS"
+    },
+    {
+      "key": "TL5G7MNB",
+      "version": 0,
+      "itemType": "book",
+      "url": "https://link.springer.com/10.1007/978-94-017-9837-2",
+      "series": "History, Philosophy and Theory of the Life Sciences",
+      "volume": "12",
+      "place": "Dordrecht",
+      "publisher": "Springer Netherlands",
+      "ISBN": "978-94-017-9836-5 978-94-017-9837-2",
+      "date": "2015",
+      "extra": "DOI: 10.1007/978-94-017-9837-2",
+      "accessDate": "2023-02-28T17:36:07Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Biological Autonomy: A Philosophical and Theoretical Enquiry",
+      "shortTitle": "Biological Autonomy",
+      "creators": [
+        {
+          "firstName": "Alvaro",
+          "lastName": "Moreno",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Matteo",
+          "lastName": "Mossio",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Agency and Philosophy",
+          "type": 1
+        },
+        {
+          "tag": "Autonomous agent",
+          "type": 1
+        },
+        {
+          "tag": "Biological Autonomy",
+          "type": 1
+        },
+        {
+          "tag": "biological organization",
+          "type": 1
+        },
+        {
+          "tag": "Evolvability",
+          "type": 1
+        },
+        {
+          "tag": "Function and Philosophy",
+          "type": 1
+        },
+        {
+          "tag": "Morphogenesis",
+          "type": 1
+        },
+        {
+          "tag": "Organizational closure",
+          "type": 1
+        },
+        {
+          "tag": "Systems Biology",
+          "type": 1
+        },
+        {
+          "tag": "Teleogoly",
+          "type": 1
+        },
+        {
+          "tag": "Thermodynamics",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:36:07Z",
+      "dateModified": "2023-02-28T17:36:07Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/TL5G7MNB",
+      "itemID": 6541,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:36:09Z",
+          "dateModified": "2023-02-28T17:36:09Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/9IJ2GF5X",
+          "path": "/Users/robert/Dropbox/zotero/storage/9IJ2GF5X/Moreno et Mossio - 2015 - Biological Autonomy A Philosophical and Theoretic.pdf",
+          "select": "zotero://select/library/items/9IJ2GF5X"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Moreno2015",
+      "itemKey": "TL5G7MNB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TL5G7MNB"
     },
     {
       "key": "CNAY8K4L",
@@ -13208,6 +13618,100 @@
       "itemKey": "73MGTM4C",
       "libraryID": 1,
       "select": "zotero://select/library/items/73MGTM4C"
+    },
+    {
+      "key": "P9MI67SX",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://montevil.org/publications/books/2016-sln-century-organism/",
+      "volume": "122",
+      "issue": "1",
+      "pages": "1-82",
+      "publicationTitle": "Progress in Biophysics and Molecular Biology, Special issue",
+      "date": "2016/10/1",
+      "extra": "Publisher: Elsevier",
+      "accessDate": "2023-02-28T17:44:04Z",
+      "libraryCatalog": "montevil.org",
+      "language": "en",
+      "abstractNote": "This focused issue of Progress in Biophysics and Molecular Biology is entitled",
+      "title": "From the century of the genome to the century of the organism: New theoretical approaches",
+      "shortTitle": "From the century of the genome to the century of the organism",
+      "creators": [
+        {
+          "firstName": "Ana M.",
+          "lastName": "Soto",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "G.",
+          "lastName": "Longo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nicole",
+          "lastName": "Perret",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlos",
+          "lastName": "Sonnenschein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Matteo",
+          "lastName": "Mossio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Arnaud",
+          "lastName": "Pocheville",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Paul-Antoine",
+          "lastName": "Miquel",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Su-Young",
+          "lastName": "Hwang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:44:04Z",
+      "dateModified": "2023-02-28T17:44:04Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/P9MI67SX",
+      "itemID": 6543,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T17:44:11Z",
+          "dateModified": "2023-02-28T17:44:11Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/S4ELGPAF",
+          "path": "/Users/robert/Dropbox/zotero/storage/S4ELGPAF/2016-sln-century-organism.html",
+          "select": "zotero://select/library/items/S4ELGPAF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Soto2016",
+      "itemKey": "P9MI67SX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/P9MI67SX"
     },
     {
       "key": "AR42GHSU",
