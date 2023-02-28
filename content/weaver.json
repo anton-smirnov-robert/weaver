@@ -94,12 +94,12 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": false,
+      "keepUpdated": true,
       "worker": true
     }
   },
   "version": {
-    "zotero": "6.0.21",
+    "zotero": "6.0.22",
     "bbt": "6.7.54"
   },
   "collections": {},
@@ -3717,6 +3717,73 @@
       "select": "zotero://select/library/items/WRL2FZGW"
     },
     {
+      "key": "DJN5AWG5",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2014.272096",
+      "rights": "\u00a9 2014 The Authors. The Journal of Physiology \u00a9 2014 The Physiological Society",
+      "volume": "592",
+      "issue": "11",
+      "pages": "2307-2317",
+      "publicationTitle": "The Journal of Physiology",
+      "ISSN": "1469-7793",
+      "date": "2014",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1113/jphysiol.2014.272096",
+      "DOI": "10.1113/jphysiol.2014.272096",
+      "accessDate": "2023-02-24T17:50:43Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "abstractNote": "Physiology and evolutionary biology have developed as two separated disciplines, a separation that mirrored the hypothesis that the physiological and evolutionary processes could be decoupled. We argue that non-genetic inheritance shatters the frontier between physiology and evolution, and leads to the coupling of physiological and evolutionary processes to a point where there exists a continuum between accommodation by phenotypic plasticity and adaptation by natural selection. This approach is also profoundly affecting the definition of the concept of phenotypic plasticity, which should now be envisaged as a multi-scale concept. We further suggest that inclusive inheritance provides a quantitative way to help bridging infra-individual (i.e. physiology) with supra-individual (i.e. evolution) approaches, in a way that should help building the long sough inclusive evolutionary synthesis.",
+      "title": "Inheritance is where physiology meets evolution",
+      "creators": [
+        {
+          "firstName": "\u00c9tienne",
+          "lastName": "Danchin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Arnaud",
+          "lastName": "Pocheville",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-24T17:50:43Z",
+      "dateModified": "2023-02-24T17:50:43Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/DJN5AWG5",
+      "itemID": 6517,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-24T17:50:46Z",
+          "dateModified": "2023-02-24T17:50:46Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/9XWI7N93",
+          "path": "/Users/robert/Dropbox/zotero/storage/9XWI7N93/Danchin et Pocheville - 2014 - Inheritance is where physiology meets evolution.pdf",
+          "select": "zotero://select/library/items/9XWI7N93"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-24T17:50:50Z",
+          "dateModified": "2023-02-24T17:50:50Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LYJDNIB2",
+          "path": "/Users/robert/Dropbox/zotero/storage/LYJDNIB2/jphysiol.2014.html",
+          "select": "zotero://select/library/items/LYJDNIB2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Danchin2014",
+      "itemKey": "DJN5AWG5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/DJN5AWG5"
+    },
+    {
       "key": "UBFGXP9Q",
       "version": 0,
       "itemType": "journalArticle",
@@ -3962,6 +4029,56 @@
       "itemKey": "AM3X3W85",
       "libraryID": 1,
       "select": "zotero://select/library/items/AM3X3W85"
+    },
+    {
+      "key": "3M5PE88X",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Oxford University Press",
+      "date": "1976-01-01",
+      "extra": "Google-Books-ID: OirfBgAAQBAJ",
+      "libraryCatalog": "Google Books",
+      "language": "en",
+      "abstractNote": "Richard Dawkins' brilliant reformulation of the theory of natural selection has the rare distinction of having provoked as much excitement and interest outside the scientific community as within it. His theories have helped change the whole nature of the study of social biology, and have forced thousands of readers to rethink their beliefs about life.In his internationally bestselling, now classic volume, The Selfish Gene, Dawkins explains how the selfish gene can also be a subtle gene. The world of the selfish gene revolves around savage competition, ruthless exploitation, and deceit, and yet, Dawkins argues, acts of apparent altruism do exist in nature. Bees, for example, will commit suicide when they sting to protect the hive, and birds will risk their lives to warn the flock of an approaching hawk.This 30th anniversary edition of Dawkins' fascinating book retains all original material, including the two enlightening chapters added in the second edition. In a new Introduction the author presents his thoughts thirty years after the publication of his first and most famous book, while the inclusion of the two-page original Foreword by brilliant American scientist Robert Trivers shows the enthusiastic reaction of the scientific community at that time. This edition is a celebration of a remarkable exposition of evolutionary thought, a work that has been widely hailed for its stylistic brilliance and deep scientific insights, and that continues to stimulate whole new areas of research today.Review\"Dawkins first book, The Selfish Gene, was a smash hit...Best of all, Dawkins laid out this biology-some of it truly subtle-in stunningly lucid prose. (It is, in my view, the best work of popular science ever written.)\"--New York Review of Books\"This important book could hardly be more exciting.\"--The Economist\"The sort of popular science writing that makes the reader feel like a genius.\"--New York Times\"Who should read this book? Everyone interested in the universe and their place in it.\"--Jeffrey R. Baylis, Animal Behaviour\"This book should be read, can be read, by almost everyone. It describes with great skill a new face of the theory of evolution.\"--W. D. Hamilton, Science\"The presentations are remarkable for their clarity and simplicity, intelligible to any schoolchild, yet so little condescending as to be a pleasure to the professional.\"--American ScientistAbout the AuthorRichard Dawkins is the Charles Simonyi Professor of the Public Understanding of Science at Oxford University, a Fellow of the Royal Society and of the Royal Society of Literature, and an international lecturer. His acclaimed books include The Extended Phenotype, a more technical sequel to The Selfish Gene, and The Blind Watchmaker, which won the Royal Society of Literature Award and the Los Angeles Times Prize, both in 1987. His other bestsellers include River out of Eden, Climbing Mount Impossible, Unweaving the Rainbow, and the A Devil's Chaplain. His most recent book is The Ancestor's Tale.Professor Dawkins is the recipient of many prizes and honors, including the Shakespeare Prize, the Silver Medal of the Zoological Society of London, the Royal Society's Michael Faraday Award, the Nakayama Prize for Achievement in Human Science, The International Cosmos Prize, and the Kistler Prize.",
+      "title": "The Selfish Gene",
+      "numPages": "243",
+      "creators": [
+        {
+          "firstName": "Richard",
+          "lastName": "Dawkins",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T13:51:29Z",
+      "dateModified": "2023-02-28T13:51:29Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/3M5PE88X",
+      "itemID": 6536,
+      "attachments": [
+        {
+          "key": "9WU7WZ78",
+          "version": 0,
+          "itemType": "attachment",
+          "url": "https://books.google.fr/books?id=OirfBgAAQBAJ",
+          "accessDate": "2023-02-28T13:51:31Z",
+          "title": "Google Books Link",
+          "parentItem": "3M5PE88X",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-02-28T13:51:31Z",
+          "dateModified": "2023-02-28T13:51:31Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/9WU7WZ78"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Dawkins1976",
+      "itemKey": "3M5PE88X",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3M5PE88X"
     },
     {
       "key": "YNFWFK5J",
@@ -5677,6 +5794,56 @@
       "itemKey": "INX97ID8",
       "libraryID": 1,
       "select": "zotero://select/library/items/INX97ID8"
+    },
+    {
+      "key": "VHMY8GQY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.sciencedirect.com/science/article/pii/0022519364900384",
+      "volume": "7",
+      "issue": "1",
+      "pages": "1-16",
+      "publicationTitle": "Journal of Theoretical Biology",
+      "ISSN": "0022-5193",
+      "date": "1964-07-01",
+      "journalAbbreviation": "Journal of Theoretical Biology",
+      "DOI": "10.1016/0022-5193(64)90038-4",
+      "accessDate": "2023-02-28T13:49:40Z",
+      "libraryCatalog": "ScienceDirect",
+      "language": "en",
+      "abstractNote": "A genetical mathematical model is described which allows for interactions between relatives on one another's fitness. Making use of Wright's Coefficient of Relationship as the measure of the proportion of replica genes in a relative, a quantity is found which incorporates the maximizing property of Darwinian fitness. This quantity is named \u201cinclusive fitness\u201d. Species following the model should tend to evolve behaviour such that each organism appears to be attempting to maximize its inclusive fitness. This implies a limited restraint on selfish competitive behaviour and possibility of limited self-sacrifices. Special cases of the model are used to show (a) that selection in the social situations newly covered tends to be slower than classical selection, (b) how in populations of rather non-dispersive organisms the model may apply to genes affecting dispersion, and (c) how it may apply approximately to competition between relatives, for example, within sibships. Some artificialities of the model are discussed.",
+      "title": "The genetical evolution of social behaviour. I",
+      "creators": [
+        {
+          "firstName": "W. D.",
+          "lastName": "Hamilton",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T13:49:40Z",
+      "dateModified": "2023-02-28T13:49:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/VHMY8GQY",
+      "itemID": 6534,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T13:49:46Z",
+          "dateModified": "2023-02-28T13:49:46Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/N79E3JXE",
+          "path": "/Users/robert/Dropbox/zotero/storage/N79E3JXE/0022519364900384.html",
+          "select": "zotero://select/library/items/N79E3JXE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Hamilton1964",
+      "itemKey": "VHMY8GQY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VHMY8GQY"
     },
     {
       "key": "8HHU8ATJ",
@@ -14161,6 +14328,17 @@
       "uri": "http://zotero.org/users/local/asN0yRvl/items/NMD98VXU",
       "itemID": 6491,
       "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mary Jane West-Eberhard - Developmental Plasticity and Evolution  -Oxford University Press, USA (2003).pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-28T13:03:52Z",
+          "dateModified": "2023-02-28T13:04:11Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/J29VWQP8",
+          "path": "/Users/robert/Dropbox/zotero/storage/J29VWQP8/Mary Jane West-Eberhard - Developmental Plasticity and Evolution  -Oxford University Press, USA (2003).pdf",
+          "select": "zotero://select/library/items/J29VWQP8"
+        },
         {
           "itemType": "attachment",
           "title": "Snapshot",

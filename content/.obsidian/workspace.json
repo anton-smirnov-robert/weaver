@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b94d8290ec461c9b",
+        "id": "2e8370ded6d9f9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "8aa03f7f9f752deb",
+            "id": "de484ffb9bd25642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition/prion.md",
+                "file": "concept/kin-selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition/prion.md",
+                "file": "concept/kin-selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition/prion.md",
+                "file": "concept/kin-selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition/prion.md"
+                "file": "concept/kin-selection.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8aa03f7f9f752deb",
+  "active": "de484ffb9bd25642",
   "lastOpenFiles": [
+    "definition/prion.md",
     "private/TODO.md",
     "reference/Montevil2019a.md",
     "note/note on Montevil2019a.md",
@@ -156,7 +157,6 @@
     "concept/novelty.md",
     "concept/axiom of choice.md",
     "concept/open-ended evolution.md",
-    "concept/biological function.md",
-    "definition/etiology.md"
+    "concept/biological function.md"
   ]
 }
