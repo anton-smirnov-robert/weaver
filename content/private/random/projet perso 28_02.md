@@ -66,7 +66,7 @@ On travaillera autour des concepts de clôture de contrainte, d'anti-entropie, d
 (Ces concepts incluent donc les concepts de nouveautés, d'historicité (avec $\chi$)).
 
 - Modélisation : 
-Il faudra trouver une méthode nouvelle, c'est-à-dire qui n'existe pas aujourd'hui, pour modéliser la stabilité d'un organisme avec ces concepts. 
+Il faudra trouver une méthode nouvelle (pas de biophysique), c'est-à-dire qui n'existe pas aujourd'hui, pour modéliser la stabilité d'un organisme avec ces concepts. 
 
 ## Résumé
 
@@ -81,10 +81,19 @@ Comment modéliser cette chose-là ? Comment inclurre l'hisoire dans ces modéli
 
 Il est possible que l'émergence de la vie soit nécéssaire à la modèlisation de la vie. 
 
+
 ## Objectif de la thèse
 
 Avoir un modèle numérique ou/puis une implémentation expérimentale qui décrit un système avec ce mode d'organisation anti-entropique, qui est capable de produire de l'anti-entropie, et que l'on peut disrupter.
-
 L'objectif est d'avoir un modèle de système organisé selon ses concepts. 
 Il faudra faire quelque chose de formel au début pour comprendre tous les enjeux. 
 Et puis l'on verra ce que l'on peut en faire. 
+
+
+## Étapes
+
+Cela peut consister à amener les concepts un par un : 
+- Clôture de contrainte : représentation formelle (grammaire) puis autocatalitic sets (RAFs).
+- Historicité contribue à la viabilité (anti-entropie).
+- Nouveauté et intégration de nouvelles fonctions (production d'anti-entropie).
+- Disruption.
