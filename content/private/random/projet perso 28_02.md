@@ -79,9 +79,11 @@ Elle permet aussi de s'adapter à l'environnement avec l'adoption de nouvelles f
 
 Comment modéliser cette chose-là ? Comment inclurre l'hisoire dans ces modélisations ?
 
+Il est possible que l'émergence de la vie soit nécéssaire à la modèlisation de la vie. 
 
-## Objectif
-Avoir un modèle numérique puis, pourquoi pas une implémentation expérimentale avec ce mode d'organisation. 
+## Objectif de la thèse
+
+Avoir un modèle numérique ou/puis une implémentation expérimentale qui décrit un système avec ce mode d'organisation anti-entropique, qui est capable de produire de l'anti-entropie, et que l'on peut disrupter.
 
 L'objectif est d'avoir un modèle de système organisé selon ses concepts. 
 Il faudra faire quelque chose de formel au début pour comprendre tous les enjeux. 
