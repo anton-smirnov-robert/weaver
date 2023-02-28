@@ -42,35 +42,38 @@ ED Frontière du vivant :
 
 ## Contenu
 
-**Quoi ?**
+- Discipline
 C'est une thèse en biologie théorique/épistémologie de la biologie. 
 
-**Pourquoi ?**
-Double pertinence: épistemique et nécessité parce que l'Anthropocène est issu, au moins en partie, d'une lacune épistémologique (concernant le vivant) et du rôle de l'entropie (voir [Stiegler2020](reference/Stiegler2020.md))
+- Tradition épistémique
+Elle s'inscrit dans une tradition physiologique et organiciste (Kant, C. Bernard, homeostatis et cybernétique, Piaget, Varela, Rosen, Kauffman, groupe ORGANISM). 
 
-**Dans quelle tradition épistémique ?**
-Dans une tradititon physiologique et biologie théorique (Kant, C. Bernard, homeostatis et cybernétique, Piaget, Varela, Kauffman, Rosen, ORGANISM, Montévil). 
+- Pertinence actuelle et engagement philosophique 
+L'Anthropocène est un symptome, au moins en partie, de la domination d'une vision mécaniciste de l'organisation du vivant. 
+Il est urgent de prendre en compte le concept d'entropie (au sens large, à définir toujours plus précisément) dans nos modes d'organisations humains ([Stiegler2020](reference/Stiegler2020.md)). 
+Les êtres vivants, en tant que spécialistes dans la gestion de l'entropie, et de l'autonomie, sont des objets d'études extrêmement pertinents ([Montevil2021a](reference/Montevil2021a.md)). 
 
-**Quel genre de travail ?**
-C'est un travail très transdisciplinaire original, qui utilise des concepts nouveaux et bouscule des habitudes de la rercherche scientifique à plusieurs échelles : 
-
-- Ontologie : 
-La science explique généralement la régularités d'un système en faisant appel à la régularité de ses parties constituantes (et de leur interactions). 
-Ici, les parties du système varient intrinsèquement, et la stabilité du système procède de son organisation. C'est une autre vision de l'être (vivant) pour la science. 
+- Ontologie
+On explique généralement les régularités d'un système en faisant appel à la régularité des parties constituantes (et de leur interactions) — vision mécaniciste. 
+Ici, les parties du système varient intrinsèquement, et la stabilité du système procède de son organisation. C'est une autre vision de l'être (vivant).   
 
 - Épistémologie :
-L'épistémologie n'est plus celle de la physique. Il faut incorporer l'histoire à la physique pour comprendre la biologie car les nouveautés sont fonctionnelles.
+L'épistémologie de la physique est insuffisante pour comprendre le vivant. Il faut construire une nouvelle épistémologie et poser de nouveaux principes théoriques ([Longo2014](reference/Longo2014.md),[Soto2016](reference/Soto2016.md)).
 
 - Théorique :
-On travaillera autour des concepts de clôture de contrainte, d'anti-entropie, de production d'anti-entropie, et de disruption.
-(Ces concepts incluent donc les concepts de nouveautés, d'historicité (avec $\chi$)).
+On travaillera autour des concepts de clôture de contrainte ([Montevil2015](reference/Montevil2015.md)), d'anti-entropie ([Montevil2022a](reference/Montevil2022a.md),[Montevil2021a](reference/Montevil2021a.md)), de production d'anti-entropie ([Montevil2019a](reference/Montevil2019a.md),[Montevil2021a](reference/Montevil2021a.md)), et de disruption ([Montevil2022](reference/Montevil2022.md)).
+Ces concepts s'articulent autour de la clôture de contraintes ([Montevil2020a](reference/Montevil2020a.md)) qui sert de point de nucléation à une théorie de l'organisme, philosophiquement pertinente ([Mossio2014](reference/Mossio2014.md), [Moreno2015](reference/Moreno2015.md)). 
 
 - Modélisation : 
-Il faudra trouver une méthode nouvelle (pas de biophysique), c'est-à-dire qui n'existe pas aujourd'hui, pour modéliser la stabilité d'un organisme avec ces concepts. 
+Il faudra trouver une méthode nouvelle, c'est-à-dire qui n'existe pas aujourd'hui, pour modéliser la stabilité d'un organisme avec ces concepts. 
+([Bich2020](reference/Bich2020.md)) — From feedback loop to closure of constraints. 
+Organogenesis.  
+
 
 ## Résumé
 
 Ici mettre une caisse sur la stabilité des systèmes vivants (voir HDR Nicolas Glade). Comment sont-ils stables ?
+
 Mettre un paquet sur la notion de disruption pour l'Anthropocène, la désorganisation.
 
 La notion d'histoire est centrale pour comprendre la viabilité, elle constitue l'organisation (cloture de contraintes) et l'anti-entropie. 
@@ -84,8 +87,8 @@ Il est possible que l'émergence de la vie soit nécéssaire à la modèlisation
 
 ## Objectif de la thèse
 
-Avoir un modèle numérique ou/puis une implémentation expérimentale qui décrit un système avec ce mode d'organisation anti-entropique, qui est capable de produire de l'anti-entropie, et que l'on peut disrupter.
-L'objectif est d'avoir un modèle de système organisé selon ses concepts. 
+Avoir un modèle numérique ou/puis une implémentation expérimentale qui décrit un système avec ce mode d'organisation anti-entropique, qui est capable de produire de l'anti-entropie pour comprendre sa disruption.
+L'objectif est d'avoir un modèle de système organisé avec ces concepts. 
 Il faudra faire quelque chose de formel au début pour comprendre tous les enjeux. 
 Et puis l'on verra ce que l'on peut en faire. 
 
@@ -97,3 +100,15 @@ Cela peut consister à amener les concepts un par un :
 - Historicité contribue à la viabilité (anti-entropie).
 - Nouveauté et intégration de nouvelles fonctions (production d'anti-entropie).
 - Disruption.
+
+
+
+C'est le projet MITI sans l'application perturbateurs endocrinien.
+
+
+Contexte philosophie biologie — ([Moreno2015](reference/Moreno2015.md))
+
+
+Modélisation: 
+Mossio ([Bich2020](reference/Bich2020.md)) — From feedback loop to closure of constraints. 
+
