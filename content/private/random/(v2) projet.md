@@ -47,9 +47,21 @@ ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
 -  Epistémologie, histoire des sciences et des techniques
 
+ED 474 : Frontières de l’Innovation en Recherche et Éducation (FIRE)
+
+>[!quote]
+>
+>"The aim of this interdisciplinary doctoral school is to promote ambitious research projects involving interactions between a wide range of academic disciplines in the pursuit of understanding living systems, education, and discovery. Thus, the FIRE graduate school recruits students trained in various disciplines (e.g. biology, physics, medicine, economy, linguistics) from around the world." [Learning Planet Institute](https://phd.learningplanetinstitute.org/en)
+>
+
+>[!quote]
+>
+>"We host research projects that cannot find their place in the usual doctoral school of the labs, because of their unconventional and interdisciplinary nature. Our aim is also to provide to our PhD students a wide offer of courses, covering scientific, technical, transversal and behavioural aspects, in order to help them become well-rounded young researchers." [Université Paris Cité](https://odf.u-paris.fr/fr/offre-de-formation/doctorat-SPD/sciences-technologies-sante-STS/ecole-doctorale-474-frontiere-de-l-innovation-en-recherche-et-education-K6278OZC.html)
+>
+
 ED ISCE : 
 
-ED Frontière du vivant :
+
 
 ## Contenu
 
