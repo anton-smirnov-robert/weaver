@@ -2,39 +2,50 @@
 
 ## Commision CNRS 
 
-**Comission 51** : 
+**Comission 51** : Modélisation mathématique, informatique et physique pour les sciences du vivant
 
+L'institut pilote de la CID est l'**Institut des sciences biologiques**
+
+-   ***Bioinformatique, biomathématique***, biophysique, biostatistique
+-   Biologie des systèmes et biologie de synthèse
+-   Biologie quantitative, intégrative et computationnelle
+-   Génomique et autres données biologiques à haut débit
+-   Neurosciences computationnelles
+-   Apprentissage automatique, intelligence artificielle et biologie
+-   Modélisation et simulation moléculaire pour le vivant
+-   Méthodologie de l'analyse et de l'intégration des données pour les sciences du vivant
+-   Traitement du signal et des images biologiques et médicales
+-   Modélisation en écologie, évolution et épidémiologie
+-   Applications à la santé et à la recherche médicale
 
 **Comission 52** : Environnements sociétés: du savoir à l’action
 
 L'institut pilote de la CID est l'**Institut d'écologie et environnement**
 
--   Changements globaux : dynamiques spatiales et temporelles ; perturbations et crises ; adaptations et résilience ; mitigation ; nexus causes naturelles/causes anthropiques
--   Nature, écosystèmes, biodiversité : représentations ; savoirs locaux ; scenarii ; modélisations ; conservation ; protection
--   Systèmes socio-écologiques : genèse et trajectoires ; fonctions et services ; régulation et gestion
--   Ressources naturelles : valorisation ; usages et gestion ; conflits ; prospectives
+***-   Changements globaux : dynamiques spatiales et temporelles ; perturbations et crises ; adaptations et résilience ; mitigation ; nexus causes naturelles/causes anthropiques***
+**-   Nature, écosystèmes, biodiversité : représentations ; savoirs locaux ; scenarii ; modélisations ; conservation ; protection**
+**-   Systèmes socio-écologiques : genèse et trajectoires ; fonctions et services ; régulation et gestion**
+**-   Ressources naturelles : valorisation ; usages et gestion ; conflits ; prospectives**
 -   Ecologie globale : écologie aux interfaces des sciences du système terre, de la vie et de la société ; transdisciplinarité
 -   Ecologie de la santé : concepts OneHealth, EcoHealth ; interactions environnement-santés-sociétés ; pollutions ; exposome ; dysbioses ; maladies émergentes ; etc
 -   Science de la durabilité : transitions environnementales ; stratégies de développement durable ; énergies ; solutions fondées sur la nature ; ingénierie écologique ; chimie durable ; innovations sociales ; villes durables ; etc
 
-**Comission 53** : 
+**Comission 53** : Sciences en société: production, circulation et usages des savoirs et des technologies
 
-**Comission 54** : Phénomènes fondamentaux et propriétés collectives du vivant: développements instrumentaux, expériences et modèles physiques
+L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 
-L'institut pilote de la CID est l'**Institut de physique**
-
--   Assemblages d’objets biologiques individuels et leurs interactions : propriétés émergentes et fonctions, systèmes modèles
--   Interaction ondes et matière vivante: concepts et instrumentation émergents
--   Capteurs, micro-systèmes et instruments, embarqués et communicants, dédiés à l'observation et l'étude de la dynamique et de l'évolution des individus, des populations, et des écosystèmes
--   Application de l'activité du vivant aux enjeux de société (frugalité, durabilité) : biomimétisme, bio-inspiration, transformation, conversion
--   Couplage et rétro-action de la signalisation et de la biomécanique dans les systèmes complexes: système immunitaire, architectures cellulaires et tissulaires
--   Mesure, quantification et analyse de la matière active appliquée au vivant
--   Approches physiques pour la neurobiologie et les sciences cognitives, comportement et perception
+**-   Pratiques et méthodes des sciences : épistémologie ; régimes de preuve scientifique ; sciences participatives ; circulation et publication des savoirs ; intégrité scientifique et éthique de la recherche ; droit des sciences et des techniques**
+-   Risques sanitaires et environnementaux : risques émergents et signaux faibles ; systèmes d’alerte ; évaluation, mesure et modélisation ; perceptions et impacts sociaux ; prévention, précaution et régulation
+-   Sciences et technologies du vivant : construction des savoirs ; usages politiques, économiques et sociaux ; genre et sciences ; données de santé ; santé numérique
+-   Technologies numériques et société : enjeux politiques, économiques et sociaux ; gouvernance et régulation ; réseaux numériques ; intelligence artificielle ; algorithmes ; données numériques
+-   Sciences, expertise et décision : controverses publiques ; mise en débat public des savoirs ; expertises collectives ; décision en situation d’incertitude
 
 
 ## École doctorale
 
-ED 540 :
+ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
+
+-  Epistémologie, histoire des sciences et des techniques
 
 ED ISCE : 
 

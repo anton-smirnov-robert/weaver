@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/projet thèse.md",
+                "file": "private/random/(v1) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/projet perso 28_02.md",
+                "file": "private/random/(v2) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/projet thèse.md",
+                "file": "private/random/(v2) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/random/projet thèse.md",
+                "file": "private/random/(v2) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/random/projet thèse.md",
+                "file": "private/random/(v2) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/random/projet thèse.md"
+                "file": "private/random/(v2) projet.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "442106ab470435e0",
   "lastOpenFiles": [
+    "private/random/(v1) projet.md",
+    "private/random/(v2) projet.md",
     "reference/Moreno2015.md",
-    "private/random/projet perso 28_02.md",
     "reference/Montevil2020a.md",
     "reference/Montevil2022.md",
     "reference/Montevil2021b.md",
