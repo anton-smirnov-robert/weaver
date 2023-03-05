@@ -45,9 +45,11 @@ L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 
 ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
--  Epistémologie, histoire des sciences et des techniques
+-  Spécialité : Épistémologie, histoire des sciences et des techniques
 
 ED 474 : Frontières de l’Innovation en Recherche et Éducation (FIRE)
+
+Divisée en deux parties : ***frontière du vivant*** et frontière dede l'apprendre et de découvertes. Très sélectif. 
 
 >[!quote]
 >
@@ -59,9 +61,12 @@ ED 474 : Frontières de l’Innovation en Recherche et Éducation (FIRE)
 >"We host research projects that cannot find their place in the usual doctoral school of the labs, because of their unconventional and interdisciplinary nature. Our aim is also to provide to our PhD students a wide offer of courses, covering scientific, technical, transversal and behavioural aspects, in order to help them become well-rounded young researchers." [Université Paris Cité](https://odf.u-paris.fr/fr/offre-de-formation/doctorat-SPD/sciences-technologies-sante-STS/ecole-doctorale-474-frontiere-de-l-innovation-en-recherche-et-education-K6278OZC.html)
 >
 
-ED ISCE : 
+ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 
+-   Spécialité :  Modèles, méthodes et algorithmes pour la Biologie, la Santé et l'environnement (MBS)
 
+ED  577 : STRUCTURE ET DYNAMIQUE DES SYSTÈMES VIVANTS (SDSV)
+-   Spécialité : Biologie Systémique
 
 ## Contenu
 
