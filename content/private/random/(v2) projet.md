@@ -68,10 +68,8 @@ ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 -   Spécialité :  Modèles, méthodes et algorithmes pour la Biologie, la Santé et l'environnement (MBS)
 
 
-## Contenu
+## Sujet de thèse
 
-
-- Pertinence actuelle et engagements philosophiques
 
 L'Anthropocène est un symptome, en partie au moins, d'une vision mécaniciste de l'organisation du vivant. 
 Cette philosophie (symbolisée par la pensée fondatrice de Descartes) est vivement critiquée aujourd'hui, mais la biologie semble évitée le blâme. 
@@ -79,80 +77,32 @@ Il est en effet commun d'entendre que nous devons "changer notre rapport au viva
 Or, dès 1913, Radl notait déjà qu'un savant qui sent son appartenance à la nature et qui ne se tient pas devant elle comme devant des phénomènes étrangers était un vitaliste  — et non un mécaniste (in [Canguilhem1992a](reference/Canguilhem1992a.md), p. 111). 
 La proximité de débats écologiques contemporains avec l'histoire de la biologie devrait nous inviter à une réflexion épistémologique sur nos pratiques actuelles. 
 Ne faut-il pas s'alarmer qu'une théorie permette l'attribution d'un prix Nobel en 2020 à une personne affirmant pouvoir "reprogrammer" le vivant ou "contrôler l'évolution" ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md)) ? 
-Il semble qu'en pensant chasser la philosophie de notre pratique, nous oublions de passer au crible celles que nous embarquons inévitablement dans nos théories.
+Il semble qu'en pensant chasser la philosophie de notre pratique scientifique, nous oublions de passer au crible celles que nous embarquons inévitablement.
 Ne procède-t-il pas de ce manque de rigueur des choix politiques désastreux — comme la Genetic Technology Bill aujourd'hui ? 
+
+La dégradation de la biosphère par des objets techniques nécessite de repenser le fonctionnement de nos organes exosomatiques dans un milieu constitué d'organismes. 
+Sous l'impulsion de la pensée de Bernard Stiegler et du collectif Internation, intégrer la technosphère dans la biosphère nécessite une organologie générale.
+Celle-ci décrit un mode d'organisation de processus biologiques et économiques viables, c'est-à-dire qui résiste à la dégradation du temps, c'est-à-dire à l'entropie ([Stiegler2020](reference/Stiegler2020.md)). 
+Dépasser le mécanicisme des organisations de notre société nécéssite une compréhension solide du concept d'entropie en biologie ou dans une organisation plus générale ([Montevil2021a](reference/Montevil2021a.md)).   
 
 L'épistémologie, les théories, et les modélisations en biologie ne peuvent être réduites à celles de la physique.
 En utilisant les méthodes adaptées à la matière inerte, on comprend quelque chose sur des constituants élémentaires d'un être vivant, mais on ne parle pas (bio-*logos*, parler du vivant) d'êtres vivants, c'est-à-dire d'organismes.
-Pour comprendre les organismes, trois principes été posés ([Longo2014](reference/Longo2014.md), [Soto2016](reference/Soto2016.md)) pour faire rebondir la biologie dans de nouvelles directions.
+Une longue tradition organiciste a vu Claude Bernard, Jean Piaget, ou encore Francisco Varela essayer de définir rigoureusement ce que, au XVIIIe siècle, Emmanuel Kant avait défini comme entitée capable d'auto-organisation. 
+Récémment, une définition formelle s'articulant à la thermodynamique hors-équilibre et réunissant les efforts de ces dernières décénies a été proposée ([Montevil2015](reference/Montevil2015.md)). 
+Ce concept, dit de clotûre de contraintes, a été célébrée par des paires ([Kauffman2019](reference/Kauffman2019.md)) et utilisé pour fonder des réfléxions philosophiques sur la notion d'autonomie biologique ([Moreno2015](reference/Moreno2015.md)). 
+Il constitue le squelette organisationnel d'un organisme, et articule rigoureusement les concepts cruciaux de processus, contraintes et fonctions biologiques.
+
+Pour comprendre les organismes, deux autres principes ont été posés ([Longo2014](reference/Longo2014.md), [Soto2016](reference/Soto2016.md)) pour faire rebondir la biologie dans de nouvelles directions.
 Les changements pour la sciences sont majeurs car on explique plus les régularités d'un système en faisant appel à la régularité des parties constituantes (et de leur interactions). 
-Maintenant, les parties du système varient intrinsèquement, et la stabilité du système procède de son organisation circulaire. 
-C'est un basculement ontologique (pour l'être vivant) qui ouvre la voie à un pan réellement nouveau et pertinent pour la science et la société. 
+Dans ce paradigme, les parties du système varient intrinsèquement, et la stabilité du système procède de son organisation circulaire. 
+C'est un basculement ontologique (pour le vivant) qui ouvre des voies réellement nouvelles et pertinentes pour la science et la société. 
+Des concepts théoriques importants et fructueux ont émerger grâce à ses principes : anti-entropie ([Montevil2022a](reference/Montevil2022a.md), [Montevil2021a](reference/Montevil2021a.md)), production d'anti-entropie ([Montevil2019a](reference/Montevil2019a.md), [Montevil2021a](reference/Montevil2021a.md)), et disruption ([Montevil2022](reference/Montevil2022.md)).
 
-L'enjeu sociétal est, sous l'impulsion de la pensée de Bernard Stiegler et du collectif Internation, de répondre à l'urgence de l'élaboration d'une organologie générale ([Stiegler2020](reference/Stiegler2020.md)).
-Celle-ci propose une voie pour panser la dégradation de la biosphère en y intégrant la technosphère. 
-Plus précisément, dépasser la vision mécaniciste des organisations de notre société demande l'étude des organisations d'organes endosomatique (objets biologiques) et exosomatique (objets techniques).
-Cela signifie comprendre le rôle du concept physique d'entropie dans son sens biologique ou plus généralement organisationel ([Montevil2021a](reference/Montevil2021a.md)). 
+Concrètiser ses nouveautés théoriques importantes demande un travail de modèlisation d'une originalité *a priori* identique. 
+La plupart des modélisation en biologie utilisent les outils de la physique ou des statistiques.
+Alors que la physique repose sur une épistémologie relationelle, la biologie doit y intégrer l'historicité des organismes ([Montevil2020a](reference/Montevil2020a.md)). 
+Une modélisation à partir de la notion de la cloture de contraintes ([Bich2020](reference/Bich2020.md)) doit donc être enrichie pour y introduire l'histoire (ou la notion d'anti-entropie). 
+Ensuite, la concept de nouveauté pourra être incorporé pour travailler le concept de production d'anti-entropie. 
+Toutes ces étapes nécéssites de l'élaboration de méthodes scientifiques radicalement nouvelles qui pourront faire appel à plusieurs disciplines. 
 
-Une longue tradition organiciste qui a vu Claude Bernard, Jean Piaget, ou encore Francisco Varela essayer de définir rigoureusement ce que Emmanuel Kant à déau XVIIIe siècle a
-- Discipline
-C'est une thèse en biologie théorique/épistémologie de la biologie. 
-
-- Tradition épistémique
-
-
-- Ontologie
-
-
-- Théorique :
-On travaillera autour des concepts de clôture de contrainte ([Montevil2015](reference/Montevil2015.md)), d'anti-entropie ([Montevil2022a](reference/Montevil2022a.md),[Montevil2021a](reference/Montevil2021a.md)), de production d'anti-entropie ([Montevil2019a](reference/Montevil2019a.md),[Montevil2021a](reference/Montevil2021a.md)), et de disruption ([Montevil2022](reference/Montevil2022.md)).
-Ces concepts s'articulent autour de la clôture de contraintes ([Montevil2020a](reference/Montevil2020a.md)) qui sert de point de nucléation à une théorie de l'organisme, philosophiquement pertinente ([Mossio2014](reference/Mossio2014.md), [Moreno2015](reference/Moreno2015.md)). 
-
-- Modélisation : 
-Il faudra trouver une méthode nouvelle, c'est-à-dire qui n'existe pas aujourd'hui, pour modéliser la stabilité d'un organisme avec ces concepts. 
-([Bich2020](reference/Bich2020.md)) — From feedback loop to closure of constraints. 
-Organogenesis.  
-
-
-## Résumé
-
-Ici mettre une caisse sur la stabilité des systèmes vivants (voir HDR Nicolas Glade). Comment sont-ils stables ?
-
-Mettre un paquet sur la notion de disruption pour l'Anthropocène, la désorganisation.
-
-La notion d'histoire est centrale pour comprendre la viabilité, elle constitue l'organisation (cloture de contraintes) et l'anti-entropie. 
-
-Elle permet aussi de s'adapter à l'environnement avec l'adoption de nouvelles fonctions (production d'anti-entropie, Canguilhem). 
-
-Comment modéliser cette chose-là ? Comment inclurre l'hisoire dans ces modélisations ?
-
-Il est possible que l'émergence de la vie soit nécéssaire à la modèlisation de la vie. 
-
-
-## Objectif de la thèse
-
-Avoir un modèle numérique ou/puis une implémentation expérimentale qui décrit un système avec ce mode d'organisation anti-entropique, qui est capable de produire de l'anti-entropie pour comprendre sa disruption.
-L'objectif est d'avoir un modèle de système organisé avec ces concepts. 
-Il faudra faire quelque chose de formel au début pour comprendre tous les enjeux. 
-Et puis l'on verra ce que l'on peut en faire. 
-
-
-## Étapes
-
-Cela peut consister à amener les concepts un par un : 
-- Clôture de contrainte : représentation formelle (grammaire) puis autocatalitic sets (RAFs).
-- Historicité contribue à la viabilité (anti-entropie).
-- Nouveauté et intégration de nouvelles fonctions (production d'anti-entropie).
-- Disruption.
-
-
-
-C'est le projet MITI sans l'application perturbateurs endocrinien.
-
-
-Contexte philosophie biologie — ([Moreno2015](reference/Moreno2015.md))
-
-
-Modélisation: 
-Mossio ([Bich2020](reference/Bich2020.md)) — From feedback loop to closure of constraints. 
 

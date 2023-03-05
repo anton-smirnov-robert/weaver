@@ -6964,6 +6964,47 @@
       "select": "zotero://select/library/items/IAYQBKZC"
     },
     {
+      "key": "ZZGKCMGE",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Oxford University Press",
+      "date": "2019",
+      "libraryCatalog": "Google Scholar",
+      "title": "A world beyond physics: the emergence and evolution of life",
+      "shortTitle": "A world beyond physics",
+      "creators": [
+        {
+          "firstName": "Stuart A.",
+          "lastName": "Kauffman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-05T18:27:51Z",
+      "dateModified": "2023-03-05T18:27:51Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZZGKCMGE",
+      "itemID": 6556,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-05T18:27:59Z",
+          "dateModified": "2023-03-05T18:27:59Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/WJZBXNVT",
+          "path": "/Users/robert/Dropbox/zotero/storage/WJZBXNVT/books.html",
+          "select": "zotero://select/library/items/WJZBXNVT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kauffman2019",
+      "itemKey": "ZZGKCMGE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZZGKCMGE"
+    },
+    {
       "key": "V6W6UQZZ",
       "version": 0,
       "itemType": "journalArticle",
