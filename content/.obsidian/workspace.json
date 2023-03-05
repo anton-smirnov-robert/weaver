@@ -32,19 +32,31 @@
             }
           },
           {
+            "id": "0b9e846f663291bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manifesto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "442106ab470435e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/(v2) projet.md",
+                "file": "private/drafts/(v6) Le besoin d'une économie des théories scientifiques.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +183,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "442106ab470435e0",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
-    "private/random/(v1) projet.md",
+    "private/drafts/(v6) Le besoin d'une économie des théories scientifiques.md",
     "private/random/(v2) projet.md",
+    "manifesto.md",
+    "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
+    "private/random/(v1) projet.md",
     "reference/Moreno2015.md",
     "reference/Montevil2020a.md",
     "reference/Montevil2022.md",

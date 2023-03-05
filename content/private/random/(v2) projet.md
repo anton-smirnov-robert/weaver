@@ -45,11 +45,13 @@ L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 
 ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
--  Spécialité : Épistémologie, histoire des sciences et des techniques
+-  Spécialité : ***Épistémologie***, histoire des sciences et des techniques
 
 ED 474 : Frontières de l’Innovation en Recherche et Éducation (FIRE)
 
-Divisée en deux parties : ***frontière du vivant*** et frontière dede l'apprendre et de découvertes. Très sélectif. 
+Divisée en deux parties : ***frontière du vivant*** et frontière de l'apprendre et de découvertes. Très sélectif. 
+
+- Spécialité : Biologie interdisciplinaire, Ecologie, évolution et biologie environnementale, Gene, omiques, bioinformatique et bio des systemes
 
 >[!quote]
 >
@@ -65,28 +67,42 @@ ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 
 -   Spécialité :  Modèles, méthodes et algorithmes pour la Biologie, la Santé et l'environnement (MBS)
 
-ED  577 : STRUCTURE ET DYNAMIQUE DES SYSTÈMES VIVANTS (SDSV)
--   Spécialité : Biologie Systémique
 
 ## Contenu
 
+
+- Pertinence actuelle et engagements philosophiques
+
+L'Anthropocène est un symptome, en partie au moins, d'une vision mécaniciste de l'organisation du vivant. 
+Cette philosophie (symbolisée par la pensée fondatrice de Descartes) est vivement critiquée aujourd'hui, mais la biologie semble évitée le blâme. 
+Il est en effet commun d'entendre que nous devons "changer notre rapport au vivant", rarement qu'il faut proposer de nouvelles théories en biologie. 
+Or, dès 1913, Radl notait déjà qu'un savant qui sent son appartenance à la nature et qui ne se tient pas devant elle comme devant des phénomènes étrangers était un vitaliste  — et non un mécaniste (in [Canguilhem1992a](reference/Canguilhem1992a.md), p. 111). 
+La proximité de débats écologiques contemporains avec l'histoire de la biologie devrait nous inviter à une réflexion épistémologique sur nos pratiques actuelles. 
+Ne faut-il pas s'alarmer qu'une théorie permette l'attribution d'un prix Nobel en 2020 à une personne affirmant pouvoir "reprogrammer" le vivant ou "contrôler l'évolution" ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md)) ? 
+Il semble qu'en pensant chasser la philosophie de notre pratique, nous oublions de passer au crible celles que nous embarquons inévitablement dans nos théories.
+Ne procède-t-il pas de ce manque de rigueur des choix politiques désastreux — comme la Genetic Technology Bill aujourd'hui ? 
+
+L'épistémologie, les théories, et les modélisations en biologie ne peuvent être réduites à celles de la physique.
+En utilisant les méthodes adaptées à la matière inerte, on comprend quelque chose sur des constituants élémentaires d'un être vivant, mais on ne parle pas (bio-*logos*, parler du vivant) d'êtres vivants, c'est-à-dire d'organismes.
+Pour comprendre les organismes, trois principes été posés ([Longo2014](reference/Longo2014.md), [Soto2016](reference/Soto2016.md)) pour faire rebondir la biologie dans de nouvelles directions.
+Les changements pour la sciences sont majeurs car on explique plus les régularités d'un système en faisant appel à la régularité des parties constituantes (et de leur interactions). 
+Maintenant, les parties du système varient intrinsèquement, et la stabilité du système procède de son organisation circulaire. 
+C'est un basculement ontologique (pour l'être vivant) qui ouvre la voie à un pan réellement nouveau et pertinent pour la science et la société. 
+
+L'enjeu sociétal est, sous l'impulsion de la pensée de Bernard Stiegler et du collectif Internation, de répondre à l'urgence de l'élaboration d'une organologie générale ([Stiegler2020](reference/Stiegler2020.md)).
+Celle-ci propose une voie pour panser la dégradation de la biosphère en y intégrant la technosphère. 
+Plus précisément, dépasser la vision mécaniciste des organisations de notre société demande l'étude des organisations d'organes endosomatique (objets biologiques) et exosomatique (objets techniques).
+Cela signifie comprendre le rôle du concept physique d'entropie dans son sens biologique ou plus généralement organisationel ([Montevil2021a](reference/Montevil2021a.md)). 
+
+Une longue tradition organiciste qui a vu Claude Bernard, Jean Piaget, ou encore Francisco Varela essayer de définir rigoureusement ce que Emmanuel Kant à déau XVIIIe siècle a
 - Discipline
 C'est une thèse en biologie théorique/épistémologie de la biologie. 
 
 - Tradition épistémique
-Elle s'inscrit dans une tradition physiologique et organiciste (Kant, C. Bernard, homeostatis et cybernétique, Piaget, Varela, Rosen, Kauffman, groupe ORGANISM). 
 
-- Pertinence actuelle et engagement philosophique 
-L'Anthropocène est un symptome, au moins en partie, de la domination d'une vision mécaniciste de l'organisation du vivant. 
-Il est urgent de prendre en compte le concept d'entropie (au sens large, à définir toujours plus précisément) dans nos modes d'organisations humains ([Stiegler2020](reference/Stiegler2020.md)). 
-Les êtres vivants, en tant que spécialistes dans la gestion de l'entropie, et de l'autonomie, sont des objets d'études extrêmement pertinents ([Montevil2021a](reference/Montevil2021a.md)). 
 
 - Ontologie
-On explique généralement les régularités d'un système en faisant appel à la régularité des parties constituantes (et de leur interactions) — vision mécaniciste. 
-Ici, les parties du système varient intrinsèquement, et la stabilité du système procède de son organisation. C'est une autre vision de l'être (vivant).   
 
-- Épistémologie :
-L'épistémologie de la physique est insuffisante pour comprendre le vivant. Il faut construire une nouvelle épistémologie et poser de nouveaux principes théoriques ([Longo2014](reference/Longo2014.md),[Soto2016](reference/Soto2016.md)).
 
 - Théorique :
 On travaillera autour des concepts de clôture de contrainte ([Montevil2015](reference/Montevil2015.md)), d'anti-entropie ([Montevil2022a](reference/Montevil2022a.md),[Montevil2021a](reference/Montevil2021a.md)), de production d'anti-entropie ([Montevil2019a](reference/Montevil2019a.md),[Montevil2021a](reference/Montevil2021a.md)), et de disruption ([Montevil2022](reference/Montevil2022.md)).
