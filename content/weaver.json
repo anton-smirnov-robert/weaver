@@ -1028,6 +1028,30 @@
       "select": "zotero://select/library/items/4VRRPDYL"
     },
     {
+      "key": "QDSZGXGC",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "HDR__Nicolas-Glade__2022_revisions.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "HDR__Nicolas-Glade__2022_revisions.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-05T20:23:33Z",
+      "dateModified": "2023-03-05T20:23:33Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/QDSZGXGC",
+      "itemID": 6558,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/QDSZGXGC/HDR__Nicolas-Glade__2022_revisions.pdf",
+      "defaultPath": "files/6558/HDR__Nicolas-Glade__2022_revisions.pdf",
+      "itemKey": "QDSZGXGC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QDSZGXGC"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
