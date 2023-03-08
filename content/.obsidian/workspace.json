@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition/glycemia.md",
+                "file": "private/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition/glycemia.md",
+                "file": "private/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition/glycemia.md",
+                "file": "private/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition/glycemia.md"
+                "file": "private/TODO.md"
               }
             }
           }
@@ -185,11 +185,11 @@
   },
   "active": "a0c8026b1f270cbb",
   "lastOpenFiles": [
+    "definition/glycemia.md",
     "definition/blood.md",
     "definition/vertebrate.md",
     "definition/mammal.md",
     "private/random/(v2) projet.md",
-    "definition/glycemia.md",
     "reference/Montevil2016b.md",
     "private/random/(v1) projet.md",
     "reference/Bich2020.md",

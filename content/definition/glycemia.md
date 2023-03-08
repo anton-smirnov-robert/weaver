@@ -11,5 +11,5 @@ tags:
 Concentration of glucose (sugar) in the [blood](definition/blood.md) plasma. 
 In grec, *glukus* = "doux" et *haima* = "sang". 
 
-
-The standard view of regulation uses insulin (inhibator) and glucagon (producer). 
+The standard view of regulation uses two hormones : insulin (inhibator) and glucagon (producer). 
+Diabete is an endocrine decease : a sustained high glycemia. (you need insulin) 
