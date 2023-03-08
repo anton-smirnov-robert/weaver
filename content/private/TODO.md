@@ -11,6 +11,7 @@ tags:
 
 - [x]  Note on Novelty  — Maël , avec articulation avec fonction et clotûre de contraintes.
 - [ ] Note on anti-entropy (Longo Bailly puis Maël , puis Marie)
+- [ ] Biological Autonomy — Mossio&Moreno
 - [ ] Read first chapter of Developmental Plasticity 
 - [ ] Identity — Montevil Mossio
 
