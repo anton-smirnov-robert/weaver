@@ -6775,6 +6775,45 @@
       "select": "zotero://select/library/items/INDGGC5S"
     },
     {
+      "key": "2PUBE7ZC",
+      "version": 0,
+      "itemType": "journalArticle",
+      "libraryCatalog": "Zotero",
+      "language": "fr",
+      "title": "Classification et phylog\u00e9nie des \u00eatres vivants",
+      "creators": [
+        {
+          "firstName": "Tanguy",
+          "lastName": "Jean",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-08T10:49:41Z",
+      "dateModified": "2023-03-08T10:49:41Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2PUBE7ZC",
+      "itemID": 6577,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Jean - Classification et phylog\u00e9nie des \u00eatres vivants.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-08T10:49:40Z",
+          "dateModified": "2023-03-08T10:49:42Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/MN9BCAA3",
+          "path": "/Users/robert/Dropbox/zotero/storage/MN9BCAA3/Jean - Classification et phylog\u00e9nie des \u00eatres vivants.pdf",
+          "select": "zotero://select/library/items/MN9BCAA3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Jean",
+      "itemKey": "2PUBE7ZC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2PUBE7ZC"
+    },
+    {
       "key": "7I6Y2WJ2",
       "version": 0,
       "itemType": "report",
