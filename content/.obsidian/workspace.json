@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6cff9a00246f8958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "definition/chemotaxis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fe2d5481d4dc6f0",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/TODO.md",
+                "file": "definition/chemotaxis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/TODO.md",
+                "file": "definition/chemotaxis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/TODO.md"
+                "file": "definition/chemotaxis.md"
               }
             }
           }
@@ -182,10 +195,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "de484ffb9bd25642",
+  "active": "6cff9a00246f8958",
   "lastOpenFiles": [
-    "private/random/(v2) projet.md",
     "private/TODO.md",
+    "definition/chemotaxis.md",
+    "private/random/(v2) projet.md",
     "definition/glycemia.md",
     "definition/blood.md",
     "definition/vertebrate.md",
