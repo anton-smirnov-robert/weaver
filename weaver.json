@@ -1052,6 +1052,30 @@
       "select": "zotero://select/library/items/QDSZGXGC"
     },
     {
+      "key": "WCH2QX78",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "(v2) projet.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "(v2) projet.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-08T16:10:39Z",
+      "dateModified": "2023-03-08T16:10:39Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WCH2QX78",
+      "itemID": 6627,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/WCH2QX78/(v2) projet.pdf",
+      "defaultPath": "files/6627/(v2) projet.pdf",
+      "itemKey": "WCH2QX78",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WCH2QX78"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
