@@ -8,5 +8,8 @@ tags:
 - definition
 ---
 
-Concentration of glucose (sugar) in blood. 
-En grec,  *glukus* = doux et *haima* = "sang". 
+Concentration of glucose (sugar) in the [blood](definition/blood.md) plasma. 
+In grec, *glukus* = "doux" et *haima* = "sang". 
+
+
+The standard view of regulation uses insulin (inhibator) and glucagon (producer). 

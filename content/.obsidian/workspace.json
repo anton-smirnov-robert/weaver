@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0c8026b1f270cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "definition/glycemia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition/vertebrate.md",
+                "file": "definition/glycemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition/vertebrate.md",
+                "file": "definition/glycemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition/vertebrate.md"
+                "file": "definition/glycemia.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5b176dfb35500579",
+  "active": "a0c8026b1f270cbb",
   "lastOpenFiles": [
-    "definition/mammal.md",
+    "definition/blood.md",
     "definition/vertebrate.md",
+    "definition/mammal.md",
     "private/random/(v2) projet.md",
     "definition/glycemia.md",
     "reference/Montevil2016b.md",

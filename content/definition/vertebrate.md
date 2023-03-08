@@ -8,3 +8,5 @@ tags:
 - definition
 ---
 
+Vertebrates include mammals, birds, reptiles, amphibians and fish.
+A *vertebra* is a bone or. a sigment of the spinal column. 
