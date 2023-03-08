@@ -8676,6 +8676,71 @@
       "select": "zotero://select/library/items/26NJBDQV"
     },
     {
+      "key": "8RU36JZS",
+      "version": 0,
+      "itemType": "book",
+      "edition": "Twelfth edition",
+      "place": "New York, NY",
+      "publisher": "McGraw-Hill Education",
+      "ISBN": "978-1-260-16961-4",
+      "date": "2020",
+      "callNumber": "QH308.2 .R38 2020",
+      "libraryCatalog": "Library of Congress ISBN",
+      "language": "en",
+      "title": "Biology",
+      "numPages": "1",
+      "creators": [
+        {
+          "firstName": "Kenneth A.",
+          "lastName": "Mason",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jonathan B.",
+          "lastName": "Losos",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tod",
+          "lastName": "Duncan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Biology",
+          "type": 1
+        },
+        {
+          "tag": "Textbooks",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-08T12:40:34Z",
+      "dateModified": "2023-03-08T12:40:35Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/8RU36JZS",
+      "itemID": 6595,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Mason et al. - 2020 - Biology.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-08T12:40:22Z",
+          "dateModified": "2023-03-08T12:40:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/XBVI4AM8",
+          "path": "/Users/robert/Dropbox/zotero/storage/XBVI4AM8/Mason et al. - 2020 - Biology.pdf",
+          "select": "zotero://select/library/items/XBVI4AM8"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Mason2020",
+      "itemKey": "8RU36JZS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8RU36JZS"
+    },
+    {
       "key": "ZVJ6Z9KN",
       "version": 0,
       "itemType": "journalArticle",
