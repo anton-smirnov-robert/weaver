@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/TODO.md",
+                "file": "private/random/(v2) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/TODO.md",
+                "file": "private/random/(v2) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/TODO.md"
+                "file": "private/random/(v2) projet.md"
               }
             }
           }
@@ -183,8 +182,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a0c8026b1f270cbb",
+  "active": "de484ffb9bd25642",
   "lastOpenFiles": [
+    "private/TODO.md",
     "definition/glycemia.md",
     "definition/blood.md",
     "definition/vertebrate.md",
