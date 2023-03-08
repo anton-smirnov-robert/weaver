@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fe2d5481d4dc6f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "definition/mammal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b176dfb35500579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "definition/vertebrate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/random/(v2) projet.md",
+                "file": "definition/vertebrate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/random/(v2) projet.md",
+                "file": "definition/vertebrate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/random/(v2) projet.md"
+                "file": "definition/vertebrate.md"
               }
             }
           }
@@ -146,11 +171,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "de484ffb9bd25642",
+  "active": "5b176dfb35500579",
   "lastOpenFiles": [
+    "definition/mammal.md",
+    "definition/vertebrate.md",
+    "private/random/(v2) projet.md",
+    "definition/glycemia.md",
     "reference/Montevil2016b.md",
     "private/random/(v1) projet.md",
-    "private/random/(v2) projet.md",
     "reference/Bich2020.md",
     "reference/Montevil2020a.md",
     "reference/Kauffman2019.md",
