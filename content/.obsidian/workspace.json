@@ -185,8 +185,9 @@
   },
   "active": "6cff9a00246f8958",
   "lastOpenFiles": [
-    "definition/metabolite.md",
+    "definition/allosteric regulation.md",
     "definition/chemotaxis.md",
+    "definition/metabolite.md",
     "private/TODO.md",
     "private/random/(v2) projet.md",
     "definition/glycemia.md",
@@ -209,7 +210,6 @@
     "reference/Montevil2021a.md",
     "reference/Montevil2019.md",
     "reference/Montevil2021.md",
-    "reference/Stiegler2020.md",
-    "reference/Stiegler2021.md"
+    "reference/Stiegler2020.md"
   ]
 }
