@@ -4,52 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2e8370ded6d9f9bf",
+        "id": "d416174d71a3e47c",
         "type": "tabs",
         "children": [
           {
-            "id": "de484ffb9bd25642",
+            "id": "7be7dfe99cc0d6a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/TODO.md",
+                "file": "private/random/(v2) projet.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6cff9a00246f8958",
+            "id": "1f26fef4c5e180fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition/chemotaxis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b176dfb35500579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definition/vertebrate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0c8026b1f270cbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/TODO.md",
+                "file": "private/random/(v3) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition/chemotaxis.md",
+                "file": "private/random/(v3) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition/chemotaxis.md",
+                "file": "private/random/(v3) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition/chemotaxis.md"
+                "file": "private/random/(v3) projet.md"
               }
             }
           }
@@ -183,13 +159,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6cff9a00246f8958",
+  "active": "1f26fef4c5e180fa",
   "lastOpenFiles": [
-    "definition/allosteric regulation.md",
-    "definition/chemotaxis.md",
-    "definition/metabolite.md",
-    "private/TODO.md",
+    "reference/Soto2016.md",
+    "private/random/(v3) projet.md",
     "private/random/(v2) projet.md",
+    "private/random/novelty in chess and arts.md",
+    "private/TOREAD.md",
+    "stop working so hard.md",
+    "private/TODO.md",
+    "definition/chemotaxis.md",
+    "definition/allosteric regulation.md",
+    "definition/metabolite.md",
     "definition/glycemia.md",
     "definition/blood.md",
     "definition/vertebrate.md",
@@ -205,11 +186,6 @@
     "manifesto.md",
     "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
     "reference/Moreno2015.md",
-    "reference/Montevil2022.md",
-    "reference/Montevil2021b.md",
-    "reference/Montevil2021a.md",
-    "reference/Montevil2019.md",
-    "reference/Montevil2021.md",
-    "reference/Stiegler2020.md"
+    "reference/Montevil2022.md"
   ]
 }

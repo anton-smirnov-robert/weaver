@@ -8471,6 +8471,56 @@
       "select": "zotero://select/library/items/YFEH3DRT"
     },
     {
+      "key": "TQ3H9AJR",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1007/s10699-017-9535-x",
+      "volume": "23",
+      "issue": "3",
+      "pages": "443-474",
+      "publicationTitle": "Foundations of Science",
+      "ISSN": "1572-8471",
+      "date": "2018-09-01",
+      "journalAbbreviation": "Found Sci",
+      "DOI": "10.1007/s10699-017-9535-x",
+      "accessDate": "2023-03-08T17:36:55Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "The dependence on history of both present and future dynamics of life is a common intuition in biology and in humanities. Historicity will be understood in terms of changes of the space of possibilities (or of \u201cphase space\u201d) as well as by the role of diversity in life\u2019s structural stability and of rare events in history formation. We hint to a rigorous analysis of \u201cpath dependence\u201d in terms of invariants and invariance preserving transformations, as it may be found also in physics, while departing from the physico-mathematical analyses. The idea is that the (relative or historicized) invariant traces of the past under organismal or ecosystemic transformations contribute to the understanding (or the \u201ctheoretical determination\u201d) of present and future states of affairs. This yields a peculiar form of unpredictability (or randomness) in biology, at the core of novelty formation: the changes of observables and pertinent parameters may depend also on past events. In particular, in relation to the properties of synchronic measurement in physics, the relevance of diachronic measurement in biology is highlighted. This analysis may a fortiori apply to cognitive and historical human dynamics, while allowing to investigate some general properties of historicity in biology.",
+      "title": "How Future Depends on Past and Rare Events in Systems of Life",
+      "creators": [
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-08T17:36:55Z",
+      "dateModified": "2023-03-08T17:36:55Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/TQ3H9AJR",
+      "itemID": 6658,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-08T17:37:00Z",
+          "dateModified": "2023-03-08T17:37:00Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/3WBLKRXJ",
+          "path": "/Users/robert/Dropbox/zotero/storage/3WBLKRXJ/Longo - 2018 - How Future Depends on Past and Rare Events in Syst.pdf",
+          "select": "zotero://select/library/items/3WBLKRXJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Longo2018",
+      "itemKey": "TQ3H9AJR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TQ3H9AJR"
+    },
+    {
       "key": "RMM46DQ7",
       "version": 0,
       "itemType": "bookSection",
