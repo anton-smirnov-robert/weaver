@@ -9,6 +9,7 @@ tags:
 - literature-note
 ---
 
+**TODO** : Référence + Antidote
 
 ## Commisions interdisciplinaires CNRS 
 
@@ -99,7 +100,7 @@ L'incorporation de l'historicité des organes dans la modélisation des organism
 Finalement, le concept de production d'anti-entropie réfère au changement d'espace des observables pertinentes pour décrire le système vivant ([Montevil2022](reference/Montevil2022.md)). Une variation fonctionelle imprédictible permet de nouvelles possibilités et projete l'organisme dans un espace de description nouveau. La question de la temporalité sera ici centrale, car le temps continu de la physique n'est plus l'observable pertinente. Les temps irréductibles des cycles qui rythment la vie d'organismes (du battement, de la respiration, du jour, de la saison) prohibent les lois d'évolutions basée sur des différentielles infinitésimales du temps. Que peut apporter une méthode scientifique qui choisit de parler de nouveautés imprédictibles dans un espace concevable, plutôt que d'états dépourvus de sens dans un système foncièrement non-ergodique ? La temporalité séquentielle du numérique qui discrètise le temps mais interdit la simultanéité est-il un atout ou un problème ?
 
 
-## Conclusion 
+### Conclusion 
 
 Voie 1 : ED ISCE ou ED 474 ---> Comission 51
 **Voie 2 : ED 540 ---> Comission 53 (+ comission 51)**
@@ -123,38 +124,38 @@ Je pense que ce travail se prête très bien à l'exercice du doctorat pour plus
 
 ### Références
 
-Bich, Leonardo, Matteo Mossio, et Ana M. Soto. 2020. « Glycemia Regulation: From Feedback Loops to Organizational Closure ». _Frontiers in Physiology_ 11. [https://www.frontiersin.org/articles/10.3389/fphys.2020.00069](https://www.frontiersin.org/articles/10.3389/fphys.2020.00069).
+Bich, L., Mossio, M., Soto, A.M., 2020. Glycemia Regulation: From Feedback Loops to Organizational Closure. Frontiers in Physiology 11.
 
-Canguilhem, Georges. 1992. _La connaissance de la vie_. Vrin.
+Canguilhem, G., 1992. La connaissance de la vie. Vrin.
 
-Doudna, Jennifer, et Samuel Sternberg. 2017. _A crack in creation: The new power to control evolution_. Random House.
+Doudna, J., Sternberg, S., 2017. A crack in creation: The new power to control evolution. Random House.
 
-Longo, Giuseppe. 2021. « Programming Evolution: A Crack in Science ». _Organisms. Journal of Biological Sciences_, août. [https://doi.org/10.13133/2532-5876/17538](https://doi.org/10.13133/2532-5876/17538).
+Longo, G., 2021. Programming Evolution: A Crack in Science. Organisms. Journal of Biological Sciences. [https://doi.org/10.13133/2532-5876/17538](https://doi.org/10.13133/2532-5876/17538)
 
-Montévil, Maël. 2019a. « Measurement in Biology Is Methodized by Theory ». _Biology & Philosophy_ 34 (3): 35. [https://doi.org/10.1007/s10539-019-9687-x](https://doi.org/10.1007/s10539-019-9687-x).
+Montévil, M., 2022a. Disruption of biological processes in the Anthropocene: the case of phenological mismatch (preprint). In Review. [https://doi.org/10.21203/rs.3.rs-1359981/v1](https://doi.org/10.21203/rs.3.rs-1359981/v1)
 
-———. 2019b. « Possibility Spaces and the Notion of Novelty: From Music to Biology ». _Synthese_ 196 (11): 4555‑81. [https://doi.org/10.1007/s11229-017-1668-5](https://doi.org/10.1007/s11229-017-1668-5).
+Montévil, M., 2022b. Historicity at the heart of biology. Theory Biosci. 141, 165–173. [https://doi.org/10.1007/s12064-020-00320-8](https://doi.org/10.1007/s12064-020-00320-8)
 
-———. 2021a. « Entropies and the Anthropocene Crisis ». _AI & SOCIETY_, mai. [https://doi.org/10.1007/s00146-021-01221-0](https://doi.org/10.1007/s00146-021-01221-0).
+Montévil, M., 2021a. Entropies and the Anthropocene crisis. AI & Soc. [https://doi.org/10.1007/s00146-021-01221-0](https://doi.org/10.1007/s00146-021-01221-0)
 
-———. 2021b. « Computational Empiricism : The Reigning Épistémè of the Sciences ». _Philosophy World Democracy_, juillet. [https://montevil.org/publications/articles/2021-montevil-episteme-computational-empiricism/](https://montevil.org/publications/articles/2021-montevil-episteme-computational-empiricism/).
+Montévil, M., 2021b. Computational empiricism : the reigning épistémè of the sciences. Philosophy World Democracy.
 
-———. 2022a. « Disruption of Biological Processes in the Anthropocene: The Case of Phenological Mismatch ». Preprint. In Review. [https://doi.org/10.21203/rs.3.rs-1359981/v1](https://doi.org/10.21203/rs.3.rs-1359981/v1).
+Montévil, M., 2019a. Measurement in biology is methodized by theory. Biol Philos 34, 35. [https://doi.org/10.1007/s10539-019-9687-x](https://doi.org/10.1007/s10539-019-9687-x)
 
-———. 2022b. « Historicity at the Heart of Biology ». _Theory in Biosciences_ 141 (2): 165‑73. [https://doi.org/10.1007/s12064-020-00320-8](https://doi.org/10.1007/s12064-020-00320-8).
+Montévil, M., 2019b. Possibility spaces and the notion of novelty: from music to biology. Synthese 196, 4555–4581. [https://doi.org/10.1007/s11229-017-1668-5](https://doi.org/10.1007/s11229-017-1668-5)
 
-Montévil, Maël, et Matteo Mossio. 2015. « Biological Organisation as Closure of Constraints ». _Journal of Theoretical Biology_ 372 (mai): 179‑91. [https://doi.org/10.1016/j.jtbi.2015.02.029](https://doi.org/10.1016/j.jtbi.2015.02.029).
+Montévil, M., Mossio, M., 2020. The Identity of Organisms in Scientific Practice: Integrating Historical and Relational Conceptions. Front. Physiol. 11, 611. [https://doi.org/10.3389/fphys.2020.00611](https://doi.org/10.3389/fphys.2020.00611)
 
-———. 2020. « The Identity of Organisms in Scientific Practice: Integrating Historical and Relational Conceptions ». _Frontiers in Physiology_ 11 (juin): 611. [https://doi.org/10.3389/fphys.2020.00611](https://doi.org/10.3389/fphys.2020.00611).
+Montévil, M., Mossio, M., 2015. Biological organisation as closure of constraints. Journal of Theoretical Biology 372, 179–191. [https://doi.org/10.1016/j.jtbi.2015.02.029](https://doi.org/10.1016/j.jtbi.2015.02.029)
 
-Montévil, Maël, Matteo Mossio, Arnaud Pocheville, et Giuseppe Longo. 2016. « Theoretical Principles for Biology: Variation ». _Progress in Biophysics and Molecular Biology_ 122 (1): 36‑50. [https://doi.org/10.1016/j.pbiomolbio.2016.08.005](https://doi.org/10.1016/j.pbiomolbio.2016.08.005).
+Montévil, M., Mossio, M., Pocheville, A., Longo, G., 2016a. Theoretical principles for biology: Variation. Progress in Biophysics and Molecular Biology 122, 36–50. [https://doi.org/10.1016/j.pbiomolbio.2016.08.005](https://doi.org/10.1016/j.pbiomolbio.2016.08.005)
 
-Montévil, Maël, L. Speroni, Carlos Sonnenschein, et Ana M. Soto. 2016a. « Modeling Mammary Organogenesis from Biological First Principles: Cells and Their Physical Constraints ». _Progress in Biophysics and Molecular Biology_ 122 (1): 58‑69. [https://doi.org/10.1016/j.pbiomolbio.2016.08.004](https://doi.org/10.1016/j.pbiomolbio.2016.08.004).
+Montévil, M., Speroni, L., Sonnenschein, C., Soto, A.M., 2016b. Modeling mammary organogenesis from biological first principles: Cells and their physical constraints. Progress in Biophysics and Molecular Biology 122, 58–69. [https://doi.org/10.1016/j.pbiomolbio.2016.08.004](https://doi.org/10.1016/j.pbiomolbio.2016.08.004)
 
-Montévil, Maël, Lucia Speroni, Carlos Sonnenschein, et Ana M. Soto. 2016b. « Modeling Mammary Organogenesis from Biological First Principles: Cells and Their Physical Constraints ». _Progress in Biophysics and Molecular Biology_ 122 (1): 58‑69. [https://doi.org/10.1016/j.pbiomolbio.2016.08.004](https://doi.org/10.1016/j.pbiomolbio.2016.08.004).
+Montévil, M., Speroni, L., Sonnenschein, C., Soto, A.M., 2016c. Modeling mammary organogenesis from biological first principles: Cells and their physical constraints. Progress in Biophysics and Molecular Biology 122, 58–69. [https://doi.org/10.1016/j.pbiomolbio.2016.08.004](https://doi.org/10.1016/j.pbiomolbio.2016.08.004)
 
-Montévil, Maël, Bernard Stiegler, Giuseppe Longo, Ana Soto, et Carlos Sonnenschein. 2021. « Anthropocène, exosomatisation et néguentropie ». In _Bifurquer, « il n’y a pas d’alternative »_. Paris: Les Liens qui Libèrent.
+Montévil, M., Stiegler, B., Longo, G., Soto, A., Sonnenschein, C., 2021. Anthropocène, exosomatisation et néguentropie, in: Bifurquer, “Il n’y a Pas d’alternative.” Les Liens qui Libèrent, Paris.
 
-Soto, Ana M., G. Longo, Denis Noble, Nicole Perret, Maël Montévil, Carlos Sonnenschein, Matteo Mossio, Arnaud Pocheville, Paul-Antoine Miquel, et Su-Young Hwang. 2016. « From the Century of the Genome to the Century of the Organism: New Theoretical Approaches ». _Progress in Biophysics and Molecular Biology, Special Issue_ 122 (1): 1‑82.
+Soto, A.M., Longo, G., Noble, D., Perret, N., Montévil, M., Sonnenschein, C., Mossio, M., Pocheville, A., Miquel, P.-A., Hwang, S.-Y., 2016. From the century of the genome to the century of the organism: New theoretical approaches. Progress in Biophysics and Molecular Biology, Special issue 122, 1–82.
 
-Stiegler, Bernard, Jean-Marie Gustave Le Clézio, Alain Supiot, et Internation/Geneva2020. 2020. _Bifurquer : « il n’y a pas d’alternative »_. Les Liens qui Libèrent.
+Stiegler, B., Le Clézio, J.-M.G., Supiot, A., Internation/Geneva2020, 2020. Bifurquer : “il n’y a pas d’alternative.” Les Liens qui Libèrent.
