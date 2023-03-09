@@ -1,4 +1,14 @@
 
+---
+title: "(v3) projet"
+date: 2023-03-09
+draft: false
+showthedate: true
+enabletoc: true
+tags:
+- literature-note
+---
+
 
 ## Commisions interdisciplinaires CNRS 
 
@@ -23,8 +33,8 @@ L'institut pilote de la CID est l'**Institut des sciences biologiques**
 L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 
 -  **Pratiques et méthodes des sciences : épistémologie ; régimes de preuve scientifique ; sciences participatives ; circulation et publication des savoirs ; intégrité scientifique et éthique de la recherche ; droit des sciences et des techniques**
--   Risques sanitaires et environnementaux : risques émergents et signaux faibles ; systèmes d’alerte ; évaluation, mesure et modélisation ; perceptions et impacts sociaux ; prévention, précaution et régulation
--   Sciences et technologies du vivant : construction des savoirs ; usages politiques, économiques et sociaux ; genre et sciences ; données de santé ; santé numérique
+-   **Risques sanitaires et environnementaux : risques émergents et signaux faibles ; systèmes d’alerte ; évaluation, mesure et modélisation ; perceptions et impacts sociaux ; prévention, précaution et régulation**
+-   **Sciences et technologies du vivant : construction des savoirs ; usages politiques, économiques et sociaux ; genre et sciences ; données de santé ; santé numérique**
 -   Technologies numériques et société : enjeux politiques, économiques et sociaux ; gouvernance et régulation ; réseaux numériques ; intelligence artificielle ; algorithmes ; données numériques
 -   Sciences, expertise et décision : controverses publiques ; mise en débat public des savoirs ; expertises collectives ; décision en situation d’incertitude
 
@@ -33,17 +43,17 @@ L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 
 ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
--  Spécialité : ***Épistémologie***, histoire des sciences et des techniques
+-  Spécialité : **Épistémologie**, histoire des sciences et des techniques
 
 ED 474 : Frontières de l’Innovation en Recherche et Éducation (FIRE)
 
 Divisée en deux parties : ***frontière du vivant*** et frontière de l'apprendre et de découvertes. 
 
-- Spécialité : Biologie interdisciplinaire, Ecologie, évolution et biologie environnementale, Gene, omiques, bioinformatique et bio des systemes
+- Spécialité : **Biologie interdisciplinaire**, Ecologie, évolution et biologie environnementale, Gene, omiques, bioinformatique et bio des systemes
 
 ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 
--   Spécialité :  Modèles, méthodes et algorithmes pour la Biologie, la Santé et l'environnement (MBS)
+-   Spécialité :  **Modèles, méthodes** et algorithmes **pour la Biologie**, la Santé et l'environnement (MBS)
 
 
 ## Sujet de thèse : "Que peut modéliser une biologie organiciste ?"
@@ -58,7 +68,7 @@ La dégradation de la biosphère par des technologies nécessite de repenser le 
 
 En utilisant des méthodes adaptées à la matière inerte pour étudier le vivant, on apprend des constituants d'un être, mais on ne parle pas d'organismes (bio-*logos*, parler du vivant). Une longue tradition organiciste a vu Claude Bernard, Jean Piaget, ou encore Francisco Varela essayer de définir rigoureusement ce que, au XVIIIe siècle, Emmanuel Kant avait défini comme entité capable d'auto-organisation. Récemment, une définition formelle s'articulant à la thermodynamique hors équilibre et réunissant les efforts de ces dernières décennies a été proposée ([Montevil2015](reference/Montevil2015.md)). 
 
-Ce travail s'inscrit dans une aventure scientifique plus large qui a pour but de faire rebondir la biologie dans de nouvelles directions — au-delà du paradigme qui conçoit le vivant par analogie avec les machines. Ainsi, trois principes fondamentaux ont été posés pour décrire un organisme ([Soto2016](reference/Soto2016.md)). Ils résultent d'une réflexion épistémologique importante pour distinguer la biologie de la physique (ou intégrer la deuxième — en tant que singularité — dans la première). Pour rappel, la physique étudie les changements d'état (d'un objet) dans un espace prédéfini, sur la base d'invariants et de symmetries. Cette discipline s'interesse aux relations entre les propriétés génériques d'objets (masse, charge, taille, etc.). 
+Ce travail s'inscrit dans une aventure scientifique plus large qui a pour but de faire rebondir la biologie dans de nouvelles directions — au-delà du paradigme qui conçoit le vivant par analogie avec les machines. Ainsi, trois principes fondamentaux ont été posés pour décrire un organisme ([Soto2016](reference/Soto2016.md)). Ils résultent d'une réflexion épistémologique importante pour distinguer la biologie de la physique (ou intégrer la deuxième — en tant que singularité — dans la première). Pour rappel, la physique étudie les changements d'état d'un système dans un espace prédéfini, sur la base d'invariants et de symmetries. Cette discipline s'interesse aux relations entre les propriétés génériques d'objets (masse, charge, taille, etc.). 
 
 Le premier *principe de variation* pose que les organismes biologiques sont spécifiques, c'est-à-dire que la structure mathématique nécéssaire à leur description varie dans le temps de manière fondamentalement *imprédictible*. Étant donné que les variations pertinentes pour la biologie sont fonctionelles, ce principe implique que décrire un objet d'étude nécessite de parler de son *histoire* et de son *contexte*, qui sont uniques. 
 
@@ -72,52 +82,79 @@ Plus récémment, les articulations successives de ces principes ont conduits à
 
 #### Objectif du projet 
 
-Pour que ce long travail épistémologique et théorique rigoureux actualise ses potentialités transformatives pour la science, il doit pouvoir être mis entre les mains de biologistes avec une *méthode*. Une méthode n'est pas un protocole mécanique, mais un savoir-faire qui permet à des biologistes-artisans de s'approprier et utiliser en pratique des théories pour générer des savoirs nouveaux. Il se partage en établissant des lignes directrices généralement applicables, même celles-ci sont des stratégies qu'il faut interpréter plus ou moins librement, pas des programmes. Nietzsche a noté dans l'Antéchrist que les méthodes viennent à la fin. Il faut en effet faire (modéliser, expérimenter) pour être critique par rapport à ce travail et ensuite poser des stratégies plus générales et partageables. Très concrètement, à titre d'exemple, une partie de la physique actualise ses théories et postulats par une méthode qui consiste à identifier des invariants (symmetries, loi de conservation, etc.) pour donner une équation différentielle, à préciser des conditions initiales (et/ou aux bords), puis à résoudre analytiquement ou numériquement le problème. Le travail que je propose vise à élaborer un équivalent pour des études de biologie qui se basent sur les principes et les théories mentionnées plus haut. 
+Pour que ce long travail épistémologique et théorique rigoureux actualise ses potentialités transformatives pour la science, il doit pouvoir être mis entre les mains de biologistes avec une *méthode*. Une méthode n'est pas un protocole mécanique, mais un savoir-faire qui permet à des biologistes-artisans de s'approprier et utiliser en pratique des théories pour générer des savoirs nouveaux. Il se partage en établissant des lignes directrices généralement applicables, mais celles-ci sont des stratégies qu'il faut interpréter plus ou moins librement, pas des programmes. Nietzsche a noté dans l'Antéchrist que les méthodes viennent à la fin. Il faut en effet faire (modéliser, expérimenter) pour être critique par rapport à ce travail et ensuite poser des stratégies plus générales et partageables. Très concrètement, à titre d'exemple, une partie de la physique actualise ses théories et postulats par une méthode qui consiste à identifier des invariants (symmetries, loi de conservation, etc.) pour donner une équation différentielle, à préciser des conditions initiales (et/ou aux bords), puis à résoudre analytiquement ou numériquement le problème. Le travail que je propose vise à élaborer un équivalent pour des études de biologie qui se basent sur les principes et les théories mentionnées plus haut. 
 
 Les enjeux de ce projet ne sont pas seulement opérationels. Il n'est, en effet, pas évident qu'une biologie organiciste puisse être opératoire ! Le propre de l'organisme, à l'inverse de la machine, est que la persistance de ses constituants dépend du fonctionnement du tout. Ses parties ne sont pas isolables, sa circularité empêche l'analyse non-intrusive. De plus, que peut dire le biologiste devant des nouveautés fondamentalement imprédictibles ? René Thom disait, dans un élan clairvoyant d'honneteté intellectuelle de physico-mathématicien, que la théorie de Darwin n'était pas scientifique car les possibles de l'évolution n'étaient pas prédéfinis. La question en filigrane du projet est alors : quelles types de conaissances la science peut-elle générer sur le vivant une fois qu'elle reconnait l'interdépendance mutuelle des parties d'un organisme et leur variations imprédictibles ? La meilleure façon de répondre à cette question et d'élaborer une méthode scientifique et discuter ce qu'elle peut faire. S'il nous apparait difficile de concrètiser une méthode, nous discuterons la nature des obstacles que nous rencontrerons en dialogue avec des penseurs pertinents. 
 
-En troisième point, on ne peut pas exclure l'idée (on peut même l'éspérer) qu'une méthode éclaire d'une nouvelle lumière la théorie. Le travail de thèse pourra dès lors contenir une réarticulation des concepts théorique, si elle est appellée par la comparaison des modélisations avec l'expérience. 
+En troisième point, on ne peut pas exclure l'idée (on peut même l'éspérer) qu'une méthode éclaire d'une nouvelle lumière la théorie. Le travail de thèse pourra dès lors contenir une réarticulation des concepts théorique — si elle est appellée — par la comparaison des modélisations avec l'expérience. 
 
 #### Comment ? 
 
-D'abord, à contre-courant de la démarche très majoritairement inductive qu'adopte aujourd'hui les sciences naturelles ([Montevil2021](reference/Montevil2021.md)), j'insiste sur le fait que les modélisations proposées devront procèder d'une mise en pratique du cadre théorique. La plupart des modélisations en biologie utilisent aujourd'hui les outils de la physique ou des statistiques. Ce travail verra nécéssairement l'apparition de nouveautés en terme de savoir-faire, au-delà d'une simple combinaison ou agencement de pratiques utilisées en biophysique. 
+La plupart des modélisations en biologie utilisent aujourd'hui les outils de la physique ou des statistiques pour interpréter des données empiriques, ou computationellement générées ([Montevil2021](reference/Montevil2021.md)). À l'inverse de cette démarche inductive, j'insiste sur le fait que les modélisations proposées devront procèder d'une mise en pratique du cadre théorique.  Ce travail verra nécéssairement l'apparition de nouveautés en terme de savoir-faire, au-delà d'une simple combinaison ou agencement de pratiques utilisées en biophysique. Quelques premières tentatives prometteuses ont été réalisées ([Montevil2016b](reference/Montevil2016b.md), [Bich2020](reference/Bich2020.md), [Montevil2022](reference/Montevil2022.md)). Elles sont des exemples des travaux de modélisation que nous devons effectuer, *puis* généraliser pour donner des lignes directrices instituables. Des discussions et des collaborations étroites avec les auteurs de ces papiers sont attendues, notamment avec Matteo Mossio. 
 
-Quelques premières tentatives prometteuses ont été réalisée ([Montevil2016b](reference/Montevil2016b.md), [Bich2020](reference/Bich2020.md), [Montevil2022](reference/Montevil2022.md)). Elles sont des exemples des travaux de modélisation que nous devons effectuer, *puis* généraliser pour donner des lignes directrices instituables. Des discussions et des collaborations étroites avec les auteurs de ces papiers sont attendues, notamment Matteo Mossio. 
+La notion de clôture de contrainte possède une écriture diagrammatique précieuse sur laquelle les autres concepts propres aux organismes peuvent se grammatiser ([Montevil2020a](reference/Montevil2020a.md)). Nous utiliserons donc cet atout. Il semble que nous pouvons distinguer trois étapes de notre travail futur. D'abord il faudra comprendre dans quelles mesures  la clôture de contraintes enrichie la modélisation des phénomènes biologiques ([Bich2020](reference/Bich2020.md)). Les modélisations biophysiques et bioinformatiques des parties d'un organisme peuvent-elle s'agencer pour la description du tout ? Qu'apporte la vision organiciste pour les modélisations des parties ? de l'organisme ? Peut-on formaliser une modélisation quantitative ? Est-ce que l'auto-détermination (sous forme d'auto-contrainte) d'un organisme est numériquement simulable ? Des applications concrètes seront produites, critiquées et comparées pour être généralisée. 
 
-La notion de clôture de contrainte possède une écriture diagrammatique précieuse sur laquelle les autres concepts propres aux organismes peuvent se grammatiser ([Montevil2020a](reference/Montevil2020a.md)). Il semble que nous pouvons distinguer trois étapes pour l'élaboration d'une méthode. Un premier travail consistera à s'approprier la clôture de contraintes et comprendre dans quelles mesures elle enrichie la modélisation de phénomènes biologiques ([Bich2020](reference/Bich2020.md)). Les modélisations biophysiques et bioinformatiques des parties d'un organisme peuvent-elle s'agencer pour la description du tout ? Qu'apporte la vision organiciste pour les modélisations des parties ? de l'organisme ? Peut-on formaliser une modélisation quantitative ? Est-ce que l'auto-détermination (sous forme d'auto-contrainte) d'un organisme est numériquement simulable ?
+L'incorporation de l'historicité des organes dans la modélisation des organismes est le second noeud gordien du projet. Alors que la physique repose sur une épistémologie relationnelle, la biologie doit intégrer l'historicité des organismes pour les définir. Articulé au principe d'organisation, c'est le concept d'anti-entropie qui entre ici en jeu ([Montevil2022](reference/Montevil2022.md)). Expérimentalement, de nouvelles pratiques ont été prescrites ([Montevil2020a](reference/Montevil2020a.md)), mais il faut aussi pouvoir introduire une histoire phylogénétique et ontogénétique dans la modélisation des fonctions d'un organisme. Il y aura ici à élaborer des pratiques mixtes, entre la physiologie et l'histoire. 
 
-L'incorporation de l'historicité des organes dans la modélisation des organismes est le second noeud gordien du projet. Alors que la physique repose sur une épistémologie relationnelle, la biologie doit intégrer l'historicité des organismes pour les définir ([Montevil2020a](reference/Montevil2020a.md)). Articulé au principe d'organisation, c'est le concept d'anti-entropie qui entre ici en jeu ([Montevil2022](reference/Montevil2022.md)). De nouvelles pratiques devront ici être introduites, justifiées et clarifiées. La question de la temporalité sera ici centrale, car le temps continu de la physique n'est plus l'observable pertinente. Les temps irréductibles des cycles qui rythment la vie d'organismes (du battement, de la respiration, du jour, de la saison) prohibent les lois d'évolutions basée sur des différentielles infinitésimales du temps. Un organisme est ne partie déterminé par une unique cascades de variations fonctionelles qui *permettent* 
-expliquer  primer concrètement que le passé joue un rôle au présent ?  
-
-Finalement
-
-. Ensuite, le concept de nouveauté pourra être incorporé pour travailler le concept de production d'anti-entropie. Toutes ces étapes nécessitent l'élaboration de méthodes de modélisations nouvelles qui pourront faire appel à des organes biologiques ou techniques. 
+Finalement, le concept de production d'anti-entropie réfère au changement d'espace des observables pertinentes pour décrire le système vivant ([Montevil2022](reference/Montevil2022.md)). Une variation fonctionelle imprédictible permet de nouvelles possibilités et projete l'organisme dans un espace de description nouveau. La question de la temporalité sera ici centrale, car le temps continu de la physique n'est plus l'observable pertinente. Les temps irréductibles des cycles qui rythment la vie d'organismes (du battement, de la respiration, du jour, de la saison) prohibent les lois d'évolutions basée sur des différentielles infinitésimales du temps. Que peut apporter une méthode scientifique qui choisit de parler de nouveautés imprédictibles dans un espace concevable, plutôt que d'états dépourvus de sens dans un système foncièrement non-ergodique ? La temporalité séquentielle du numérique qui discrètise le temps mais interdit la simultanéité est-il un atout ou un problème ?
 
 
-
-([Montevil2016b](reference/Montevil2016b.md) ,[Bich2020](reference/Bich2020.md), [Montevil2022](reference/Montevil2022.md)) 
-
-#### Conclusion
-
-
-## Conclusion sur la stratégie
-
+## Conclusion 
 
 Voie 1 : ED ISCE ou ED 474 ---> Comission 51
 **Voie 2 : ED 540 ---> Comission 53 (+ comission 51)**
 
-Avec mon profil de physico-chimiste, une thèse en épistémologie de la biologie me permet de candidater à la 53 *et* la 51 car les modélisations de biologies utilisent des outils de physico-chimie que je connais.
-À l'inverse, une thèse en biologie me permet de candidater à la 51 mais pas à la 53.
+Une thèse en épistémologie de la biologie me permet de candidater à la CID 53. Avec mon profil de physico-chimiste, je pourrai aussi candidater à la CID 51 car les modélisations de biologies utilisent des outils de physico-chimie. À l'inverse, une thèse en modélisation de la biologie — telle qu'entendue aujourd'hui — ne me permettra pas de candidater à la CID 53, ne réflètera pas l'originalité des théories engagées et négligera l'aspect transdisciplinaire de mon profil (dans le sens d'une double casquette épistémologique). Je penche donc pour **ED540, spécialité épistémologie.** 
 
-
-
+Sur le titre "Que peut modéliser une biologie organiciste ?", formuler une question à l'apparence philosophie des sciences permet d'entrer dans la catégorie épistémologie sans problème. 
+C'est l'astuce de dire que la meilleure façon de répondre à la question est de construire la méthode qui nous permet de faire de la modélisation. 
+Cependant, je pense qu'il y a vraiment matière à réflexion sur les connaissances productibles avec ce sujet. 
 
 Je pense que ce travail se prête très bien à l'exercice du doctorat pour plusieurs raisons : 
 
 - Il a un objectif dont la forme est quasi-invariante : l'élaboration d'une méthode, la constitution d'un savoir-faire (du biologiste, artisan-modélisateur ). 
-- Il a un contenu qui n'est pertinent qu'au (relativement) long terme, au bout de trois ans de doctorat ("Les méthodes viennent à la fin" — Nietzsche). 
-- Il doit être ponctué par quelques applications (donc quelques productions scientifiques), car la méthode ne peut se construire qu'en tatonnant. 
-- Il est sous-tendu par une question de philosophie des sciences pertinente et une partie plus moins grande de la thèse sera consacrée à sa discussion. 
-- Il permettra d'éclairer ou ajuster le cadre théorique à la lumière de considérations plus concrètes, plus proche de la modélisation et de l'expérience. Ici, la thèse contiendra une première appropriation du cadre théorique initial et contiendra l'apport du travail effectué à celui-ci si nécéssaire.  
-- Il a un interêt très pratique pour les biologistes, celui d'approcher leur objet d'étude différement, de manière plus riche. 
-- Il permet de donner des éléments plus concrets, des exemples, pour sensibiliser la société aux problèmes systémique qui caractérisent l'Anthropocène. Ainsi, les motivations pour les efforts à consacrer sont aussi extra-scientifique. 
+- Il a un contenu qui n'est pertinent qu'au (relativement) long terme, au bout de trois ans de doctorat ("Les méthodes viennent à la fin"). 
+- Il doit être ponctué par quelques applications (donc quelques productions scientifiques), car la méthode ne peut se construire qu'en tâtonnant. 
+- Il est sous-tendu par une question de philosophie des sciences pertinente et une partie variable (d'ajustement selon la réussite) de la thèse sera consacrée à sa discussion. 
+- Il permettra d'éclairer ou ajuster le cadre théorique à la lumière de considérations plus concrètes, plus proche de la modélisation et de l'expérience. 
+- Il a un interêt très pratique pour les biologistes, celui d'approcher leur objet d'étude différement, de manière plus riche. C'est un pas vers la démocratisation de ces principes (technique de "la carotte"). 
+- Il permet de donner des éléments plus concrets, des exemples, pour sensibiliser la société aux problèmes systémique qui caractérisent l'Anthropocène. 
+
+
+### Références
+
+Bich, Leonardo, Matteo Mossio, et Ana M. Soto. 2020. « Glycemia Regulation: From Feedback Loops to Organizational Closure ». _Frontiers in Physiology_ 11. [https://www.frontiersin.org/articles/10.3389/fphys.2020.00069](https://www.frontiersin.org/articles/10.3389/fphys.2020.00069).
+
+Canguilhem, Georges. 1992. _La connaissance de la vie_. Vrin.
+
+Doudna, Jennifer, et Samuel Sternberg. 2017. _A crack in creation: The new power to control evolution_. Random House.
+
+Longo, Giuseppe. 2021. « Programming Evolution: A Crack in Science ». _Organisms. Journal of Biological Sciences_, août. [https://doi.org/10.13133/2532-5876/17538](https://doi.org/10.13133/2532-5876/17538).
+
+Montévil, Maël. 2019a. « Measurement in Biology Is Methodized by Theory ». _Biology & Philosophy_ 34 (3): 35. [https://doi.org/10.1007/s10539-019-9687-x](https://doi.org/10.1007/s10539-019-9687-x).
+
+———. 2019b. « Possibility Spaces and the Notion of Novelty: From Music to Biology ». _Synthese_ 196 (11): 4555‑81. [https://doi.org/10.1007/s11229-017-1668-5](https://doi.org/10.1007/s11229-017-1668-5).
+
+———. 2021a. « Entropies and the Anthropocene Crisis ». _AI & SOCIETY_, mai. [https://doi.org/10.1007/s00146-021-01221-0](https://doi.org/10.1007/s00146-021-01221-0).
+
+———. 2021b. « Computational Empiricism : The Reigning Épistémè of the Sciences ». _Philosophy World Democracy_, juillet. [https://montevil.org/publications/articles/2021-montevil-episteme-computational-empiricism/](https://montevil.org/publications/articles/2021-montevil-episteme-computational-empiricism/).
+
+———. 2022a. « Disruption of Biological Processes in the Anthropocene: The Case of Phenological Mismatch ». Preprint. In Review. [https://doi.org/10.21203/rs.3.rs-1359981/v1](https://doi.org/10.21203/rs.3.rs-1359981/v1).
+
+———. 2022b. « Historicity at the Heart of Biology ». _Theory in Biosciences_ 141 (2): 165‑73. [https://doi.org/10.1007/s12064-020-00320-8](https://doi.org/10.1007/s12064-020-00320-8).
+
+Montévil, Maël, et Matteo Mossio. 2015. « Biological Organisation as Closure of Constraints ». _Journal of Theoretical Biology_ 372 (mai): 179‑91. [https://doi.org/10.1016/j.jtbi.2015.02.029](https://doi.org/10.1016/j.jtbi.2015.02.029).
+
+———. 2020. « The Identity of Organisms in Scientific Practice: Integrating Historical and Relational Conceptions ». _Frontiers in Physiology_ 11 (juin): 611. [https://doi.org/10.3389/fphys.2020.00611](https://doi.org/10.3389/fphys.2020.00611).
+
+Montévil, Maël, Matteo Mossio, Arnaud Pocheville, et Giuseppe Longo. 2016. « Theoretical Principles for Biology: Variation ». _Progress in Biophysics and Molecular Biology_ 122 (1): 36‑50. [https://doi.org/10.1016/j.pbiomolbio.2016.08.005](https://doi.org/10.1016/j.pbiomolbio.2016.08.005).
+
+Montévil, Maël, L. Speroni, Carlos Sonnenschein, et Ana M. Soto. 2016a. « Modeling Mammary Organogenesis from Biological First Principles: Cells and Their Physical Constraints ». _Progress in Biophysics and Molecular Biology_ 122 (1): 58‑69. [https://doi.org/10.1016/j.pbiomolbio.2016.08.004](https://doi.org/10.1016/j.pbiomolbio.2016.08.004).
+
+Montévil, Maël, Lucia Speroni, Carlos Sonnenschein, et Ana M. Soto. 2016b. « Modeling Mammary Organogenesis from Biological First Principles: Cells and Their Physical Constraints ». _Progress in Biophysics and Molecular Biology_ 122 (1): 58‑69. [https://doi.org/10.1016/j.pbiomolbio.2016.08.004](https://doi.org/10.1016/j.pbiomolbio.2016.08.004).
+
+Montévil, Maël, Bernard Stiegler, Giuseppe Longo, Ana Soto, et Carlos Sonnenschein. 2021. « Anthropocène, exosomatisation et néguentropie ». In _Bifurquer, « il n’y a pas d’alternative »_. Paris: Les Liens qui Libèrent.
+
+Soto, Ana M., G. Longo, Denis Noble, Nicole Perret, Maël Montévil, Carlos Sonnenschein, Matteo Mossio, Arnaud Pocheville, Paul-Antoine Miquel, et Su-Young Hwang. 2016. « From the Century of the Genome to the Century of the Organism: New Theoretical Approaches ». _Progress in Biophysics and Molecular Biology, Special Issue_ 122 (1): 1‑82.
+
+Stiegler, Bernard, Jean-Marie Gustave Le Clézio, Alain Supiot, et Internation/Geneva2020. 2020. _Bifurquer : « il n’y a pas d’alternative »_. Les Liens qui Libèrent.
