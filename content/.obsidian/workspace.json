@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "note/note on Montevil2019a.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "note/note on Montevil2019a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "note/note on Montevil2019a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/random/(v3) projet.md"
+                "file": "note/note on Montevil2019a.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "1f26fef4c5e180fa",
   "lastOpenFiles": [
-    "2023-02-24.md",
     "private/random/(v3) projet.md",
+    "2023-02-24.md",
     "reference/Soto2016.md",
     "private/random/(v2) projet.md",
     "private/random/novelty in chess and arts.md",

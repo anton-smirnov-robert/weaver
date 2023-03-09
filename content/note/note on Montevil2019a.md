@@ -67,7 +67,7 @@ What makes symphonies what they are (*relevant* properties), is it a shared prop
 Can we have a generic definition in the set of all music scores for symphonies?
 Symphonies share properties, but it is not the properties that makes them what they are.
 
-In machine learning, one can find some relevant properties for some symphonies that have the same composer for instance. But the symphonies pre-exist, their generic properties are not pre-stated. The generic sets (patterns) that are identified are specific to the composer. Novelties in those sets (coming from a convex interpolation), may not be interesting from a musical point of view.
+In machine learning, one can find some relevant properties for some symphonies that have the same composer for instance. But the symphonies pre-exist, their generic properties are not pre-stated. The generic sets (patterns) that are identified are specific to the composer. Novelties are new points near the law that is trying to be approached, and may not be interesting from a musical point of view.
 
 
 #### The concept of [novelty](concept/novelty.md) is introduced 
@@ -103,7 +103,6 @@ Therefore, it needs the concept of new possibility.
 
 
 #### Response to maths objections
-
 
 Being able to generate a pattern is not being able to explain it, that is to be an explicit possibility. 
 It is choosing a good initial condition. 
