@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d416174d71a3e47c",
+        "id": "4502b5fc0b7f9522",
         "type": "tabs",
         "children": [
           {
-            "id": "7be7dfe99cc0d6a2",
+            "id": "b4eef06ebdf48e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/(v2) projet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f26fef4c5e180fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/note on Montevil2019a.md",
+                "file": "private/random/(v3) projet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Montevil2019a.md",
+                "file": "private/random/(v3) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Montevil2019a.md",
+                "file": "private/random/(v3) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Montevil2019a.md"
+                "file": "private/random/(v3) projet.md"
               }
             }
           }
@@ -159,12 +146,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1f26fef4c5e180fa",
+  "active": "b4eef06ebdf48e94",
   "lastOpenFiles": [
+    "private/random/(v2) projet.md",
+    "note/note on Montevil2019a.md",
     "private/random/(v3) projet.md",
     "2023-02-24.md",
     "reference/Soto2016.md",
-    "private/random/(v2) projet.md",
     "private/random/novelty in chess and arts.md",
     "private/TOREAD.md",
     "stop working so hard.md",
@@ -185,7 +173,6 @@
     "note/history of organisms as self-determined biological systems.md",
     "private/drafts/(v6) Le besoin d'une économie des théories scientifiques.md",
     "manifesto.md",
-    "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md",
-    "reference/Moreno2015.md"
+    "private/drafts/(v5) L'urgence d'une économie des théories scientifiques.md"
   ]
 }

@@ -76,8 +76,6 @@ ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 
 L'Anthropocène est un symptôme, en partie au moins, d'une vision mécaniciste du vivant. Cette philosophie (symbolisée par la pensée fondatrice de Descartes) est vivement critiquée aujourd'hui, mais la biologie n'effectue que lentement sa mue. Il est en effet commun d'entendre que nous devons "changer notre rapport au vivant", rarement qu'il faut proposer de nouvelles théories en biologie. Or, dès 1913, Radl notait déjà qu'un savant qui sent son appartenance à la nature et qui ne se tient pas devant elle comme devant des phénomènes étrangers était un vitaliste — et non un mécaniste (in [Canguilhem1992a](reference/Canguilhem1992a.md), p. 111). La proximité de débats écologiques contemporains avec l'histoire de la biologie devrait nous inviter à une réflexion épistémologique sur nos pratiques actuelles. Ne faut-il pas s'alarmer qu'une théorie permette l'attribution d'un prix Nobel en 2020 à une personne affirmant pouvoir "reprogrammer" le vivant ou "contrôler l'évolution" ([Doudna2017](reference/Doudna2017.md), [Longo2021](reference/Longo2021.md)) ? Il semble qu'en pensant chasser la philosophie de notre pratique scientifique, nous oublions de passer au crible celle que nous embarquons inévitablement. Ne procède-t-il pas de ce manque de rigueur des choix politiques désastreux — comme la *Genetic Technology Bill* aujourd'hui ?
 
-#### Contexte sociétal & praxis
-
 La dégradation de la biosphère par des technologies nécessite de repenser le fonctionnement de nos organes exosomatiques (ces derniers selon Lotka) dans un milieu constitué d'organismes. Sous l'impulsion de la pensée de Bernard Stiegler et du collectif Internation, intégrer la technosphère dans la biosphère nécessite une organologie générale. Celle-ci décrit un mode d'organisation de processus biologiques et économiques viables, c'est-à-dire qui résiste à la dégradation du temps, c'est-à-dire à l'entropie ([Stiegler2020](reference/Stiegler2020.md)). Dépasser le mécanicisme des organisations de notre société nécessite une compréhension solide du concept d'entropie en biologie ou dans une organisation plus générale ([Montevil2021a](reference/Montevil2021a.md)).
 
 #### Contexte scientifique large 
@@ -96,7 +94,7 @@ Les changements pour la science sont majeurs, car on explique plus les régulari
 
 #### Contexte scientifique restreint
 
-Des concepts théoriques importants et fructueux ont émergé grâce à ses principes : celui d'anti-entropie ([Montevil2022a](reference/Montevil2022a.md), [Montevil2021a](reference/Montevil2021a.md)), de production d'anti-entropie ([Montevil2019a](reference/Montevil2019a.md), [Montevil2021a](reference/Montevil2021a.md)), de disruption ([Montevil2022](reference/Montevil2022.md)). 
+Plus récémment,des concepts théoriques importants et fructueux ont émergé grâce à ses principes : celui d'anti-entropie ([Montevil2022a](reference/Montevil2022a.md), [Montevil2021a](reference/Montevil2021a.md)), de production d'anti-entropie ([Montevil2019a](reference/Montevil2019a.md), [Montevil2021a](reference/Montevil2021a.md)), de disruption ([Montevil2022](reference/Montevil2022.md)). 
 
 
 ### Projet de thèse
