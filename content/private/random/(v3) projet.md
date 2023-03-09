@@ -1,6 +1,6 @@
 
 
-## Commision CNRS 
+## Commisions interdisciplinaires CNRS 
 
 **Comission 51** : Modélisation mathématique, informatique et physique pour les sciences du vivant
 
@@ -18,30 +18,18 @@ L'institut pilote de la CID est l'**Institut des sciences biologiques**
 -   Modélisation en écologie, évolution et épidémiologie
 -   Applications à la santé et à la recherche médicale
 
-**Comission 52** : Environnements sociétés: du savoir à l’action
-
-L'institut pilote de la CID est l'**Institut d'écologie et environnement**
-
-***-   Changements globaux : dynamiques spatiales et temporelles ; perturbations et crises ; adaptations et résilience ; mitigation ; nexus causes naturelles/causes anthropiques***
-**-   Nature, écosystèmes, biodiversité : représentations ; savoirs locaux ; scenarii ; modélisations ; conservation ; protection**
-**-   Systèmes socio-écologiques : genèse et trajectoires ; fonctions et services ; régulation et gestion**
-**-   Ressources naturelles : valorisation ; usages et gestion ; conflits ; prospectives**
--   Ecologie globale : écologie aux interfaces des sciences du système terre, de la vie et de la société ; transdisciplinarité
--   Ecologie de la santé : concepts OneHealth, EcoHealth ; interactions environnement-santés-sociétés ; pollutions ; exposome ; dysbioses ; maladies émergentes ; etc
--   Science de la durabilité : transitions environnementales ; stratégies de développement durable ; énergies ; solutions fondées sur la nature ; ingénierie écologique ; chimie durable ; innovations sociales ; villes durables ; etc
-
 **Comission 53** : Sciences en société: production, circulation et usages des savoirs et des technologies
 
 L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 
-**-   Pratiques et méthodes des sciences : épistémologie ; régimes de preuve scientifique ; sciences participatives ; circulation et publication des savoirs ; intégrité scientifique et éthique de la recherche ; droit des sciences et des techniques**
+-  **Pratiques et méthodes des sciences : épistémologie ; régimes de preuve scientifique ; sciences participatives ; circulation et publication des savoirs ; intégrité scientifique et éthique de la recherche ; droit des sciences et des techniques**
 -   Risques sanitaires et environnementaux : risques émergents et signaux faibles ; systèmes d’alerte ; évaluation, mesure et modélisation ; perceptions et impacts sociaux ; prévention, précaution et régulation
 -   Sciences et technologies du vivant : construction des savoirs ; usages politiques, économiques et sociaux ; genre et sciences ; données de santé ; santé numérique
 -   Technologies numériques et société : enjeux politiques, économiques et sociaux ; gouvernance et régulation ; réseaux numériques ; intelligence artificielle ; algorithmes ; données numériques
 -   Sciences, expertise et décision : controverses publiques ; mise en débat public des savoirs ; expertises collectives ; décision en situation d’incertitude
 
 
-## École doctorale
+## Écoles doctorales
 
 ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
@@ -49,27 +37,16 @@ ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
 ED 474 : Frontières de l’Innovation en Recherche et Éducation (FIRE)
 
-Divisée en deux parties : ***frontière du vivant*** et frontière de l'apprendre et de découvertes. Très sélectif. 
+Divisée en deux parties : ***frontière du vivant*** et frontière de l'apprendre et de découvertes. 
 
 - Spécialité : Biologie interdisciplinaire, Ecologie, évolution et biologie environnementale, Gene, omiques, bioinformatique et bio des systemes
-
->[!quote]
->
->"The aim of this interdisciplinary doctoral school is to promote ambitious research projects involving interactions between a wide range of academic disciplines in the pursuit of understanding living systems, education, and discovery. Thus, the FIRE graduate school recruits students trained in various disciplines (e.g. biology, physics, medicine, economy, linguistics) from around the world." [Learning Planet Institute](https://phd.learningplanetinstitute.org/en)
->
-
->[!quote]
->
->"We host research projects that cannot find their place in the usual doctoral school of the labs, because of their unconventional and interdisciplinary nature. Our aim is also to provide to our PhD students a wide offer of courses, covering scientific, technical, transversal and behavioural aspects, in order to help them become well-rounded young researchers." [Université Paris Cité](https://odf.u-paris.fr/fr/offre-de-formation/doctorat-SPD/sciences-technologies-sante-STS/ecole-doctorale-474-frontiere-de-l-innovation-en-recherche-et-education-K6278OZC.html)
->
 
 ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 
 -   Spécialité :  Modèles, méthodes et algorithmes pour la Biologie, la Santé et l'environnement (MBS)
 
 
-## Sujet de thèse
-
+## Sujet de thèse : "Que peut modéliser une biologie organiciste ?"
 
 #### Contexte sociétal 
 
@@ -95,24 +72,38 @@ Plus récémment, les articulations successives de ces principes ont conduits à
 
 #### Objectif du projet 
 
-Pour que ce long travail épistémologique et théorique rigoureux actualise ses potentialités transformatives pour la science et la société, il doit pouvoir être mis entre les mains de biologistes avec une *méthode*. Une méthode n'est pas un protocole mécanique, mais un savoirs-faire qui permet à des biologistes-artisans de s'approprier et utiliser en pratique des théories pour générer des savoirs nouveaux. Nietzsche a noté dans l'Antéchrist que les méthodes viennent à la fin. Il faut en effet faire (modéliser, expérimenter) pour être critique par rapport à ce travail et ensuite poser des stratégies plus générales et partageables. Très concrètement, à titre d'exemple, une partie de la physique actualise ses théories et postulats par une méthode qui consiste à identifier des invariants (symmetries, loi de conservation, etc.) pour donner une équation différentielle, à préciser des conditions initiales (et/ou aux bords), puis à résoudre analytiquement ou numériquement le problème. Le travail que je propose vise à élaborer un équivalent pour la biologie en se basant sur les principes et les théories mentionnées plus haut. 
+Pour que ce long travail épistémologique et théorique rigoureux actualise ses potentialités transformatives pour la science, il doit pouvoir être mis entre les mains de biologistes avec une *méthode*. Une méthode n'est pas un protocole mécanique, mais un savoir-faire qui permet à des biologistes-artisans de s'approprier et utiliser en pratique des théories pour générer des savoirs nouveaux. Il se partage en établissant des lignes directrices généralement applicables, même celles-ci sont des stratégies qu'il faut interpréter plus ou moins librement, pas des programmes. Nietzsche a noté dans l'Antéchrist que les méthodes viennent à la fin. Il faut en effet faire (modéliser, expérimenter) pour être critique par rapport à ce travail et ensuite poser des stratégies plus générales et partageables. Très concrètement, à titre d'exemple, une partie de la physique actualise ses théories et postulats par une méthode qui consiste à identifier des invariants (symmetries, loi de conservation, etc.) pour donner une équation différentielle, à préciser des conditions initiales (et/ou aux bords), puis à résoudre analytiquement ou numériquement le problème. Le travail que je propose vise à élaborer un équivalent pour des études de biologie qui se basent sur les principes et les théories mentionnées plus haut. 
 
 Les enjeux de ce projet ne sont pas seulement opérationels. Il n'est, en effet, pas évident qu'une biologie organiciste puisse être opératoire ! Le propre de l'organisme, à l'inverse de la machine, est que la persistance de ses constituants dépend du fonctionnement du tout. Ses parties ne sont pas isolables, sa circularité empêche l'analyse non-intrusive. De plus, que peut dire le biologiste devant des nouveautés fondamentalement imprédictibles ? René Thom disait, dans un élan clairvoyant d'honneteté intellectuelle de physico-mathématicien, que la théorie de Darwin n'était pas scientifique car les possibles de l'évolution n'étaient pas prédéfinis. La question de philosophie des sciences en filigrane du projet est alors : quelles types de conaissances la science peut-elle générer sur le vivant une fois qu'elle reconnait l'interdépendance mutuelle des parties d'un organisme et leur variations imprédictibles ? 
 
-En troisième point, on ne peut pas exclure l'idée (on peut même l'éspérer) qu'une meilleure efficacité de la méthode demande des ajustements théoriques. Dès lors, il pourrait y avoir une réarticulation finale de la théorie, appellée par la comparaison de modélisations avec l'expérience. 
-
+En troisième point, on ne peut pas exclure l'idée (on peut même l'éspérer) qu'une méthode éclaire d'une nouvelle lumière la théorie. Le travail de thèse pourra dès lors contenir une réarticulation des concepts théorique, s'ils sont appellés par la comparaison de modélisations avec l'expérience. 
 
 #### Comment ? 
 
 D'abord, à contre-courant de la démarche très majoritairement inductive qu'adopte aujourd'hui les sciences naturelles ([Montevil2021](reference/Montevil2021.md)), j'insiste sur le fait que les modélisations proposées devront procèder d'une mise en pratique du cadre théorique. La plupart des modélisations en biologie utilisent aujourd'hui les outils de la physique ou des statistiques. Ce travail verra nécéssairement l'apparition de nouveautés en terme de savoir-faire, au-delà d'une simple combinaison ou agencement de pratiques utilisées en biophysique. 
 
-Concrétiser ses nouveautés théoriques importantes demande un travail de modélisation d'une originalité *a priori* identique. La plupart des modélisations en biologie utilisent les outils de la physique ou des statistiques. Alors que la physique repose sur une épistémologie relationnelle, la biologie doit y intégrer l'historicité des organismes ([Montevil2020a](reference/Montevil2020a.md)). Une modélisation à partir de la notion de clôture de contraintes — en s'aidant de de premières tentatives ([Montevil2016b](reference/Montevil2016b.md) ,[Bich2020](reference/Bich2020.md),[Montevil2022](reference/Montevil2022.md)) — doit donc être enrichie pour y introduire l'histoire (ou la notion d'anti-entropie). Ensuite, le concept de nouveauté pourra être incorporé pour travailler le concept de production d'anti-entropie. Toutes ces étapes nécessitent l'élaboration de méthodes de modélisations nouvelles qui pourront faire appel à des organes biologiques ou techniques. 
+Quelques premières tentatives prometteuses ont été réalisée ([Montevil2016b](reference/Montevil2016b.md), [Bich2020](reference/Bich2020.md), [Montevil2022](reference/Montevil2022.md)). Elles sont des exemples des travaux de modèlisation que nous devons effectuer, *puis* généraliser pour donner des lignes directrices générales. Des discussions et des collaborations étroites avec les auteurs de ces papiers sont attendues, notamment Matteo Mossio. 
+
+Alors que la physique repose sur une épistémologie relationnelle, la biologie doit y intégrer l'historicité des organismes ([Montevil2020a](reference/Montevil2020a.md)). Une modélisation à partir de la notion de clôture de contraintes — en s'aidant de de premières tentatives ([Montevil2016b](reference/Montevil2016b.md) ,[Bich2020](reference/Bich2020.md),[Montevil2022](reference/Montevil2022.md)) — doit donc être enrichie pour y introduire l'histoire (ou la notion d'anti-entropie). Ensuite, le concept de nouveauté pourra être incorporé pour travailler le concept de production d'anti-entropie. Toutes ces étapes nécessitent l'élaboration de méthodes de modélisations nouvelles qui pourront faire appel à des organes biologiques ou techniques. 
 
 Puisqu'il s'agit de distinguer clairement la machine et le vivant *pour* mieux les articuler, nos modélisations demanderont d'englober la machine computationelle dans son environnement biologique qui comprend, entre autres, son utilisateur. Il s'agit donc de poser de nouvelles méthodes de modélisation en biologie théorique qui utilise l'ordinateur comme un outils au service de la compréhension du vivant, et non une machine isolée simulant un système biologique *ab initio*. 
 
 ([Montevil2016b](reference/Montevil2016b.md) ,[Bich2020](reference/Bich2020.md), [Montevil2022](reference/Montevil2022.md)) 
 
 #### Conclusion
+
+
+## Conclusion sur la stratégie
+
+
+Voie 1 : ED ISCE ou ED 474 ---> Comission 51
+**Voie 2 : ED 540 ---> Comission 53 (+ comission 51)**
+
+Avec mon profil de physico-chimiste, une thèse en épistémologie de la biologie me permet de candidater à la 53 *et* la 51 car les modélisations de biologies utilisent des outils de physico-chimie que je connais.
+À l'inverse, une thèse en biologie me permet de candidater à la 51 mais pas à la 53.
+
+
+
 
 Je pense que ce travail se prête très bien à l'exercice du doctorat pour plusieurs raisons : 
 
