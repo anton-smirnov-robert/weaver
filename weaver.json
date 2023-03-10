@@ -5547,6 +5547,46 @@
       "select": "zotero://select/library/items/6Q99EJKU"
     },
     {
+      "key": "ZL34ISS5",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Springer",
+      "date": "1988",
+      "libraryCatalog": "Google Scholar",
+      "title": "Developmental biology",
+      "creators": [
+        {
+          "firstName": "Scott F.",
+          "lastName": "Gilbert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-10T16:41:38Z",
+      "dateModified": "2023-03-10T16:41:38Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZL34ISS5",
+      "itemID": 6677,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Gilbert - 1988 - Developmental biology.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-10T16:42:01Z",
+          "dateModified": "2023-03-10T16:42:01Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/3DHVQAN3",
+          "path": "/Users/robert/Dropbox/zotero/storage/3DHVQAN3/Gilbert - 1988 - Developmental biology.pdf",
+          "select": "zotero://select/library/items/3DHVQAN3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Gilbert1988",
+      "itemKey": "ZL34ISS5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZL34ISS5"
+    },
+    {
       "key": "ACF236UV",
       "version": 0,
       "itemType": "journalArticle",
@@ -15072,6 +15112,52 @@
       "itemKey": "RAJ6H6KH",
       "libraryID": 1,
       "select": "zotero://select/library/items/RAJ6H6KH"
+    },
+    {
+      "key": "HHSB9CWA",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://shs.hal.science/halshs-03080674",
+      "pages": "pp. 11",
+      "date": "2013",
+      "extra": "Publisher: Editions Mat\u00e9riologiques",
+      "accessDate": "2023-03-10T16:39:26Z",
+      "libraryCatalog": "shs.hal.science",
+      "language": "fr",
+      "abstractNote": "Cette introduction g\u00e9n\u00e9rale \u00e0 l'ouvrage collectif \"Mod\u00e9liser & Simuler. Epist\u00e9mologies et pratiques de la mod\u00e9lisation et de la simulation\" (Tome 1, 2013) propose une classification raisonn\u00e9e des diff\u00e9rents types de mod\u00e8les et de simulations actuellement en usage dans les sciences. Partant d'une approche comparative, elle se fonde sur des distinctions entre mod\u00e8les con\u00e7ues en termes de fonction \u00e9pist\u00e9mique, de nature et de principe. Elle propose en particulier d'identifier 20 diff\u00e9rentes fonctions \u00e9pist\u00e9miques pour les mod\u00e8les contemporains. Elle distingue \u00e9galement trois types distincts de simulation sur ordinateur en fonction de leur usage \u00e9pist\u00e9mique des symboles oeuvrant dans la computation. Elle distingue enfin les simulations de mod\u00e8les des mod\u00e8les de simulation, les mod\u00e8les de simulation pouvant eux-m\u00eames finalement \u00eatre subdivis\u00e9s encore en 2 cat\u00e9gories distinctes.",
+      "title": "Mod\u00e8les et simulations dans l'enqu\u00eate scientifique : vari\u00e9t\u00e9s traditionnelles et mutations contemporaines",
+      "shortTitle": "Mod\u00e8les et simulations dans l'enqu\u00eate scientifique",
+      "creators": [
+        {
+          "firstName": "Franck",
+          "lastName": "Varenne",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-10T16:39:26Z",
+      "dateModified": "2023-03-10T16:39:26Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/HHSB9CWA",
+      "itemID": 6675,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-10T16:39:29Z",
+          "dateModified": "2023-03-10T16:39:29Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/2LPMWPHM",
+          "path": "/Users/robert/Dropbox/zotero/storage/2LPMWPHM/Varenne - 2013 - Mod\u00e8les et simulations dans l'enqu\u00eate scientifique.pdf",
+          "select": "zotero://select/library/items/2LPMWPHM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Varenne2013",
+      "itemKey": "HHSB9CWA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HHSB9CWA"
     },
     {
       "key": "M4DJ6G5W",
