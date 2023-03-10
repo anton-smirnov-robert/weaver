@@ -2627,47 +2627,6 @@
       "select": "zotero://select/library/items/8RY5Q7D7"
     },
     {
-      "key": "BC9AIIBI",
-      "version": 0,
-      "itemType": "journalArticle",
-      "pages": "15",
-      "libraryCatalog": "Zotero",
-      "language": "en",
-      "abstractNote": "G\u00f6del\u2019s Incompleteness Theorems have the same scienti\ufb01c status as Einstein\u2019s principle of relativity, Heisenberg\u2019s uncertainty principle, and Watson and Crick\u2019s double helix model of DNA. Our aim is to discuss some new faces of the incompleteness phenomenon unveiled by an informationtheoretic approach to randomness and recent developments in quantum computing.",
-      "title": "Incompleteness, Complexity, Randomness and Beyond",
-      "creators": [
-        {
-          "firstName": "Cristian S",
-          "lastName": "Calude",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2022-08-11T09:17:40Z",
-      "dateModified": "2022-08-11T09:17:40Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/BC9AIIBI",
-      "itemID": 5374,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Calude - Incompleteness, Complexity, Randomness and Beyond.pdf",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2022-08-11T09:17:36Z",
-          "dateModified": "2022-08-11T09:17:41Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/LC4FZNL8",
-          "path": "/Users/robert/Dropbox/zotero/storage/LC4FZNL8/Calude - Incompleteness, Complexity, Randomness and Beyond.pdf",
-          "select": "zotero://select/library/items/LC4FZNL8"
-        }
-      ],
-      "notes": [],
-      "citationKey": "Calude",
-      "itemKey": "BC9AIIBI",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/BC9AIIBI"
-    },
-    {
       "key": "Y6J7USB6",
       "version": 0,
       "itemType": "journalArticle",
