@@ -12337,6 +12337,52 @@
       "select": "zotero://select/library/items/H2EPATD5"
     },
     {
+      "key": "XWSLTVB2",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Indiana University Press",
+      "date": "1991",
+      "libraryCatalog": "Google Scholar",
+      "title": "Embryos, genes, and evolution: the developmental-genetic basis of evolutionary change.",
+      "shortTitle": "Embryos, genes, and evolution",
+      "creators": [
+        {
+          "firstName": "Rudolf A.",
+          "lastName": "Raff",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Thomas C.",
+          "lastName": "Kaufman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-10T17:33:42Z",
+      "dateModified": "2023-03-10T17:33:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XWSLTVB2",
+      "itemID": 6689,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-10T17:33:56Z",
+          "dateModified": "2023-03-10T17:33:56Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8KZHPEDZ",
+          "path": "/Users/robert/Dropbox/zotero/storage/8KZHPEDZ/welcome.html",
+          "select": "zotero://select/library/items/8KZHPEDZ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Raff1991",
+      "itemKey": "XWSLTVB2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XWSLTVB2"
+    },
+    {
       "key": "GCB8ATNP",
       "version": 0,
       "itemType": "journalArticle",
