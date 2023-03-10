@@ -7713,6 +7713,115 @@
       "select": "zotero://select/library/items/GKN3NFWP"
     },
     {
+      "key": "RVANW5E7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1019",
+      "volume": "282",
+      "issue": "1813",
+      "pages": "20151019",
+      "publicationTitle": "Proceedings of the Royal Society B: Biological Sciences",
+      "date": "2015-08-22",
+      "extra": "Publisher: Royal Society",
+      "DOI": "10.1098/rspb.2015.1019",
+      "accessDate": "2023-03-10T17:54:15Z",
+      "libraryCatalog": "royalsocietypublishing.org (Atypon)",
+      "abstractNote": "Scientific activities take place within the structured sets of ideas and assumptions that define a field and its practices. The conceptual framework of evolutionary biology emerged with the Modern Synthesis in the early twentieth century and has since expanded into a highly successful research program to explore the processes of diversification and adaptation. Nonetheless, the ability of that framework satisfactorily to accommodate the rapid advances in developmental biology, genomics and ecology has been questioned. We review some of these arguments, focusing on literatures (evo-devo, developmental plasticity, inclusive inheritance and niche construction) whose implications for evolution can be interpreted in two ways\u2014one that preserves the internal structure of contemporary evolutionary theory and one that points towards an alternative conceptual framework. The latter, which we label the \u2018extended evolutionary synthesis' (EES), retains the fundaments of evolutionary theory, but differs in its emphasis on the role of constructive processes in development and evolution, and reciprocal portrayals of causation. In the EES, developmental processes, operating through developmental bias, inclusive inheritance and niche construction, share responsibility for the direction and rate of evolution, the origin of character variation and organism\u2013environment complementarity. We spell out the structure, core assumptions and novel predictions of the EES, and show how it can be deployed to stimulate and advance research in those fields that study or use evolutionary biology.",
+      "title": "The extended evolutionary synthesis: its structure, assumptions and predictions",
+      "shortTitle": "The extended evolutionary synthesis",
+      "creators": [
+        {
+          "firstName": "Kevin N.",
+          "lastName": "Laland",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tobias",
+          "lastName": "Uller",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Marcus W.",
+          "lastName": "Feldman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kim",
+          "lastName": "Sterelny",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gerd B.",
+          "lastName": "M\u00fcller",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Armin",
+          "lastName": "Moczek",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eva",
+          "lastName": "Jablonka",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Odling-Smee",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "developmental plasticity",
+          "type": 1
+        },
+        {
+          "tag": "evolutionary developmental biology",
+          "type": 1
+        },
+        {
+          "tag": "extended evolutionary synthesis",
+          "type": 1
+        },
+        {
+          "tag": "inclusive inheritance",
+          "type": 1
+        },
+        {
+          "tag": "niche construction",
+          "type": 1
+        },
+        {
+          "tag": "reciprocal causation",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-10T17:54:15Z",
+      "dateModified": "2023-03-10T17:54:15Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/RVANW5E7",
+      "itemID": 6697,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-10T17:54:18Z",
+          "dateModified": "2023-03-10T17:54:18Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/3KM54B9R",
+          "path": "/Users/robert/Dropbox/zotero/storage/3KM54B9R/Laland et al. - 2015 - The extended evolutionary synthesis its structure.pdf",
+          "select": "zotero://select/library/items/3KM54B9R"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Laland2015",
+      "itemKey": "RVANW5E7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RVANW5E7"
+    },
+    {
       "key": "3ENVXMML",
       "version": 0,
       "itemType": "journalArticle",
