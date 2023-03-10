@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4502b5fc0b7f9522",
+        "id": "3eb63e1708afb7ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b4eef06ebdf48e94",
+            "id": "d2434ca788f10d7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/random/(v3) projet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/random/(v3) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/random/(v3) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "private/random/(v3) projet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b4eef06ebdf48e94",
+  "active": "d2434ca788f10d7f",
   "lastOpenFiles": [
-    "reference/Montevil2022a.md",
+    "private/TODO.md",
     "private/random/(v3) projet.md",
+    "reference/Montevil2022a.md",
     "reference/Glade2015.md",
     "Sans titre.md",
     "reference/Montevil2020a.md",
@@ -162,7 +155,6 @@
     "private/random/novelty in chess and arts.md",
     "private/TOREAD.md",
     "stop working so hard.md",
-    "private/TODO.md",
     "definition/chemotaxis.md",
     "definition/allosteric regulation.md",
     "definition/metabolite.md",
