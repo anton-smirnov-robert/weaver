@@ -9,7 +9,7 @@
       "autoAbbrev": false,
       "autoAbbrevStyle": "",
       "autoExport": "immediate",
-      "autoExportDelay": 3,
+      "autoExportDelay": 2,
       "autoExportIdleWait": 10,
       "autoExportPathReplaceDiacritics": false,
       "autoExportPathReplaceDirSep": "-",
@@ -5599,6 +5599,58 @@
       "itemKey": "ACF236UV",
       "libraryID": 1,
       "select": "zotero://select/library/items/ACF236UV"
+    },
+    {
+      "key": "E5ZSPHX8",
+      "version": 0,
+      "itemType": "book",
+      "ISBN": "978-2-919694-93-8",
+      "date": "2015-08-01",
+      "libraryCatalog": "ResearchGate",
+      "abstractNote": "Le vivant critique et chaotique fut le titre de l\u2019\u00e9cole de printemps 2014 de la Soci\u00e9t\u00e9 francophone de biologie th\u00e9orique (SFBT) qui a eu pour motivation d\u2019attirer plus particuli\u00e8rement la communaut\u00e9 des physiciens, avec pour argumentaire de \u00ab transposer les outils d\u2019analyse des syst\u00e8mes dynamiques hors \u00e9quilibre, transitoires, critiques et chaotiques utilis\u00e9s pour d\u00e9crire la mati\u00e8re inerte au contexte du vivant \u00bb. Dans le pr\u00e9sent ouvrage, l\u2019objectif a \u00e9t\u00e9 d\u2019aller au-del\u00e0 des analyses de stabilit\u00e9 classiques des syst\u00e8mes de r\u00e9action-diffusion pour analyser de fa\u00e7on plus approfondie la dynamique du vivant qui, loin d\u2019\u00eatre un monde calme et organis\u00e9, est en r\u00e9alit\u00e9 un monde boulevers\u00e9 avec des r\u00e9gimes le plus souvent m\u00e9tastables ou critiques, voire chaotiques. Ces ph\u00e9nom\u00e8nes de transition et de bifurcation sont tr\u00e8s \u00e9tudi\u00e9s en physique et math\u00e9matiques et il appara\u00eet opportun de les appliquer \u00e0 l\u2019analyse des syst\u00e8mes dynamiques du vivant pour en r\u00e9v\u00e9ler et en explorer toute la complexit\u00e9 qui reste le plus souvent ignor\u00e9e. Ce th\u00e8me du vivant critique et chaotique, laiss\u00e9 \u00e0 la libre interpr\u00e9tation des auteurs, a \u00e9t\u00e9 abord\u00e9 de fa\u00e7ons tr\u00e8s diverses allant de l\u2019\u00e9pist\u00e9mologie \u00e0 l\u2019aide au diagnostic. Les neuf chapitres qui composent ce livre recouvrent ainsi plusieurs champs disciplinaires incluant les math\u00e9matiques, la physique, l\u2019informatique, la biologie, la physiologie et la m\u00e9decine et de nombreuses applications qui concernent entre autres l\u2019\u00e9pid\u00e9miologie, l\u2019\u00e9lectro- et la neurophysiologie, la signalisation et l\u2019agr\u00e9gation cellulaire et le syst\u00e8me immunitaire. Tous les chapitres proposent des approches ou des points de vue originaux qui se d\u00e9marquent de ceux g\u00e9n\u00e9ralement admis. Ils contribuent \u00e0 montrer l\u2019effervescence intellectuelle qui continue d\u2019agiter la biologie th\u00e9orique et qui en fait un champ de recherche particuli\u00e8rement stimulant. Le vivant critique et chaotique s\u2019adresse \u00e0 toute personne qui s\u2019int\u00e9resse \u00e0 la science en g\u00e9n\u00e9ral, \u00e0 l\u2019\u00e9volution des sciences et de la biologie th\u00e9orique en particulier.\n\nIntroduction. Le critique et le chaotique, essences de l\u2019adaptabilit\u00e9 et de la robustesse du vivant, par Nicolas Glade & Ang\u00e9lique St\u00e9phanou\n[https://www.researchgate.net/publication/281284427_Le_vivant_discret_et_continu_dualite_et_complementarite_des_modes_de_representation_en_biologie_theorique]\n\nChapitre 1. Diversit\u00e9 des biologies th\u00e9oriques face aux complexit\u00e9s du vivant, par Franck Varenne\n\nChapitre 2. Changements de sym\u00e9trie, criticit\u00e9 et al\u00e9atoire : math\u00e9matiques et objectivation du vivant, par Ma\u00ebl Mont\u00e9vil\n\nChapitre 3. De la stabilit\u00e9 des syst\u00e8mes dynamiques mod\u00e8les du vivant, par Jacques Demongeot\n\nChapitre 4. Syst\u00e8mes multi-\u00e9chelles impulsionnels au voisinage de leur courbe critique, par Jean-Pierre Fran\u00e7oise et Marion Lahutte-Auboin\n\nChapitre 5. Auto-organisation et agr\u00e9gation cellulaire sans chimiotactisme. Instabilit\u00e9s, ordres et d\u00e9sordre associ\u00e9s \u00e0 la densit\u00e9, par Arnaud Chauvi\u00e8re & Fernando Peruani\n\nChapitre 6. Signalisation sous contraintes spatiales. Cons\u00e9quences sur les conditions de stabilit\u00e9 et de bifurcation, par Bertrand Car\u00e9, Amanda Lo Van, Hugues Berry, H\u00e9di Soula\n\nChapitre 7. Ph\u00e9nom\u00e8nes critiques en \u00e9pid\u00e9miologie : r\u00e9sistance, spatialit\u00e9, dynamiques humaines. Des mod\u00e8les aux applications, par Nicolas Glade, Olivier Bastien, Hessam Hessami\n\nChapitre 8. D\u00e9tection d\u2019anomalie dans les signaux physiologiques, par Sabir Jacquir, Binbin Xu, St\u00e9phane Binczak, Jean-Marie Bilbault\n\nChapitre 9. Complexit\u00e9 multi-\u00e9chelle du syst\u00e8me immunitaire : \u00e9volution, du chaos aux fractales, par V\u00e9ronique Thomas-Vaslin\n\nhttp://www.materiologiques.com/Le-vivant-critique-et-chaotique",
+      "title": "Le vivant critique et chaotique",
+      "creators": [
+        {
+          "firstName": "Nicolas",
+          "lastName": "Glade",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Angelique",
+          "lastName": "Stephanou",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-10T09:49:01Z",
+      "dateModified": "2023-03-10T09:49:01Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/E5ZSPHX8",
+      "itemID": 6660,
+      "attachments": [
+        {
+          "key": "HSI65PIA",
+          "version": 0,
+          "itemType": "attachment",
+          "url": "https://www.researchgate.net/publication/281284299_Le_vivant_critique_et_chaotique",
+          "accessDate": "2023-03-10T09:49:04Z",
+          "title": "ResearchGate Link",
+          "parentItem": "E5ZSPHX8",
+          "linkMode": "linked_url",
+          "contentType": "",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-10T09:49:04Z",
+          "dateModified": "2023-03-10T09:49:04Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/HSI65PIA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Glade2015",
+      "itemKey": "E5ZSPHX8",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/E5ZSPHX8"
     },
     {
       "key": "LT3E8W2D",
