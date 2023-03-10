@@ -12,7 +12,9 @@ tags:
 - [x]  Note on Novelty  — Maël , avec articulation avec fonction et clotûre de contraintes.
 - [ ] Note on anti-entropy (Longo Bailly puis Maël, puis Marie)
 - [ ] History at the Heart, Mesure et symmetrization, Identity. 
-- [ ] (Bailly, Longo 2005) — Mathématiques et sciences de la nature. Principe de construction et de preuve.
+- [ ] Lire Normale et pathologique.
+- [ ] Lire (Bailly, Longo). Mathématiques et sciences de la nature. Principe de construction et de preuve.
+- [ ] Lire Simondon
 - [ ] Biological Autonomy — Mossio&Moreno
 - [ ] Read first chapter of Developmental Plasticity 
 - [ ] Identity — Montevil Mossio
