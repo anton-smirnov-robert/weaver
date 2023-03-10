@@ -15366,6 +15366,55 @@
       "select": "zotero://select/library/items/NMD98VXU"
     },
     {
+      "key": "9YCS7AGC",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.jstor.org/stable/10.1086/594533",
+      "volume": "75",
+      "issue": "5",
+      "pages": "899-908",
+      "publicationTitle": "Philosophy of Science",
+      "ISSN": "0031-8248",
+      "date": "2008",
+      "extra": "Publisher: [The University of Chicago Press, Philosophy of Science Association]",
+      "DOI": "10.1086/594533",
+      "accessDate": "2023-03-10T17:41:34Z",
+      "libraryCatalog": "JSTOR",
+      "abstractNote": "Darwin proposed that evolutionary novelties are environmentally induced in organisms \u201cconstitutionally\u201d sensitive to environmental change, with selection effective owing to the inheritance of constitutional responses. A molecular theory of inheritance, pangenesis, explained the cross\u2010generational transmission of environmentally induced traits, as required for evolution by natural selection. The twentieth\u2010century evolutionary synthesis featured mutation as the source of novelty, neglecting the role of environmental induction. But current knowledge of environmentally sensitive gene expression, combined with the idea of genetic accommodation of mutationally and environmentally induced change, supports a revival of Darwin's original theory that is consistent with modern molecular and population genetics.",
+      "title": "Toward a Modern Revival of Darwin\u2019s Theory of Evolutionary Novelty",
+      "creators": [
+        {
+          "firstName": "Mary\u00a0Jane",
+          "lastName": "West\u2010Eberhard",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-10T17:41:34Z",
+      "dateModified": "2023-03-10T17:41:34Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9YCS7AGC",
+      "itemID": 6694,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "West\u2010Eberhard - 2008 - Toward a Modern Revival of Darwin\u2019s Theory of Evol.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-10T17:41:51Z",
+          "dateModified": "2023-03-10T17:41:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UVKEFTUL",
+          "path": "/Users/robert/Dropbox/zotero/storage/UVKEFTUL/West\u2010Eberhard - 2008 - Toward a Modern Revival of Darwin\u2019s Theory of Evol.pdf",
+          "select": "zotero://select/library/items/UVKEFTUL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "West-Eberhard2008",
+      "itemKey": "9YCS7AGC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9YCS7AGC"
+    },
+    {
       "key": "KVHZAKR3",
       "version": 0,
       "itemType": "book",
