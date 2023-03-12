@@ -1076,6 +1076,30 @@
       "select": "zotero://select/library/items/WCH2QX78"
     },
     {
+      "key": "XHXB5XHA",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "(v3) projet-1-mm.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "(v3) projet-1-mm.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-12T17:15:25Z",
+      "dateModified": "2023-03-12T17:15:25Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XHXB5XHA",
+      "itemID": 6746,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/XHXB5XHA/(v3) projet-1-mm.pdf",
+      "defaultPath": "files/6746/(v3) projet-1-mm.pdf",
+      "itemKey": "XHXB5XHA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XHXB5XHA"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
@@ -7062,6 +7086,49 @@
       "select": "zotero://select/library/items/62F4DW3L"
     },
     {
+      "key": "9262T7WI",
+      "version": 0,
+      "itemType": "webpage",
+      "url": "https://www.monde-diplomatique.fr/2011/11/KAPLAN/46925",
+      "date": "2011-11-01",
+      "accessDate": "2023-03-12T01:57:14Z",
+      "language": "fr",
+      "abstractNote": "Acc\u00e8s libre // par Fr\u00e9d\u00e9ric Kaplan (novembre 2011)",
+      "title": "Quand les mots valent de l'or",
+      "creators": [
+        {
+          "firstName": "Fr\u00e9d\u00e9ric",
+          "lastName": "Kaplan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-12T01:57:14Z",
+      "dateModified": "2023-03-12T01:57:14Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9262T7WI",
+      "itemID": 6742,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-12T01:57:25Z",
+          "dateModified": "2023-03-12T01:57:25Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/SRFKJ8E4",
+          "path": "/Users/robert/Dropbox/zotero/storage/SRFKJ8E4/46925.html",
+          "select": "zotero://select/library/items/SRFKJ8E4"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kaplan2011",
+      "itemKey": "9262T7WI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9262T7WI",
+      "publicationTitle": "Le Monde diplomatique"
+    },
+    {
       "key": "IAYQBKZC",
       "version": 0,
       "itemType": "book",
@@ -7152,6 +7219,49 @@
       "itemKey": "ZZGKCMGE",
       "libraryID": 1,
       "select": "zotero://select/library/items/ZZGKCMGE"
+    },
+    {
+      "key": "EVN5W45B",
+      "version": 0,
+      "itemType": "webpage",
+      "url": "https://www.monde-diplomatique.fr/2015/01/KAPLAN/51968",
+      "date": "2015-01-01",
+      "accessDate": "2023-03-12T01:57:18Z",
+      "language": "fr",
+      "abstractNote": "Abonn\u00e9s // par Fr\u00e9d\u00e9ric Kaplan & Dana Kianfar (janvier 2015)",
+      "title": "Google et l'imp\u00e9rialisme linguistique",
+      "creators": [
+        {
+          "firstName": "Fr\u00e9d\u00e9ric Kaplan & Dana",
+          "lastName": "Kianfar",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-12T01:57:18Z",
+      "dateModified": "2023-03-12T01:57:18Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/EVN5W45B",
+      "itemID": 6743,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-12T01:57:25Z",
+          "dateModified": "2023-03-12T01:57:25Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/JW2L2K5B",
+          "path": "/Users/robert/Dropbox/zotero/storage/JW2L2K5B/51968.html",
+          "select": "zotero://select/library/items/JW2L2K5B"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kianfar2015",
+      "itemKey": "EVN5W45B",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EVN5W45B",
+      "publicationTitle": "Le Monde diplomatique"
     },
     {
       "key": "V6W6UQZZ",
