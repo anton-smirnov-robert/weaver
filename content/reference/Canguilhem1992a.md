@@ -7,7 +7,7 @@ tags:
 - reference
 ---
 
-#### **La connaissance de la vie**     
+#### **Aspects du vitalisme**     
 by Canguilhem G. (1992)         
 Vrin      
 

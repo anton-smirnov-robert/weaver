@@ -2731,6 +2731,34 @@
       "select": "zotero://select/library/items/EMVLU5A7"
     },
     {
+      "key": "LFW63K45",
+      "version": 0,
+      "itemType": "bookSection",
+      "publisher": "Vrin",
+      "date": "1992",
+      "title": "Aspects du vitalisme",
+      "creators": [
+        {
+          "firstName": "Georges",
+          "lastName": "Canguilhem",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-12T17:45:56Z",
+      "dateModified": "2023-03-12T17:46:54Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LFW63K45",
+      "itemID": 6761,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Canguilhem1992a",
+      "itemKey": "LFW63K45",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LFW63K45",
+      "publicationTitle": "La connaissance de la vie"
+    },
+    {
       "key": "F9KTYDXQ",
       "version": 0,
       "itemType": "bookSection",
