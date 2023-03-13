@@ -1052,6 +1052,32 @@
       "select": "zotero://select/library/items/XHXB5XHA"
     },
     {
+      "key": "UACAFQHX",
+      "version": 0,
+      "itemType": "attachment",
+      "url": "https://extendedevolutionarysynthesis.com/wp-content/uploads/2022/02/Final-Report-singlepage-compressed.pdf",
+      "accessDate": "2023-03-13T12:01:21Z",
+      "title": "Final-Report-singlepage-compressed.pdf",
+      "linkMode": "imported_url",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Final-Report-singlepage-compressed.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-13T12:01:21Z",
+      "dateModified": "2023-03-13T12:01:21Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/UACAFQHX",
+      "itemID": 6783,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/UACAFQHX/Final-Report-singlepage-compressed.pdf",
+      "defaultPath": "files/6783/Final-Report-singlepage-compressed.pdf",
+      "itemKey": "UACAFQHX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/UACAFQHX"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
