@@ -15929,6 +15929,40 @@
       "publicationTitle": "Rapports du Comit\u00e9 national"
     },
     {
+      "key": "M5CTCCMS",
+      "version": 0,
+      "itemType": "blogPost",
+      "url": "https://extendedevolutionarysynthesis.com/the-project/research-projects/",
+      "accessDate": "2023-03-13T12:30:40Z",
+      "language": "en-GB",
+      "title": "Research projects \u2013 Extended Evolutionary Synthesis",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-13T12:30:40Z",
+      "dateModified": "2023-03-13T12:30:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/M5CTCCMS",
+      "itemID": 6785,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-13T12:30:46Z",
+          "dateModified": "2023-03-13T12:30:46Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/QY6XQTF3",
+          "path": "/Users/robert/Dropbox/zotero/storage/QY6XQTF3/research-projects.html",
+          "select": "zotero://select/library/items/QY6XQTF3"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zotero-6785",
+      "itemKey": "M5CTCCMS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M5CTCCMS"
+    },
+    {
       "key": "4GA7FV8V",
       "version": 0,
       "itemType": "journalArticle",
