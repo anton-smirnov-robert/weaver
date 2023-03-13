@@ -477,6 +477,18 @@
           "text": "Boolos2007"
         }
       ],
+      "/concept/kin-selection": [
+        {
+          "source": "/concept/kin-selection",
+          "target": "/reference/Hamilton1964",
+          "text": "Hamilton1964"
+        },
+        {
+          "source": "/concept/kin-selection",
+          "target": "/reference/Dawkins1976",
+          "text": "Dawkins1976"
+        }
+      ],
       "/concept/mechanistic-organization": [
         {
           "source": "/concept/mechanistic-organization",
@@ -723,6 +735,13 @@
           "source": "/definition/formal-system",
           "target": "/definition/semantic",
           "text": "semantic"
+        }
+      ],
+      "/definition/glycemia": [
+        {
+          "source": "/definition/glycemia",
+          "target": "/definition/blood",
+          "text": "blood"
         }
       ],
       "/definition/recursive-function": [
@@ -4398,6 +4417,372 @@
           "text": "Lazebnik2018"
         }
       ],
+      "/private/random/v2-projet": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        }
+      ],
+      "/private/random/v3-projet": [
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        }
+      ],
+      "/private/random/v4-projet": [
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Noble2008",
+          "text": "Noble2008"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        }
+      ],
       "/reference/Polanyi1962": [
         {
           "source": "/reference/Polanyi1962",
@@ -4968,6 +5353,13 @@
           "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/definition/biological-process",
           "text": "biological process"
+        }
+      ],
+      "/definition/blood": [
+        {
+          "source": "/definition/glycemia",
+          "target": "/definition/blood",
+          "text": "blood"
         }
       ],
       "/definition/choice-function": [
@@ -5562,6 +5954,33 @@
           "text": "Bernard1879"
         }
       ],
+      "/reference/Bich2020": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        }
+      ],
       "/reference/Blok2015": [
         {
           "source": "/note/note-on-Paic2019",
@@ -5843,11 +6262,36 @@
           "source": "/private/drafts/v6-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
         }
       ],
       "/reference/Canguilhem1992b": [
         {
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/private/random/v4-projet",
           "target": "/reference/Canguilhem1992b",
           "text": "Canguilhem1992b"
         }
@@ -6100,6 +6544,13 @@
           "text": "Davies2006"
         }
       ],
+      "/reference/Dawkins1976": [
+        {
+          "source": "/concept/kin-selection",
+          "target": "/reference/Dawkins1976",
+          "text": "Dawkins1976"
+        }
+      ],
       "/reference/Deffuant2015": [
         {
           "source": "/note/note-on-LiVigni2021",
@@ -6204,6 +6655,21 @@
         },
         {
           "source": "/private/drafts/on-science-organization/conclusion",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/random/v4-projet",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         }
@@ -6513,6 +6979,30 @@
           "text": "Giry2022"
         }
       ],
+      "/reference/Glade2015": [
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        }
+      ],
+      "/reference/Glade2022": [
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        }
+      ],
       "/reference/Godfrey-Smith1994": [
         {
           "source": "/concept/biological-function",
@@ -6604,6 +7094,13 @@
           "source": "/private/drafts/v6-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques",
           "target": "/reference/Grothendieck1972",
           "text": "Grothendieck1972"
+        }
+      ],
+      "/reference/Hamilton1964": [
+        {
+          "source": "/concept/kin-selection",
+          "target": "/reference/Hamilton1964",
+          "text": "Hamilton1964"
         }
       ],
       "/reference/Harribey2007a": [
@@ -6900,6 +7397,18 @@
           "text": "Kauffman2000"
         }
       ],
+      "/reference/Kauffman2019": [
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        }
+      ],
       "/reference/Koppl2015": [
         {
           "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
@@ -7174,6 +7683,11 @@
           "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
         }
       ],
       "/reference/Longo2013": [
@@ -7181,6 +7695,13 @@
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Longo2013",
           "text": "Longo2013"
+        }
+      ],
+      "/reference/Longo2014": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
         }
       ],
       "/reference/Longo2016": [
@@ -7245,6 +7766,28 @@
           "source": "/private/drafts/on-science-organization/conclusion",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        }
+      ],
+      "/reference/Lotka1945": [
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
         }
       ],
       "/reference/Lucitti2007": [
@@ -7574,6 +8117,38 @@
           "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        }
+      ],
+      "/reference/Montevil2016b": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
         }
       ],
       "/reference/Montevil2019a": [
@@ -7581,6 +8156,48 @@
           "source": "/note/note-on-Montevil2019a",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        }
+      ],
+      "/reference/Montevil2020a": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
         }
       ],
       "/reference/Montevil2021": [
@@ -7688,6 +8305,43 @@
           "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        }
+      ],
+      "/reference/Montevil2021a": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
         }
       ],
       "/reference/Montevil2021b": [
@@ -7725,6 +8379,87 @@
           "source": "/private/drafts/v6-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques",
           "target": "/reference/Montevil2021b",
           "text": "Montevil2021b"
+        }
+      ],
+      "/reference/Montevil2022": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        }
+      ],
+      "/reference/Montevil2022a": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        }
+      ],
+      "/reference/Moreno2015": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
         }
       ],
       "/reference/Morin1982": [
@@ -7919,6 +8654,13 @@
           "source": "/private/drafts/v6-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques",
           "target": "/reference/Nicholson2021",
           "text": "Nicholson2021"
+        }
+      ],
+      "/reference/Noble2008": [
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Noble2008",
+          "text": "Noble2008"
         }
       ],
       "/reference/Nolan2021": [
@@ -8675,6 +9417,28 @@
           "text": "Smith1887"
         }
       ],
+      "/reference/Soto2016": [
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        }
+      ],
       "/reference/Soto2021": [
         {
           "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
@@ -8950,6 +9714,21 @@
           "source": "/private/drafts/v6-Le-besoin-dune-e%CC%81conomie-des-the%CC%81ories-scientifiques",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/random/v2-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
         }
       ],
       "/reference/Stiegler2021": [
@@ -9024,6 +9803,18 @@
           "text": "Turing1936"
         }
       ],
+      "/reference/Varenne2013": [
+        {
+          "source": "/private/random/v3-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/private/random/v4-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        }
+      ],
       "/reference/VonBertalanffy1952": [
         {
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
@@ -9048,6 +9839,11 @@
       "/reference/West-Eberhard2003": [
         {
           "source": "/concept/biological-function",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/private/random/v4-projet",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
         }
@@ -9497,6 +10293,16 @@
       "text": "Boolos2007"
     },
     {
+      "source": "/concept/kin-selection",
+      "target": "/reference/Hamilton1964",
+      "text": "Hamilton1964"
+    },
+    {
+      "source": "/concept/kin-selection",
+      "target": "/reference/Dawkins1976",
+      "text": "Dawkins1976"
+    },
+    {
       "source": "/concept/mechanistic-organization-detailed",
       "target": "/concept/mechanistic-system-detailed",
       "text": "mechanistic system (detailed)"
@@ -9705,6 +10511,11 @@
       "source": "/definition/formal-system",
       "target": "/definition/semantic",
       "text": "semantic"
+    },
+    {
+      "source": "/definition/glycemia",
+      "target": "/definition/blood",
+      "text": "blood"
     },
     {
       "source": "/definition/recursive-function",
@@ -13320,6 +14131,366 @@
       "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
       "target": "/reference/Anderson2008",
       "text": "Anderson2008"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Longo2014",
+      "text": "Longo2014"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/private/random/v2-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Varenne2013",
+      "text": "Varenne2013"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/random/v3-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/West-Eberhard2003",
+      "text": "West-Eberhard2003"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Noble2008",
+      "text": "Noble2008"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Lotka1945",
+      "text": "Lotka1945"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Canguilhem1992b",
+      "text": "Canguilhem1992b"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Varenne2013",
+      "text": "Varenne2013"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/random/v4-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
     },
     {
       "source": "/reference/Polanyi1962",
