@@ -9,7 +9,9 @@ tags:
 - literature-note
 ---
 
-## Commisions interdisciplinaires CNRS 
+# Sur la forme :
+
+### Commisions interdisciplinaires CNRS 
 
 **Comission 51** : Modélisation mathématique, informatique et physique pour les sciences du vivant
 
@@ -38,7 +40,7 @@ L'institut pilote de la CID est l'**Institut des sciences humaines et sociales**
 -  Sciences, expertise et décision : controverses publiques ; mise en débat public des savoirs ; expertises collectives ; décision en situation d’incertitude
 
 
-## Écoles doctorales
+### Écoles doctorales
 
 ED 540 : École doctorale Lettres, Arts, Sciences humaines et sociale (ENS-PSL)
 
@@ -55,7 +57,9 @@ ED ISCE : Ingénierie pour la santé, la Cognition et l'Environnement (ISCE)
 -   Spécialité :  **Modèles, méthodes** et algorithmes **pour la Biologie**, la Santé et l'environnement (MBS)
 
 
-## Sujet de thèse : "Modélisation d'une biologie organiciste : méthodes et limites épistémologiques"
+# Sur le fond :
+
+### Titre  : "Méthodes et limites épistémologiques d'une biologie organiciste."
 
 #### Contexte
 
@@ -65,7 +69,7 @@ Congédier trop rapidement le mécanisme — et ses apports à la biologie — r
 
 En science, cette dialectique de l'organisme et de la machine se révèle dans les modèles utilisés pour décrire le vivant. Bien que nombreux soient ceux qui refusent à raison l'assimilation d'un organisme à une machine, les études effectivement réalisées en physiologie recourt quasiment toutes à l'épistémologie de la physique. La pluparts des modélisations ont recourt à la notion de bruit, aux notions d'équilibre (d'Hardy-Weinberg), aux transferts d'informations (dogme central de la biologie moléculaire), à une distribution unimodale de probabilité pour des fréquences d'allèles (qui institue un écart à une moyenne), à des réseaux de gènes décrits sur des topologies prédéfinies (Waddington), à des optimisations pour décrire les morphologies (fractales, ratio surface/volume, etc.), à une diversité de programmes (génomes) sélectionnés par des forces externes (environnement). En utilisant des méthodes adaptées à la matière inerte, on apprend des constituants d'un être, des processus physico-chimiques qui le constitue, mais on ne parle pas d'organismes (bio-*logos*, parler du vivant). Peut-on modéliser un organisme ? Avec nos outils (mécaniques) ? Comment ? ([Glade2022](reference/Glade2022.md)).
 
-Ces questions ne sont pas sans rapport avec les instabilités actuelles du cadre théorique de la biologie. Les modélisations décrites ci-dessus constituent des manières de le rendre sensible, et révèlent le réductionnisme physicaliste qui le sous-tend — qui dit ici que des théories biologique peuvent se réduire à des lois de la physique. La reconnaissance des influences du développement et de la plasticité des organismes sur l'évolution ont bousculé l'approche néodarwinienne ([West-Eberhard2003](reference/West-Eberhard2003.md)). La théorie synthétique de l'évolution, dans sa version étendue ([Laland2015](reference/Laland2015.md)), reconnait les transmission non génétiques, l'apparition de nouveautés phénotypiques, la possibilité pour un organisme de modifier son environnement, et d'autres complexifications pour la compréhension du monde vivant. Néanmoins, en retrouvant sa validité, cette extension n'apporte guère de nouvelles méthodes fructifiables, mais affaiblit plutôt ses principes de base en listant des observations qui les contredisent. Pour qu'une théorie garde sa cohérence interne tout en gardant une puissance déductive, il lui faut des principes rigoureux exploitables et générateurs, c'est-à-dire qui posent des nécéssités et non des possibilités. 
+Ces questions ne sont pas sans rapport avec les instabilités actuelles du cadre théorique de la biologie. Les modélisations décrites ci-dessus constituent des manières de le rendre sensible, et révèlent ainsi le réductionnisme physicaliste qui le sous-tend — qui dit que les *théories* en biologie doivent pouvoir se réduire à celles de la physique. La reconnaissance des influences du développement et de la plasticité des organismes sur l'évolution ont bousculé l'approche néodarwinienne ([West-Eberhard2003](reference/West-Eberhard2003.md)). La théorie synthétique de l'évolution, dans sa version étendue ([Laland2015](reference/Laland2015.md)), reconnait les transmission non génétiques, l'apparition de nouveautés phénotypiques, la possibilité pour un organisme de modifier son environnement, et d'autres complexifications pour la compréhension du monde vivant. Néanmoins, en retrouvant de sa validité, cette extension n'apporte guère de nouvelles méthodes fructifiables. Plutôt, elle s'affaiblit en se permettant de tolérer des observations qui contredisent les principes qui constituent son noyau dur. Pour qu'une théorie garde sa cohérence interne tout en gardant une puissance déductive, il lui faut des principes rigoureux exploitables et générateurs, c'est-à-dire qui posent des nécéssités et non des possibilités. 
 
 Une longue tradition organiciste a vu Claude Bernard, Jean Piaget, ou encore Francisco Varela essayer de définir rigoureusement ce que, au XVIIIe siècle, Emmanuel Kant avait défini comme entité capable d'auto-organisation. Récemment, une définition formelle s'articulant à la thermodynamique hors équilibre et réunissant les efforts de ces dernières décennies a été proposée ([Montevil2015](reference/Montevil2015.md), [Kauffman2019](reference/Kauffman2019.md)). Ce travail s'inscrit dans une aventure scientifique plus large qui a pour but de faire rebondir la biologie dans de nouvelles directions ([Noble2008](reference/Noble2008.md),[Bailly2011](reference/Bailly2011.md),[Glade2015](reference/Glade2015.md),[Soto2016](reference/Soto2016.md),[Kauffman2019](reference/Kauffman2019.md)) — au-delà du paradigme qui conçoit le vivant par analogie avec les machines. Ainsi, trois principes fondamentaux ont été posés pour décrire un organisme ([Soto2016](reference/Soto2016.md)). Ils résultent d'une réflexion épistémologique importante pour distinguer la biologie de la physique (ou intégrer la deuxième — en tant que singularité — dans la première). Pour rappel, la physique étudie les changements d'état d'un système dans un espace prédéfini, sur la base d'invariants et de symétries. Cette discipline s'intéresse aux relations entre les propriétés génériques d'objets (masse, charge, taille, etc.).
 
@@ -103,31 +107,34 @@ L'incorporation de l'historicité des organes dans la modélisation des organism
 
 Finalement, le concept de production d'anti-entropie réfère au changement d'espace des observables pertinentes pour décrire le système vivant ([Montevil2022](reference/Montevil2022.md)). Une variation fonctionnelle imprédictible permet de nouvelles possibilités et projette l'organisme dans un espace de description nouveau. La question de la temporalité sera ici centrale, car le temps continu de la physique n'est plus l'observable pertinente. Les temps irréductibles des cycles qui rythment la vie d'organismes (du battement, de la respiration, du jour, de la saison) prohibent les lois d'évolutions basées sur des différentielles infinitésimales du temps. Que peut apporter une méthode scientifique qui choisit de parler de nouveautés imprédictibles dans un espace concevable, plutôt que d'états dépourvus de sens dans un système foncièrement non ergodique ? La temporalité séquentielle du numérique qui discrétise le temps, mais interdit la simultanéité est-elle un atout ou un obstacle ?
 
-### Conclusion 
 
-**Équipe :**
+# Retour sur la forme
 
-Co-directeurs : Maël Montévil, Nicolas Glade (& Angélique Stéphanou ?)
-Collaborations pertinentes : Matteo Mossio, Franck Varenne. 
-Autres intervenants potentiels : Guiseppe Longo, Ana Soto, Guillaume Lecointre, Jean-Jacques Kupiec, etc.
+### Sur le format du doctorat 
 
-**Stratégie :** 
+Ce travail se prête très bien à l'exercice du doctorat pour plusieurs raisons : 
 
-Voie 1 : ED ISCE ou ED 474 ---> Comission 51
-***Voie 2 : ED 540 ---> Comission 53 (+ comission 51)***
-
-Une thèse en épistémologie de la biologie me permet de candidater à la CID 53. Avec mon profil de physico-chimiste, je pourrai aussi candidater à la CID 51 car les modélisations de biologies utilisent des outils de physico-chimie. À l'inverse, une thèse en modélisation de la biologie — telle qu'entendue aujourd'hui — ne me permettra pas de candidater à la CID 53, ne reflètera pas l'originalité des théories engagées et négligera l'aspect transdisciplinaire de mon profil (dans le sens d'une double casquette épistémologique). Même si le travail épistémologique est *a priori* secondaire, l'astuce de dire que la meilleure façon de répondre à la question est de construire des méthodes, puis d'en parler tient bien la route. Je penche donc pour **ED540, spécialité épistémologie.**
-
-**Résumé :**
-
-Je pense que ce travail se prête très bien à l'exercice du doctorat pour plusieurs raisons : 
 - Il a un objectif dont la forme est quasi invariante : l'élaboration d'une méthode, la constitution d'un savoir-faire (du biologiste, artisan-modélisateur ). 
 - Il a un contenu qui n'est pertinent qu'au (relativement) long terme, au bout de trois ans de doctorat ("Les méthodes viennent à la fin"). 
 - Il doit être ponctué par quelques applications (donc quelques productions scientifiques), car la méthode ne peut se construire qu'en tâtonnant. 
 - Il est sous-tendu par une question de philosophie des sciences pertinente et une partie variable (d'ajustement selon la réussite) de la thèse sera consacrée à sa discussion. 
-- Il permettra d'éclairer ou réarticuler r le cadre théorique à la lumière de considérations plus concrètes, plus proche de la modélisation et de l'expérience. 
+- Il permettra d'éclairer ou réarticuler le cadre théorique à la lumière de considérations plus concrètes, plus proche de la modélisation et de l'expérience. 
 - Il a un intérêt très pratique pour les biologistes, celui d'approcher leur objet d'étude différemment, de manière plus riche. C'est un pas vers la démocratisation de ces principes. 
-- Il permet de donner des éléments plus concrets, des exemples, pour sensibiliser la société aux problèmes systémiques qui caractérisent l'Anthropocène.
+- Il permet de donner des éléments plus concrets, des exemples, pour sensibiliser la société aux problèmes systémiques qui caractérisent l'Anthropocène. Il a une portée sociétale. 
+
+
+###  **Stratégie** 
+
+Voie 1 : ED ISCE ---> Comission 51
+***Voie 2 : ED 540 ---> Comission 53 + Comission 51***
+Voie 3: ED 474 ---> Comission 51 + Comission 53 
+
+Une thèse en épistémologie de la biologie me permet de candidater à la CID 53, ce qui n'est pas le cas avec une thèse en modélisation de la biologie. Avec mon profil de physico-chimiste, je pourrai pourtant candidater à la CID 51 avec une thèse en épistémologie de la biologie et une thèse en chimie physique. Aussi, l'aspect épistémologique reflète plus amplement l'originalité des théories engagées. Il me confère un profil plus transdisciplinaire (dans le sens d'une double casquette épistémologique). L'astuce de dire que la meilleure façon de répondre à la question épistémologique est d'élaborer une méthode puis d'en parler, tient bien la route je crois. Je penche donc pour **ED540, spécialité épistémologie.** L'ED 474 a l'air très plastique, mais beaucoup de "contraintes" par l'ED ? 
+
+
+# Résumé (pitch)
+
+Ma thèse qui s'intitule "Méthodes et limites épistémologiques d'une biologie organiciste" se propose de faire fructifier un travail théorique qui pose des principes non mécanicistes pour comprendre les organismes. Elle se propose d'élaborer des méthodes, des savoir-faires, des lignes directrices généralement applicables qui permettront à des biologistes de s'approprier et d'utiliser en pratique ces concepts pour générer des savoirs nouveaux. L'enjeu épistémologique concerne les types de connaissances qui peuvent être générées par des modélisations qui procèdent de théories soulignant, par exemple, l'imprédictabilité principielle de la variation des organismes ou la circularité spécifique de leur organisation. Oscillant entre modélisation et réflexivité critique, ce travail murira grâce à des expérimentations méthodologiques qui feront l'objet de publications scientifiques, et grâce aux discussions avec plusieurs épistémologues concernant les difficultés (inhérentes ou accidentelles) rencontrées en chemin. En contribuant à comprendre des modes d'organisations viables d'entitées materielles et fonctionelles sur la base du vivant, ce travail interdisciplinaire permet aussi la prise en main de concepts pertinents pour pænser l'Anthropocène. 
 
 ### Références
 
