@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "private/random/(v4) projet.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "519635813f748b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "private/random/(v4) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "private/random/(v4) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/random/(v3) projet.md"
+                "file": "private/random/(v4) projet.md"
               }
             }
           }
@@ -161,12 +148,15 @@
   },
   "active": "d2434ca788f10d7f",
   "lastOpenFiles": [
-    "reference/Glade2022.md",
-    "reference/Canguilhem1992a.md",
     "private/random/(v3) projet.md",
-    "reference/Canguilhem1992b.md",
     "private/random/(v4) projet.md",
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
+    "reference/Lotka1945.md",
+    "reference/Laland2015.md",
+    "reference/Noble2008.md",
+    "reference/Glade2022.md",
+    "reference/Canguilhem1992a.md",
+    "reference/Canguilhem1992b.md",
     "private/TODO.md",
     "reference/Varenne2013.md",
     "reference/Montevil2022a.md",
@@ -183,9 +173,6 @@
     "private/TOREAD.md",
     "stop working so hard.md",
     "definition/chemotaxis.md",
-    "definition/allosteric regulation.md",
-    "definition/metabolite.md",
-    "definition/glycemia.md",
-    "definition/blood.md"
+    "definition/allosteric regulation.md"
   ]
 }

@@ -8925,6 +8925,41 @@
       "select": "zotero://select/library/items/M6NFV4CT"
     },
     {
+      "key": "RS2SNHG3",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.jstor.org/stable/41447607",
+      "volume": "17",
+      "issue": "3",
+      "pages": "167-194",
+      "publicationTitle": "Human Biology",
+      "ISSN": "0018-7143",
+      "date": "1945",
+      "extra": "Publisher: Wayne State University Press",
+      "accessDate": "2023-03-12T23:26:28Z",
+      "libraryCatalog": "JSTOR",
+      "title": "The Law of Evolution as a Maximal Principle",
+      "creators": [
+        {
+          "firstName": "Alfred J.",
+          "lastName": "Lotka",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-12T23:26:28Z",
+      "dateModified": "2023-03-12T23:26:28Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/RS2SNHG3",
+      "itemID": 6766,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Lotka1945",
+      "itemKey": "RS2SNHG3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RS2SNHG3"
+    },
+    {
       "key": "EDXFBSF2",
       "version": 0,
       "itemType": "journalArticle",
@@ -11408,6 +11443,79 @@
       "itemKey": "FJDJUGX5",
       "libraryID": 1,
       "select": "zotero://select/library/items/FJDJUGX5"
+    },
+    {
+      "key": "E6XC53IZ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1113/expphysiol.2007.038695",
+      "rights": "\u00a9 2008 The Author. Journal compilation \u00a9 2008 The Physiological Society",
+      "volume": "93",
+      "issue": "1",
+      "pages": "16-26",
+      "publicationTitle": "Experimental Physiology",
+      "ISSN": "1469-445X",
+      "date": "2008",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1113/expphysiol.2007.038695",
+      "DOI": "10.1113/expphysiol.2007.038695",
+      "accessDate": "2023-03-12T23:01:53Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "abstractNote": "The first systems analysis of the functioning of an organism was Claude Bernard's concept of the constancy of the internal environment (le milieu int\u00e9rieur), since it implied the existence of control processes to achieve this. He can be regarded, therefore, as the first systems biologist. The new vogue for systems biology today is an important development, since it is time to complement reductionist molecular biology by integrative approaches. Claude Bernard foresaw that this would require the application of mathematics to biology. This aspect of Claude Bernard's work has been neglected by physiologists, which is why we are not as ready to contribute to the development of systems biology as we should be. In this paper, I outline some general principles that could form the basis of systems biology as a truly multilevel approach from a physiologist's standpoint. We need the insights obtained from higher-level analysis in order to succeed even at the lower levels. The reason is that higher levels in biological systems impose boundary conditions on the lower levels. Without understanding those conditions and their effects, we will be seriously restricted in understanding the logic of living systems. The principles outlined are illustrated with examples from various aspects of physiology and biochemistry. Applying and developing these principles should form a major part of the future of physiology.",
+      "title": "Claude Bernard, the first systems biologist, and the future of physiology",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-12T23:01:53Z",
+      "dateModified": "2023-03-12T23:01:53Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/E6XC53IZ",
+      "itemID": 6762,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-12T23:01:55Z",
+          "dateModified": "2023-03-12T23:01:55Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/KBH3XXNR",
+          "path": "/Users/robert/Dropbox/zotero/storage/KBH3XXNR/Noble - 2008 - Claude Bernard, the first systems biologist, and t.pdf",
+          "select": "zotero://select/library/items/KBH3XXNR"
+        },
+        {
+          "itemType": "attachment",
+          "title": "noble.claudebernardsystemsbiologist.2007.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-12T23:02:33Z",
+          "dateModified": "2023-03-12T23:02:33Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/E9B89M4Y",
+          "path": "/Users/robert/Dropbox/zotero/storage/E9B89M4Y/noble.claudebernardsystemsbiologist.2007.pdf",
+          "select": "zotero://select/library/items/E9B89M4Y"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-12T23:01:59Z",
+          "dateModified": "2023-03-12T23:01:59Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VAJJ9D8J",
+          "path": "/Users/robert/Dropbox/zotero/storage/VAJJ9D8J/expphysiol.2007.html",
+          "select": "zotero://select/library/items/VAJJ9D8J"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2008",
+      "itemKey": "E6XC53IZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/E6XC53IZ"
     },
     {
       "key": "VQ6BA7I4",
