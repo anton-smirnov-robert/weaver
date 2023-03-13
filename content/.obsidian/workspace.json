@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33153f2ff5d8acb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/random/(v4) discussion thèse 16 mars 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34b8ce1f06fbe08c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/random/(v3) projet.md",
+                "file": "private/projet/(v1.1) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/random/(v4) discussion thèse 16 mars 2023.md",
+                "file": "private/projet/(v1.1) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/random/(v4) discussion thèse 16 mars 2023.md",
+                "file": "private/projet/(v1.1) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/random/(v4) discussion thèse 16 mars 2023.md"
+                "file": "private/projet/(v1.1) projet.md"
               }
             }
           }
@@ -158,10 +146,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "33153f2ff5d8acb1",
+  "active": "34b8ce1f06fbe08c",
   "lastOpenFiles": [
-    "private/random/(v3) projet.md",
-    "private/random/(v4) discussion thèse 16 mars 2023.md",
+    "private/projet/novelty in chess and arts.md",
+    "private/projet/(v1.1) projet.md",
+    "private/projet/(v0.3) projet.md",
+    "private/projet/(v0.2) projet.md",
+    "private/projet/(v0.1) projet.md",
+    "private/random/(v0.4) projet de thèse_16.03.23_forme.md",
     "reference/Bailly2011.md",
     "reference/Montevil2016.md",
     "reference/Montevil2016b.md",
@@ -178,13 +170,9 @@
     "reference/Montevil2022a.md",
     "reference/Glade2015.md",
     "reference/Montevil2020a.md",
-    "private/random/(v2) projet.md",
     "reference/Montevil2021a.md",
     "note/note on Montevil2019a.md",
     "2023-02-24.md",
-    "reference/Soto2016.md",
-    "private/random/novelty in chess and arts.md",
-    "private/TOREAD.md",
-    "stop working so hard.md"
+    "reference/Soto2016.md"
   ]
 }
