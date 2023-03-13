@@ -67,7 +67,7 @@ En science, cette dialectique réside dans les modèles et théories utilisés e
 
 Ces questions d'ordres épistémologique ne sont pas sans rapport avec les instabilités actuelles du cadre théorique de la biologie. La reconnaissance des influences du développement et de la plasticité des organismes sur l'évolution ont bousculé l'approche néodarwinienne ([West-Eberhard2003](reference/West-Eberhard2003.md)). La théorie synthétique de l'évolution, dans sa version étendue ([Laland2015](reference/Laland2015.md)), reconnait les transmission non génétiques, l'apparition de nouveautés phénotypiques, la possibilité pour un organisme de modifier son environnement, et d'autres complexifications de la compréhension du monde vivant. Néanmoins, en retrouvant sa validité, cette extension n'apporte guère de nouvelles théories et méthodes fructifiables, mais affaiblit plutôt les principes de base qui constituent son coeur en listant de nouvelles observations qui les contredisent. 
 
-La biologie existe quand les biologistes travaillent, et ces derniers ont besoins de savoir-faires pour pratiquer.  
+La biologie existe quand les biologistes travaillent, et ces derniers ont besoin de savoir-faires pour pratiquer.
 Le notion de bruit, les réseaux de gènes décrits sur des topologies prédéfinies (Waddington), les notions d'équilibre (d'Hardy-Weinberg), les transferts d'informations (dogme central de la biologie moléculaire), une distribution unimodale de probabilité pour les fréquences d'allèles (qui institue un écart à une norme), modèles d'optimisation fonctionelles pour comprendre les morphologies (fractales, ratio surface/volume, etc.), une dualité et séparation entre une cause interne (gène) sélectionnée par une cause externe (forces et stimulis de l'environnement). 
 
 
