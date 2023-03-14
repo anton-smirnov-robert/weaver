@@ -5576,6 +5576,71 @@
       "select": "zotero://select/library/items/ZL34ISS5"
     },
     {
+      "key": "2THNZP99",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "173",
+      "issue": "2",
+      "pages": "357\u2013372",
+      "publicationTitle": "Developmental biology",
+      "date": "1996",
+      "extra": "Publisher: Elsevier",
+      "libraryCatalog": "Google Scholar",
+      "title": "Resynthesizing evolutionary and developmental biology",
+      "creators": [
+        {
+          "firstName": "Scott F.",
+          "lastName": "Gilbert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John M.",
+          "lastName": "Opitz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rudolf A.",
+          "lastName": "Raff",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-14T14:31:31Z",
+      "dateModified": "2023-03-14T14:31:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2THNZP99",
+      "itemID": 6813,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Gilbert et al. - 1996 - Resynthesizing evolutionary and developmental biol.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:32:19Z",
+          "dateModified": "2023-03-14T14:32:19Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/7NCD2DUW",
+          "path": "/Users/robert/Dropbox/zotero/storage/7NCD2DUW/Gilbert et al. - 1996 - Resynthesizing evolutionary and developmental biol.pdf",
+          "select": "zotero://select/library/items/7NCD2DUW"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:31:59Z",
+          "dateModified": "2023-03-14T14:31:59Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/4SZN2CRU",
+          "path": "/Users/robert/Dropbox/zotero/storage/4SZN2CRU/S0012160696900329.html",
+          "select": "zotero://select/library/items/4SZN2CRU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Gilbert1996",
+      "itemKey": "2THNZP99",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2THNZP99"
+    },
+    {
       "key": "ACF236UV",
       "version": 0,
       "itemType": "journalArticle",
@@ -9464,6 +9529,58 @@
       "select": "zotero://select/library/items/37MF8WTA"
     },
     {
+      "key": "I5ARHVTG",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Harvard University Press",
+      "date": "1982",
+      "libraryCatalog": "Google Scholar",
+      "title": "The growth of biological thought: Diversity, evolution, and inheritance",
+      "shortTitle": "The growth of biological thought",
+      "creators": [
+        {
+          "firstName": "Ernst",
+          "lastName": "Mayr",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-14T14:06:24Z",
+      "dateModified": "2023-03-14T14:06:24Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/I5ARHVTG",
+      "itemID": 6802,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:06:27Z",
+          "dateModified": "2023-03-14T14:06:27Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ETNCKAJB",
+          "path": "/Users/robert/Dropbox/zotero/storage/ETNCKAJB/Mayr - 1982 - The growth of biological thought Diversity, evolu.pdf",
+          "select": "zotero://select/library/items/ETNCKAJB"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:06:32Z",
+          "dateModified": "2023-03-14T14:06:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/V6KKJSL5",
+          "path": "/Users/robert/Dropbox/zotero/storage/V6KKJSL5/books.html",
+          "select": "zotero://select/library/items/V6KKJSL5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Mayr1982",
+      "itemKey": "I5ARHVTG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/I5ARHVTG"
+    },
+    {
       "key": "XFLK77KR",
       "version": 0,
       "itemType": "journalArticle",
@@ -11555,6 +11672,88 @@
       "itemKey": "E6XC53IZ",
       "libraryID": 1,
       "select": "zotero://select/library/items/E6XC53IZ"
+    },
+    {
+      "key": "FLLSXNPK",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2014.273151",
+      "rights": "\u00a9 2014 The Authors. The Journal of Physiology \u00a9 2014 The Physiological Society",
+      "volume": "592",
+      "issue": "11",
+      "pages": "2237-2244",
+      "publicationTitle": "The Journal of Physiology",
+      "ISSN": "1469-7793",
+      "date": "2014",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1113/jphysiol.2014.273151",
+      "DOI": "10.1113/jphysiol.2014.273151",
+      "accessDate": "2023-03-14T14:28:05Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "title": "Evolution evolves: physiology returns to centre stage",
+      "shortTitle": "Evolution evolves",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eva",
+          "lastName": "Jablonka",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michael J.",
+          "lastName": "Joyner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gerd B.",
+          "lastName": "M\u00fcller",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stig W.",
+          "lastName": "Omholt",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-14T14:28:05Z",
+      "dateModified": "2023-03-14T14:28:05Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/FLLSXNPK",
+      "itemID": 6810,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:28:07Z",
+          "dateModified": "2023-03-14T14:28:07Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/KGBK6MLL",
+          "path": "/Users/robert/Dropbox/zotero/storage/KGBK6MLL/Noble et al. - 2014 - Evolution evolves physiology returns to centre st.pdf",
+          "select": "zotero://select/library/items/KGBK6MLL"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:28:12Z",
+          "dateModified": "2023-03-14T14:28:12Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/2BGMQ7Z5",
+          "path": "/Users/robert/Dropbox/zotero/storage/2BGMQ7Z5/jphysiol.2014.html",
+          "select": "zotero://select/library/items/2BGMQ7Z5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2014",
+      "itemKey": "FLLSXNPK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FLLSXNPK"
     },
     {
       "key": "VQ6BA7I4",
