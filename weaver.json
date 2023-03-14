@@ -15959,6 +15959,77 @@
       "select": "zotero://select/library/items/9YCS7AGC"
     },
     {
+      "key": "78PLHNGI",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1007/BF01602054",
+      "volume": "17",
+      "issue": "1",
+      "pages": "33-48",
+      "publicationTitle": "Acta Biotheoretica",
+      "ISSN": "1572-8358",
+      "date": "1964-03-01",
+      "journalAbbreviation": "Acta Biotheor",
+      "DOI": "10.1007/BF01602054",
+      "accessDate": "2023-03-14T14:38:40Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "1.It is likely that internal factors play an important role in restricting the possible avenues of evolutionary change from any starting point. Internal selective processes operating on premutational disturbances, on mutations, and on developmental phases may usefully be separated from the adaptive selection of phenotypes.2.The precise structural and morphological consequences of internal factors should soon become an isolable problem owing to a) the observational correlation of definite changes in hereditary specificity with particular developmental consequences; and b) the progressive theoretical identification of the coordinative conditions in organisms.3.Increasing clarity regarding the coordinative conditions should throw light on the \u201cmutational selection rules\u201d and on the differentiative mutations which led to the most important steps in the past history of evolution.",
+      "title": "Internal factors in evolution",
+      "creators": [
+        {
+          "firstName": "Lancelot Law",
+          "lastName": "Whyte",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Developmental Consequence",
+          "type": 1
+        },
+        {
+          "tag": "Developmental Phase",
+          "type": 1
+        },
+        {
+          "tag": "Internal Factor",
+          "type": 1
+        },
+        {
+          "tag": "Selection Rule",
+          "type": 1
+        },
+        {
+          "tag": "Selective Process",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-14T14:38:40Z",
+      "dateModified": "2023-03-14T14:38:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/78PLHNGI",
+      "itemID": 6816,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-14T14:38:43Z",
+          "dateModified": "2023-03-14T14:38:43Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/6R285K4W",
+          "path": "/Users/robert/Dropbox/zotero/storage/6R285K4W/Whyte - 1964 - Internal factors in evolution.pdf",
+          "select": "zotero://select/library/items/6R285K4W"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Whyte1964",
+      "itemKey": "78PLHNGI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/78PLHNGI"
+    },
+    {
       "key": "KVHZAKR3",
       "version": 0,
       "itemType": "book",
