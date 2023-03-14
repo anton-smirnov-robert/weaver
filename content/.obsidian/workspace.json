@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "5b5acea619cc46b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5327e2e2aabc57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Laland2015.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/Modern Synthesis.md",
+                "file": "reference/Laland2015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/Modern Synthesis.md",
+                "file": "reference/Laland2015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/Modern Synthesis.md"
+                "file": "reference/Laland2015.md"
               }
             }
           }
@@ -146,10 +164,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6758cf0d0b550aa4",
+  "active": "cf5327e2e2aabc57",
   "lastOpenFiles": [
-    "concept/Mendelian inheritance.md",
     "concept/Modern Synthesis.md",
+    "concept/Mendelian inheritance.md",
     "definition/Gene product.md",
     "reference/Whyte1964.md",
     "reference/Gilbert1996.md",

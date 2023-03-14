@@ -228,6 +228,43 @@
           "text": "Brillouin's relation between entropy and information"
         }
       ],
+      "/concept/Modern-Synthesis": [
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Mayr1982",
+          "text": "Mayr1982"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/concept/Mendelian-inheritance",
+          "text": "Mendelian inheritance"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Whyte1964",
+          "text": "Whyte1964"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Gilbert1996",
+          "text": "Gilbert1996"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Noble2014",
+          "text": "Noble2014"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        }
+      ],
       "/concept/Poincares-unpredictable-determinism": [
         {
           "source": "/concept/Poincares-unpredictable-determinism",
@@ -4798,6 +4835,183 @@
           "text": "Montevil2022"
         }
       ],
+      "/private/projet/v1.2-projet": [
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Noble2008",
+          "text": "Noble2008"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        }
+      ],
       "/reference/Polanyi1962": [
         {
           "source": "/reference/Polanyi1962",
@@ -4942,6 +5156,11 @@
         }
       ],
       "/concept/Mendelian-inheritance": [
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/concept/Mendelian-inheritance",
+          "text": "Mendelian inheritance"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Mendelian-inheritance",
@@ -5918,6 +6137,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Bailly2011",
           "text": "Bailly2011"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
         }
       ],
       "/reference/Baker2016": [
@@ -6004,6 +6228,16 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         }
@@ -6309,6 +6543,16 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
         }
       ],
       "/reference/Canguilhem1992b": [
@@ -6319,6 +6563,11 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Canguilhem1992b",
           "text": "Canguilhem1992b"
         }
@@ -6699,6 +6948,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
         }
       ],
       "/reference/Edwards2017": [
@@ -6964,6 +7218,13 @@
           "text": "Garson2016"
         }
       ],
+      "/reference/Gilbert1996": [
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Gilbert1996",
+          "text": "Gilbert1996"
+        }
+      ],
       "/reference/Giry2022": [
         {
           "source": "/private/drafts/v1-Vers-une-e%CC%81conomie-anti-entropique-des-the%CC%81ories-scientifiques",
@@ -7021,6 +7282,16 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Glade2015",
           "text": "Glade2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
         }
       ],
       "/reference/Glade2022": [
@@ -7031,6 +7302,16 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         }
@@ -7439,6 +7720,16 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
         }
       ],
       "/reference/Koppl2015": [
@@ -7593,7 +7884,22 @@
       ],
       "/reference/Laland2015": [
         {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         }
@@ -7727,6 +8033,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
         }
       ],
       "/reference/Longo2013": [
@@ -7820,11 +8131,21 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
         }
       ],
       "/reference/Lotka1945": [
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Lotka1945",
           "text": "Lotka1945"
         }
@@ -7914,6 +8235,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/MaynardSmith1999",
           "text": "MaynardSmith1999"
+        }
+      ],
+      "/reference/Mayr1982": [
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Mayr1982",
+          "text": "Mayr1982"
         }
       ],
       "/reference/McNie2007": [
@@ -8171,6 +8499,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
         }
       ],
       "/reference/Montevil2016b": [
@@ -8186,6 +8519,11 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Montevil2016b",
           "text": "Montevil2016b"
         }
@@ -8208,6 +8546,11 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         }
@@ -8235,6 +8578,16 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         }
@@ -8376,6 +8729,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Montevil2021a",
           "text": "Montevil2021a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
         }
       ],
       "/reference/Montevil2021b": [
@@ -8460,6 +8818,26 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         }
       ],
       "/reference/Montevil2022a": [
@@ -8477,6 +8855,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Montevil2022a",
           "text": "Montevil2022a"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
         }
       ],
       "/reference/Moreno2015": [
@@ -8492,6 +8875,11 @@
         },
         {
           "source": "/private/projet/v1.1-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
           "target": "/reference/Moreno2015",
           "text": "Moreno2015"
         }
@@ -8695,6 +9083,18 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Noble2008",
           "text": "Noble2008"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Noble2008",
+          "text": "Noble2008"
+        }
+      ],
+      "/reference/Noble2014": [
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Noble2014",
+          "text": "Noble2014"
         }
       ],
       "/reference/Nolan2021": [
@@ -9471,6 +9871,16 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
         }
       ],
       "/reference/Soto2021": [
@@ -9763,6 +10173,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
         }
       ],
       "/reference/Stiegler2021": [
@@ -9847,6 +10262,11 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/Varenne2013",
           "text": "Varenne2013"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
         }
       ],
       "/reference/VonBertalanffy1952": [
@@ -9880,6 +10300,18 @@
           "source": "/private/projet/v1.1-projet",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/private/projet/v1.2-projet",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        }
+      ],
+      "/reference/Whyte1964": [
+        {
+          "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Whyte1964",
+          "text": "Whyte1964"
         }
       ],
       "/reference/Wiener1948": [
@@ -10100,6 +10532,41 @@
       "source": "/concept/Maxwells-demon-paradox",
       "target": "/concept/Brillouins-relation-between-entropy-and-information",
       "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/reference/Mayr1982",
+      "text": "Mayr1982"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/concept/Mendelian-inheritance",
+      "text": "Mendelian inheritance"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/reference/Whyte1964",
+      "text": "Whyte1964"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/reference/Gilbert1996",
+      "text": "Gilbert1996"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/reference/Noble2014",
+      "text": "Noble2014"
+    },
+    {
+      "source": "/concept/Modern-Synthesis",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
     },
     {
       "source": "/concept/Poincares-unpredictable-determinism",
@@ -14538,6 +15005,181 @@
     },
     {
       "source": "/private/projet/v1.1-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/West-Eberhard2003",
+      "text": "West-Eberhard2003"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Noble2008",
+      "text": "Noble2008"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Bailly2011",
+      "text": "Bailly2011"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Lotka1945",
+      "text": "Lotka1945"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Canguilhem1992b",
+      "text": "Canguilhem1992b"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Varenne2013",
+      "text": "Varenne2013"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/private/projet/v1.2-projet",
       "target": "/reference/Montevil2022",
       "text": "Montevil2022"
     },
