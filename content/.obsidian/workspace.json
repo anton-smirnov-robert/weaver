@@ -4,15 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "f46f763aedb02fd8",
+        "id": "37e50e72b2709510",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc7b8f57c60837d",
+            "id": "6758cf0d0b550aa4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "concept/Modern Synthesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c06b534d937567e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97b2fb437af308d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/projet/(v1.2) projet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fb042d7ea4c5a078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69fe0d757c5fc4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Noble2008.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "closure of constraint",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "concept/Modern Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "concept/Modern Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "concept/Modern Synthesis.md"
+              }
             }
           }
         ]
@@ -138,9 +182,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0bc7b8f57c60837d",
+  "active": "6758cf0d0b550aa4",
   "lastOpenFiles": [
+    "reference/Gilbert1996.md",
+    "reference/Noble2008.md",
     "private/projet/(v1.2) projet.md",
+    "concept/Modern Synthesis.md",
+    "reference/Noble2014.md",
+    "reference/Mayr1982.md",
+    "concept/Mendelian inheritance.md",
     "private/projet/(v1.1) projet.md",
     "concept/bitcoin.md",
     "2023-02-24.md",
@@ -160,12 +210,6 @@
     "Sans titre.md",
     "private/drafts/on science organization/Allons-nous continuer la recherche scientifique ?.md",
     "reference/Lotka1945.md",
-    "reference/Laland2015.md",
-    "reference/Noble2008.md",
-    "reference/Glade2022.md",
-    "reference/Canguilhem1992a.md",
-    "reference/Canguilhem1992b.md",
-    "private/TODO.md",
-    "reference/Varenne2013.md"
+    "reference/Laland2015.md"
   ]
 }

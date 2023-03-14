@@ -8,7 +8,7 @@ tags:
 - concept
 ---
 
-In 1865, the monk and botanist Gregor Mendel find that a trait can different forms (alleles) and suggested three laws:
+In 1865, the monk and botanist Gregor Mendel find that a trait can have different variants (alleles) and suggested three laws:
 
 - Some alleles are dominant while others are recessive.
 - Each gamete carries only one allele for each gene.
