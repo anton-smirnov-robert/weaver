@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37e50e72b2709510",
+        "id": "606042bdd2cbd55f",
         "type": "tabs",
         "children": [
           {
-            "id": "6758cf0d0b550aa4",
+            "id": "993b99db33e601db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/(v1.2) projet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5b5acea619cc46b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cf5327e2e2aabc57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Laland2015.md",
+                "file": "projects/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/(v1.2) projet.md",
+                "file": "projects/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/(v1.2) projet.md",
+                "file": "projects/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/(v1.2) projet.md"
+                "file": "projects/TODO.md"
               }
             }
           }
@@ -164,12 +146,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6758cf0d0b550aa4",
+  "active": "993b99db33e601db",
   "lastOpenFiles": [
-    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "writing/(v1.2) projet.md",
-    "projects/TODO.md",
     "projects/TOREAD.md",
+    "projects/TODO.md",
+    "concept/mechanistic system (detailed).md",
+    "concept/mechanistic organization.md",
+    "concept/mechanistic system.md",
+    "concept/mechanistic organization (detailed).md",
+    "reference/Laland2015.md",
+    "note/note on Laland2015.md",
+    "definition/gene product.md",
+    "concept/Modern Synthesis.md",
+    "writing/(v1.2) projet.md",
+    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
     "projects/théorisation_en_sciences/Sans titre.md",
     "writing",
     "projects/theorization_in_sciences/(v1.1) Le déclin de la théorisation en sciences.md",
@@ -185,14 +175,6 @@
     "projects/theorization_in_sciences/(v0.4) L'urgence d'une économie des théories scientifiques.md",
     "projects/theorization_in_sciences/(v0.3) L'urgence d'une économie des théories scientifiques.md",
     "projects/theorization_in_sciences/(v0.2) Le besoin d'une économie des théories scientifiques..md",
-    "projects/theorization_in_sciences/(v0.1) Vers une économie anti-entropique des théories scientifiques.md",
-    "concept/Modern Synthesis.md",
-    "projects/théorisation_en_sciences/on science organization/conclusion.md",
-    "reference/Laland2015.md",
-    "concept/Mendelian inheritance.md",
-    "definition/Gene product.md",
-    "reference/Whyte1964.md",
-    "reference/Gilbert1996.md",
     "images/Pasted image 20230118122044.png"
   ]
 }

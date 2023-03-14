@@ -11,7 +11,7 @@ tags:
 
 A reference of this theory is in ([Mayr1982](reference/Mayr1982.md)). It combines the Darwinian theory of evolution, [Mendelian inheritance](concept/Mendelian%20inheritance.md), and population-level thinking.
 
-Its core assumption relies on ([Laland2015](reference/Laland2015.md)) :
+Its core assumptions are :
 
 - ==**The pre-eminence of natural selection**==. The major directing or creative influence in evolution is natural selection, which alone explains why the properties of organisms match the properties of their environments (adaptation).
 - ==**Genetic inheritance**==. Genes constitute the only general inheritance system. Acquired characters are not inherited.
@@ -20,15 +20,6 @@ Its core assumption relies on ([Laland2015](reference/Laland2015.md)) :
 - ==**Gene-centred perspective**==. Evolution requires, and is often defined as, change in gene frequencies. Populations evolve through changes in gene frequencies brought about through natural selection, drift, mutation and gene flow
 - ==**Macro-evolution**==. Macro-evolutionary patterns are explained by microevolutionary processes of selection, drift, mutation and gene flow
 
-Today's biology is more sophiticated, but there is no new theoretical framework, just accomodations. Without a proper and consistent understanding, approaches to scientific questions can be biased (too much importance on genes, development and heridity are studied separately). 
 
-Change of the Modern Synthesis have been called for by various actor spaning the last fifty years (e.g., [Whyte1964](reference/Whyte1964.md),[Gilbert1996](reference/Gilbert1996.md), [Noble2014](reference/Noble2014.md),[Laland2015](reference/Laland2015.md)).
-
-Insights can be gained from (relatively) new fields of biology:
-
-- ==**evolutionary developmental biology ("evo-devo")**== : [gene product] varies 
-
-
-- ==**developmental plasticity**==
-- ==**inclusive inheritance**==
-- ==**niche construction** ==
+Sources : 
+[Laland2015](reference/Laland2015.md)

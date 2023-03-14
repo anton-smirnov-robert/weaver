@@ -1,5 +1,5 @@
 ---
-title: "Gene product"
+title: "gene product"
 date: 2023-03-14
 draft: false
 showthedate: false
