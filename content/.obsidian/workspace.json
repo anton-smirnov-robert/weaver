@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa9fd18ba27acec2",
+        "id": "e285312821ef54b4",
         "type": "tabs",
         "children": [
           {
-            "id": "a3e1f2dbaf7caef5",
+            "id": "8d1326f4f75380d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/closure of constraints.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/closure of constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/closure of constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "concept/closure of constraints.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a3e1f2dbaf7caef5",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
+    "2023-02-24.md",
+    "images/Pasted image 20230118122044.png",
+    "concept/Chaitin's algorithmic randomness.md",
+    "concept/closure of constraints.md",
     "note/note on Mossio2014.md",
     "definition/dependence between constraints.md",
-    "concept/closure of constraints.md",
     "private/projet/(v1.1) projet.md",
     "private/projet/novelty in chess and arts.md",
     "private/projet/(v0.3) projet.md",
@@ -171,8 +166,6 @@
     "private/TODO.md",
     "reference/Varenne2013.md",
     "reference/Montevil2022a.md",
-    "reference/Glade2015.md",
-    "reference/Montevil2020a.md",
-    "reference/Montevil2021a.md"
+    "reference/Glade2015.md"
   ]
 }

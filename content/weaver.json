@@ -1028,30 +1028,6 @@
       "select": "zotero://select/library/items/4VRRPDYL"
     },
     {
-      "key": "XHXB5XHA",
-      "version": 0,
-      "itemType": "attachment",
-      "title": "(v3) projet-1-mm.pdf",
-      "linkMode": "imported_file",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "(v3) projet-1-mm.pdf",
-      "tags": [],
-      "collections": [
-        "3TXVTZ22"
-      ],
-      "relations": {},
-      "dateAdded": "2023-03-12T17:15:25Z",
-      "dateModified": "2023-03-12T17:15:25Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/XHXB5XHA",
-      "itemID": 6746,
-      "localPath": "/Users/robert/Dropbox/zotero/storage/XHXB5XHA/(v3) projet-1-mm.pdf",
-      "defaultPath": "files/6746/(v3) projet-1-mm.pdf",
-      "itemKey": "XHXB5XHA",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/XHXB5XHA"
-    },
-    {
       "key": "UACAFQHX",
       "version": 0,
       "itemType": "attachment",
@@ -1076,6 +1052,30 @@
       "itemKey": "UACAFQHX",
       "libraryID": 1,
       "select": "zotero://select/library/items/UACAFQHX"
+    },
+    {
+      "key": "LJXSW42C",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "(v1.1) projet.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "(v1.1) projet.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-14T11:56:56Z",
+      "dateModified": "2023-03-14T11:56:56Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LJXSW42C",
+      "itemID": 6787,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/LJXSW42C/(v1.1) projet.pdf",
+      "defaultPath": "files/6787/(v1.1) projet.pdf",
+      "itemKey": "LJXSW42C",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LJXSW42C"
     },
     {
       "key": "DNV5ID3G",

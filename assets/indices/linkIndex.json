@@ -1249,6 +1249,11 @@
         },
         {
           "source": "/note/note-on-Mossio2014",
+          "target": "/concept/biological-function",
+          "text": "biological function"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
           "target": "/reference/Maturana1973",
           "text": "Maturana1973"
         }
@@ -5021,6 +5026,11 @@
         },
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
+          "target": "/concept/biological-function",
+          "text": "biological function"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
           "target": "/concept/biological-function",
           "text": "biological function"
         }
@@ -11020,6 +11030,11 @@
       "source": "/note/note-on-Mossio2014",
       "target": "/definition/biological-constraint",
       "text": "biological constraint"
+    },
+    {
+      "source": "/note/note-on-Mossio2014",
+      "target": "/concept/biological-function",
+      "text": "biological function"
     },
     {
       "source": "/note/note-on-Mossio2014",
