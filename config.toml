@@ -5,8 +5,9 @@ relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
+    "/content/projects/*",
     "/content/projects/thesis_project/*",
-    "/content/private/theorization_in_sciences/*",
+    "/content/projects/theorization_in_sciences/*",
 ]
 summaryLength = 20
 paginate = 10

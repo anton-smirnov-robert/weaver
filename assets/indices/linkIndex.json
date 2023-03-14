@@ -1396,680 +1396,510 @@
           "text": "entropy"
         }
       ],
-      "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi": [
-        {
-          "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
-          "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
-          "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
-        }
-      ],
-      "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique": [
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Nolan2021",
-          "text": "Nolan2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Blok2015a",
-          "text": "Blok2015a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/OECD1966",
-          "text": "OECD1966"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Godin2020",
-          "text": "Godin2020"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Tordjman2021a",
-          "text": "Tordjman2021a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Maxmen2019",
-          "text": "Maxmen2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Mirowski2012",
-          "text": "Mirowski2012"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Nedeva2006",
-          "text": "Nedeva2006"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Davies2006",
-          "text": "Davies2006"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Lacetera2011",
-          "text": "Lacetera2011"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Sandstrom2018",
-          "text": "Sandstrom2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Nelson1959",
-          "text": "Nelson1959"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Arrow1962",
-          "text": "Arrow1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Godin2019",
-          "text": "Godin2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Arora2018",
-          "text": "Arora2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Canguilhem1992b",
-          "text": "Canguilhem1992b"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Ripple2017",
-          "text": "Ripple2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Longo2012",
-          "text": "Longo2012"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Boudreau2016",
-          "text": "Boudreau2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Chu2021",
-          "text": "Chu2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Koppl2015",
-          "text": "Koppl2015"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Marx2005",
-          "text": "Marx2005"
-        }
-      ],
-      "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge": [
-        {
-          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/note-on-Hayek1945",
-          "text": "note on Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/concept/mechanistic-organization",
-          "text": "mechanistic organization"
-        }
-      ],
-      "/private/drafts/on-science-organization/Polanyis-Republic-of-Science": [
-        {
-          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
-          "target": "/note/note-on-Polanyi1962",
-          "text": "note on Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        }
-      ],
-      "/private/drafts/on-science-organization/article-epistemological-mismatch": [
-        {
-          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-          "target": "/reference/Holton1975",
-          "text": "Holton1975"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-          "target": "/reference/Fodor1974",
-          "text": "Fodor1974"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
-        }
-      ],
-      "/private/drafts/on-science-organization/conclusion": [
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/OECD2021",
-          "text": "OECD2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Demeritt2000",
-          "text": "Demeritt2000"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Giry2022",
-          "text": "Giry2022"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Laillier2022",
-          "text": "Laillier2022"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Chu2021",
-          "text": "Chu2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Pieiller2023",
-          "text": "Pieiller2023"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        }
-      ],
-      "/private/drafts/on-science-organization/marketization_of_scientific_research": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Paic2019",
-          "text": "note on Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Hayek1945",
-          "text": "note on Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Polanyi1962",
-          "text": "note on Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Henriques2013",
-          "text": "note on Henriques2013"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Marx2005",
-          "text": "Marx2005"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Stiegler2012",
-          "text": "Stiegler2012"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Alombert2021",
-          "text": "Alombert2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Longo2013",
-          "text": "Longo2013"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Blok2015",
-          "text": "Blok2015"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Smith1887",
-          "text": "Smith1887"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Schwartz2015",
-          "text": "Schwartz2015"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/OECD2021a",
-          "text": "OECD2021a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Chavalarias2020a",
-          "text": "Chavalarias2020a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Yong2018",
-          "text": "Yong2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Elzinga1997",
-          "text": "Elzinga1997"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Longo2016",
-          "text": "Longo2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Muthukrishna2019",
-          "text": "Muthukrishna2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/OECD1966",
-          "text": "OECD1966"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Nolan2021",
-          "text": "Nolan2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Blok2015a",
-          "text": "Blok2015a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Stiegler2021",
-          "text": "Stiegler2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Calude2017",
-          "text": "Calude2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Anderson2008",
-          "text": "Anderson2008"
-        }
-      ],
       "/reference/Polanyi1962": [
         {
           "source": "/reference/Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
+        }
+      ],
+      "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Rip1994",
+          "text": "Rip1994"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Trebino2009a",
+          "text": "Trebino2009a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Nicholson2021",
+          "text": "Nicholson2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Castoriadis1975",
+          "text": "Castoriadis1975"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        }
+      ],
+      "/writing/v1.2-projet": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Noble2008",
+          "text": "Noble2008"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         }
       ]
     },
@@ -2422,11 +2252,6 @@
       "/concept/mechanistic-organization": [
         {
           "source": "/note/note-on-Mossio2014",
-          "target": "/concept/mechanistic-organization",
-          "text": "mechanistic organization"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
           "target": "/concept/mechanistic-organization",
           "text": "mechanistic organization"
         }
@@ -2855,25 +2680,6 @@
           "text": "history of organisms as self-determined biological systems"
         }
       ],
-      "/note/note-on-Hayek1945": [
-        {
-          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/note/note-on-Hayek1945",
-          "text": "note on Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Hayek1945",
-          "text": "note on Hayek1945"
-        }
-      ],
-      "/note/note-on-Henriques2013": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Henriques2013",
-          "text": "note on Henriques2013"
-        }
-      ],
       "/note/note-on-Longo2012": [
         {
           "source": "/concept/Laplacian-determinism",
@@ -2901,49 +2707,18 @@
           "text": "note on Longo2012"
         }
       ],
-      "/note/note-on-Paic2019": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Paic2019",
-          "text": "note on Paic2019"
-        }
-      ],
-      "/note/note-on-Polanyi1962": [
-        {
-          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
-          "target": "/note/note-on-Polanyi1962",
-          "text": "note on Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/note/note-on-Polanyi1962",
-          "text": "note on Polanyi1962"
-        }
-      ],
       "/reference/Alombert2021": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Alombert2021",
           "text": "Alombert2021"
         }
       ],
       "/reference/Anderson2007": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Anderson2007",
           "text": "Anderson2007"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        }
-      ],
-      "/reference/Anderson2008": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Anderson2008",
-          "text": "Anderson2008"
         }
       ],
       "/reference/Anfinsen1973": [
@@ -2955,7 +2730,7 @@
       ],
       "/reference/Arora2018": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Arora2018",
           "text": "Arora2018"
         }
@@ -2963,11 +2738,6 @@
       "/reference/Arrow1962": [
         {
           "source": "/note/note-on-Henriques2013",
-          "target": "/reference/Arrow1962",
-          "text": "Arrow1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
           "target": "/reference/Arrow1962",
           "text": "Arrow1962"
         }
@@ -2988,24 +2758,26 @@
       ],
       "/reference/Audetat2015": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Audetat2015",
           "text": "Audetat2015"
         },
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Audetat2015",
           "text": "Audetat2015"
         }
       ],
+      "/reference/Bailly2011": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        }
+      ],
       "/reference/Baker2016": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Baker2016",
           "text": "Baker2016"
         }
@@ -3024,14 +2796,21 @@
           "text": "Bernard1879"
         }
       ],
+      "/reference/Bich2020": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        }
+      ],
       "/reference/Blok2015": [
         {
           "source": "/note/note-on-Paic2019",
-          "target": "/reference/Blok2015",
-          "text": "Blok2015"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Blok2015",
           "text": "Blok2015"
         }
@@ -3043,12 +2822,7 @@
           "text": "Blok2015a"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Blok2015a",
-          "text": "Blok2015a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         }
@@ -3087,7 +2861,7 @@
       ],
       "/reference/Boudreau2016": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Boudreau2016",
           "text": "Boudreau2016"
         }
@@ -3123,16 +2897,36 @@
           "text": "Bush1945"
         }
       ],
-      "/reference/Calude2017": [
+      "/reference/Canguilhem1992a": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Calude2017",
-          "text": "Calude2017"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
         }
       ],
       "/reference/Canguilhem1992b": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.2-projet",
           "target": "/reference/Canguilhem1992b",
           "text": "Canguilhem1992b"
         }
@@ -3144,33 +2938,28 @@
           "text": "Cannon1929"
         }
       ],
-      "/reference/Chavalarias2016": [
+      "/reference/Castoriadis1975": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Castoriadis1975",
+          "text": "Castoriadis1975"
         }
       ],
-      "/reference/Chavalarias2020a": [
+      "/reference/Chavalarias2016": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Chavalarias2020a",
-          "text": "Chavalarias2020a"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
         }
       ],
       "/reference/Chu2021": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Chu2021",
           "text": "Chu2021"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Chu2021",
           "text": "Chu2021"
         }
@@ -3208,7 +2997,7 @@
           "text": "Davies2006"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         }
@@ -3229,16 +3018,9 @@
       ],
       "/reference/Demeritt2000": [
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Demeritt2000",
           "text": "Demeritt2000"
-        }
-      ],
-      "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018": [
-        {
-          "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
-          "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
-          "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
         }
       ],
       "/reference/Doudna2017": [
@@ -3248,31 +3030,26 @@
           "text": "Doudna2017"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.2-projet",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         }
       ],
       "/reference/Edwards2017": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Edwards2017",
           "text": "Edwards2017"
         }
       ],
       "/reference/Elzinga1997": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Elzinga1997",
           "text": "Elzinga1997"
         }
@@ -3286,29 +3063,19 @@
       ],
       "/reference/Fang2012": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Fang2012",
           "text": "Fang2012"
         }
       ],
       "/reference/Fire2019": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Fire2019",
           "text": "Fire2019"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Fire2019",
           "text": "Fire2019"
         }
@@ -3318,13 +3085,6 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Fischer2009",
           "text": "Fischer2009"
-        }
-      ],
-      "/reference/Fodor1974": [
-        {
-          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-          "target": "/reference/Fodor1974",
-          "text": "Fodor1974"
         }
       ],
       "/reference/Garson2016": [
@@ -3343,9 +3103,33 @@
       ],
       "/reference/Giry2022": [
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Giry2022",
           "text": "Giry2022"
+        }
+      ],
+      "/reference/Glade2015": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        }
+      ],
+      "/reference/Glade2022": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
         }
       ],
       "/reference/Godfrey-Smith1994": [
@@ -3355,18 +3139,18 @@
           "text": "Godfrey-Smith1994"
         }
       ],
-      "/reference/Godin2019": [
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Godin2019",
-          "text": "Godin2019"
-        }
-      ],
       "/reference/Godin2020": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Godin2020",
           "text": "Godin2020"
+        }
+      ],
+      "/reference/Grothendieck1972": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
         }
       ],
       "/reference/Hamilton1964": [
@@ -3388,34 +3172,14 @@
           "text": "Hayek1945"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
         }
       ],
       "/reference/Hayek1979": [
         {
-          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Hayek1979",
           "text": "Hayek1979"
         }
@@ -3439,33 +3203,16 @@
           "text": "Henriques2013"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
         }
       ],
       "/reference/Hill2020": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Hill2020",
           "text": "Hill2020"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
-        }
-      ],
-      "/reference/Holton1975": [
-        {
-          "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-          "target": "/reference/Holton1975",
-          "text": "Holton1975"
         }
       ],
       "/reference/Horgan1995": [
@@ -3508,9 +3255,21 @@
           "text": "Kauffman2000"
         }
       ],
+      "/reference/Kauffman2019": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        }
+      ],
       "/reference/Koppl2015": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Koppl2015",
           "text": "Koppl2015"
         }
@@ -3531,7 +3290,7 @@
       ],
       "/reference/Lacetera2011": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Lacetera2011",
           "text": "Lacetera2011"
         }
@@ -3543,7 +3302,7 @@
           "text": "Laillier2022"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
         }
@@ -3556,6 +3315,11 @@
         },
         {
           "source": "/concept/Modern-Synthesis",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         }
@@ -3572,22 +3336,7 @@
           "text": "Lazebnik2018"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
         }
@@ -3616,23 +3365,9 @@
           "text": "Longo2012"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.2-projet",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
-        }
-      ],
-      "/reference/Longo2013": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Longo2013",
-          "text": "Longo2013"
-        }
-      ],
-      "/reference/Longo2016": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Longo2016",
-          "text": "Longo2016"
         }
       ],
       "/reference/Longo2021": [
@@ -3642,19 +3377,21 @@
           "text": "Longo2021"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.2-projet",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
-        },
+        }
+      ],
+      "/reference/Lotka1945": [
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
         }
       ],
       "/reference/Lucitti2007": [
@@ -3662,18 +3399,6 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Lucitti2007",
           "text": "Lucitti2007"
-        }
-      ],
-      "/reference/Marx2005": [
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Marx2005",
-          "text": "Marx2005"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Marx2005",
-          "text": "Marx2005"
         }
       ],
       "/reference/Matoba2018": [
@@ -3697,7 +3422,7 @@
       ],
       "/reference/Maxmen2019": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Maxmen2019",
           "text": "Maxmen2019"
         }
@@ -3716,24 +3441,16 @@
           "text": "Mayr1982"
         }
       ],
+      "/reference/McNie2007": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        }
+      ],
       "/reference/Merton1957": [
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Merton1957",
           "text": "Merton1957"
         }
@@ -3757,19 +3474,14 @@
           "text": "Mirowski2011"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
         }
       ],
       "/reference/Mirowski2012": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Mirowski2012",
           "text": "Mirowski2012"
         }
@@ -3804,6 +3516,18 @@
           "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        }
+      ],
+      "/reference/Montevil2016b": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
         }
       ],
       "/reference/Montevil2019a": [
@@ -3811,6 +3535,23 @@
           "source": "/note/note-on-Montevil2019a",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        }
+      ],
+      "/reference/Montevil2020a": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
         }
       ],
       "/reference/Montevil2021": [
@@ -3820,39 +3561,64 @@
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
+        }
+      ],
+      "/reference/Montevil2021a": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        }
+      ],
+      "/reference/Montevil2021b": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
+        }
+      ],
+      "/reference/Montevil2022": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         },
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        }
+      ],
+      "/reference/Montevil2022a": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        }
+      ],
+      "/reference/Moreno2015": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
         }
       ],
       "/reference/Morin1982": [
@@ -3863,21 +3629,6 @@
         },
         {
           "source": "/note/note-on-Polanyi1962",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         }
@@ -3903,7 +3654,7 @@
       ],
       "/reference/Muthukrishna2019": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Muthukrishna2019",
           "text": "Muthukrishna2019"
         }
@@ -3920,7 +3671,7 @@
           "text": "Nedeva2006"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         }
@@ -3930,11 +3681,20 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
-        },
+        }
+      ],
+      "/reference/Nicholson2021": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Nelson1959",
-          "text": "Nelson1959"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Nicholson2021",
+          "text": "Nicholson2021"
+        }
+      ],
+      "/reference/Noble2008": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Noble2008",
+          "text": "Noble2008"
         }
       ],
       "/reference/Noble2014": [
@@ -3949,16 +3709,6 @@
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Nolan2021",
           "text": "Nolan2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Nolan2021",
-          "text": "Nolan2021"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Nolan2021",
-          "text": "Nolan2021"
         }
       ],
       "/reference/OECD1966": [
@@ -3966,30 +3716,13 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/OECD1966",
           "text": "OECD1966"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/OECD1966",
-          "text": "OECD1966"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/OECD1966",
-          "text": "OECD1966"
         }
       ],
       "/reference/OECD2021": [
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/OECD2021",
           "text": "OECD2021"
-        }
-      ],
-      "/reference/OECD2021a": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/OECD2021a",
-          "text": "OECD2021a"
         }
       ],
       "/reference/Paic2019": [
@@ -3999,59 +3732,24 @@
           "text": "Paic2019"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         }
       ],
       "/reference/Park2023": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Park2023",
           "text": "Park2023"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Park2023",
           "text": "Park2023"
         }
@@ -4063,24 +3761,14 @@
           "text": "Petit2019"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         }
       ],
       "/reference/Petit2019a": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Petit2019a",
           "text": "Petit2019a"
         }
@@ -4090,13 +3778,6 @@
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
           "target": "/reference/Piaget1967",
           "text": "Piaget1967"
-        }
-      ],
-      "/reference/Pieiller2023": [
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Pieiller2023",
-          "text": "Pieiller2023"
         }
       ],
       "/reference/Piganiol1963": [
@@ -4130,46 +3811,21 @@
           "text": "Polanyi1962"
         },
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/conclusion",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
           "source": "/reference/Polanyi1962",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         }
       ],
-      "/reference/Ripple2017": [
+      "/reference/Rip1994": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Ripple2017",
-          "text": "Ripple2017"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Rip1994",
+          "text": "Rip1994"
         }
       ],
       "/reference/Rosen1991": [
@@ -4202,7 +3858,7 @@
       ],
       "/reference/Sandstrom2018": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Sandstrom2018",
           "text": "Sandstrom2018"
         }
@@ -4239,13 +3895,6 @@
           "text": "Schrodinger1944"
         }
       ],
-      "/reference/Schwartz2015": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Schwartz2015",
-          "text": "Schwartz2015"
-        }
-      ],
       "/reference/Shannon1948": [
         {
           "source": "/concept/Shannons-theory-of-information-transmission",
@@ -4270,42 +3919,66 @@
           "text": "Sipser2013"
         }
       ],
-      "/reference/Smith1887": [
+      "/reference/Soto2016": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Smith1887",
-          "text": "Smith1887"
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
         }
       ],
       "/reference/Soto2021": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
         },
         {
-          "source": "/private/drafts/on-science-organization/conclusion",
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
+        }
+      ],
+      "/reference/Soto2021a": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
+        }
+      ],
+      "/reference/Stephan2015": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        }
+      ],
+      "/reference/Stiegler2016": [
+        {
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
         },
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
         }
       ],
-      "/reference/Stiegler2012": [
+      "/reference/Stiegler2020": [
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Stiegler2012",
-          "text": "Stiegler2012"
-        }
-      ],
-      "/reference/Stiegler2021": [
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
         {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Stiegler2021",
-          "text": "Stiegler2021"
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
         }
       ],
       "/reference/Tang2004": [
@@ -4322,11 +3995,11 @@
           "text": "Taniguchi2010"
         }
       ],
-      "/reference/Tordjman2021a": [
+      "/reference/Trebino2009a": [
         {
-          "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-          "target": "/reference/Tordjman2021a",
-          "text": "Tordjman2021a"
+          "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+          "target": "/reference/Trebino2009a",
+          "text": "Trebino2009a"
         }
       ],
       "/reference/Turing1936": [
@@ -4339,6 +4012,13 @@
           "source": "/concept/Turing-machine",
           "target": "/reference/Turing1936",
           "text": "Turing1936"
+        }
+      ],
+      "/reference/Varenne2013": [
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
         }
       ],
       "/reference/VonBertalanffy1952": [
@@ -4367,6 +4047,11 @@
           "source": "/concept/biological-function",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/writing/v1.2-projet",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
         }
       ],
       "/reference/Whyte1964": [
@@ -4381,13 +4066,6 @@
           "source": "/note/history-of-organisms-as-self-determined-biological-systems",
           "target": "/reference/Wiener1948",
           "text": "Wiener1948"
-        }
-      ],
-      "/reference/Yong2018": [
-        {
-          "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-          "target": "/reference/Yong2018",
-          "text": "Yong2018"
         }
       ],
       "/reference/Zwanzig1992": [
@@ -5666,664 +5344,504 @@
       "text": "entropy"
     },
     {
-      "source": "/private/drafts/on-science-organization/A-letter-to-Michael-Polanyi",
-      "target": "/reference/Directorate-GeneralforResearchandInnovationEuropeanCommission2018",
-      "text": "Directorate-GeneralforResearchandInnovationEuropeanCommission2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Nolan2021",
-      "text": "Nolan2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Blok2015a",
-      "text": "Blok2015a"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/OECD1966",
-      "text": "OECD1966"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Godin2020",
-      "text": "Godin2020"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Tordjman2021a",
-      "text": "Tordjman2021a"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Audetat2015",
-      "text": "Audetat2015"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Maxmen2019",
-      "text": "Maxmen2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Mirowski2012",
-      "text": "Mirowski2012"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Nedeva2006",
-      "text": "Nedeva2006"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Davies2006",
-      "text": "Davies2006"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Mirowski2011",
-      "text": "Mirowski2011"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Fang2012",
-      "text": "Fang2012"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Edwards2017",
-      "text": "Edwards2017"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Lacetera2011",
-      "text": "Lacetera2011"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Petit2019a",
-      "text": "Petit2019a"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Anderson2007",
-      "text": "Anderson2007"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Chavalarias2016",
-      "text": "Chavalarias2016"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Sandstrom2018",
-      "text": "Sandstrom2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Hill2020",
-      "text": "Hill2020"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Nelson1959",
-      "text": "Nelson1959"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Arrow1962",
-      "text": "Arrow1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Godin2019",
-      "text": "Godin2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
+      "source": "/reference/Polanyi1962",
       "target": "/reference/Polanyi1962",
       "text": "Polanyi1962"
     },
     {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Grothendieck1972",
+      "text": "Grothendieck1972"
     },
     {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
     },
     {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
     },
     {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Soto2021a",
+      "text": "Soto2021a"
     },
     {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Montevil2021b",
+      "text": "Montevil2021b"
     },
     {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Arora2018",
-      "text": "Arora2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Petit2019",
-      "text": "Petit2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Canguilhem1992b",
-      "text": "Canguilhem1992b"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Ripple2017",
-      "text": "Ripple2017"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Doudna2017",
-      "text": "Doudna2017"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Longo2012",
-      "text": "Longo2012"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Boudreau2016",
-      "text": "Boudreau2016"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Chu2021",
-      "text": "Chu2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Park2023",
-      "text": "Park2023"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Koppl2015",
-      "text": "Koppl2015"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Allons-nous-continuer-la-recherche-scientifique",
-      "target": "/reference/Marx2005",
-      "text": "Marx2005"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/note/note-on-Hayek1945",
-      "text": "note on Hayek1945"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Hayeks-mechanistic-economy-of-knowledge",
-      "target": "/concept/mechanistic-organization",
-      "text": "mechanistic organization"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
-      "target": "/note/note-on-Polanyi1962",
-      "text": "note on Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/Polanyis-Republic-of-Science",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-      "target": "/reference/Holton1975",
-      "text": "Holton1975"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-      "target": "/reference/Fodor1974",
-      "text": "Fodor1974"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/article-epistemological-mismatch",
-      "target": "/reference/Hayek1979",
-      "text": "Hayek1979"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/OECD2021",
       "text": "OECD2021"
     },
     {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Park2023",
-      "text": "Park2023"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Boudreau2016",
+      "text": "Boudreau2016"
     },
     {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Demeritt2000",
-      "text": "Demeritt2000"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Giry2022",
-      "text": "Giry2022"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Mirowski2011",
-      "text": "Mirowski2011"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Laillier2022",
-      "text": "Laillier2022"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Park2023",
-      "text": "Park2023"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/Chu2021",
       "text": "Chu2021"
     },
     {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Pieiller2023",
-      "text": "Pieiller2023"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
     },
     {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Doudna2017",
-      "text": "Doudna2017"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/conclusion",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/note/note-on-Paic2019",
-      "text": "note on Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/note/note-on-Hayek1945",
-      "text": "note on Hayek1945"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/note/note-on-Polanyi1962",
-      "text": "note on Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/note/note-on-Henriques2013",
-      "text": "note on Henriques2013"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Marx2005",
-      "text": "Marx2005"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Stiegler2012",
-      "text": "Stiegler2012"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Alombert2021",
-      "text": "Alombert2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Longo2013",
-      "text": "Longo2013"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Blok2015",
-      "text": "Blok2015"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Smith1887",
-      "text": "Smith1887"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Schwartz2015",
-      "text": "Schwartz2015"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/OECD2021a",
-      "text": "OECD2021a"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Chavalarias2020a",
-      "text": "Chavalarias2020a"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Audetat2015",
-      "text": "Audetat2015"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Fang2012",
-      "text": "Fang2012"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Edwards2017",
-      "text": "Edwards2017"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Petit2019a",
-      "text": "Petit2019a"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Anderson2007",
-      "text": "Anderson2007"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Chavalarias2016",
-      "text": "Chavalarias2016"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Yong2018",
-      "text": "Yong2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Hill2020",
-      "text": "Hill2020"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Hayek1979",
-      "text": "Hayek1979"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Elzinga1997",
-      "text": "Elzinga1997"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Longo2016",
-      "text": "Longo2016"
-    },
-    {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/Soto2021",
       "text": "Soto2021"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/Muthukrishna2019",
       "text": "Muthukrishna2019"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/OECD1966",
-      "text": "OECD1966"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Petit2019",
-      "text": "Petit2019"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Nolan2021",
-      "text": "Nolan2021"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Godin2020",
+      "text": "Godin2020"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Rip1994",
+      "text": "Rip1994"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/Blok2015a",
       "text": "Blok2015a"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Stiegler2021",
-      "text": "Stiegler2021"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Arora2018",
+      "text": "Arora2018"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Maxmen2019",
+      "text": "Maxmen2019"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Mirowski2012",
+      "text": "Mirowski2012"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Sandstrom2018",
+      "text": "Sandstrom2018"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Demeritt2000",
+      "text": "Demeritt2000"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/McNie2007",
+      "text": "McNie2007"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Giry2022",
+      "text": "Giry2022"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Stephan2015",
+      "text": "Stephan2015"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Koppl2015",
+      "text": "Koppl2015"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Trebino2009a",
+      "text": "Trebino2009a"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Nicholson2021",
+      "text": "Nicholson2021"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Alombert2021",
+      "text": "Alombert2021"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Castoriadis1975",
+      "text": "Castoriadis1975"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Calude2017",
-      "text": "Calude2017"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
     },
     {
-      "source": "/private/drafts/on-science-organization/marketization_of_scientific_research",
-      "target": "/reference/Anderson2008",
-      "text": "Anderson2008"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
     },
     {
-      "source": "/reference/Polanyi1962",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
+      "target": "/reference/Lacetera2011",
+      "text": "Lacetera2011"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/West-Eberhard2003",
+      "text": "West-Eberhard2003"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Noble2008",
+      "text": "Noble2008"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Bailly2011",
+      "text": "Bailly2011"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Lotka1945",
+      "text": "Lotka1945"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Canguilhem1992b",
+      "text": "Canguilhem1992b"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Varenne2013",
+      "text": "Varenne2013"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/writing/v1.2-projet",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
     }
   ]
 }

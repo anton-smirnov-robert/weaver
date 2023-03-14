@@ -11,8 +11,12 @@
             "id": "6758cf0d0b550aa4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "writing/(v1.2) projet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "writing/(v1.2) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "writing/(v1.2) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "writing/(v1.2) projet.md"
+              }
             }
           }
         ]
@@ -156,11 +164,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "6758cf0d0b550aa4",
   "lastOpenFiles": [
-    "writings",
-    "projects/theorization_in_sciences/(v1.1) Le déclin de la théorisation en sciences.md",
+    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
+    "writing/(v1.2) projet.md",
+    "projects/TODO.md",
+    "projects/TOREAD.md",
     "projects/théorisation_en_sciences/Sans titre.md",
+    "writing",
+    "projects/theorization_in_sciences/(v1.1) Le déclin de la théorisation en sciences.md",
     "projects/theorization_in_sciences/marketization_of_scientific_research.md",
     "projects/theorization_in_sciences/conclusion.md",
     "projects/theorization_in_sciences/article epistemological mismatch.md",
@@ -181,9 +193,6 @@
     "definition/Gene product.md",
     "reference/Whyte1964.md",
     "reference/Gilbert1996.md",
-    "reference/Noble2008.md",
-    "projects/thesis_project/(v1.2) projet.md",
-    "reference/Noble2014.md",
     "images/Pasted image 20230118122044.png"
   ]
 }
