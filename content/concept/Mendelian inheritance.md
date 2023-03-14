@@ -8,7 +8,11 @@ tags:
 - concept
 ---
 
-In 1865, the monk and botanist Gregor Mendel find that a trait can have different variants (alleles) and suggested three laws:
+In 1865, the monk and botanist Gregor Mendel find that a trait can have different variants (alleles).
+
+He did not used the word "gene", this *basic unit of heredity* was called as such decades later. Molecular genes as sequences of nucleotides in DNA came a hundred years later. 
+
+Mendel suggested three laws:
 
 - Some alleles are dominant while others are recessive.
 - Each gamete carries only one allele for each gene.

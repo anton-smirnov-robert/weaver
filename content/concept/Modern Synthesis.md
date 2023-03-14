@@ -9,7 +9,7 @@ tags:
 - concept
 ---
 
-A reference of this theory is in ([Mayr1982](reference/Mayr1982.md)).
+A reference of this theory is in ([Mayr1982](reference/Mayr1982.md)). It combines the Darwinian theory of evolution, [Mendelian inheritance](concept/Mendelian%20inheritance.md), and population-level thinking.
 
 Its core assumption relies on ([Laland2015](reference/Laland2015.md)) :
 
@@ -22,13 +22,13 @@ Its core assumption relies on ([Laland2015](reference/Laland2015.md)) :
 
 Today's biology is more sophiticated, but there is no new theoretical framework, just accomodations. Without a proper and consistent understanding, approaches to scientific questions can be biased (too much importance on genes, development and heridity are studied separately). 
 
-People have been calling for a new framework : 
-[Gilbert1996](reference/Gilbert1996.md),[Noble2014](reference/Noble2014.md))
-
+Change of the Modern Synthesis have been called for by various actor spaning the last fifty years (e.g., [Whyte1964](reference/Whyte1964.md),[Gilbert1996](reference/Gilbert1996.md), [Noble2014](reference/Noble2014.md),[Laland2015](reference/Laland2015.md)).
 
 Insights can be gained from (relatively) new fields of biology:
 
-- ==**evolutionary developmental biology ("evo-devo")**==
+- ==**evolutionary developmental biology ("evo-devo")**== : [gene product] varies 
+
+
 - ==**developmental plasticity**==
 - ==**inclusive inheritance**==
 - ==**niche construction** ==
