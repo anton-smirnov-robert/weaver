@@ -18,7 +18,7 @@ $$
 
 > [!quote] 
 >
->Slow and fast dependence differ in an interesting way. When the dependent constraint is faster, its stability is quite straightforward because something that changes very slowly seems to stand still from the point of view of something faster. In the opposite case, when the dependent constraint is slower (which is actually the case for many chemicals involved in development), then a sustained and stable activity of the faster process is required. As we will suggest in the following section, orga —  (Montévil et Mossio, 2015, p. 15) 
+>Slow and fast dependence differ in an interesting way. When the dependent constraint is faster, its stability is quite straightforward because something that changes very slowly seems to stand still from the point of view of something faster. In the opposite case, when the dependent constraint is slower (which is actually the case for many chemicals involved in development), then a sustained and stable activity of the faster process is required. —  (Montévil et Mossio, 2015, p. 15) 
 
 
 ![](Pasted%20image%2020230118121914.png)
