@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e285312821ef54b4",
+        "id": "f46f763aedb02fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1326f4f75380d7",
+            "id": "0bc7b8f57c60837d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/bitcoin.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/bitcoin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "concept/bitcoin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8d1326f4f75380d7",
+  "active": "0bc7b8f57c60837d",
   "lastOpenFiles": [
+    "private/projet/(v1.2) projet.md",
+    "private/projet/(v1.1) projet.md",
     "concept/bitcoin.md",
     "2023-02-24.md",
     "images/Pasted image 20230118122044.png",
@@ -155,7 +149,6 @@
     "concept/closure of constraints.md",
     "note/note on Mossio2014.md",
     "definition/dependence between constraints.md",
-    "private/projet/(v1.1) projet.md",
     "private/projet/novelty in chess and arts.md",
     "private/projet/(v0.3) projet.md",
     "private/projet/(v0.2) projet.md",
@@ -173,7 +166,6 @@
     "reference/Canguilhem1992a.md",
     "reference/Canguilhem1992b.md",
     "private/TODO.md",
-    "reference/Varenne2013.md",
-    "reference/Montevil2022a.md"
+    "reference/Varenne2013.md"
   ]
 }
