@@ -7599,57 +7599,6 @@
       "select": "zotero://select/library/items/YZZZ9C77"
     },
     {
-      "key": "EF4RFSYC",
-      "version": 0,
-      "itemType": "book",
-      "publisher": "University of Chicago press",
-      "date": "2012",
-      "libraryCatalog": "Google Scholar",
-      "title": "The structure of scientific revolutions",
-      "creators": [
-        {
-          "firstName": "Thomas S.",
-          "lastName": "Kuhn",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2023-01-31T22:07:42Z",
-      "dateModified": "2023-01-31T22:07:42Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/EF4RFSYC",
-      "itemID": 6409,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Full Text",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-01-31T22:08:12Z",
-          "dateModified": "2023-01-31T22:08:12Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/3NB2JLGQ",
-          "path": "/Users/robert/Dropbox/zotero/storage/3NB2JLGQ/Kuhn - 2012 - The structure of scientific revolutions.pdf",
-          "select": "zotero://select/library/items/3NB2JLGQ"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Snapshot",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-01-31T22:08:17Z",
-          "dateModified": "2023-01-31T22:08:17Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/22W5KDID",
-          "path": "/Users/robert/Dropbox/zotero/storage/22W5KDID/books.html",
-          "select": "zotero://select/library/items/22W5KDID"
-        }
-      ],
-      "notes": [],
-      "citationKey": "Kuhn2012",
-      "itemKey": "EF4RFSYC",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/EF4RFSYC"
-    },
-    {
       "key": "HY5R8L4U",
       "version": 0,
       "itemType": "journalArticle",
@@ -8992,6 +8941,62 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/RMM46DQ7",
       "publicationTitle": "Trust"
+    },
+    {
+      "key": "QEQHL8IH",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/03080188.2020.1798588",
+      "volume": "45",
+      "issue": "3",
+      "pages": "380-405",
+      "publicationTitle": "Interdisciplinary Science Reviews",
+      "ISSN": "0308-0188, 1743-2790",
+      "date": "2020-07-02",
+      "journalAbbreviation": "Interdisciplinary Science Reviews",
+      "DOI": "10.1080/03080188.2020.1798588",
+      "accessDate": "2023-03-15T09:47:48Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Through the comparison between two major, long-lasting theoretical frameworks \u2013 geocentrism and genocentrism \u2013we discuss the di\ufb00erent epistemological role played by metaphors in physics and biology. Throughout its history, physics developed theories and mathematical formalisms, which either do not seem to rely on metaphors at all (as geocentrism) or have absorbed initial thrusting metaphors into original theoretical frameworks. When considering genocentrism, in turn, the situation looks di\ufb00erent. For some authors, genocentric theories are not metaphorical, but for opposite reasons with respect to geocentrism: pivotal concepts of information theories are straightforwardly imported as theoretical ones into biology. For others, the reference to information in genocentrism is indeed metaphorical, although the similarities and dissimilarities are not spelt out. Some problematic consequences of the application of genocentrism to biology are discussed.",
+      "title": "Geocentrism vs genocentrism: theories without metaphors, metaphors without theories",
+      "shortTitle": "Geocentrism vs genocentrism",
+      "creators": [
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Matteo",
+          "lastName": "Mossio",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-15T09:47:48Z",
+      "dateModified": "2023-03-15T09:47:48Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/QEQHL8IH",
+      "itemID": 6883,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Longo et Mossio - 2020 - Geocentrism vs genocentrism theories without meta.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-15T09:47:43Z",
+          "dateModified": "2023-03-15T09:47:49Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/L2WQ7KA7",
+          "path": "/Users/robert/Dropbox/zotero/storage/L2WQ7KA7/Longo et Mossio - 2020 - Geocentrism vs genocentrism theories without meta.pdf",
+          "select": "zotero://select/library/items/L2WQ7KA7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Longo2020a",
+      "itemKey": "QEQHL8IH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QEQHL8IH"
     },
     {
       "key": "M6NFV4CT",
@@ -14508,6 +14513,61 @@
       "itemKey": "2RLWDN3A",
       "libraryID": 1,
       "select": "zotero://select/library/items/2RLWDN3A"
+    },
+    {
+      "key": "3J9624JR",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://link.springer.com/10.1007/BF02705155",
+      "volume": "30",
+      "issue": "1",
+      "pages": "103-118",
+      "publicationTitle": "Journal of Biosciences",
+      "ISSN": "0250-5991, 0973-7138",
+      "date": "02/2005",
+      "journalAbbreviation": "J Biosci",
+      "DOI": "10.1007/BF02705155",
+      "accessDate": "2023-03-15T09:56:59Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Emergentism as a default: Cancer as a problem of tissue organization",
+      "shortTitle": "Emergentism as a default",
+      "creators": [
+        {
+          "firstName": "Ana M.",
+          "lastName": "Soto",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carlos",
+          "lastName": "Sonnenschein",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-15T09:56:59Z",
+      "dateModified": "2023-03-15T09:56:59Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/3J9624JR",
+      "itemID": 6885,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Soto et Sonnenschein - 2005 - Emergentism as a default Cancer as a problem of t.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-15T09:56:55Z",
+          "dateModified": "2023-03-15T09:57:01Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/M8KK237L",
+          "path": "/Users/robert/Dropbox/zotero/storage/M8KK237L/Soto et Sonnenschein - 2005 - Emergentism as a default Cancer as a problem of t.pdf",
+          "select": "zotero://select/library/items/M8KK237L"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Soto2005",
+      "itemKey": "3J9624JR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3J9624JR"
     },
     {
       "key": "73MGTM4C",
