@@ -16,6 +16,7 @@ tags:
 - [ ] Read [Montevil2019](reference/Montevil2019.md)
 - [ ] Read [Montevil2022a](reference/Montevil2022a.md)
 - [ ] Read [Montevil2020a](reference/Montevil2020a.md) 
+- [ ] Read Montévil symbole informatique qui empèche de calculer
 
 - [ ] Incompleteness — Longo 
 - [ ] Time and Bergson — Longo 
