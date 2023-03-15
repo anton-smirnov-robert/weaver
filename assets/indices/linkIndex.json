@@ -243,26 +243,6 @@
           "source": "/concept/Modern-Synthesis",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
-        },
-        {
-          "source": "/concept/Modern-Synthesis",
-          "target": "/reference/Whyte1964",
-          "text": "Whyte1964"
-        },
-        {
-          "source": "/concept/Modern-Synthesis",
-          "target": "/reference/Gilbert1996",
-          "text": "Gilbert1996"
-        },
-        {
-          "source": "/concept/Modern-Synthesis",
-          "target": "/reference/Noble2014",
-          "text": "Noble2014"
-        },
-        {
-          "source": "/concept/Modern-Synthesis",
-          "target": "/reference/Laland2015",
-          "text": "Laland2015"
         }
       ],
       "/concept/Poincares-unpredictable-determinism": [
@@ -534,27 +514,13 @@
         },
         {
           "source": "/concept/mechanistic-organization",
-          "target": "/concept/mechanistic-organization-detailed",
-          "text": "mechanistic organization (detailed)"
-        }
-      ],
-      "/concept/mechanistic-organization-detailed": [
-        {
-          "source": "/concept/mechanistic-organization-detailed",
           "target": "/concept/mechanistic-system-detailed",
           "text": "mechanistic system (detailed)"
         },
         {
-          "source": "/concept/mechanistic-organization-detailed",
+          "source": "/concept/mechanistic-organization",
           "target": "/reference/Mossio2014",
           "text": "Mossio2014"
-        }
-      ],
-      "/concept/mechanistic-system": [
-        {
-          "source": "/concept/mechanistic-system",
-          "target": "/concept/mechanistic-system-detailed",
-          "text": "mechanistic system (detailed)"
         }
       ],
       "/concept/negentropy": [
@@ -936,6 +902,38 @@
           "source": "/note/note-on-Laillier2022",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
+        }
+      ],
+      "/note/note-on-Laland2015": [
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/concept/Modern-Synthesis",
+          "text": "Modern Synthesis"
+        },
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/reference/Whyte1964",
+          "text": "Whyte1964"
+        },
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/reference/Gilbert1996",
+          "text": "Gilbert1996"
+        },
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/reference/Noble2014",
+          "text": "Noble2014"
+        },
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/definition/gene-product",
+          "text": "gene product"
         }
       ],
       "/note/note-on-LiVigni2021": [
@@ -2050,6 +2048,13 @@
           "text": "Mendelian inheritance"
         }
       ],
+      "/concept/Modern-Synthesis": [
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/concept/Modern-Synthesis",
+          "text": "Modern Synthesis"
+        }
+      ],
       "/concept/Poincares-unpredictable-determinism": [
         {
           "source": "/concept/Laplacian-determinism",
@@ -2256,13 +2261,6 @@
           "text": "mechanistic organization"
         }
       ],
-      "/concept/mechanistic-organization-detailed": [
-        {
-          "source": "/concept/mechanistic-organization",
-          "target": "/concept/mechanistic-organization-detailed",
-          "text": "mechanistic organization (detailed)"
-        }
-      ],
       "/concept/mechanistic-system": [
         {
           "source": "/concept/mechanistic-organization",
@@ -2272,12 +2270,7 @@
       ],
       "/concept/mechanistic-system-detailed": [
         {
-          "source": "/concept/mechanistic-organization-detailed",
-          "target": "/concept/mechanistic-system-detailed",
-          "text": "mechanistic system (detailed)"
-        },
-        {
-          "source": "/concept/mechanistic-system",
+          "source": "/concept/mechanistic-organization",
           "target": "/concept/mechanistic-system-detailed",
           "text": "mechanistic system (detailed)"
         }
@@ -2590,6 +2583,13 @@
           "source": "/concept/Tarskis-undefinability-theorem",
           "target": "/definition/formal-system",
           "text": "formal system"
+        }
+      ],
+      "/definition/gene-product": [
+        {
+          "source": "/note/note-on-Laland2015",
+          "target": "/definition/gene-product",
+          "text": "gene product"
         }
       ],
       "/definition/molecular-chaperon": [
@@ -3096,7 +3096,7 @@
       ],
       "/reference/Gilbert1996": [
         {
-          "source": "/concept/Modern-Synthesis",
+          "source": "/note/note-on-Laland2015",
           "target": "/reference/Gilbert1996",
           "text": "Gilbert1996"
         }
@@ -3314,7 +3314,7 @@
           "text": "Laland2015"
         },
         {
-          "source": "/concept/Modern-Synthesis",
+          "source": "/note/note-on-Laland2015",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         },
@@ -3635,7 +3635,7 @@
       ],
       "/reference/Mossio2014": [
         {
-          "source": "/concept/mechanistic-organization-detailed",
+          "source": "/concept/mechanistic-organization",
           "target": "/reference/Mossio2014",
           "text": "Mossio2014"
         },
@@ -3699,7 +3699,7 @@
       ],
       "/reference/Noble2014": [
         {
-          "source": "/concept/Modern-Synthesis",
+          "source": "/note/note-on-Laland2015",
           "target": "/reference/Noble2014",
           "text": "Noble2014"
         }
@@ -4056,7 +4056,7 @@
       ],
       "/reference/Whyte1964": [
         {
-          "source": "/concept/Modern-Synthesis",
+          "source": "/note/note-on-Laland2015",
           "target": "/reference/Whyte1964",
           "text": "Whyte1964"
         }
@@ -4282,26 +4282,6 @@
       "source": "/concept/Modern-Synthesis",
       "target": "/concept/Mendelian-inheritance",
       "text": "Mendelian inheritance"
-    },
-    {
-      "source": "/concept/Modern-Synthesis",
-      "target": "/reference/Laland2015",
-      "text": "Laland2015"
-    },
-    {
-      "source": "/concept/Modern-Synthesis",
-      "target": "/reference/Whyte1964",
-      "text": "Whyte1964"
-    },
-    {
-      "source": "/concept/Modern-Synthesis",
-      "target": "/reference/Gilbert1996",
-      "text": "Gilbert1996"
-    },
-    {
-      "source": "/concept/Modern-Synthesis",
-      "target": "/reference/Noble2014",
-      "text": "Noble2014"
     },
     {
       "source": "/concept/Modern-Synthesis",
@@ -4544,29 +4524,19 @@
       "text": "Dawkins1976"
     },
     {
-      "source": "/concept/mechanistic-organization-detailed",
-      "target": "/concept/mechanistic-system-detailed",
-      "text": "mechanistic system (detailed)"
-    },
-    {
-      "source": "/concept/mechanistic-organization-detailed",
-      "target": "/reference/Mossio2014",
-      "text": "Mossio2014"
-    },
-    {
       "source": "/concept/mechanistic-organization",
       "target": "/concept/mechanistic-system",
       "text": "mechanistic system"
     },
     {
       "source": "/concept/mechanistic-organization",
-      "target": "/concept/mechanistic-organization-detailed",
-      "text": "mechanistic organization (detailed)"
-    },
-    {
-      "source": "/concept/mechanistic-system",
       "target": "/concept/mechanistic-system-detailed",
       "text": "mechanistic system (detailed)"
+    },
+    {
+      "source": "/concept/mechanistic-organization",
+      "target": "/reference/Mossio2014",
+      "text": "Mossio2014"
     },
     {
       "source": "/concept/negentropy",
@@ -4902,6 +4872,36 @@
       "source": "/note/note-on-Laillier2022",
       "target": "/reference/Laillier2022",
       "text": "Laillier2022"
+    },
+    {
+      "source": "/note/note-on-Laland2015",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
+    },
+    {
+      "source": "/note/note-on-Laland2015",
+      "target": "/concept/Modern-Synthesis",
+      "text": "Modern Synthesis"
+    },
+    {
+      "source": "/note/note-on-Laland2015",
+      "target": "/reference/Whyte1964",
+      "text": "Whyte1964"
+    },
+    {
+      "source": "/note/note-on-Laland2015",
+      "target": "/reference/Gilbert1996",
+      "text": "Gilbert1996"
+    },
+    {
+      "source": "/note/note-on-Laland2015",
+      "target": "/reference/Noble2014",
+      "text": "Noble2014"
+    },
+    {
+      "source": "/note/note-on-Laland2015",
+      "target": "/definition/gene-product",
+      "text": "gene product"
     },
     {
       "source": "/note/note-on-LiVigni2021",
