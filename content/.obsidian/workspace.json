@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "606042bdd2cbd55f",
+        "id": "192ee20c503ef170",
         "type": "tabs",
         "children": [
           {
-            "id": "993b99db33e601db",
+            "id": "adfe68ded6b61c6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition/systematics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bf7ebf79caf56ae1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7be8d8e04c4605c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "definition/taxonomy.md",
+                "file": "projects/thesis_project/(v1.2) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "systematics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition/taxonomy.md",
+                "file": "projects/thesis_project/(v1.2) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition/taxonomy.md",
+                "file": "projects/thesis_project/(v1.2) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition/taxonomy.md"
+                "file": "projects/thesis_project/(v1.2) projet.md"
               }
             }
           }
@@ -165,8 +146,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a7be8d8e04c4605c",
+  "active": "adfe68ded6b61c6d",
   "lastOpenFiles": [
+    "definition/taxonomy.md",
     "definition/systematics.md",
     "projects/TODO.md",
     "projects/TOREAD.md",
@@ -193,7 +175,6 @@
     "projects/theorization_in_sciences/(v0.6) Le besoin d'une économie des théories scientifiques.md",
     "projects/theorization_in_sciences/(v0.5) L'urgence d'une économie des théories scientifiques.md",
     "projects/theorization_in_sciences/(v0.4) L'urgence d'une économie des théories scientifiques.md",
-    "projects/theorization_in_sciences/(v0.3) L'urgence d'une économie des théories scientifiques.md",
     "images/Pasted image 20230118122044.png"
   ]
 }
