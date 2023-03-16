@@ -3930,6 +3930,117 @@
       "select": "zotero://select/library/items/DJN5AWG5"
     },
     {
+      "key": "SCYYCIEC",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12453",
+      "volume": "94",
+      "issue": "1",
+      "pages": "259-282",
+      "publicationTitle": "Biological Reviews",
+      "ISSN": "1469-185X",
+      "date": "2019",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/brv.12453",
+      "DOI": "10.1111/brv.12453",
+      "accessDate": "2023-03-16T15:48:34Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "abstractNote": "After decades of debate about the existence of non-genetic inheritance, the focus is now slowly shifting towards dissecting its underlying mechanisms. Here, we propose a new mechanism that, by integrating non-genetic and genetic inheritance, may help build the long-sought inclusive vision of evolution. After briefly reviewing the wealth of evidence documenting the existence and ubiquity of non-genetic inheritance in a table, we review the categories of mechanisms of parent\u2013offspring resemblance that underlie inheritance. We then review several lines of argument for the existence of interactions between non-genetic and genetic components of inheritance, leading to a discussion of the contrasting timescales of action of non-genetic and genetic inheritance. This raises the question of how the fidelity of the inheritance system can match the rate of environmental variation. This question is central to understanding the role of different inheritance systems in evolution. We then review and interpret evidence indicating the existence of shifts from inheritance systems with low to higher transmission fidelity. Based on results from different research fields we propose a conceptual hypothesis linking genetic and non-genetic inheritance systems. According to this hypothesis, over the course of generations, shifts among information systems allow gradual matching between the rate of environmental change and the inheritance fidelity of the corresponding response. A striking conclusion from our review is that documented shifts between types of inherited non-genetic information converge towards epigenetics (i.e. inclusively heritable molecular variation in gene expression without change in DNA sequence). We then interpret the well-documented mutagenicity of epigenetic marks as potentially generating a final shift from epigenetic to genetic encoding. This sequence of shifts suggests the existence of a relay in inheritance systems from relatively labile ones to gradually more persistent modes of inheritance, a relay that could constitute a new mechanistic basis for the long-proposed, but still poorly documented, hypothesis of genetic assimilation. A profound difference between the genocentric and the inclusive vision of heredity revealed by the genetic assimilation relay proposed here lies in the fact that a given form of inheritance can affect the rate of change of other inheritance systems. To explore the consequences of such inter-connection among inheritance systems, we briefly review published theoretical models to build a model of genetic assimilation focusing on the shift in the engraving of environmentally induced phenotypic variation into the DNA sequence. According to this hypothesis, when environmental change remains stable over a sufficient number of generations, the relay among inheritance systems has the potential to generate a form of genetic assimilation. In this hypothesis, epigenetics appears as a hub by which non-genetically inherited environmentally induced variation in traits can become genetically encoded over generations, in a form of epigenetically facilitated mutational assimilation. Finally, we illustrate some of the major implications of our hypothetical framework, concerning mutation randomness, the central dogma of molecular biology, concepts of inheritance and the curing of inherited disorders, as well as for the emergence of the inclusive evolutionary synthesis.",
+      "title": "Epigenetically facilitated mutational assimilation: epigenetics as a hub within the inclusive evolutionary synthesis",
+      "shortTitle": "Epigenetically facilitated mutational assimilation",
+      "creators": [
+        {
+          "firstName": "Etienne",
+          "lastName": "Danchin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Arnaud",
+          "lastName": "Pocheville",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Olivier",
+          "lastName": "Rey",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Benoit",
+          "lastName": "Pujol",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Simon",
+          "lastName": "Blanchet",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "central dogma",
+          "type": 1
+        },
+        {
+          "tag": "epigenetics",
+          "type": 1
+        },
+        {
+          "tag": "genetic assimilation",
+          "type": 1
+        },
+        {
+          "tag": "inclusive evolutionary synthesis",
+          "type": 1
+        },
+        {
+          "tag": "inclusive heritability",
+          "type": 1
+        },
+        {
+          "tag": "mutation randomness",
+          "type": 1
+        },
+        {
+          "tag": "non-genetic inheritance",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-16T15:48:34Z",
+      "dateModified": "2023-03-16T15:48:34Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/SCYYCIEC",
+      "itemID": 6974,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-16T15:48:36Z",
+          "dateModified": "2023-03-16T15:48:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/TEGBGIUU",
+          "path": "/Users/robert/Dropbox/zotero/storage/TEGBGIUU/Danchin et al. - 2019 - Epigenetically facilitated mutational assimilation.pdf",
+          "select": "zotero://select/library/items/TEGBGIUU"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-16T15:48:42Z",
+          "dateModified": "2023-03-16T15:48:42Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/WVID7F69",
+          "path": "/Users/robert/Dropbox/zotero/storage/WVID7F69/brv.html",
+          "select": "zotero://select/library/items/WVID7F69"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Danchin2019",
+      "itemKey": "SCYYCIEC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SCYYCIEC"
+    },
+    {
       "key": "UBFGXP9Q",
       "version": 0,
       "itemType": "journalArticle",
@@ -6877,6 +6988,74 @@
       "itemKey": "E4LSUPE4",
       "libraryID": 1,
       "select": "zotero://select/library/items/E4LSUPE4"
+    },
+    {
+      "key": "5PUS79TN",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/598822",
+      "volume": "84",
+      "issue": "2",
+      "pages": "131-176",
+      "publicationTitle": "The Quarterly Review of Biology",
+      "ISSN": "0033-5770",
+      "date": "2009-06",
+      "extra": "Publisher: The University of Chicago Press",
+      "DOI": "10.1086/598822",
+      "accessDate": "2023-03-16T15:48:18Z",
+      "libraryCatalog": "journals.uchicago.edu (Atypon)",
+      "abstractNote": "This review describes new developments in the study of transgenerational epigenetic inheritance, a component of epigenetics. We start by examining the basic concepts of the field and the mechanisms that underlie epigenetic inheritance. We present a comprehensive review of transgenerational cellular epigenetic inheritance among different taxa in the form of a table, and discuss the data contained therein. The analysis of these data shows that epigenetic inheritance is ubiquitous and suggests lines of research that go beyond present approaches to the subject. We conclude by exploring some of the consequences of epigenetic inheritance for the study of evolution, while also pointing to the importance of recognizing and understanding epigenetic inheritance for practical and theoretical issues in biology.",
+      "title": "Transgenerational Epigenetic Inheritance: Prevalence, Mechanisms, and Implications for the Study of Heredity and Evolution",
+      "shortTitle": "Transgenerational Epigenetic Inheritance",
+      "creators": [
+        {
+          "firstName": "Eva",
+          "lastName": "Jablonka",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gal",
+          "lastName": "Raz",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cell memory",
+          "type": 1
+        },
+        {
+          "tag": "epigenetics",
+          "type": 1
+        },
+        {
+          "tag": "induced heritable variations",
+          "type": 1
+        },
+        {
+          "tag": "Lamarckism",
+          "type": 1
+        },
+        {
+          "tag": "macroevolution",
+          "type": 1
+        },
+        {
+          "tag": "microevolution",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-16T15:48:18Z",
+      "dateModified": "2023-03-16T15:48:18Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/5PUS79TN",
+      "itemID": 6973,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Jablonka2009",
+      "itemKey": "5PUS79TN",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5PUS79TN"
     },
     {
       "key": "CH6IID5B",
