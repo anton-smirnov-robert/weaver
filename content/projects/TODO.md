@@ -12,10 +12,13 @@ tags:
 
 #### Articles
 - [x]  Note on Novelty  — Maël , avec articulation avec fonction et clotûre de contraintes.
-- [ ]  Read [Montevil2016](reference/Montevil2016.md)
-- [ ] Read [Montevil2019](reference/Montevil2019.md)
+- [x]  Read [Montevil2016](reference/Montevil2016.md)
+- [x] Read [Montevil2019](reference/Montevil2019.md)
 - [ ] Read [Montevil2022a](reference/Montevil2022a.md)
 - [ ] Read [Montevil2020a](reference/Montevil2020a.md) 
+- [ ] Note [Montevil2016](reference/Montevil2016.md)
+- [ ] Note [Montevil2019](reference/Montevil2019.md)
+
 - [ ] Read Montévil symbole informatique qui empèche de calculer
 
 - [ ] Incompleteness — Longo 

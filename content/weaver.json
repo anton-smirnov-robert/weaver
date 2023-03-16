@@ -10376,6 +10376,17 @@
       "attachments": [
         {
           "itemType": "attachment",
+          "title": "10.1007@s10539-019-9687-x.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-16T19:16:56Z",
+          "dateModified": "2023-03-16T19:16:56Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/H6C84TA6",
+          "path": "/Users/robert/Dropbox/zotero/storage/H6C84TA6/10.1007@s10539-019-9687-x.pdf",
+          "select": "zotero://select/library/items/H6C84TA6"
+        },
+        {
+          "itemType": "attachment",
           "title": "Mont\u00e9vil - 2019 - Measurement in biology is methodized by theory.pdf",
           "tags": [],
           "relations": [],
@@ -10454,6 +10465,56 @@
       "itemKey": "K2QW76TC",
       "libraryID": 1,
       "select": "zotero://select/library/items/K2QW76TC"
+    },
+    {
+      "key": "ZWGW9DBE",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1007/s12064-020-00320-8",
+      "volume": "141",
+      "issue": "2",
+      "pages": "165-173",
+      "publicationTitle": "Theory in Biosciences",
+      "ISSN": "1611-7530",
+      "date": "2020",
+      "journalAbbreviation": "Theory Biosci.",
+      "DOI": "10.1007/s12064-020-00320-8",
+      "accessDate": "2023-02-28T17:56:24Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "Most mathematical modeling in biology relies either implicitly or explicitly on the epistemology of physics. The underlying conception is that the historicity of biological objects would not matter to understand a situation here and now, or, at least, historicity would not impact the method of modeling. We analyze that it is not the case with concrete examples. Historicity forces a conceptual reconfiguration where equations no longer play a central role. We argue that all observations depend on objects defined by their historical origin instead of their relations as in physics. Therefore, we propose that biological variations and historicity come first, and regularities are constraints with limited validity in biology. Their proper theoretical and empirical use requires specific rationales.",
+      "title": "Historicity at the heart of biology",
+      "creators": [
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-28T17:56:24Z",
+      "dateModified": "2023-03-16T19:14:59Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZWGW9DBE",
+      "itemID": 6551,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "10.1007@s12064-020-00320-8.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-16T19:14:16Z",
+          "dateModified": "2023-03-16T19:14:16Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LWP8RMZ6",
+          "path": "/Users/robert/Dropbox/zotero/storage/LWP8RMZ6/10.1007@s12064-020-00320-8.pdf",
+          "select": "zotero://select/library/items/LWP8RMZ6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Montevil2020",
+      "itemKey": "ZWGW9DBE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZWGW9DBE"
     },
     {
       "key": "RNYNY633",
@@ -10721,67 +10782,6 @@
       "select": "zotero://select/library/items/7FK34NT9",
       "type": "preprint",
       "publisher": "In Review"
-    },
-    {
-      "key": "ZWGW9DBE",
-      "version": 0,
-      "itemType": "journalArticle",
-      "url": "https://doi.org/10.1007/s12064-020-00320-8",
-      "volume": "141",
-      "issue": "2",
-      "pages": "165-173",
-      "publicationTitle": "Theory in Biosciences",
-      "ISSN": "1611-7530",
-      "date": "2022-06-01",
-      "journalAbbreviation": "Theory Biosci.",
-      "DOI": "10.1007/s12064-020-00320-8",
-      "accessDate": "2023-02-28T17:56:24Z",
-      "libraryCatalog": "Springer Link",
-      "language": "en",
-      "abstractNote": "Most mathematical modeling in biology relies either implicitly or explicitly on the epistemology of physics. The underlying conception is that the historicity of biological objects would not matter to understand a situation here and now, or, at least, historicity would not impact the method of modeling. We analyze that it is not the case with concrete examples. Historicity forces a conceptual reconfiguration where equations no longer play a central role. We argue that all observations depend on objects defined by their historical origin instead of their relations as in physics. Therefore, we propose that biological variations and historicity come first, and regularities are constraints with limited validity in biology. Their proper theoretical and empirical use requires specific rationales.",
-      "title": "Historicity at the heart of biology",
-      "creators": [
-        {
-          "firstName": "Ma\u00ebl",
-          "lastName": "Mont\u00e9vil",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2023-02-28T17:56:24Z",
-      "dateModified": "2023-02-28T17:56:24Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZWGW9DBE",
-      "itemID": 6551,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Mont\u00e9vil - 2022 - Historicity at the heart of biology.pdf",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-02-28T17:56:44Z",
-          "dateModified": "2023-02-28T17:56:44Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/6YYWZNXF",
-          "path": "/Users/robert/Dropbox/zotero/storage/6YYWZNXF/Mont\u00e9vil - 2022 - Historicity at the heart of biology.pdf",
-          "select": "zotero://select/library/items/6YYWZNXF"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Version soumise",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-02-28T17:56:28Z",
-          "dateModified": "2023-02-28T17:56:28Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/ACEJ3S8Y",
-          "path": "/Users/robert/Dropbox/zotero/storage/ACEJ3S8Y/Mont\u00e9vil - 2022 - Historicity at the heart of biology.pdf",
-          "select": "zotero://select/library/items/ACEJ3S8Y"
-        }
-      ],
-      "notes": [],
-      "citationKey": "Montevil2022a",
-      "itemKey": "ZWGW9DBE",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/ZWGW9DBE"
     },
     {
       "key": "XK88APPS",
