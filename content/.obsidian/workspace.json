@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba22fcb15e43fb7",
+        "id": "7f7907b24cb8a329",
         "type": "tabs",
         "children": [
           {
-            "id": "91957d4c2c5b62f7",
+            "id": "8c346b9e3d38c170",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "91957d4c2c5b62f7",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
+    "projects/summary_of_theory/Sans titre.md",
+    "projects/summary_of_theory",
     "projects/thesis_project/(v1.2) projet.md",
     "definition/taxonomy.md",
     "definition/systematics.md",
@@ -166,7 +168,6 @@
     "projects/theorization_in_sciences/Allons-nous continuer la recherche scientifique ?.md",
     "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
     "projects/theorization_in_sciences/(v0.6) Le besoin d'une économie des théories scientifiques.md",
-    "projects/theorization_in_sciences/(v0.5) L'urgence d'une économie des théories scientifiques.md",
     "images/Pasted image 20230118122044.png"
   ]
 }
