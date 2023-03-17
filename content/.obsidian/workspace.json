@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "projects/thesis_project/(v1.2) projet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "projects/thesis_project/(v1.2) projet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "projects/thesis_project/(v1.2) projet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/TODO.md"
+                "file": "projects/thesis_project/(v1.2) projet.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "8c346b9e3d38c170",
   "lastOpenFiles": [
+    "projects/TODO.md",
     "projects/summary_of_theory/Sans titre.md",
     "projects/summary_of_theory",
     "projects/thesis_project/(v1.2) projet.md",
     "definition/taxonomy.md",
     "definition/systematics.md",
-    "projects/TODO.md",
     "projects/TOREAD.md",
     "concept/mechanistic system (detailed).md",
     "concept/mechanistic organization.md",
