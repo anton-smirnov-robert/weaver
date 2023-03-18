@@ -5752,6 +5752,150 @@
       "select": "zotero://select/library/items/2THNZP99"
     },
     {
+      "key": "JL44LA24",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/1097-0177%282000%299999%3A9999%3C%3A%3AAID-DVDY1036%3E3.0.CO%3B2-A",
+      "volume": "219",
+      "issue": "1",
+      "pages": "1-9",
+      "publicationTitle": "Developmental Dynamics",
+      "ISSN": "1097-0177",
+      "date": "2000",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/1097-0177%282000%299999%3A9999%3C%3A%3AAID-DVDY1036%3E3.0.CO%3B2-A",
+      "DOI": "10.1002/1097-0177(2000)9999:9999<::AID-DVDY1036>3.0.CO;2-A",
+      "accessDate": "2023-03-18T10:58:37Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "abstractNote": "Organicism (materialistic holism) has provided the philosophical underpinnings for embryology since the time of Kant. It had influenced the founders of developmental mechanics, and the importance of organicism to embryology was explicitly recognized by such figures as O. Hertwig, H. Spemann, R. Harrison, A. M. Dalq, J. Needham, and C. H. Waddington. Many of the principles of organicism remain in contemporary developmental biology, but they are rarely defined as such. A combination of genetic reductionism and the adoption of holism by unscientific communities has led to the devaluation of organicism as a fruitful heuristic for research. This essay attempts to define organicism, provide a brief history of its importance to experimental embryology, outline some sociologically based reasons for its decline, and document its value in contemporary developmental biology. Based on principles or organicism, developmental biology should become a science of emerging complexity. However, this does mean that some of us will have to learn calculus. \u00a9 2000 Wiley-Liss, Inc.",
+      "title": "Embracing complexity: Organicism for the 21st century",
+      "shortTitle": "Embracing complexity",
+      "creators": [
+        {
+          "firstName": "Scott F.",
+          "lastName": "Gilbert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sahotra",
+          "lastName": "Sarkar",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "complexity",
+          "type": 1
+        },
+        {
+          "tag": "computation",
+          "type": 1
+        },
+        {
+          "tag": "development",
+          "type": 1
+        },
+        {
+          "tag": "developmental biology",
+          "type": 1
+        },
+        {
+          "tag": "embryology",
+          "type": 1
+        },
+        {
+          "tag": "emergence",
+          "type": 1
+        },
+        {
+          "tag": "emergent properties",
+          "type": 1
+        },
+        {
+          "tag": "genes",
+          "type": 1
+        },
+        {
+          "tag": "genetics",
+          "type": 1
+        },
+        {
+          "tag": "genome",
+          "type": 1
+        },
+        {
+          "tag": "history",
+          "type": 1
+        },
+        {
+          "tag": "holism",
+          "type": 1
+        },
+        {
+          "tag": "molecular biology",
+          "type": 1
+        },
+        {
+          "tag": "morphogenesis",
+          "type": 1
+        },
+        {
+          "tag": "organ development",
+          "type": 1
+        },
+        {
+          "tag": "organicism",
+          "type": 1
+        },
+        {
+          "tag": "pattern formation",
+          "type": 1
+        },
+        {
+          "tag": "philosophy",
+          "type": 1
+        },
+        {
+          "tag": "reductionism",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-18T10:58:37Z",
+      "dateModified": "2023-03-18T10:58:37Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/JL44LA24",
+      "itemID": 7129,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-18T10:58:40Z",
+          "dateModified": "2023-03-18T10:58:40Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/J9DDYDF2",
+          "path": "/Users/robert/Dropbox/zotero/storage/J9DDYDF2/Gilbert et Sarkar - 2000 - Embracing complexity Organicism for the 21st cent.pdf",
+          "select": "zotero://select/library/items/J9DDYDF2"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-18T10:58:46Z",
+          "dateModified": "2023-03-18T10:58:46Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/5CEJ53ZI",
+          "path": "/Users/robert/Dropbox/zotero/storage/5CEJ53ZI/1097-0177(2000)99999999AID-DVDY10363.0.html",
+          "select": "zotero://select/library/items/5CEJ53ZI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Gilbert2000",
+      "itemKey": "JL44LA24",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JL44LA24"
+    },
+    {
       "key": "ACF236UV",
       "version": 0,
       "itemType": "journalArticle",
