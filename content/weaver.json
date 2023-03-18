@@ -11368,6 +11368,72 @@
       "select": "zotero://select/library/items/5G37W6AM"
     },
     {
+      "key": "GHUJQLSZ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.journals.uchicago.edu/doi/10.1093/bjps/axz031",
+      "volume": "73",
+      "issue": "1",
+      "pages": "249-278",
+      "publicationTitle": "The British Journal for the Philosophy of Science",
+      "ISSN": "0007-0882",
+      "date": "2022-03",
+      "extra": "Publisher: The University of Chicago Press",
+      "DOI": "10.1093/bjps/axz031",
+      "accessDate": "2023-03-18T11:51:26Z",
+      "libraryCatalog": "journals.uchicago.edu (Atypon)",
+      "abstractNote": "We develop a conceptual framework that connects biological heredity and organization. We refer to heredity as the cross-generation conservation of functional elements, defined as constraints subject to organizational closure. While hereditary objects are functional constituents of biological systems, any other entity that is stable across generations\u2014and possibly involved in the recurrence of phenotypes\u2014belongs to their environment. The central outcome of the organizational perspective consists in extending the scope of heredity beyond the genetic domain without merging it with the broad category of cross-generation stability. After discussing some implications, we conclude with a reflection on the relationship between stability and variation.",
+      "title": "Conserving Functions across Generations: Heredity in Light of Biological Organization",
+      "shortTitle": "Conserving Functions across Generations",
+      "creators": [
+        {
+          "firstName": "Matteo",
+          "lastName": "Mossio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ga\u00eblle",
+          "lastName": "Pontarotti",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-18T11:51:26Z",
+      "dateModified": "2023-03-18T11:51:26Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/GHUJQLSZ",
+      "itemID": 7139,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "10.1093@bjps@axz031 (2).pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-18T11:52:14Z",
+          "dateModified": "2023-03-18T11:52:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/43YBCQ2T",
+          "path": "/Users/robert/Dropbox/zotero/storage/43YBCQ2T/10.1093@bjps@axz031 (2).pdf",
+          "select": "zotero://select/library/items/43YBCQ2T"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-18T11:51:32Z",
+          "dateModified": "2023-03-18T11:51:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8RBNWIDI",
+          "path": "/Users/robert/Dropbox/zotero/storage/8RBNWIDI/Mossio et Pontarotti - 2022 - Conserving Functions across Generations Heredity .pdf",
+          "select": "zotero://select/library/items/8RBNWIDI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Mossio2022",
+      "itemKey": "GHUJQLSZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GHUJQLSZ"
+    },
+    {
       "key": "XRHS2XWQ",
       "version": 0,
       "itemType": "journalArticle",
