@@ -1,5 +1,5 @@
 ---
-title: "History of self-determination"
+title: "history of self-determination"
 date: 2023-01-17
 draft: false
 showthedate: true

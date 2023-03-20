@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "009c51bfcaa4087f",
+        "id": "46bb1c1ef319400f",
         "type": "tabs",
         "children": [
           {
-            "id": "263d0a056e29c9ea",
+            "id": "b7b1e38c544eeae1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/note on Montévil2016.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/note on Montévil2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/note on Montévil2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/note on Montévil2016.md"
+              }
             }
           }
         ]
@@ -138,10 +146,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "263d0a056e29c9ea",
+  "active": "b7b1e38c544eeae1",
   "lastOpenFiles": [
-    "reference/Montevil2022.md",
+    "reference/Beatty1995.md",
+    "reference/Gould2002.md",
+    "images/Pasted image 20230320111525.png",
+    "reference/Montevil2016.md",
+    "note/note on Montévil2016.md",
+    "reference/Darwin1859.md",
+    "note/note on Montévil2019a.md",
+    "note/note on Montévil2021.md",
+    "note/history of self-determination.md",
+    "note/note on Rovelli2017.md",
     "projects/thesis_project/(v1.2) projet.md",
+    "reference/Montevil2022.md",
     "projects/TODO.md",
     "projects/summary_of_theory/Sans titre.md",
     "projects/summary_of_theory",
@@ -158,16 +176,7 @@
     "concept/Modern Synthesis.md",
     "writing/(v1.2) projet.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "projects/théorisation_en_sciences/Sans titre.md",
     "writing",
-    "projects/theorization_in_sciences/(v1.1) Le déclin de la théorisation en sciences.md",
-    "projects/theorization_in_sciences/marketization_of_scientific_research.md",
-    "projects/theorization_in_sciences/conclusion.md",
-    "projects/theorization_in_sciences/article epistemological mismatch.md",
-    "projects/theorization_in_sciences/Polanyi's Republic of Science.md",
-    "projects/theorization_in_sciences/Hayek's mechanistic economy of knowledge.md",
-    "projects/theorization_in_sciences/Allons-nous continuer la recherche scientifique ?.md",
-    "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
     "images/Pasted image 20230118122044.png"
   ]
 }

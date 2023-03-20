@@ -15,7 +15,7 @@ by Rovelli C. (2017)
 Reference: [Rovelli2017](reference/Rovelli2017.md)
 
 
-Boltzmann's [entropy](definition/entropy.md) (but also Gibb's) resorts to coarse-graining of the phase space in several macrostates. 
+Boltzmann's [entropy](definition/entropy.md) (but also Gibb's) resorts to coarse-graining of the phase space into several macrostates. 
 Given a trajectory, there is a coarse graining that makes entropy decrease.
 We usually do not access the system we are interested in. Rather, the system is coupled to another one, and this defines the coarse-graining. 
 
@@ -28,7 +28,6 @@ This specific coarse graining makes entropy increase to us.
 > [!quote] 
 >
 >The subsystem to which we belong interacts with the universe via a relatively small number of quantities, which define a coarse graining. Entropy happens to depends on coarse-graining. Therefore the entropy we ascribe to the universe depends on the peculiar coupling between us and the rest of the universe. Low past entropy may be due to the fact that this coupling (rather than microstate of the universe) is non-generic. —  (Rovelli, 2017, p. 1) 
-
 
 
 #### Autre: 
