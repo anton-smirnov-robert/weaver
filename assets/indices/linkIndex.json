@@ -622,6 +622,18 @@
           "text": "entropy"
         }
       ],
+      "/concept/symmetry-in-physics": [
+        {
+          "source": "/concept/symmetry-in-physics",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
+        },
+        {
+          "source": "/concept/symmetry-in-physics",
+          "target": "/reference/VanFraassen1989",
+          "text": "VanFraassen1989"
+        }
+      ],
       "/definition/Groupe-des-Dix": [
         {
           "source": "/definition/Groupe-des-Dix",
@@ -761,79 +773,79 @@
           "text": "taxonomy"
         }
       ],
-      "/note/history-of-organisms-as-self-determined-biological-systems": [
+      "/note/history-of-self-determination": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Kant1790",
           "text": "Kant1790"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Bernard1865",
           "text": "Bernard1865"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Bernard1879",
           "text": "Bernard1879"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Cannon1929",
           "text": "Cannon1929"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/VonBertalanffy1952",
           "text": "VonBertalanffy1952"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Wiener1948",
           "text": "Wiener1948"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Ashby1957",
           "text": "Ashby1957"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Weiss1968",
           "text": "Weiss1968"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Waddington1968",
           "text": "Waddington1968"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Piaget1967",
           "text": "Piaget1967"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Maturana1973",
           "text": "Maturana1973"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Rosen1991",
           "text": "Rosen1991"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Atkins1984",
           "text": "Atkins1984"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Kauffman2000",
           "text": "Kauffman2000"
         }
@@ -1160,6 +1172,77 @@
           "text": "Jakkaraju2003"
         }
       ],
+      "/note/note-on-Mont%C3%A9vil2016": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Darwin1859",
+          "text": "Darwin1859"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Beatty1995",
+          "text": "Beatty1995"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Gould2002",
+          "text": "Gould2002"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/concept/symmetry-in-physics",
+          "text": "symmetry in physics"
+        }
+      ],
+      "/note/note-on-Mont%C3%A9vil2019a": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
+          "target": "/concept/novelty",
+          "text": "novelty"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
+          "target": "/concept/new-possibility",
+          "text": "new possibility"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
+          "target": "/concept/novelty",
+          "text": "novelty"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
+          "target": "/concept/new-possibility",
+          "text": "new possibility"
+        }
+      ],
+      "/note/note-on-Mont%C3%A9vil2021": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2021",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2021",
+          "target": "/concept/scientific-positivism",
+          "text": "scientific positivism"
+        },
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2021",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        }
+      ],
       "/note/note-on-Monte%CC%81vil2015": [
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
@@ -1168,8 +1251,8 @@
         },
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
-          "text": "history of organisms as self-determined biological systems"
+          "target": "/note/history-of-self-determination",
+          "text": "history of self-determination"
         },
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
@@ -1212,50 +1295,6 @@
           "text": "Montevil2015"
         }
       ],
-      "/note/note-on-Montevil2019a": [
-        {
-          "source": "/note/note-on-Montevil2019a",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
-        },
-        {
-          "source": "/note/note-on-Montevil2019a",
-          "target": "/concept/novelty",
-          "text": "novelty"
-        },
-        {
-          "source": "/note/note-on-Montevil2019a",
-          "target": "/concept/new-possibility",
-          "text": "new possibility"
-        },
-        {
-          "source": "/note/note-on-Montevil2019a",
-          "target": "/concept/novelty",
-          "text": "novelty"
-        },
-        {
-          "source": "/note/note-on-Montevil2019a",
-          "target": "/concept/new-possibility",
-          "text": "new possibility"
-        }
-      ],
-      "/note/note-on-Montevil2021": [
-        {
-          "source": "/note/note-on-Montevil2021",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/note/note-on-Montevil2021",
-          "target": "/concept/scientific-positivism",
-          "text": "scientific positivism"
-        },
-        {
-          "source": "/note/note-on-Montevil2021",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
-        }
-      ],
       "/note/note-on-Mossio2014": [
         {
           "source": "/note/note-on-Mossio2014",
@@ -1264,8 +1303,8 @@
         },
         {
           "source": "/note/note-on-Mossio2014",
-          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
-          "text": "history of organisms as self-determined biological systems"
+          "target": "/note/history-of-self-determination",
+          "text": "history of self-determination"
         },
         {
           "source": "/note/note-on-Mossio2014",
@@ -2289,12 +2328,12 @@
       ],
       "/concept/new-possibility": [
         {
-          "source": "/note/note-on-Montevil2019a",
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
           "target": "/concept/new-possibility",
           "text": "new possibility"
         },
         {
-          "source": "/note/note-on-Montevil2019a",
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
           "target": "/concept/new-possibility",
           "text": "new possibility"
         }
@@ -2311,12 +2350,12 @@
           "text": "novelty"
         },
         {
-          "source": "/note/note-on-Montevil2019a",
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
           "target": "/concept/novelty",
           "text": "novelty"
         },
         {
-          "source": "/note/note-on-Montevil2019a",
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
           "target": "/concept/novelty",
           "text": "novelty"
         }
@@ -2335,7 +2374,7 @@
       ],
       "/concept/scientific-positivism": [
         {
-          "source": "/note/note-on-Montevil2021",
+          "source": "/note/note-on-Mont%C3%A9vil2021",
           "target": "/concept/scientific-positivism",
           "text": "scientific positivism"
         }
@@ -2365,6 +2404,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
+        }
+      ],
+      "/concept/symmetry-in-physics": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/concept/symmetry-in-physics",
+          "text": "symmetry in physics"
         }
       ],
       "/definition/Groupe-des-Dix": [
@@ -2668,16 +2714,16 @@
           "text": "manifesto"
         }
       ],
-      "/note/history-of-organisms-as-self-determined-biological-systems": [
+      "/note/history-of-self-determination": [
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
-          "text": "history of organisms as self-determined biological systems"
+          "target": "/note/history-of-self-determination",
+          "text": "history of self-determination"
         },
         {
           "source": "/note/note-on-Mossio2014",
-          "target": "/note/history-of-organisms-as-self-determined-biological-systems",
-          "text": "history of organisms as self-determined biological systems"
+          "target": "/note/history-of-self-determination",
+          "text": "history of self-determination"
         }
       ],
       "/note/note-on-Longo2012": [
@@ -2744,14 +2790,14 @@
       ],
       "/reference/Ashby1957": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Ashby1957",
           "text": "Ashby1957"
         }
       ],
       "/reference/Atkins1984": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Atkins1984",
           "text": "Atkins1984"
         }
@@ -2782,16 +2828,23 @@
           "text": "Baker2016"
         }
       ],
+      "/reference/Beatty1995": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Beatty1995",
+          "text": "Beatty1995"
+        }
+      ],
       "/reference/Bernard1865": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Bernard1865",
           "text": "Bernard1865"
         }
       ],
       "/reference/Bernard1879": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Bernard1879",
           "text": "Bernard1879"
         }
@@ -2933,7 +2986,7 @@
       ],
       "/reference/Cannon1929": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Cannon1929",
           "text": "Cannon1929"
         }
@@ -2983,6 +3036,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Danchin2002",
           "text": "Danchin2002"
+        }
+      ],
+      "/reference/Darwin1859": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Darwin1859",
+          "text": "Darwin1859"
         }
       ],
       "/reference/Davies2006": [
@@ -3146,6 +3206,13 @@
           "text": "Godin2020"
         }
       ],
+      "/reference/Gould2002": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Gould2002",
+          "text": "Gould2002"
+        }
+      ],
       "/reference/Grothendieck1972": [
         {
           "source": "/writing/v1.1-Le-d%C3%A9clin-de-la-th%C3%A9orisation-en-sciences",
@@ -3243,14 +3310,14 @@
       ],
       "/reference/Kant1790": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Kant1790",
           "text": "Kant1790"
         }
       ],
       "/reference/Kauffman2000": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Kauffman2000",
           "text": "Kauffman2000"
         }
@@ -3370,6 +3437,13 @@
           "text": "Longo2012"
         }
       ],
+      "/reference/Longo2014": [
+        {
+          "source": "/concept/symmetry-in-physics",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
+        }
+      ],
       "/reference/Longo2021": [
         {
           "source": "/note/note-on-Longo2012",
@@ -3410,7 +3484,7 @@
       ],
       "/reference/Maturana1973": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Maturana1973",
           "text": "Maturana1973"
         },
@@ -3523,6 +3597,13 @@
           "text": "Montevil2015"
         }
       ],
+      "/reference/Montevil2016": [
+        {
+          "source": "/note/note-on-Mont%C3%A9vil2016",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        }
+      ],
       "/reference/Montevil2016b": [
         {
           "source": "/writing/v1.2-projet",
@@ -3532,7 +3613,7 @@
       ],
       "/reference/Montevil2019a": [
         {
-          "source": "/note/note-on-Montevil2019a",
+          "source": "/note/note-on-Mont%C3%A9vil2019a",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         },
@@ -3556,7 +3637,7 @@
       ],
       "/reference/Montevil2021": [
         {
-          "source": "/note/note-on-Montevil2021",
+          "source": "/note/note-on-Mont%C3%A9vil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
@@ -3623,7 +3704,7 @@
       ],
       "/reference/Morin1982": [
         {
-          "source": "/note/note-on-Montevil2021",
+          "source": "/note/note-on-Mont%C3%A9vil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
@@ -3775,7 +3856,7 @@
       ],
       "/reference/Piaget1967": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Piaget1967",
           "text": "Piaget1967"
         }
@@ -3830,7 +3911,7 @@
       ],
       "/reference/Rosen1991": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Rosen1991",
           "text": "Rosen1991"
         }
@@ -3885,7 +3966,7 @@
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         },
@@ -4014,6 +4095,13 @@
           "text": "Turing1936"
         }
       ],
+      "/reference/VanFraassen1989": [
+        {
+          "source": "/concept/symmetry-in-physics",
+          "target": "/reference/VanFraassen1989",
+          "text": "VanFraassen1989"
+        }
+      ],
       "/reference/Varenne2013": [
         {
           "source": "/writing/v1.2-projet",
@@ -4023,21 +4111,21 @@
       ],
       "/reference/VonBertalanffy1952": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/VonBertalanffy1952",
           "text": "VonBertalanffy1952"
         }
       ],
       "/reference/Waddington1968": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Waddington1968",
           "text": "Waddington1968"
         }
       ],
       "/reference/Weiss1968": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Weiss1968",
           "text": "Weiss1968"
         }
@@ -4063,7 +4151,7 @@
       ],
       "/reference/Wiener1948": [
         {
-          "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+          "source": "/note/history-of-self-determination",
           "target": "/reference/Wiener1948",
           "text": "Wiener1948"
         }
@@ -4624,6 +4712,16 @@
       "text": "entropy"
     },
     {
+      "source": "/concept/symmetry-in-physics",
+      "target": "/reference/Longo2014",
+      "text": "Longo2014"
+    },
+    {
+      "source": "/concept/symmetry-in-physics",
+      "target": "/reference/VanFraassen1989",
+      "text": "VanFraassen1989"
+    },
+    {
       "source": "/definition/Groupe-des-Dix",
       "target": "/reference/LiVigni2021",
       "text": "LiVigni2021"
@@ -4739,77 +4837,77 @@
       "text": "taxonomy"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Kant1790",
       "text": "Kant1790"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Bernard1865",
       "text": "Bernard1865"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Bernard1879",
       "text": "Bernard1879"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Cannon1929",
       "text": "Cannon1929"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Schrodinger1944",
       "text": "Schrodinger1944"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/VonBertalanffy1952",
       "text": "VonBertalanffy1952"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Wiener1948",
       "text": "Wiener1948"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Ashby1957",
       "text": "Ashby1957"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Weiss1968",
       "text": "Weiss1968"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Waddington1968",
       "text": "Waddington1968"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Piaget1967",
       "text": "Piaget1967"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Maturana1973",
       "text": "Maturana1973"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Rosen1991",
       "text": "Rosen1991"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Atkins1984",
       "text": "Atkins1984"
     },
     {
-      "source": "/note/history-of-organisms-as-self-determined-biological-systems",
+      "source": "/note/history-of-self-determination",
       "target": "/reference/Kauffman2000",
       "text": "Kauffman2000"
     },
@@ -5124,54 +5222,14 @@
       "text": "Jakkaraju2003"
     },
     {
-      "source": "/note/note-on-Montevil2019a",
-      "target": "/reference/Montevil2019a",
-      "text": "Montevil2019a"
-    },
-    {
-      "source": "/note/note-on-Montevil2019a",
-      "target": "/concept/novelty",
-      "text": "novelty"
-    },
-    {
-      "source": "/note/note-on-Montevil2019a",
-      "target": "/concept/new-possibility",
-      "text": "new possibility"
-    },
-    {
-      "source": "/note/note-on-Montevil2019a",
-      "target": "/concept/novelty",
-      "text": "novelty"
-    },
-    {
-      "source": "/note/note-on-Montevil2019a",
-      "target": "/concept/new-possibility",
-      "text": "new possibility"
-    },
-    {
-      "source": "/note/note-on-Montevil2021",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/note/note-on-Montevil2021",
-      "target": "/concept/scientific-positivism",
-      "text": "scientific positivism"
-    },
-    {
-      "source": "/note/note-on-Montevil2021",
-      "target": "/reference/Morin1982",
-      "text": "Morin1982"
-    },
-    {
       "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/reference/Montevil2015",
       "text": "Montevil2015"
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/note/history-of-organisms-as-self-determined-biological-systems",
-      "text": "history of organisms as self-determined biological systems"
+      "target": "/note/history-of-self-determination",
+      "text": "history of self-determination"
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2015",
@@ -5214,14 +5272,79 @@
       "text": "Montevil2015"
     },
     {
+      "source": "/note/note-on-Mont%C3%A9vil2016",
+      "target": "/reference/Montevil2016",
+      "text": "Montevil2016"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2016",
+      "target": "/reference/Darwin1859",
+      "text": "Darwin1859"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2016",
+      "target": "/reference/Beatty1995",
+      "text": "Beatty1995"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2016",
+      "target": "/reference/Gould2002",
+      "text": "Gould2002"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2016",
+      "target": "/concept/symmetry-in-physics",
+      "text": "symmetry in physics"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2019a",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2019a",
+      "target": "/concept/novelty",
+      "text": "novelty"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2019a",
+      "target": "/concept/new-possibility",
+      "text": "new possibility"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2019a",
+      "target": "/concept/novelty",
+      "text": "novelty"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2019a",
+      "target": "/concept/new-possibility",
+      "text": "new possibility"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2021",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2021",
+      "target": "/concept/scientific-positivism",
+      "text": "scientific positivism"
+    },
+    {
+      "source": "/note/note-on-Mont%C3%A9vil2021",
+      "target": "/reference/Morin1982",
+      "text": "Morin1982"
+    },
+    {
       "source": "/note/note-on-Mossio2014",
       "target": "/reference/Mossio2014",
       "text": "Mossio2014"
     },
     {
       "source": "/note/note-on-Mossio2014",
-      "target": "/note/history-of-organisms-as-self-determined-biological-systems",
-      "text": "history of organisms as self-determined biological systems"
+      "target": "/note/history-of-self-determination",
+      "text": "history of self-determination"
     },
     {
       "source": "/note/note-on-Mossio2014",
