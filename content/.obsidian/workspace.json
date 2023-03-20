@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46bb1c1ef319400f",
+        "id": "c52a23c8e906b2be",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b1e38c544eeae1",
+            "id": "1849f59f7f8f019f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,19 +146,19 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b7b1e38c544eeae1",
+  "active": "1849f59f7f8f019f",
   "lastOpenFiles": [
+    "projects/thesis_project/(v1.2) projet.md",
+    "note/note on Montévil2016.md",
     "reference/Beatty1995.md",
     "reference/Gould2002.md",
     "images/Pasted image 20230320111525.png",
     "reference/Montevil2016.md",
-    "note/note on Montévil2016.md",
     "reference/Darwin1859.md",
     "note/note on Montévil2019a.md",
     "note/note on Montévil2021.md",
     "note/history of self-determination.md",
     "note/note on Rovelli2017.md",
-    "projects/thesis_project/(v1.2) projet.md",
     "reference/Montevil2022.md",
     "projects/TODO.md",
     "projects/summary_of_theory/Sans titre.md",

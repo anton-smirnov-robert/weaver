@@ -29,14 +29,14 @@ In contrasts to Darwin's idea, variation also occur during ontogenesis (not only
 
 ### About physics theories
 
-- Physics uses **generic** objects : objects sharing some common properties (mass, charge, legnth, etc. ) that can be permutated while leaving the theoretical analysis invariant.
-This is because physics co-evolved with mathematics, that use abstract objects. Any abstract object of mass $m$ is generic, because it can be a shoe or an apple for classical mechanics. 
+- Physics uses **generic** objects : objects sharing some common properties (mass, charge, length, etc. ) that can be permutated while leaving the theoretical analysis invariant. 
+This is because physics co-evolved with mathematics, that uses abstract objects. Any abstract object of mass $m$ is generic, because it can be a shoe or an apple for classical mechanics. 
 
-- The underlying mathematical equation do not change during the dynamics of the object, because change is to be understand in a restricted sense, as a change of **the state** of the object (or the system). 
+- The underlying mathematical equation do not change during the dynamics of the object, because change is to be understand in a somewhat restricted sense, as a change of **the state** of the object (or the system) in a **predefined** space (called "phase space" in physics), which gives all the possibilities in advance. 
 
-- The state of the object is therefore to be **predefined** in a phase space which states all the possibilities in advance. 
+- Equations governing the change of state of generic objects are valid in the entire phase space. They are not concerned by the specific values of the object's propreties, but they rather about the *relations* between the properties of objects. Most physical properties are actually defined in a relational way (charge, mass, friction coefficients, solubility elasticity, etc.). 
 
-- Equations governing the change of state of generic objects are valid in the entire predefined phase space. Therefore, they 
+- 
 
 There is always an underlying **invariant** that comes from a symmetry. 
 
