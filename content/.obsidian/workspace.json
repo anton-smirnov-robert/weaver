@@ -6,6 +6,7 @@
       {
         "id": "c52a23c8e906b2be",
         "type": "tabs",
+        "dimension": 46.49061848505907,
         "children": [
           {
             "id": "1849f59f7f8f019f",
@@ -22,26 +23,9 @@
         ]
       },
       {
-        "id": "fab8cc78cd9b7430",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba3dbcd8e26dcafb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Stadler2001.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0f35121367a1e4f4",
         "type": "tabs",
+        "dimension": 53.509381514940934,
         "children": [
           {
             "id": "f949995d0439697e",
@@ -121,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/Stadler2001.md",
+                "file": "note/note on Montévil2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/Stadler2001.md",
+                "file": "note/note on Montévil2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/Stadler2001.md"
+                "file": "note/note on Montévil2016.md"
               }
             }
           }
@@ -182,13 +166,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ba3dbcd8e26dcafb",
+  "active": "1849f59f7f8f019f",
   "lastOpenFiles": [
+    "projects/thesis_project/(v1.2) projet.md",
     "note/note on Montévil2016.md",
+    "concept/Modern Synthesis.md",
     "reference/David2013.md",
     "reference/Huang2009.md",
     "reference/Stadler2001.md",
-    "projects/thesis_project/(v1.2) projet.md",
     "concept/symmetry in physics.md",
     "images/Pasted image 20230320184008.png",
     "reference/Montevil2016.md",
@@ -212,7 +197,6 @@
     "concept/mechanistic organization.md",
     "concept/mechanistic system.md",
     "concept/mechanistic organization (detailed).md",
-    "reference/Laland2015.md",
     "writing",
     "images/Pasted image 20230118122044.png"
   ]
