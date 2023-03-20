@@ -4176,6 +4176,111 @@
       "select": "zotero://select/library/items/UBFGXP9Q"
     },
     {
+      "key": "7A3IRUI6",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1093/molbev/mst071",
+      "volume": "30",
+      "issue": "7",
+      "pages": "1514-1526",
+      "publicationTitle": "Molecular Biology and Evolution",
+      "ISSN": "0737-4038",
+      "date": "2013-07-01",
+      "journalAbbreviation": "Molecular Biology and Evolution",
+      "DOI": "10.1093/molbev/mst071",
+      "accessDate": "2023-03-20T19:33:58Z",
+      "libraryCatalog": "Silverchair",
+      "abstractNote": "Frequently during evolution, new phenotypes evolved due to novelty in gene regulation, such as that caused by genome rewiring. This has been demonstrated by comparing common regulatory sequences among species and by identifying single regulatory mutations that are associated with new phenotypes. However, while a single mutation changes a single element, gene regulation is accomplished by a regulatory network involving multiple interactive elements. Therefore, to better understand regulatory evolution, we have studied how mutations contributed to the adaptation of cells to a regulatory challenge. We created a synthetic genome rewiring in yeast cells, challenged their gene regulation, and studied their adaptation. HIS3, an essential enzyme for histidine biosynthesis, was placed exclusively under a GAL promoter, which is induced by galactose and strongly repressed in glucose. Such rewired cells were faced with significant regulatory challenges in a repressive glucose medium. We identified several independent mutations in elements of the GAL system associated with the rapid adaptation of cells, such as the repressor GAL80 and the binding sites of the activator GAL4. Consistent with the extraordinarily high rate of cell adaptation, new regulation emerged during adaptation via multiple trajectories, including those involving mutations in elements of the GAL system. The new regulation of HIS3 tuned its expression according to histidine requirements with or without these significant mutations, indicating that additional factors participated in this regulation and that the regulatory network could reorganize in multiple ways to accommodate different mutations. This study, therefore, stresses network plasticity as an important property for regulatory adaptation and evolution.",
+      "title": "Multiple Genomic Changes Associated with Reorganization of Gene Regulation and Adaptation in Yeast",
+      "creators": [
+        {
+          "firstName": "Lior",
+          "lastName": "David",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yossef",
+          "lastName": "Ben-Harosh",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Elad",
+          "lastName": "Stolovicki",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lindsay S.",
+          "lastName": "Moore",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Michelle",
+          "lastName": "Nguyen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Raquel",
+          "lastName": "Tamse",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jed",
+          "lastName": "Dean",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eugenio",
+          "lastName": "Mancera",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lars M.",
+          "lastName": "Steinmetz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Erez",
+          "lastName": "Braun",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-20T19:33:58Z",
+      "dateModified": "2023-03-20T19:33:58Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/7A3IRUI6",
+      "itemID": 7241,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-20T19:34:02Z",
+          "dateModified": "2023-03-20T19:34:02Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/8QN28L5E",
+          "path": "/Users/robert/Dropbox/zotero/storage/8QN28L5E/David et al. - 2013 - Multiple Genomic Changes Associated with Reorganiz.pdf",
+          "select": "zotero://select/library/items/8QN28L5E"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-20T19:34:11Z",
+          "dateModified": "2023-03-20T19:34:11Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/MC9QMUDH",
+          "path": "/Users/robert/Dropbox/zotero/storage/MC9QMUDH/973545.html",
+          "select": "zotero://select/library/items/MC9QMUDH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "David2013",
+      "itemKey": "7A3IRUI6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7A3IRUI6"
+    },
+    {
       "key": "HRHGT9AW",
       "version": 0,
       "itemType": "journalArticle",
@@ -7158,6 +7263,67 @@
       "itemKey": "FW4ETXGQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/FW4ETXGQ"
+    },
+    {
+      "key": "4ZEY47GH",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1242/dev.035139",
+      "volume": "136",
+      "issue": "23",
+      "pages": "3853-3862",
+      "publicationTitle": "Development",
+      "ISSN": "0950-1991",
+      "date": "2009-12-01",
+      "journalAbbreviation": "Development",
+      "DOI": "10.1242/dev.035139",
+      "accessDate": "2023-03-20T19:35:31Z",
+      "libraryCatalog": "Silverchair",
+      "abstractNote": "Cell-to-cell variability of gene expression in clonal populations of mammalian cells is ubiquitous. However, because molecular biologists habitually assume uniformity of the cell populations that serve as starting material for experimental analysis, attention to such non-genetic heterogeneity has been scant. As awareness of, and interest in, understanding its biological significance increases, this Primer attempts to clarify the confusing terminologies used in an emerging field that often conflates heterogeneity with noise, and provides a qualitative introduction to the fundamental dynamic principles that underlie heterogeneity. It thus aims to present a useful conceptual framework to organize, analyze and communicate observations made at the resolution of individual cells that indicate that heterogeneity of cell populations plays a biological role, such as in multipotency and cell fate decision.",
+      "title": "Non-genetic heterogeneity of cells in development: more than just noise",
+      "shortTitle": "Non-genetic heterogeneity of cells in development",
+      "creators": [
+        {
+          "firstName": "Sui",
+          "lastName": "Huang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-20T19:35:31Z",
+      "dateModified": "2023-03-20T19:35:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/4ZEY47GH",
+      "itemID": 7244,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-20T19:35:34Z",
+          "dateModified": "2023-03-20T19:35:34Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/FMUA9WGW",
+          "path": "/Users/robert/Dropbox/zotero/storage/FMUA9WGW/Huang - 2009 - Non-genetic heterogeneity of cells in development.pdf",
+          "select": "zotero://select/library/items/FMUA9WGW"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-20T19:35:41Z",
+          "dateModified": "2023-03-20T19:35:41Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/2JMBD89A",
+          "path": "/Users/robert/Dropbox/zotero/storage/2JMBD89A/Non-genetic-heterogeneity-of-cells-in-development.html",
+          "select": "zotero://select/library/items/2JMBD89A"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Huang2009",
+      "itemKey": "4ZEY47GH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4ZEY47GH"
     },
     {
       "key": "6EEFK46G",
@@ -15513,6 +15679,110 @@
       "itemKey": "9EUIQAEM",
       "libraryID": 1,
       "select": "zotero://select/library/items/9EUIQAEM"
+    },
+    {
+      "key": "75GUIEZV",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "213",
+      "issue": "2",
+      "pages": "241-274",
+      "publicationTitle": "Journal of Theoretical Biology",
+      "ISSN": "0022-5193",
+      "date": "2001-11-21",
+      "extra": "PMID: 11894994",
+      "journalAbbreviation": "J Theor Biol",
+      "DOI": "10.1006/jtbi.2001.2423",
+      "libraryCatalog": "PubMed",
+      "language": "eng",
+      "abstractNote": "The current implementation of the Neo-Darwinian model of evolution typically assumes that the set of possible phenotypes is organized into a highly symmetric and regular space equipped with a notion of distance, for example, a Euclidean vector space. Recent computational work on a biophysical genotype-phenotype model based on the folding of RNA sequences into secondary structures suggests a rather different picture. If phenotypes are organized according to genetic accessibility, the resulting space lacks a metric and is formalized by an unfamiliar structure, known as a pre-topology. Patterns of phenotypic evolution-such as punctuation, irreversibility, modularity--result naturally from the properties of this space. The classical framework, however, addresses these patterns by exclusively invoking natural selection on suitably imposed fitness landscapes. We propose to extend the explanatory level for phenotypic evolution from fitness considerations alone to include the topological structure of phenotype space as induced by the genotype-phenotype map. We introduce the mathematical concepts and tools necessary to formalize the notion of accessibility pre-topology relative to which we can speak of continuity in the genotype-phenotype map and in evolutionary trajectories. We connect the factorization of a pre-topology into a product space with the notion of phenotypic character and derive a condition for factorization. Based on anecdotal evidence from the RNA model, we conjecture that this condition is not globally fulfilled, but rather confined to regions where the genotype-phenotype map is continuous. Equivalently, local regions of genotype space on which the map is discontinuous are associated with the loss of character autonomy. This is consistent with the importance of these regions for phenotypic innovation. The intention of the present paper is to offer a perspective, a framework to implement this perspective, and a few results illustrating how this framework can be put to work. The RNA case is used as an example throughout the text.",
+      "title": "The topology of the possible: formal spaces underlying patterns of evolutionary change",
+      "shortTitle": "The topology of the possible",
+      "creators": [
+        {
+          "firstName": "B. M.",
+          "lastName": "Stadler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "P. F.",
+          "lastName": "Stadler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "G. P.",
+          "lastName": "Wagner",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "W.",
+          "lastName": "Fontana",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Animals",
+          "type": 1
+        },
+        {
+          "tag": "Biological Evolution",
+          "type": 1
+        },
+        {
+          "tag": "Computational Biology",
+          "type": 1
+        },
+        {
+          "tag": "Genotype",
+          "type": 1
+        },
+        {
+          "tag": "Models, Biological",
+          "type": 1
+        },
+        {
+          "tag": "Phenotype",
+          "type": 1
+        },
+        {
+          "tag": "Protein Folding",
+          "type": 1
+        },
+        {
+          "tag": "RNA",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-20T19:28:44Z",
+      "dateModified": "2023-03-20T19:28:44Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/75GUIEZV",
+      "itemID": 7239,
+      "attachments": [
+        {
+          "key": "X7UHS9K5",
+          "version": 0,
+          "itemType": "attachment",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/11894994",
+          "accessDate": "2023-03-20T19:28:45Z",
+          "title": "PubMed entry",
+          "parentItem": "75GUIEZV",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-20T19:28:45Z",
+          "dateModified": "2023-03-20T19:28:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/X7UHS9K5"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Stadler2001",
+      "itemKey": "75GUIEZV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/75GUIEZV"
     },
     {
       "key": "RX4SX8QZ",
