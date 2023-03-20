@@ -27,27 +27,19 @@ Variation, as a principle, does not need a justification. However, one can find 
 
 In contrasts to Darwin's idea, variation also occur during ontogenesis (not only for phylogenesis). 
 
-### About physics theories
+### Symmetries in physical theories
 
-- Physics uses **generic** objects : objects sharing some common properties (mass, charge, length, etc. ) that can be permutated while leaving the theoretical analysis invariant. 
-This is because physics co-evolved with mathematics, that uses abstract objects. Any abstract object of mass $m$ is generic, because it can be a shoe or an apple for classical mechanics. They are *identical* for a given theory.
+See also [Longo2014](reference/Longo2014.md) and [VanFraassen1989](reference/VanFraassen1989.md) for this part. 
+- Physics uses **generic** objects: objects sharing some common properties (mass, charge, length, etc. ) that can be permutated while leaving the theoretical analysis invariant. This is because physics co-evolved with mathematics, that uses abstract objects. Any abstract object of mass $m$ is generic, because it can be a shoe or an apple for classical mechanics. They are *identical* for a given theory.
 
 - The underlying mathematical equation do not change during the dynamics of the object, because change is to be understand in a somewhat restricted sense, as a change of **the state** of the object (or the system) in a **predefined** space (called "phase space" in physics). The latter fixes the pertinent observables (position, momenta, angle, energy, etc.) and gives all the possibilities in advance. 
 
 - Equations governing the change of state of generic objects are valid in the entire phase space. They are not concerned by the specific values of the object's propreties, but they are rather concerned about the *relations* between the properties of objects. Most physical properties are actually defined in a relational way (charge, mass, friction coefficients, solubility elasticity, etc.). 
 
-- At the core of the description of the state and their evolution of objects lies the crucial notion of **symmetry**, which is invariance under transformation. Conservation laws or equations (energy, momentum, etc.) stem from (time, translational, etc.) symmetries. Physical properties and quantities can be defined in term of symmetries. 
-- Equations rely on conservation laws that Noether's theorem
-
-There is always an underlying **invariant** that comes from a symmetry. 
+- At the core of physical description of matter — objects, phase space, and equations — lies the crucial notion of **symmetry**, which is invariance under transformation. We have seen that generic objects are symmetric for the intended theory. Equations in physics or chemistry are obtained using symmetry arguments, such as conservation laws (see Noether's theorem for instance). Relevant physical quantities that define phase spaces (energy, momentum, position, concentrations, etc.) are defined in terms of symmetries in time or space, or quantity, etc.. 
+- 
 
 
-- , because there is an invariant. 
-
-
-A shoe or an apple with the same mass can be permutated from the point of view of classical mechanics.
-
-, defined by shared properties (such as mass, charge, etc.) and that follow specific trajectories. A theoretical symmetry underlies this description in a phase space. 
 
 ![](images/Pasted%20image%2020230320111525.png)
 
