@@ -20,6 +20,42 @@
             }
           }
         ]
+      },
+      {
+        "id": "fab8cc78cd9b7430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba3dbcd8e26dcafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Stadler2001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0f35121367a1e4f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f949995d0439697e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Montevil2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Montévil2016.md",
+                "file": "reference/Stadler2001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Montévil2016.md",
+                "file": "reference/Stadler2001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Montévil2016.md"
+                "file": "reference/Stadler2001.md"
               }
             }
           }
@@ -146,16 +182,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1849f59f7f8f019f",
+  "active": "ba3dbcd8e26dcafb",
   "lastOpenFiles": [
-    "concept/symmetry in physics.md",
     "note/note on Montévil2016.md",
-    "reference/VanFraassen1989.md",
+    "reference/David2013.md",
+    "reference/Huang2009.md",
+    "reference/Stadler2001.md",
     "projects/thesis_project/(v1.2) projet.md",
+    "concept/symmetry in physics.md",
+    "images/Pasted image 20230320184008.png",
+    "reference/Montevil2016.md",
+    "reference/VanFraassen1989.md",
     "reference/Beatty1995.md",
     "reference/Gould2002.md",
     "images/Pasted image 20230320111525.png",
-    "reference/Montevil2016.md",
     "reference/Darwin1859.md",
     "note/note on Montévil2019a.md",
     "note/note on Montévil2021.md",
@@ -173,9 +213,6 @@
     "concept/mechanistic system.md",
     "concept/mechanistic organization (detailed).md",
     "reference/Laland2015.md",
-    "note/note on Laland2015.md",
-    "definition/gene product.md",
-    "concept/Modern Synthesis.md",
     "writing",
     "images/Pasted image 20230118122044.png"
   ]
