@@ -1,6 +1,6 @@
 
 ---
-title: "symmetry in physics"
+title: "symmetry"
 date: 2023-03-20
 draft: false
 showthedate: true
