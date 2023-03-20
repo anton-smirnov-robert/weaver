@@ -16354,6 +16354,46 @@
       "select": "zotero://select/library/items/RAJ6H6KH"
     },
     {
+      "key": "Y26GGXQ4",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Clarendon Press",
+      "date": "1989",
+      "libraryCatalog": "Google Scholar",
+      "title": "Laws and symmetry",
+      "creators": [
+        {
+          "firstName": "Bas C.",
+          "lastName": "Van Fraassen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-20T16:03:02Z",
+      "dateModified": "2023-03-20T16:03:02Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/Y26GGXQ4",
+      "itemID": 7235,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-20T16:03:09Z",
+          "dateModified": "2023-03-20T16:03:09Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/WEFDC9FA",
+          "path": "/Users/robert/Dropbox/zotero/storage/WEFDC9FA/books.html",
+          "select": "zotero://select/library/items/WEFDC9FA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "VanFraassen1989",
+      "itemKey": "Y26GGXQ4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Y26GGXQ4"
+    },
+    {
       "key": "HHSB9CWA",
       "version": 0,
       "itemType": "journalArticle",
