@@ -6,7 +6,7 @@
       {
         "id": "3c671d26b5138fa7",
         "type": "tabs",
-        "dimension": 64.62821403752605,
+        "dimension": 60.59763724808895,
         "children": [
           {
             "id": "82c6381bfd024384",
@@ -25,7 +25,7 @@
       {
         "id": "0a1eeae4a35ed0ad",
         "type": "tabs",
-        "dimension": 35.371785962473936,
+        "dimension": 39.40236275191105,
         "children": [
           {
             "id": "4b3ecbff8a328b87",
@@ -168,8 +168,9 @@
   },
   "active": "82c6381bfd024384",
   "lastOpenFiles": [
-    "concept/symmetry.md",
+    "concept/new possibility.md",
     "note/note on Montévil2016.md",
+    "concept/symmetry.md",
     "note/note on Mossio2014.md",
     "note/note on Montévil2019.md",
     "projects/thesis_project/(v1.2) projet.md",
@@ -196,7 +197,6 @@
     "definition/systematics.md",
     "projects/TOREAD.md",
     "concept/mechanistic system (detailed).md",
-    "concept/mechanistic organization.md",
     "writing",
     "images/Pasted image 20230118122044.png"
   ]
