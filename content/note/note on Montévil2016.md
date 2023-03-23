@@ -50,30 +50,10 @@ However, in both cases, problems do not emerge from the fact that additional eff
 
 Giving up on these kind of descriptions because of their lack of biological meaning, does not imply ignoring their importance in other theoretical frames (e.g., for DNA sequencing, for physics). However, for biology, they only constitute pre-possibilities ([note on Montévil2019a](note/note%20on%20Montévil2019a.md)). We need to gather some of the biological meaningful pre-possibilities to constitute a subset a pertinent set of possibilities, *as far as we can tell*. This requires finding those singularities in the original phase space, redefining the observables[^1] to gather those possibilities in an extremely small set, and zooming in. We argue that only after this transformation one can talk objectively about organisms (bio-*logos*). 
 
-The cost of conserving objectivity comes at the cost of being able to deal with two crucial aspects of the objects described in this new subset of biological meaningful possibilities. First, the only way to add a possibility is by having seen it being realized. In other words, the pertinent space of description of organisms is *historical*. Second, adding a [new possibility](concept/new%20possibility.md) means that the organism has realized this possibility, and that it was not one before that. Therefore, organisms can vary in a fundamentally *unpredictable* way for the theoretical framework. This defines randomness in biology, which is not endowed with a probability measure. Third, because the pertinent observables are established according to the current possibilities, the phase space of biological possibilities also change in time, because the pertinent observables also change. 
+The cost of conserving objectivity comes at the cost of being able to deal with two crucial aspects of the objects described in this new subset of biological meaningful possibilities. First, the only way to add a possibility is by having seen it being realized. In other words, the pertinent space of description of organisms is *historical*. Second, adding a new possibility means that the organism has realized this possibility, and that it was not one before that. Therefore, organisms can vary in a fundamentally *unpredictable* way for the theoretical framework. This defines randomness in biology, which is not endowed with a probability measure. Third, because the pertinent observables are established according to the current possibilities, the phase space of biological possibilities also change in time, because the pertinent observables also change. 
 
-We can now undertstaad
+We can now understand the specific objects: they are historical objects that undergo unpredictable variations. This forces the mathematical structure to describe them to change in time.
 
-
-Letting aside, simplistic resolution of paradoxes by calling the indetermiancy of quantum effects or a chaotic systems. 
-
-But, this can also be state in physics. If one uses the position and velocity of all particles that constitutes a organism, it entails complete determinism. If one uses all combination of DNA, it is the same. We argue that this is not a pertinent phase space, because it has no biological meaning: for example to express their viability.
-
-This relies on the highly non-ergodicty of those phase spaces in life time. Departing from those spaces means [Kauffman2019](reference/Kauffman2019.md) [note on Montévil2019a](note/note%20on%20Montévil2019a.md) assuming 
-
-
-
-
-
-
-
-In contrast to physical objects, organisms vary in a strong sense: the mathematical structure to describe them is not stable with the respect to the flow of time. Underlying symmetries change in time. 
-
-
-Another way to accomodate functional variations in the biosphere is to understand the successive number of qualitative changes — in a way a function is performed by its structure, or the appearance or disappearance of new functions — as change of symmetries. Accordingly, this means that the mathematical apparatus to describe an organism is not constant throughout time. 
-
-
- Rather, an organism is an object defined by its history of unpredictable and context-dependent functional variations. It requires changing physico-mathematical structures (properties of objects, relevant observables, equations) to describe it throughtout time. 
 
 
 ![](images/Pasted%20image%2020230320184008.png)
