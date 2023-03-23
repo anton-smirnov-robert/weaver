@@ -36,11 +36,26 @@ The objects of biology are organisms, but organisms are not invariant under the 
 
 ### How to depart from physics?
 
-In physics, objects are abstract mathematical objects, which are extracted from the flow of time. They are defined by some properties that can be shared, and are therefore generic objects. This is not the case of organisms and we depart from physics by stating *the principle of variation*: ==organisms are **specific** objects==. 
+In physics, objects are abstract mathematical objects, which are extracted from the flow of time. They are defined by some properties that can be shared: they are generic. This is not the case of organisms and we depart from physics by stating *the principle of variation*: ==organisms are **specific** objects==. 
 
-In other words, this means that organisms are not symmetric under permutation for a given theoretical analysis. Two organisms always have a qualitative difference for a theoretical reasoning. 
+Specific is the contrary of generic. Two organisms always have a qualitative difference for a given theoretical frame. 
 
-### What consequences?
+### Where does this specificty come from?
+
+The specificity comes from escaping a given view of determinism which is enshrined in neo-preformationist (genetic program) or fixist view in biology. But, this can also be state in physics. If one uses the position and velocity of all particles that constitutes a organism, it entails complete determinism. If one uses all combination of DNA, it is the same. We argue that this is not a pertinent phase space, because it has no biological meaning: for example to express their viability.
+
+This relies on the highly non-ergodicty of those phase spaces in life time. Departing from those spaces means [Kauffman2019](reference/Kauffman2019.md) [note on Montévil2019a](note/note%20on%20Montévil2019a.md) aassuming 
+
+
+
+
+The cost of conserving meaning and scientific rigor, that is objectivity, comes at the cost of being able to deal with: 
+- unpredictable novelties (unpredictable novelties can emerge)
+- history (the current space of possibilities can only be understand with the help of the past)
+
+
+In contrast to physical objects, organisms vary in a strong sense: the mathematical structure to describe them is not stable with the respect to the flow of time. Underlying symmetries change in time. 
+
 
 Another way to accomodate functional variations in the biosphere is to understand the successive number of qualitative changes — in a way a function is performed by its structure, or the appearance or disappearance of new functions — as change of symmetries. Accordingly, this means that the mathematical apparatus to describe an organism is not constant throughout time. 
 
