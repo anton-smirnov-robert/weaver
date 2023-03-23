@@ -42,7 +42,13 @@ Specific is the contrary of generic. Two organisms always have a qualitative dif
 
 ### Where does this specificty come from?
 
-The specificity comes from escaping a given view of determinism which is enshrined in neo-preformationist (genetic program) or fixist view in biology. But, this can also be state in physics. If one uses the position and velocity of all particles that constitutes a organism, it entails complete determinism. If one uses all combination of DNA, it is the same. We argue that this is not a pertinent phase space, because it has no biological meaning: for example to express their viability.
+Positing this principle is equivalent to escaping the complete deterministic view of biological phenomena. 
+In biology, the latter is enshrined in the (neo)preformationist view of development or fixist view of evolution. 
+In physics, the latter from a reductionnist view of biological phenomena, which claims that biology can be understood in terms of deterministic trajectories of atoms. 
+
+Letting aside, simplistic resolution of paradoxes by calling the indetermiancy of quantum effects or a chaotic systems. 
+
+But, this can also be state in physics. If one uses the position and velocity of all particles that constitutes a organism, it entails complete determinism. If one uses all combination of DNA, it is the same. We argue that this is not a pertinent phase space, because it has no biological meaning: for example to express their viability.
 
 This relies on the highly non-ergodicty of those phase spaces in life time. Departing from those spaces means [Kauffman2019](reference/Kauffman2019.md) [note on Montévil2019a](note/note%20on%20Montévil2019a.md) aassuming 
 
