@@ -47,13 +47,13 @@ Positing this principle is equivalent to escaping a complete deterministic view 
 In fact, those two views are seldom endorsed by scientists, rather moderated by statements that resort 
 Deterministic equations make our 
 
-The modern
+The modern . 
 
 Letting aside, simplistic resolution of paradoxes by calling the indetermiancy of quantum effects or a chaotic systems. 
 
 But, this can also be state in physics. If one uses the position and velocity of all particles that constitutes a organism, it entails complete determinism. If one uses all combination of DNA, it is the same. We argue that this is not a pertinent phase space, because it has no biological meaning: for example to express their viability.
 
-This relies on the highly non-ergodicty of those phase spaces in life time. Departing from those spaces means [Kauffman2019](reference/Kauffman2019.md) [note on Montévil2019a](note/note%20on%20Montévil2019a.md) aassuming 
+This relies on the highly non-ergodicty of those phase spaces in life time. Departing from those spaces means [Kauffman2019](reference/Kauffman2019.md) [note on Montévil2019a](note/note%20on%20Montévil2019a.md) assuming 
 
 
 
