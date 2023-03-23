@@ -19,7 +19,7 @@
       "auxImport": false,
       "baseAttachmentPath": "",
       "biblatexExtendedDateFormat": true,
-      "biblatexExtendedNameFormat": false,
+      "biblatexExtendedNameFormat": true,
       "biblatexExtractEprint": true,
       "bibtexParticleNoOp": false,
       "bibtexURL": "off",
@@ -29,7 +29,6 @@
       "citeCommand": "cite",
       "citekeyFold": true,
       "citekeyFormat": "auth +  year",
-      "citekeyFormatBackup": "auth +  year",
       "citekeySearch": false,
       "citekeyUnsafeChars": "\\\"#%'(),={}~",
       "csquotes": "",
@@ -63,7 +62,6 @@
       "mapUnicode": "conservative",
       "parseParticles": true,
       "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
-      "platform": "mac",
       "postscript": "",
       "postscriptOverride": "",
       "preferencesOverride": "",
@@ -77,7 +75,6 @@
       "rawLaTag": "#LaTeX",
       "relativeFilePaths": false,
       "retainCache": false,
-      "scrubDatabase": false,
       "separatorList": "and",
       "separatorNames": "and",
       "skipFields": "",
@@ -85,7 +82,6 @@
       "startupProgress": "popup",
       "strings": "",
       "stringsOverride": "",
-      "testing": false,
       "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
       "warnBulkModify": 10,
       "warnTitleCased": false,
@@ -99,8 +95,8 @@
     }
   },
   "version": {
-    "zotero": "6.0.22",
-    "bbt": "6.7.54"
+    "zotero": "6.0.23",
+    "bbt": "6.7.62"
   },
   "collections": {},
   "items": [
@@ -4030,11 +4026,11 @@
       ],
       "tags": [
         {
-          "tag": "central dogma",
+          "tag": "epigenetics",
           "type": 1
         },
         {
-          "tag": "epigenetics",
+          "tag": "central dogma",
           "type": 1
         },
         {
@@ -5970,19 +5966,27 @@
       ],
       "tags": [
         {
-          "tag": "complexity",
-          "type": 1
-        },
-        {
-          "tag": "computation",
-          "type": 1
-        },
-        {
           "tag": "development",
           "type": 1
         },
         {
           "tag": "developmental biology",
+          "type": 1
+        },
+        {
+          "tag": "genetics",
+          "type": 1
+        },
+        {
+          "tag": "molecular biology",
+          "type": 1
+        },
+        {
+          "tag": "complexity",
+          "type": 1
+        },
+        {
+          "tag": "computation",
           "type": 1
         },
         {
@@ -6002,10 +6006,6 @@
           "type": 1
         },
         {
-          "tag": "genetics",
-          "type": 1
-        },
-        {
           "tag": "genome",
           "type": 1
         },
@@ -6015,10 +6015,6 @@
         },
         {
           "tag": "holism",
-          "type": 1
-        },
-        {
-          "tag": "molecular biology",
           "type": 1
         },
         {
@@ -9414,11 +9410,15 @@
       ],
       "tags": [
         {
-          "tag": "Allometric Laws",
+          "tag": "Biological Evolution",
           "type": 1
         },
         {
-          "tag": "Biological Evolution",
+          "tag": "Systems Biology",
+          "type": 1
+        },
+        {
+          "tag": "Allometric Laws",
           "type": 1
         },
         {
@@ -9443,10 +9443,6 @@
         },
         {
           "tag": "Symmetry in Biology",
-          "type": 1
-        },
-        {
-          "tag": "Systems Biology",
           "type": 1
         },
         {
@@ -11419,6 +11415,10 @@
       ],
       "tags": [
         {
+          "tag": "Thermodynamics",
+          "type": 1
+        },
+        {
           "tag": "Agency and Philosophy",
           "type": 1
         },
@@ -11456,10 +11456,6 @@
         },
         {
           "tag": "Teleogoly",
-          "type": 1
-        },
-        {
-          "tag": "Thermodynamics",
           "type": 1
         }
       ],
@@ -15726,11 +15722,11 @@
           "type": 1
         },
         {
-          "tag": "Biological Evolution",
+          "tag": "RNA",
           "type": 1
         },
         {
-          "tag": "Computational Biology",
+          "tag": "Biological Evolution",
           "type": 1
         },
         {
@@ -15746,11 +15742,11 @@
           "type": 1
         },
         {
-          "tag": "Protein Folding",
+          "tag": "Computational Biology",
           "type": 1
         },
         {
-          "tag": "RNA",
+          "tag": "Protein Folding",
           "type": 1
         }
       ],
