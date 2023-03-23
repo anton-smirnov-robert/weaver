@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Mossio2014.md",
+                "file": "note/note on Montévil2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a1eeae4a35ed0ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3ecbff8a328b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concept/symmetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Mossio2014.md",
+                "file": "concept/symmetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Mossio2014.md",
+                "file": "concept/symmetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Mossio2014.md"
+                "file": "concept/symmetry.md"
               }
             }
           }
@@ -146,9 +164,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "82c6381bfd024384",
+  "active": "4b3ecbff8a328b87",
   "lastOpenFiles": [
     "note/note on Montévil2016.md",
+    "note/note on Mossio2014.md",
     "concept/symmetry.md",
     "note/note on Montévil2019.md",
     "projects/thesis_project/(v1.2) projet.md",
@@ -176,7 +195,6 @@
     "projects/TOREAD.md",
     "concept/mechanistic system (detailed).md",
     "concept/mechanistic organization.md",
-    "concept/mechanistic system.md",
     "writing",
     "images/Pasted image 20230118122044.png"
   ]

@@ -31,7 +31,6 @@ In contrasts to Darwin's idea, variation also occur during ontogenesis (not only
 
 The first part discuss the role of a [symmetry](concept/symmetry.md), and relates it to the idea of a generic, abstract object. 
 
-
 ![](images/Pasted%20image%2020230320111525.png)
 
 
@@ -39,14 +38,11 @@ The first part discuss the role of a [symmetry](concept/symmetry.md), and relate
 
 Organisms are not invariant under the flow of time, because they develop and evolve.
 
-One way to accomodate those variations is to posit a mathematical structure that is used to single out the trajectory of generic objects (biological organisms) in an predefined space of pertinent possibilities that define observables (biological functions). This approach, that is at the core of physics, posit an invariant equation that governs the dynamics, and that is justified by an underlying [symmetry](concept/symmetry.md). 
+One way to accomodate those variations is to posit a mathematical structure that is used to single out the trajectory of generic objects (biological organisms) in a predefined space of pertinent possibilities that define observables (biological functions and their structure). This approach, that is at the core of physics, posit an invariant equation that governs the dynamics, and that is justified by an underlying [symmetry](concept/symmetry.md). 
 
-For instance, neo-preformationists, that posit complete genetic determination uses such a view to account for evolution. The postulated one to one correspondance between a DNA sequence and phenotypes points to a predefined set of functional possibilities, the one that gathers all sequences one can make with nucleotides. Changes is this space are governed by mechanisms that describe interactions between their DNA (combination, mutation, etc.) and external forces (such as natural selection translated, for instance, as optimization criteria). We argue that this approach, which is enshrined in the [Modern Synthesis](concept/Modern%20Synthesis.md), is limited because:
-1) the one to one correspondance between a phenotype and a proteome was never explicited, and the expression of the genetic code is complex and has contextual influences ([Stadler2001](reference/Stadler2001.md), [Huang2009](reference/Huang2009.md), [David2013](reference/David2013.md)).
-2) the phase space is not relevant, because we cannot assess even the viability of an organism based on a DNA sequence. 
-3) genes, on their own, cannot solely explain changes of organisms on ontogenetic and phylogenetic times scales ([Laland2015](reference/Laland2015.md)). 
+Another way to accomodate functional variations in the biosphere is to understand the successive number of qualitative changes — in a way a function is performed by its structure, or the appearance or disappearance of new functions — as change of symmetries. Accordingly, this means that the mathematical apparatus to describe an organism is not constant throughout time. 
 
-Another way to accomodate functional variations in the biosphere is to understand the succesive number of qualitative changes — in a way a function is performed, or the appearance or disappearance of new functions — like change of symmetries in physics. Accordingly, this means that the mathematical apparatus to describe an organism is not constant throughout time. 
+Note that the microscopic laws of physics
 
 This leads to the principle of variation: ==organisms are **specific** objects==. 
 
@@ -61,3 +57,6 @@ Organisms are not symmetric under permutation for a given theoretical analysis  
 On symmetrization (see note on [note on Montévil2019](note/note%20on%20Montévil2019.md)). 
 
 Consequently, this means that novelties happen in an *unpredictable* ways, because there are no law underlying the dynamics (see [note on Montévil2019a](note/note%20on%20Montévil2019a.md)). 
+
+
+
