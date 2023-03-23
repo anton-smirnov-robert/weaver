@@ -43,8 +43,9 @@ Specific is the contrary of generic. Two organisms always have a qualitative dif
 ### Where does this specificty come from?
 
 Positing this principle is equivalent to escaping the complete deterministic view of biological phenomena. 
-In biology, the latter is enshrined in the (neo)preformationist view of development or fixist view of evolution. 
-In physics, the latter from a reductionnist view of biological phenomena, which claims that biology can be understood in terms of deterministic trajectories of atoms. 
+In biology, this approach is enshrined in the neopreformationist view of development or fixist view of evolution. 
+In physics, it is the claim that living matter can be understood in terms of deterministic trajectories of atoms. 
+The modern
 
 Letting aside, simplistic resolution of paradoxes by calling the indetermiancy of quantum effects or a chaotic systems. 
 
