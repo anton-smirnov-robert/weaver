@@ -32,19 +32,21 @@ Physics centrally relies on the concept of [symmetry](concept/symmetry.md) to un
 
 ### Could physics provide a rigourous framework for biology? 
 
-The objects of biology are organisms, but organisms are not invariant under the flow of time, because they develop and evolve. Therefore, physics cannot use organisms as an object *per se*. In physics, an organisms can only be encountered as result of the interactions between a multitude of invariant objects. However, even cells change, appear, and die. Physics must then use sub-cellular elements to describe organisms. It appears that physics is still far from being able to understand or model one cell. Therefore, while being different from physics, an rigorous theoretical frame that uses organisms as objects, could increase objectivity in biology. 
+The objects of biology are organisms, but organisms are not invariant under the flow of time, because they develop and evolve. Therefore, physics cannot use organisms as an object *per se*. In physics, an organisms can only be encountered as result of the interactions between a multitude of invariant objects. However, even cells are created, change, and disappear. Physics must then use sub-cellular elements to describe organisms. We will go back later to this option. Yet, pragmatically, physics is still far from being able to understand or model a single cell. Therefore, while being different from physics, an rigorous theoretical frame that uses organisms as objects, could increase objectivity in biology. 
 
-### How to depart from physics?
+### Which theoretical frame?
 
-In physics, objects are abstract mathematical objects, which are extracted from the flow of time. They are defined by some properties that can be shared: they are generic. This is not the case of organisms and we depart from physics by stating *the principle of variation*: ==organisms are **specific** objects==. 
+In physics, objects are abstract mathematical objects, which are extracted from the flow of time. They are defined by some properties that can be shared: they are generic. This is not the case of organisms such that a first principle can be stated. 
 
-Specific is the contrary of generic. Two organisms always have a qualitative difference for a given theoretical frame. 
+*The principle of variation*: ==organisms are **specific** objects==.
+
+Specific can be understood as the contrary of generic. Specific objects are material objects, and two of them always have a qualitative difference with respect to a given theoretical frame. 
 
 ### Where does this specificty come from?
 
-Positing this principle is equivalent to escaping a complete deterministic view of biological phenomena. The latter is enshrined in physicalist reductionnism, that usually take two aspects. For neopreformationist, it is complete genetic determinism. Life can be written by combinations of four letters, maaterialized by nucleotides. Therefore, organisms can be enumerated, and they all preexist. For others, living beings can be understood with the deterministic trajectories of atoms because they are made of such paticles. Of course, those two claims are seldom endorsed as such by scientists. Rather, they are moderated by mentioning epigenetics in the first case, the impredictibility of quantum mechanics or chaos theory in the second. 
+Positing this principle is equivalent to escaping a deterministic view of biological phenomena. The latter is enshrined in physicalist reductionnism, that usually take two aspects. For neopreformationist, it is complete genetic determinism. Life can be written by combinations of four letters, maaterialized by nucleotides. Therefore, organisms can be enumerated, and they all preexist. For others, living beings can be understood with the deterministic trajectories of atoms because they are made of such paticles. Of course, those two claims are seldom endorsed as such by scientists. Rather, they are moderated by mentioning epigenetics in the first case, the impredictibility of quantum mechanics or chaos theory in the second. 
 
-However, in both cases, problems do *not* emerge from the fact that additional effects are ignored (which would make complete determinism a bad approximation). Rather, — and this is essential —it lies in the fact that the chosen observables are not pertinent for the understanding organisms, starting with their viability. 
+However, in both cases, problems do *not* emerge from the fact that additional effects are ignored (which would make complete determinism a bad approximation). Rather, — and this is essential — it lies in the fact that the chosen observables are not pertinent for the understanding of organisms, starting with their viability. A extraordinary small part of those phase spaces are relevant for biology, *as far as we know*. Even if we endorse complete genetic determinism, DNA sequences that program for living beings represent an extremely small part. Atomic positions and velocities that can be attribuated to organisms are nearly singularities in the corresponding phase space. 
 
 are to included  limits of such 
 In both case, the problem of the purely physicalist approach lies within the definition of the pertinent observables for biology. Sequences of nucleotides or atomic positions are bad observables to generically define organisms, starting by their viability. As a result
@@ -52,6 +54,8 @@ In both case, the problem of the purely physicalist approach lies within the def
 
 is to able to describe the system with observables that are not. 
 lies in the understanding
+
+Why structure existst ? BecauseHow are they maintained ? They are maintained because thhey are maaintaainedd. What maintains what maintains? 
 
 The modern . 
 
