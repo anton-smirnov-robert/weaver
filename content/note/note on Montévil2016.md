@@ -44,6 +44,9 @@ Specific is the contrary of generic. Two organisms always have a qualitative dif
 
 Positing this principle is equivalent to escaping a complete deterministic view of biological phenomena. The latter is enshrined in physicalist reductionnism, that usually take two aspects. For neopreformationist, it is complete genetic determinism. Life can be written by combinations of four letters, maaterialized by nucleotides. Therefore, organisms can be enumerated, and they all preexist. For others, living beings can be understood with the deterministic trajectories of atoms because they are made of such paticles. Of course, those two claims are seldom endorsed as such by scientists. Rather, they are moderated by mentioning epigenetics in the first case, the impredictibility of quantum mechanics or chaos theory in the second. 
 
+However, in both cases, problems do *not* emerge from the fact that additional effects are ignored (which would make complete determinism a bad approximation). Rather, — and this is essential —it lies in the fact that the chosen observables are not pertinent for the understanding organisms, starting with their viability. 
+
+are to included  limits of such 
 In both case, the problem of the purely physicalist approach lies within the definition of the pertinent observables for biology. Sequences of nucleotides or atomic positions are bad observables to generically define organisms, starting by their viability. As a result
 
 
