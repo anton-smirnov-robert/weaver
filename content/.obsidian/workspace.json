@@ -6,6 +6,7 @@
       {
         "id": "3c671d26b5138fa7",
         "type": "tabs",
+        "dimension": 64.62821403752605,
         "children": [
           {
             "id": "82c6381bfd024384",
@@ -24,6 +25,7 @@
       {
         "id": "0a1eeae4a35ed0ad",
         "type": "tabs",
+        "dimension": 35.371785962473936,
         "children": [
           {
             "id": "4b3ecbff8a328b87",
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/symmetry.md",
+                "file": "note/note on Montévil2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/symmetry.md",
+                "file": "note/note on Montévil2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/symmetry.md"
+                "file": "note/note on Montévil2016.md"
               }
             }
           }
@@ -164,11 +166,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4b3ecbff8a328b87",
+  "active": "82c6381bfd024384",
   "lastOpenFiles": [
+    "concept/symmetry.md",
     "note/note on Montévil2016.md",
     "note/note on Mossio2014.md",
-    "concept/symmetry.md",
     "note/note on Montévil2019.md",
     "projects/thesis_project/(v1.2) projet.md",
     "concept/Modern Synthesis.md",

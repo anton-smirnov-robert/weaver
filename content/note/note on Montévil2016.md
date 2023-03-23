@@ -20,33 +20,32 @@ The principle of variation: ==organisms are **specific** objects==.
 
 ### Introduction
 
-This comes from the notion of “descent with modification” of Darwin ([Darwin1859](reference/Darwin1859.md)). Compared to Lamarck, Darwin states that variations come from "chance", they are not directed. The latter would imply a deterministic framework and therefore anhistoricity. 
-Other roots of the idea come from [Beatty1995](reference/Beatty1995.md) and [Gould2002](reference/Gould2002.md).
+This comes from the notion of “descent with modification” of Darwin ([Darwin1859](reference/Darwin1859.md)). Compared to Lamarck, Darwin states that variations come from "chance", they are not directed. The latter would imply a deterministic framework and therefore anhistoricity. Other roots of the idea come from [Beatty1995](reference/Beatty1995.md) and [Gould2002](reference/Gould2002.md).
 
 Variation, as a principle, does not need a justification. However, one can find it in chaotic processes, random gene expression, cellular proliferation with two non-identical cells, etc...
 
-In contrasts to Darwin's idea, variation also occur during ontogenesis (not only for phylogenesis). 
+In contrast to Darwin's idea, variation also occur during ontogenesis (not only for phylogenesis). 
 
-### Symmetry in physics
+### How does physics work? 
 
-The first part discuss the role of a [symmetry](concept/symmetry.md), and relates it to the idea of a generic, abstract object. 
+Physics centrally relies on the concept of [symmetry](concept/symmetry.md) to understand change, trajectories.
 
-![](images/Pasted%20image%2020230320111525.png)
+### Could physics provide a rigourous framework for biology? 
 
+The objects of biology are organisms, but organisms are not invariant under the flow of time, because they develop and evolve. Therefore, physics cannot use organisms as an object *per se*. In physics, an organisms can only be encountered as result of the interactions between a multitude of invariant objects. However, even cells change, appear, and die. Physics must then use sub-cellular elements to describe organisms. It appears that physics is still far from being able to understand or model one cell. Therefore, while being different from physics, an rigorous theoretical frame that uses organisms as objects, could increase objectivity in biology. 
 
-### Variation in biology as symmetry change
+### How to depart from physics?
 
-Organisms are not invariant under the flow of time, because they develop and evolve.
+In physics, objects are abstract mathematical objects, which are extracted from the flow of time. They are defined by some properties that can be shared, and are therefore generic objects. This is not the case of organisms and we depart from physics by stating *the principle of variation*: ==organisms are **specific** objects==. 
 
-One way to accomodate those variations is to posit a mathematical structure that is used to single out the trajectory of generic objects (biological organisms) in a predefined space of pertinent possibilities that define observables (biological functions and their structure). This approach, that is at the core of physics, posit an invariant equation that governs the dynamics, and that is justified by an underlying [symmetry](concept/symmetry.md). 
+In other words, this means that organisms are not symmetric under permutation for a given theoretical analysis. Two organisms always have a qualitative difference for a theoretical reasoning. 
+
+### What consequences?
 
 Another way to accomodate functional variations in the biosphere is to understand the successive number of qualitative changes — in a way a function is performed by its structure, or the appearance or disappearance of new functions — as change of symmetries. Accordingly, this means that the mathematical apparatus to describe an organism is not constant throughout time. 
 
-Note that the microscopic laws of physics
 
-This leads to the principle of variation: ==organisms are **specific** objects==. 
-
-Organisms are not symmetric under permutation for a given theoretical analysis  Rather, an organism is an object defined by its history of unpredictable and context-dependent functional variations. It requires changing physico-mathematical structures (properties of objects, relevant observables, equations) to describe it throughtout time. 
+ Rather, an organism is an object defined by its history of unpredictable and context-dependent functional variations. It requires changing physico-mathematical structures (properties of objects, relevant observables, equations) to describe it throughtout time. 
 
 
 ![](images/Pasted%20image%2020230320184008.png)
