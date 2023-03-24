@@ -6,7 +6,6 @@
       {
         "id": "3c671d26b5138fa7",
         "type": "tabs",
-        "dimension": 60.59763724808895,
         "children": [
           {
             "id": "82c6381bfd024384",
@@ -19,27 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0a1eeae4a35ed0ad",
-        "type": "tabs",
-        "dimension": 39.40236275191105,
-        "children": [
+          },
           {
-            "id": "4b3ecbff8a328b87",
+            "id": "6ceb517439484691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept/symmetry.md",
+                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Montévil2016.md",
+                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Montévil2016.md",
+                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Montévil2016.md"
+                "file": "writing/(v0.1) The principle of variation and biological objects.md"
               }
             }
           }
@@ -166,11 +159,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "82c6381bfd024384",
+  "active": "6ceb517439484691",
   "lastOpenFiles": [
-    "concept/new possibility.md",
     "note/note on Montévil2016.md",
+    "writing/(v0.1) The principle of variation and biological objects.md",
     "concept/symmetry.md",
+    "reference/Montevil2022.md",
+    "concept/new possibility.md",
     "note/note on Mossio2014.md",
     "note/note on Montévil2019.md",
     "projects/thesis_project/(v1.2) projet.md",
@@ -189,14 +184,12 @@
     "note/note on Montévil2021.md",
     "note/history of self-determination.md",
     "note/note on Rovelli2017.md",
-    "reference/Montevil2022.md",
     "projects/TODO.md",
     "projects/summary_of_theory/Sans titre.md",
     "projects/summary_of_theory",
     "definition/taxonomy.md",
     "definition/systematics.md",
     "projects/TOREAD.md",
-    "concept/mechanistic system (detailed).md",
     "writing",
     "images/Pasted image 20230118122044.png"
   ]
