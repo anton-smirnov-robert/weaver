@@ -20,7 +20,7 @@ Reference : [Montevil2016](reference/Montevil2016.md)
 
 ### Introduction
 
-This comes from the notion of “descent with modification” of Darwin ([Darwin1859](reference/Darwin1859.md)). Compared to Lamarck, Darwin states that variations come from "chance", they are not directed. The latter would imply a deterministic framework and therefore anhistoricity. Other roots of the idea come from [Beatty1995](reference/Beatty1995.md) and [Gould2002](reference/Gould2002.md).
+This comes from the notion of “descent with modification” of Darwin ([Darwin1859](reference/Darwin1859.md)). Compared to Lamarck, Darwin states that variations come from "chance", they are not directed. The latter would imply a deterministic framework and therefore anhistoricity. Other roots of the idea come from ([Beatty1995](reference/Beatty1995.md)) and ([Gould2002](reference/Gould2002.md)).
 Variation, as a principle, does not need a justification. However, one can find it in chaotic processes, random gene expression, cellular proliferation with two non-identical cells, etc...
 In contrast to Darwin's idea, variation also occur during ontogenesis (not only for phylogenesis). 
 
@@ -28,40 +28,7 @@ In contrast to Darwin's idea, variation also occur during ontogenesis (not only 
 
 Physics centrally relies on the concept of [symmetry](concept/symmetry.md) to understand change, trajectories.
 
-### Could physics provide a rigourous framework for biology? 
-
-The objects of biology are organisms, but organisms are not invariant under the flow of time, because they develop and evolve. Therefore, physics cannot use organisms as an object *per se*. In physics, an organisms can only be encountered as result of the interactions between a multitude of invariant objects. However, even cells are created, change, and disappear. Physics must then use sub-cellular elements to describe organisms. We will go back later to this option. Yet, pragmatically, physics is still far from being able to understand or model a single cell. Therefore, while being different from physics, an rigorous theoretical frame that uses organisms as objects, could increase objectivity in biology. 
-
-### Depart from determinism 
-
-Positing this principle is equivalent to moving fom a deterministic view of biological phenomena. The latter is enshrined in physicalist reductionnism (theories of natural sciences are reducible to those of physics), that usually take two aspects. For neopreformationist, it is complete genetic determinism. Life can be written by combinations of four letters, materialized by nucleotides. Therefore, organisms can be enumerated, and they all preexist. For others, living beings can be understood with the deterministic trajectories of atoms because they are made of such particles. Of course, those two claims are seldom endorsed as such by scientists. Rather, they are moderated by mentioning epigenetics in the first case, the impredictibility of quantum mechanics or chaos theory in the second. 
-
-However, in both cases, problems do not emerge from the fact that additional effects are ignored (which would make complete determinism a bad approximation). Rather, — and this is essential — it lies in the fact that the chosen observables are not pertinent for the *understanding* of organisms, starting with their viability. A extraordinary small part of those phase spaces are relevant for biology, *as far as we know*. Even if we endorse complete genetic determinism, DNA sequences that program living beings represent an extremely small number of all the ones that can be enumerated. Atomic positions and velocities that can be attribuated to organisms are nearly singularities in the corresponding phase space. There is no such things such as a typical DNA sequence or a typical position of atoms that could generically define an organism. Almost all elements of those space do not represent an organism (Fig.1a). 
-
-Giving up on these kind of descriptions because of their lack of biological meaning, does not imply ignoring their importance in other theoretical frames (e.g., for DNA sequencing, for physics). However, for biology, they only constitute pre-possibilities ([Montevil2019a](reference/Montevil2019a.md)). We need to gather some of the biological meaningful pre-possibilities to constitute a subset a pertinent set of possibilities, *as far as we can tell*. This requires finding those singularities in the original phase space, redefining the observables[^1] to reconfigure those possibilities in a meaningful smaller set, and zooming in (Fig.1b, first panel). 
-
-### Biology is a theoretical sport
-
-The cost of conserving objectivity comes at the cost of being able to deal with two crucial aspects of the objects described in this new subset of biological meaningful possibilities. First, the only way to add a possibility in this frameless space, is by having seen it being realized. In other words, the pertinent space of description of organisms is *historical*. Second, adding a new possibility means that the organism has realized this possibility, and that this possibility was not one before that. Therefore, organisms can vary in a fundamentally *unpredictable* way for the theoretical framework. This defines randomness in biology, which is not endowed with a probability measure. (Fig.1b, second panel) Third, because the pertinent observables are established according to the current possibilities, they can also change in time. Therefore, the mathematical structure to describe them also change in time (Fig.1b, third panel). 
-
-Let's dwell on this last point. Biophysicists always predefine possibilities for the evolution of the functional parts of organisms, for epistemological reasons. The posited phase space always proceed from empirical observations, at a given time (Fig.1c, first panel). However, we have seen that the physico-mathematical modelling of organisms — and *a fortiori* one of its pertinent observable — can only be valid for a finite duration. The simulation of a functional part of an organism, sooner or later, will no longer be valid because the organism is not quantitatively *and* qualitatively invariant in time (Fig.1c, second panel).
-
-In fact, biophysical models often raise an epistemological problem. In fixing values of parameters or initial/boundary conditions to simulate functional parts of an organism, biophysicists seldom justified them with theoretical arguments. This is incompatible with the physical approach, whose objectivity aims to provides general insights about relations between generic objects. It requires discussing a phenomenon for a range of values of parameters to bring epistemic insights ([Montevil2022a](reference/Montevil2022a.md)). For instance, free fall is the physical insight brought by models that verify that a object of *any* mass negligeable compared to the one of the Earth, initially dropped at *any* altitude, end up on the ground.
-
-However, parameters and initial/boundary conditions in biophysical models of functional parts *are* specific. Yet, they can be understood only in the light of previous models. In other words, epistemologically, one has to resort to the history of the organisms to understand it from a biological point of view. Synchronically, the relational epistemology of physics does not encompass the circularity at play in an organism, the one that makes their parts self-maintain. Therefore, *biological models need to sychronically and diachronically articulate physical models of an organism's functional parts* (Fig.1c). 
-
-### Defining biological objects
-
-In physics, objects are abstract mathematical objects, which are extracted from the flow of time. They are defined by some properties that can be shared: they are generic. This is not the case of organisms such that a first principle can be stated. 
-
-*The principle of variation*: ==organisms are **specific** objects==.
-
-Specific can be understood as the contrary of generic. Specific objects are material objects, and two of them always have a qualitative difference with respect to a given theoretical frame. 
-**Context** and history. 
-Les ressemblances ne peuvent venir que d'une histoire partagée. 
-**Hybrid and bounded in time.**
-
-### About measurement in biology (predictability)
+![](images/Pasted%20image%2020230324225643.png)
 
 
 ![](images/Pasted%20image%2020230320184008.png)
@@ -69,9 +36,6 @@ Les ressemblances ne peuvent venir que d'une histoire partagée.
 
 ### Consequences of the principle of variation
 
-On symmetrization (see note on [note on Montévil2019](note/note%20on%20Montévil2019.md)). 
-
-Consequently, this means that novelties happen in an *unpredictable* ways, because there are no law underlying the dynamics (see [note on Montévil2019a](note/note%20on%20Montévil2019a.md)). 
 
 
 ——————
