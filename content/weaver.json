@@ -2678,6 +2678,55 @@
       "select": "zotero://select/library/items/8RY5Q7D7"
     },
     {
+      "key": "2N8ULWYC",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S2214753515000030",
+      "volume": "2",
+      "pages": "35-42",
+      "publicationTitle": "Biomolecular Detection and Quantification",
+      "ISSN": "22147535",
+      "date": "12/2014",
+      "journalAbbreviation": "Biomolecular Detection and Quantification",
+      "DOI": "10.1016/j.bdq.2015.01.002",
+      "accessDate": "2023-03-24T19:59:09Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "The reproducibility of biomedical research: Sleepers awake!",
+      "shortTitle": "The reproducibility of biomedical research",
+      "creators": [
+        {
+          "firstName": "Stephen A.",
+          "lastName": "Bustin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-24T19:59:09Z",
+      "dateModified": "2023-03-24T19:59:09Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2N8ULWYC",
+      "itemID": 7249,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Bustin - 2014 - The reproducibility of biomedical research Sleepe.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-24T19:59:05Z",
+          "dateModified": "2023-03-24T19:59:10Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/7Q5XKQLQ",
+          "path": "/Users/robert/Dropbox/zotero/storage/7Q5XKQLQ/Bustin - 2014 - The reproducibility of biomedical research Sleepe.pdf",
+          "select": "zotero://select/library/items/7Q5XKQLQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Bustin2014",
+      "itemKey": "2N8ULWYC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2N8ULWYC"
+    },
+    {
       "key": "Y6J7USB6",
       "version": 0,
       "itemType": "journalArticle",
