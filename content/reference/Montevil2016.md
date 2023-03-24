@@ -120,7 +120,6 @@ DOI: 10.1016/j.pbiomolbio.2016.08.005
 >
 >==***On ne peut pas comprendre une cellule avec la physique car les trajectoires de molécules à l'intérieur sont hautement improbables. Elles se font pourtant car ces processus sont les résultats de l'histoire de l'évolution de 3milliards d'années.&nbsp; ( C'est l'anti-entropie qui permet à ces trajectoires très improbables de pourtant se faire). C'est aussi parce qu'elle se font toutes en mêmes temps (closure) qu'elle sont possible.***== The fact that biological organisms are specific objects straightforwardly implies that they are historical objects —  (Montévil et al., 2016, p. 9) 
 
-
 > [!quote] 
 >
 >==***Il faut ici penser à distinguer, par exemple, une blockchain de la biologie par la fonctionnalité des résultats du hasard. Pour le bitcoin, il y a un aléatoire quant au mineur qui trouvera la combinaison et gagnera de l'argent en détruisant la planète. On ne peut savoir à l'avance (au sens faible puisque les possibilités peuvent être énumérées si on a une liste constante de miners). Mais le résultat a un moment n'influe pas le résultat d'après. Il y a donc une forme d'historicité au sens faible et fort qui procède d'un hasard faible ou fort ? Non, si les possibilités peuvent être prédites pour les possibles blockchain, elle n'est pas historique.***== Historicity thus goes hand in hand with biological randomness, which corresponds to the fact that a situation after a random event cannot be stated with certainty before the event. —  (Montévil et al., 2016, p. 9) 

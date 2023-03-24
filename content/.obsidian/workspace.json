@@ -20,6 +20,42 @@
             }
           }
         ]
+      },
+      {
+        "id": "d72712baaf61a269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c312d79ae2ba0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Montevil2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b9faf62a3e89e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93312627edec9ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/note on Montévil2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 200
   },
   "right": {
     "id": "9fa4fa23d5a1c7da",
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
+                "file": "reference/Montevil2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
+                "file": "reference/Montevil2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md"
+                "file": "reference/Montevil2016.md"
               }
             }
           }
@@ -146,15 +182,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "82c6381bfd024384",
+  "active": "90c312d79ae2ba0e",
   "lastOpenFiles": [
+    "writing/(v0.1) The principle of variation and biological objects.md",
+    "note/note on Montévil2016.md",
+    "reference/Montevil2016.md",
+    "note/note on Montévil2019a.md",
     "reference/Bustin2014.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
     "writing/(v1.2) projet.md",
-    "writing/(v0.1) The principle of variation and biological objects.md",
     "reference/Clark2017.md",
     "note/note on Montévil2019.md",
-    "note/note on Montévil2016.md",
     "concept/symmetry.md",
     "reference/Montevil2022.md",
     "concept/new possibility.md",
@@ -165,13 +203,11 @@
     "reference/Huang2009.md",
     "reference/Stadler2001.md",
     "images/Pasted image 20230320184008.png",
-    "reference/Montevil2016.md",
     "reference/VanFraassen1989.md",
     "reference/Beatty1995.md",
     "reference/Gould2002.md",
     "images/Pasted image 20230320111525.png",
     "reference/Darwin1859.md",
-    "note/note on Montévil2019a.md",
     "note/note on Montévil2021.md",
     "note/history of self-determination.md",
     "note/note on Rovelli2017.md",
