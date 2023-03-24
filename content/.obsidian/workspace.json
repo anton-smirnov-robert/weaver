@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Montévil2016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ceb517439484691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,15 +146,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6ceb517439484691",
+  "active": "82c6381bfd024384",
   "lastOpenFiles": [
-    "concept/symmetry.md",
+    "note/note on Montévil2019.md",
     "writing/(v0.1) The principle of variation and biological objects.md",
     "note/note on Montévil2016.md",
+    "concept/symmetry.md",
     "reference/Montevil2022.md",
     "concept/new possibility.md",
     "note/note on Mossio2014.md",
-    "note/note on Montévil2019.md",
     "projects/thesis_project/(v1.2) projet.md",
     "concept/Modern Synthesis.md",
     "reference/David2013.md",
