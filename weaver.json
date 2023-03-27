@@ -14339,17 +14339,22 @@
       "select": "zotero://select/library/items/Z4WNPARM"
     },
     {
-      "key": "5AMJ6TM6",
+      "key": "MB3TG6DL",
       "version": 0,
-      "itemType": "preprint",
-      "url": "http://arxiv.org/abs/2204.08779",
-      "date": "2022-04-19",
-      "extra": "arXiv:2204.08779 [cond-mat]",
-      "DOI": "10.48550/arXiv.2204.08779",
-      "accessDate": "2022-12-09T17:11:06Z",
-      "libraryCatalog": "arXiv.org",
-      "abstractNote": "We compute ionic free energy adsorption profiles at aqueous graphene interface by developing a self-consistent approach. To do so, we design a microscopic model for water and put the liquid on an equal footing with the graphene described by its electronic band structure. By evaluating progressively the electronic/dipolar coupled electrostatic interactions, we show that the coupling level including mutual graphene/water screening permits to recover remarkably the precision of extensive quantum simulations. We further derive the potential of mean force evolution of several alkali cations to gain insight on the ionic size effects.",
-      "title": "Coupled interactions at the ionic graphene/water interface",
+      "itemType": "journalArticle",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.130.076201",
+      "volume": "130",
+      "issue": "7",
+      "pages": "076201",
+      "publicationTitle": "Physical Review Letters",
+      "date": "2023-02-15",
+      "extra": "Publisher: American Physical Society",
+      "journalAbbreviation": "Phys. Rev. Lett.",
+      "DOI": "10.1103/PhysRevLett.130.076201",
+      "accessDate": "2023-03-27T18:13:47Z",
+      "libraryCatalog": "APS",
+      "abstractNote": "We compute ionic free energy adsorption profiles at an aqueous graphene interface by developing a self-consistent approach. To do so, we design a microscopic model for water and put the liquid on an equal footing with the graphene described by its electronic band structure. By evaluating progressively the electronic and dipolar coupled electrostatic interactions, we show that the coupling level including mutual graphene and water screening permits one to recover remarkably the precision of extensive quantum simulations. We further derive the potential of mean force evolution of several alkali cations.",
+      "title": "Coupled Interactions at the Ionic Graphene-Water Interface",
       "creators": [
         {
           "firstName": "Anton",
@@ -14367,48 +14372,41 @@
           "creatorType": "author"
         }
       ],
-      "tags": [
-        {
-          "tag": "Condensed Matter - Soft Condensed Matter",
-          "type": 1
-        }
-      ],
+      "tags": [],
       "relations": [],
-      "dateAdded": "2022-12-09T17:11:06Z",
-      "dateModified": "2022-12-09T17:11:06Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/5AMJ6TM6",
-      "itemID": 5868,
+      "dateAdded": "2023-03-27T18:13:47Z",
+      "dateModified": "2023-03-27T18:13:47Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/MB3TG6DL",
+      "itemID": 7252,
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "arXiv Fulltext PDF",
+          "title": "APS Snapshot",
           "tags": [],
           "relations": [],
-          "dateAdded": "2022-12-09T17:13:17Z",
-          "dateModified": "2022-12-09T17:13:17Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/SCZN5U7W",
-          "path": "/Users/robert/Dropbox/zotero/storage/SCZN5U7W/Robert et al. - 2022 - Coupled interactions at the ionic graphenewater i.pdf",
-          "select": "zotero://select/library/items/SCZN5U7W"
+          "dateAdded": "2023-03-27T18:13:54Z",
+          "dateModified": "2023-03-27T18:13:54Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/WP9VDKXZ",
+          "path": "/Users/robert/Dropbox/zotero/storage/WP9VDKXZ/PhysRevLett.130.html",
+          "select": "zotero://select/library/items/WP9VDKXZ"
         },
         {
           "itemType": "attachment",
-          "title": "arXiv.org Snapshot",
+          "title": "Version soumise",
           "tags": [],
           "relations": [],
-          "dateAdded": "2022-12-09T17:13:24Z",
-          "dateModified": "2022-12-09T17:13:24Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/8N2FV6NQ",
-          "path": "/Users/robert/Dropbox/zotero/storage/8N2FV6NQ/2204.html",
-          "select": "zotero://select/library/items/8N2FV6NQ"
+          "dateAdded": "2023-03-27T18:14:01Z",
+          "dateModified": "2023-03-27T18:14:01Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ZS3FA2UR",
+          "path": "/Users/robert/Dropbox/zotero/storage/ZS3FA2UR/Robert et al. - 2023 - Coupled Interactions at the Ionic Graphene-Water I.pdf",
+          "select": "zotero://select/library/items/ZS3FA2UR"
         }
       ],
       "notes": [],
-      "citationKey": "Robert2022a",
-      "itemKey": "5AMJ6TM6",
+      "citationKey": "Robert2023",
+      "itemKey": "MB3TG6DL",
       "libraryID": 1,
-      "select": "zotero://select/library/items/5AMJ6TM6",
-      "number": "arXiv:2204.08779",
-      "publisher": "arXiv"
+      "select": "zotero://select/library/items/MB3TG6DL"
     },
     {
       "key": "TMUIXBLJ",
