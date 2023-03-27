@@ -7545,6 +7545,52 @@
       "select": "zotero://select/library/items/5PUS79TN"
     },
     {
+      "key": "GNZSD67Z",
+      "version": 0,
+      "itemType": "report",
+      "url": "https://osf.io/x3uny",
+      "date": "2022-06-21",
+      "extra": "DOI: 10.31219/osf.io/x3uny",
+      "accessDate": "2023-03-27T16:53:36Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "At first sight, the empirical study of ontogenesis and the theoretical study of organismal agency seem to have little in common. In this chapter, we discuss why this initial impression is incorrect. First of all, ontogenesis and agency are indirectly connected at the level of the whole organism, since they are co-dependent on the peculiar organization that characterizes living systems. While ontogenesis is constrained by its own requirement to maintain living organization in the form of organizational closure throughout the life cycle, agency is grounded in the same phenomenon of organizational continuity. Second, cellular agency contributes more directly to important processes of multicellular development in organisms with multiple levels of organization. This leads to a view of ontogenesis that emphasizes agency and variation in the underlying cellular dynamics, focusing on stability and reproducibility of ontogenetic processes as its main explanatory targets. We examine how these insights can help us bridge the explanatory gap between reductionist mechanistic empirical approaches and theoretical considerations of the organization of the whole organism. We conclude that both approaches are best used in a complementary manner. Only by contextualizing ontogenetic mechanisms in the larger context of the evolving life cycle, will we gain a true understanding of their functionality and evolution.",
+      "title": "Ontogenesis, Organization, and Organismal Agency",
+      "creators": [
+        {
+          "firstName": "Johannes",
+          "lastName": "Jaeger",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-27T16:53:36Z",
+      "dateModified": "2023-03-27T16:53:36Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/GNZSD67Z",
+      "itemID": 7251,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Jaeger - 2022 - Ontogenesis, Organization, and Organismal Agency.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-27T16:53:32Z",
+          "dateModified": "2023-03-27T16:53:37Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/TGRLHSMT",
+          "path": "/Users/robert/Dropbox/zotero/storage/TGRLHSMT/Jaeger - 2022 - Ontogenesis, Organization, and Organismal Agency.pdf",
+          "select": "zotero://select/library/items/TGRLHSMT"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Jaeger2022",
+      "itemKey": "GNZSD67Z",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GNZSD67Z",
+      "type": "preprint",
+      "publisher": "Open Science Framework"
+    },
+    {
       "key": "CH6IID5B",
       "version": 0,
       "itemType": "journalArticle",

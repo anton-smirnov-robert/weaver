@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3c671d26b5138fa7",
+        "id": "3818cc04767bbe43",
         "type": "tabs",
         "children": [
           {
-            "id": "82c6381bfd024384",
+            "id": "e92552e0b6047e8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "82c6381bfd024384",
+  "active": "e92552e0b6047e8a",
   "lastOpenFiles": [
+    "writing/(v0.1) The principle of variation and biological objects.md",
     "note/note on Montévil2016.md",
     "images/Pasted image 20230324225643.png",
-    "writing/(v0.1) The principle of variation and biological objects.md",
     "reference/Montevil2016.md",
     "note/note on Montévil2019a.md",
     "reference/Bustin2014.md",
