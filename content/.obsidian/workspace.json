@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3818cc04767bbe43",
+        "id": "a0a452cd13a8e7a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e92552e0b6047e8a",
+            "id": "bcc2cc12c072a667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/(v1.2) projet.md",
+                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/(v1.2) projet.md",
+                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/(v1.2) projet.md",
+                "file": "writing/(v0.1) The principle of variation and biological objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/(v1.2) projet.md"
+                "file": "writing/(v0.1) The principle of variation and biological objects.md"
               }
             }
           }
@@ -146,16 +146,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "e92552e0b6047e8a",
+  "active": "bcc2cc12c072a667",
   "lastOpenFiles": [
+    "writing/(v1.2) projet.md",
+    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
     "writing/(v0.1) The principle of variation and biological objects.md",
+    "note/history of self-determination.md",
     "note/note on Montévil2016.md",
     "images/Pasted image 20230324225643.png",
     "reference/Montevil2016.md",
     "note/note on Montévil2019a.md",
     "reference/Bustin2014.md",
-    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "writing/(v1.2) projet.md",
     "reference/Clark2017.md",
     "note/note on Montévil2019.md",
     "concept/symmetry.md",
@@ -174,7 +175,6 @@
     "images/Pasted image 20230320111525.png",
     "reference/Darwin1859.md",
     "note/note on Montévil2021.md",
-    "note/history of self-determination.md",
     "note/note on Rovelli2017.md",
     "projects/summary_of_theory",
     "writing",
