@@ -1000,30 +1000,6 @@
       "select": "zotero://select/library/items/BMWWVXAL"
     },
     {
-      "key": "4VRRPDYL",
-      "version": 0,
-      "itemType": "attachment",
-      "title": "52_criteres_2022.pdf",
-      "linkMode": "imported_file",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "52_criteres_2022.pdf",
-      "tags": [],
-      "collections": [
-        "3TXVTZ22"
-      ],
-      "relations": {},
-      "dateAdded": "2023-01-27T12:49:45Z",
-      "dateModified": "2023-01-27T12:49:45Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/4VRRPDYL",
-      "itemID": 6381,
-      "localPath": "/Users/robert/Dropbox/zotero/storage/4VRRPDYL/52_criteres_2022.pdf",
-      "defaultPath": "files/6381/52_criteres_2022.pdf",
-      "itemKey": "4VRRPDYL",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/4VRRPDYL"
-    },
-    {
       "key": "UACAFQHX",
       "version": 0,
       "itemType": "attachment",
@@ -16527,6 +16503,36 @@
       "select": "zotero://select/library/items/RK844GNE"
     },
     {
+      "key": "WXT5MJKB",
+      "version": 0,
+      "itemType": "videoRecording",
+      "url": "https://www.youtube.com/watch?v=A_q_bOWc8i0",
+      "date": "2015-05-27",
+      "accessDate": "2023-03-29T21:15:23Z",
+      "libraryCatalog": "YouTube",
+      "runningTime": "58:34",
+      "abstractNote": "A conversation with Denis Noble and Michael J. Joyner at Experimental Biology 2015.\nModerated by David J. Paterson, Editor-in-Chief, The Journal of Physiology.",
+      "title": "The integration of evolutionary biology with physiological science",
+      "creators": [
+        {
+          "name": "The Physiological Society",
+          "creatorType": "director"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-29T21:15:23Z",
+      "dateModified": "2023-03-29T21:15:23Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WXT5MJKB",
+      "itemID": 7260,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "ThePhysiologicalSociety2015",
+      "itemKey": "WXT5MJKB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WXT5MJKB"
+    },
+    {
       "key": "WW5XM7SE",
       "version": 0,
       "itemType": "journalArticle",
@@ -17348,43 +17354,6 @@
       "itemKey": "J87GICY5",
       "libraryID": 1,
       "select": "zotero://select/library/items/J87GICY5"
-    },
-    {
-      "key": "5RHY7H8J",
-      "version": 0,
-      "itemType": "blogPost",
-      "url": "https://rapports-du-comite-national.cnrs.fr/rapport_conjoncture_2019/cid-52-environnements-societes\u2009-du-fondamental-a-loperationnel/",
-      "accessDate": "2023-01-27T12:48:19Z",
-      "language": "fr-FR",
-      "abstractNote": "Composition de la Commission Catherine Leblanc (pr\u00e9sidente de Commission)\u2009; Enguerran Macia (secr\u00e9taire scientifique)\u2009; Luc Abbadie\u2009; Vincent Bels\u2009; David Biron\u2009; Sophie Caillon\u2009; Marie Charpentier\u2009; \u00c9tienne Cossart\u2009; \u00c9tienne Deloule\u2009; \u00c9lise Demeulenaere\u2009; Herve Doreau, Magali Dreyfus\u2009; Bernard Dussoubs\u2009; Didier Galop\u2009; Romain Garcier\u2009; Alain Queffelec\u2009; Ginette Saracco\u2009; T\u00e9lesphore Sime-Ngando\u2009; Thierry Tatoni\u2009; Konstantinos Termentzidis. R\u00e9sum\u00e9 \u00c0 l\u2019heure du changement climatique [\u2026]",
-      "title": "CID 52 Environnements soci\u00e9t\u00e9s : du fondamental \u00e0 l&apos;op\u00e9rationnel",
-      "shortTitle": "CID 52 Environnements soci\u00e9t\u00e9s",
-      "creators": [],
-      "tags": [],
-      "relations": [],
-      "dateAdded": "2023-01-27T12:48:19Z",
-      "dateModified": "2023-01-27T12:48:19Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/5RHY7H8J",
-      "itemID": 6379,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "Snapshot",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-01-27T12:48:42Z",
-          "dateModified": "2023-01-27T12:48:42Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/KUCRXNTJ",
-          "path": "/Users/robert/Dropbox/zotero/storage/KUCRXNTJ/cid-52-environnements-societes -du-fondamental-a-loperationnel.html",
-          "select": "zotero://select/library/items/KUCRXNTJ"
-        }
-      ],
-      "notes": [],
-      "citationKey": "zotero-6379",
-      "itemKey": "5RHY7H8J",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/5RHY7H8J",
-      "publicationTitle": "Rapports du Comit\u00e9 national"
     },
     {
       "key": "M5CTCCMS",
