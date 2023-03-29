@@ -976,30 +976,6 @@
       "select": "zotero://select/library/items/YAV8H5FV"
     },
     {
-      "key": "BMWWVXAL",
-      "version": 0,
-      "itemType": "attachment",
-      "title": "Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
-      "linkMode": "imported_file",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
-      "tags": [],
-      "collections": [
-        "3TXVTZ22"
-      ],
-      "relations": {},
-      "dateAdded": "2023-01-07T18:57:20Z",
-      "dateModified": "2023-01-07T18:57:20Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/BMWWVXAL",
-      "itemID": 6069,
-      "localPath": "/Users/robert/Dropbox/zotero/storage/BMWWVXAL/Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
-      "defaultPath": "files/6069/Discussion_Paper_Mission_Oriented_Research_for_the_2019_2020_RM.pdf",
-      "itemKey": "BMWWVXAL",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/BMWWVXAL"
-    },
-    {
       "key": "UACAFQHX",
       "version": 0,
       "itemType": "attachment",
@@ -12782,6 +12758,89 @@
       "itemKey": "VQ6BA7I4",
       "libraryID": 1,
       "select": "zotero://select/library/items/VQ6BA7I4"
+    },
+    {
+      "key": "JRHXJHMY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1007/s12304-021-09405-3",
+      "volume": "14",
+      "issue": "1",
+      "pages": "5-24",
+      "publicationTitle": "Biosemiotics",
+      "ISSN": "1875-1350",
+      "date": "2021-04-01",
+      "journalAbbreviation": "Biosemiotics",
+      "DOI": "10.1007/s12304-021-09405-3",
+      "accessDate": "2023-03-29T21:33:22Z",
+      "libraryCatalog": "Springer Link",
+      "language": "en",
+      "abstractNote": "The Modern Synthesis has dominated biology for 80\u00a0years. It was formulated in 1942, a decade before the major achievements of molecular biology, including the Double Helix and the Central Dogma. When first formulated in the 1950s these discoveries and concepts seemed initially to completely justify the central genetic assumptions of the Modern Synthesis. The Double Helix provided the basis for highly accurate DNA replication, while the Central Dogma was viewed as supporting the Weismann Barrier, so excluding the inheritance of acquired characteristics. This article examines the language of the Modern Synthesis and reveals that it is based on four important misinterpretations of what molecular biology had shown, so forming the basis of the four Illusions: 1. Natural Selection; 2. The Weismann Barrier; 3. The Rejection of Darwin\u2019s Gemmules; 4. The Central Dogma. A multi-level organisation view of biology avoids these illusions through the principle of biological relativity. Molecular biology does not therefore confirm the assumptions of the Modern Synthesis.",
+      "title": "The Illusions of the Modern Synthesis",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Biological relativity",
+          "type": 1
+        },
+        {
+          "tag": "Darwin\u2019s Gemmules",
+          "type": 1
+        },
+        {
+          "tag": "Modern synthesis",
+          "type": 1
+        },
+        {
+          "tag": "Natural selection",
+          "type": 1
+        },
+        {
+          "tag": "Neo-Darwinism",
+          "type": 1
+        },
+        {
+          "tag": "Pangenesis",
+          "type": 1
+        },
+        {
+          "tag": "The central dogma",
+          "type": 1
+        },
+        {
+          "tag": "Weismann barrier",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-29T21:33:22Z",
+      "dateModified": "2023-03-29T21:33:22Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/JRHXJHMY",
+      "itemID": 7261,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-29T21:33:24Z",
+          "dateModified": "2023-03-29T21:33:24Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LIKKPWQJ",
+          "path": "/Users/robert/Dropbox/zotero/storage/LIKKPWQJ/Noble - 2021 - The Illusions of the Modern Synthesis.pdf",
+          "select": "zotero://select/library/items/LIKKPWQJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2021",
+      "itemKey": "JRHXJHMY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JRHXJHMY"
     },
     {
       "key": "2RWLMRQW",
