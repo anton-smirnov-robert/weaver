@@ -12808,6 +12808,57 @@
       "select": "zotero://select/library/items/VQ6BA7I4"
     },
     {
+      "key": "2RWLMRQW",
+      "version": 0,
+      "itemType": "book",
+      "url": "https://www.cambridge.org/core/books/understanding-living-systems/F528C289CA656D7C0F67DA5584E50611",
+      "series": "Understanding Life",
+      "place": "Cambridge",
+      "publisher": "Cambridge University Press",
+      "ISBN": "978-1-00-927736-5",
+      "date": "2023",
+      "accessDate": "2023-03-29T20:54:16Z",
+      "libraryCatalog": "Cambridge University Press",
+      "abstractNote": "Life is definitively purposive and creative. Organisms use genes in controlling their destiny. This book presents a paradigm shift in understanding living systems. The genome is not a code, blueprint or set of instructions. It is a tool orchestrated by the system. This book shows that gene-centrism misrepresents what genes are and how they are used by living systems. It demonstrates how organisms make choices, influencing their behaviour, their development and evolution, and act as agents  of natural selection. It presents a novel approach to fundamental philosophical and cultural issues, such as free-will. Reading this book will make you see life in a new light, as a marvellous phenomenon, and in some sense a triumph of evolution. We are not in our genes, our genes are in us.",
+      "title": "Understanding Living Systems",
+      "creators": [
+        {
+          "firstName": "Raymond",
+          "lastName": "Noble",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-29T20:54:16Z",
+      "dateModified": "2023-03-29T20:54:16Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/2RWLMRQW",
+      "itemID": 7258,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-29T20:54:27Z",
+          "dateModified": "2023-03-29T20:54:27Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/H38L9EK4",
+          "path": "/Users/robert/Dropbox/zotero/storage/H38L9EK4/F528C289CA656D7C0F67DA5584E50611.html",
+          "select": "zotero://select/library/items/H38L9EK4"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2023",
+      "itemKey": "2RWLMRQW",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/2RWLMRQW"
+    },
+    {
       "key": "VBK4YYRV",
       "version": 0,
       "itemType": "report",
