@@ -9,7 +9,7 @@
       "autoAbbrev": false,
       "autoAbbrevStyle": "",
       "autoExport": "immediate",
-      "autoExportDelay": 2,
+      "autoExportDelay": 4,
       "autoExportIdleWait": 10,
       "autoExportPathReplaceDiacritics": false,
       "autoExportPathReplaceDirSep": "-",
@@ -9181,6 +9181,94 @@
       "itemKey": "RLA5VI3C",
       "libraryID": 1,
       "select": "zotero://select/library/items/RLA5VI3C"
+    },
+    {
+      "key": "WFZFB9EF",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476836/",
+      "volume": "9",
+      "issue": "1",
+      "pages": "92-95",
+      "publicationTitle": "Aging cell",
+      "ISSN": "1474-9718",
+      "date": "2010-2",
+      "extra": "PMID: 19878144\nPMCID: PMC3476836",
+      "journalAbbreviation": "Aging Cell",
+      "DOI": "10.1111/j.1474-9726.2009.00533.x",
+      "accessDate": "2023-03-29T20:45:01Z",
+      "libraryCatalog": "PubMed Central",
+      "abstractNote": "Chronic dietary restriction (DR) is considered among the most robust life-extending interventions, but several reports indicate that DR does not always extend and may even shorten lifespan in some genotypes. An unbiased genetic screen of the lifespan response to DR has been lacking. Here we measured the effect of one commonly used level of dietary restriction (DR: 40% reduction in food intake) on mean lifespan of virgin males and females in 41 recombinant inbred (RI) strains of mice. Mean strain-specific lifespan varied 2- to 3-fold under ad libitum (AL) feeding and 6- to 10-fold under DR, in males and females, respectively. Notably, DR shortened lifespan in more strains than those in which it lengthened life. Food intake and female fertility varied markedly among strains under AL feeding, but neither predicted DR survival: therefore, strains in which DR shortened lifespan did not have low food intake or poor reproductive potential. Finally, strain-specific lifespans under DR and AL feeding were not correlated, indicating that the genetic determinants of lifespan under these two conditions differ. These results demonstrate that the lifespan response to a single level of DR exhibits wide variation amenable to genetic analysis. They also show that DR can shorten lifespan in inbred mice. Although strains with shortened lifespan under 40% DR may not respond negatively under less stringent DR, the results raise the possibility that life extension by DR may not be universal.",
+      "title": "Genetic Variation in the Murine Lifespan Response to Dietary Restriction: from Life Extension to Life Shortening",
+      "shortTitle": "Genetic Variation in the Murine Lifespan Response to Dietary Restriction",
+      "creators": [
+        {
+          "firstName": "Chen-Yu",
+          "lastName": "Liao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Brad A.",
+          "lastName": "Rikke",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Thomas E.",
+          "lastName": "Johnson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vivian",
+          "lastName": "Diaz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "James F.",
+          "lastName": "Nelson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-29T20:45:01Z",
+      "dateModified": "2023-03-29T20:45:01Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WFZFB9EF",
+      "itemID": 7255,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "PubMed Central Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-29T20:45:06Z",
+          "dateModified": "2023-03-29T20:45:06Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/APNF2ZKF",
+          "path": "/Users/robert/Dropbox/zotero/storage/APNF2ZKF/Liao et al. - 2010 - Genetic Variation in the Murine Lifespan Response .pdf",
+          "select": "zotero://select/library/items/APNF2ZKF"
+        },
+        {
+          "key": "L9KUL5GU",
+          "version": 0,
+          "itemType": "attachment",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476836/",
+          "accessDate": "2023-03-29T20:45:02Z",
+          "title": "PubMed Central Link",
+          "parentItem": "WFZFB9EF",
+          "linkMode": "linked_url",
+          "contentType": "text/html",
+          "charset": "",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-03-29T20:45:02Z",
+          "dateModified": "2023-03-29T20:45:02Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/L9KUL5GU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Liao2010",
+      "itemKey": "WFZFB9EF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WFZFB9EF"
     },
     {
       "key": "PLFQ7697",
