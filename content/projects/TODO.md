@@ -14,12 +14,38 @@ tags:
 - [x]  Note on Novelty  — Maël , avec articulation avec fonction et clotûre de contraintes.
 - [x]  Read [Montevil2016](reference/Montevil2016.md)
 - [x] Read [Montevil2019](reference/Montevil2019.md)
-- [ ] Read [Montevil2022a](reference/Montevil2022a.md)
+- [x] Read [Montevil2022a](reference/Montevil2022a.md)
 - [ ] Read [Montevil2020a](reference/Montevil2020a.md) 
 - [ ] Note [Montevil2016](reference/Montevil2016.md)
 - [ ] Note [Montevil2019](reference/Montevil2019.md)
 
-- [ ] Read Montévil symbole informatique qui empèche de calculer
+- [ ] Course of Yogi on youtube.
+- [ ] Theoretical history of biological theories (Darwin, modern sythesis, neo-darwinism, extended version, current problems, Denis Noble, etc.)
+
+
+## Prepare chapters of thesis
+
+#### Part I : The disrupted theoretical framework of biology 
+-  Chapter about the history of theories in biology and experimental facts. 
+-  Chapter about some sociology of science (resistance to theories, dialogues with modelers, proletarization of scientific thought, commercialization, etc.)
+
+#### Part II : An organicist perspective  
+- Historical aspects
+- A new epistemological and theoretical framework 
+- New conceptual tools to put into practice
+
+### Part III : Applications 
+
+### Part IV : Methods and epistemological considerations
+
+### Part V : Epistemic gain of organicists models
+
+
+
+
+
+
+
 
 - [ ] Incompleteness — Longo 
 - [ ] Time and Bergson — Longo 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
+                "file": "projects/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
+                "file": "projects/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md",
+                "file": "projects/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/(v0.1) The principle of variation and biological objects.md"
+                "file": "projects/TODO.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "bcc2cc12c072a667",
   "lastOpenFiles": [
+    "writing/(v0.1) The principle of variation and biological objects.md",
     "writing/(v1.2) projet.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "writing/(v0.1) The principle of variation and biological objects.md",
     "note/history of self-determination.md",
     "note/note on Montévil2016.md",
     "images/Pasted image 20230324225643.png",
