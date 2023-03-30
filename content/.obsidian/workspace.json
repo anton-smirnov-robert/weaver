@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "Anton Robert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "Anton Robert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "Anton Robert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/TODO.md"
+                "file": "Anton Robert.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "bcc2cc12c072a667",
   "lastOpenFiles": [
+    "projects/TODO.md",
     "writing/(v0.1) The principle of variation and biological objects.md",
     "writing/(v1.2) projet.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
