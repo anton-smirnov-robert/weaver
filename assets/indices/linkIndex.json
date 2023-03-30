@@ -527,21 +527,21 @@
           "text": "Pines1988"
         }
       ],
-      "/concept/Go%CC%88dels-incompleteness-theorem": [
+      "/concept/Godels-incompleteness-theorem": [
         {
-          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
-          "target": "/concept/G%C3%B6dels-numbering",
-          "text": "Gödel's numbering"
+          "source": "/concept/Godels-incompleteness-theorem",
+          "target": "/concept/Godels-numbering",
+          "text": "Godel's numbering"
         },
         {
-          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
+          "source": "/concept/Godels-incompleteness-theorem",
           "target": "/concept/Tarskis-undefinability-theorem",
           "text": "Tarski's undefinability theorem"
         }
       ],
-      "/concept/Go%CC%88dels-numbering": [
+      "/concept/Godels-numbering": [
         {
-          "source": "/concept/Go%CC%88dels-numbering",
+          "source": "/concept/Godels-numbering",
           "target": "/concept/formal-language",
           "text": "formal language"
         }
@@ -653,8 +653,8 @@
         },
         {
           "source": "/concept/Tarskis-undefinability-theorem",
-          "target": "/concept/G%C3%B6dels-numbering",
-          "text": "Gödel's numbering"
+          "target": "/concept/Godels-numbering",
+          "text": "Godel's numbering"
         }
       ],
       "/concept/Turing-machine": [
@@ -868,8 +868,8 @@
         },
         {
           "source": "/concept/mechanistic-organization",
-          "target": "/concept/mechanistic-system-detailed",
-          "text": "mechanistic system (detailed)"
+          "target": "/concept/mechanistic-system",
+          "text": "mechanistic system"
         },
         {
           "source": "/concept/mechanistic-organization",
@@ -1610,48 +1610,6 @@
           "text": "Morin1982"
         }
       ],
-      "/note/note-on-Montevil2019-and-Montevil2020a": [
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2019",
-          "text": "Montevil2019"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Bustin2014",
-          "text": "Bustin2014"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Clark2017",
-          "text": "Clark2017"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        }
-      ],
       "/note/note-on-Mossio2014": [
         {
           "source": "/note/note-on-Mossio2014",
@@ -1899,23 +1857,23 @@
           "text": "Crick's central dogma"
         }
       ],
-      "/concept/G%C3%B6dels-numbering": [
-        {
-          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
-          "target": "/concept/G%C3%B6dels-numbering",
-          "text": "Gödel's numbering"
-        },
-        {
-          "source": "/concept/Tarskis-undefinability-theorem",
-          "target": "/concept/G%C3%B6dels-numbering",
-          "text": "Gödel's numbering"
-        }
-      ],
       "/concept/Gell-Manns-vision-of-complexity": [
         {
           "source": "/definition/complexity-sciences",
           "target": "/concept/Gell-Manns-vision-of-complexity",
           "text": "Gell-Mann's vision of complexity"
+        }
+      ],
+      "/concept/Godels-numbering": [
+        {
+          "source": "/concept/Godels-incompleteness-theorem",
+          "target": "/concept/Godels-numbering",
+          "text": "Godel's numbering"
+        },
+        {
+          "source": "/concept/Tarskis-undefinability-theorem",
+          "target": "/concept/Godels-numbering",
+          "text": "Godel's numbering"
         }
       ],
       "/concept/Kolmogorovs-incompressibility": [
@@ -1996,7 +1954,7 @@
       ],
       "/concept/Tarskis-undefinability-theorem": [
         {
-          "source": "/concept/Go%CC%88dels-incompleteness-theorem",
+          "source": "/concept/Godels-incompleteness-theorem",
           "target": "/concept/Tarskis-undefinability-theorem",
           "text": "Tarski's undefinability theorem"
         }
@@ -2145,7 +2103,7 @@
       ],
       "/concept/formal-language": [
         {
-          "source": "/concept/Go%CC%88dels-numbering",
+          "source": "/concept/Godels-numbering",
           "target": "/concept/formal-language",
           "text": "formal language"
         },
@@ -2179,13 +2137,11 @@
           "source": "/concept/mechanistic-organization",
           "target": "/concept/mechanistic-system",
           "text": "mechanistic system"
-        }
-      ],
-      "/concept/mechanistic-system-detailed": [
+        },
         {
           "source": "/concept/mechanistic-organization",
-          "target": "/concept/mechanistic-system-detailed",
-          "text": "mechanistic system (detailed)"
+          "target": "/concept/mechanistic-system",
+          "text": "mechanistic system"
         }
       ],
       "/concept/negentropy": [
@@ -2660,13 +2616,6 @@
           "text": "Bailly2011"
         }
       ],
-      "/reference/Baker2016": [
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        }
-      ],
       "/reference/Bernard1865": [
         {
           "source": "/note/history-of-self-determination",
@@ -2780,13 +2729,6 @@
           "text": "Bush1945"
         }
       ],
-      "/reference/Bustin2014": [
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Bustin2014",
-          "text": "Bustin2014"
-        }
-      ],
       "/reference/Canguilhem1992a": [
         {
           "source": "/PhD-project",
@@ -2826,13 +2768,6 @@
           "source": "/note/history-of-self-determination",
           "target": "/reference/Cannon1929",
           "text": "Cannon1929"
-        }
-      ],
-      "/reference/Clark2017": [
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Clark2017",
-          "text": "Clark2017"
         }
       ],
       "/reference/Crick1958": [
@@ -3309,11 +3244,6 @@
           "source": "/PhD-project_french",
           "target": "/reference/Montevil2019",
           "text": "Montevil2019"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2019",
-          "text": "Montevil2019"
         }
       ],
       "/reference/Montevil2019a": [
@@ -3355,24 +3285,9 @@
           "source": "/PhD-project_french",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
         }
       ],
       "/reference/Montevil2021": [
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
         {
           "source": "/note/note-on-Monte%CC%81vil2021",
           "target": "/reference/Montevil2021",
@@ -3691,13 +3606,6 @@
           "source": "/PhD-project_french",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
-        }
-      ],
-      "/reference/Soto2021": [
-        {
-          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
         }
       ],
       "/reference/Stiegler2020": [
@@ -4315,17 +4223,17 @@
       "text": "Pines1988"
     },
     {
-      "source": "/concept/Go%CC%88dels-incompleteness-theorem",
-      "target": "/concept/G%C3%B6dels-numbering",
-      "text": "Gödel's numbering"
+      "source": "/concept/Godels-incompleteness-theorem",
+      "target": "/concept/Godels-numbering",
+      "text": "Godel's numbering"
     },
     {
-      "source": "/concept/Go%CC%88dels-incompleteness-theorem",
+      "source": "/concept/Godels-incompleteness-theorem",
       "target": "/concept/Tarskis-undefinability-theorem",
       "text": "Tarski's undefinability theorem"
     },
     {
-      "source": "/concept/Go%CC%88dels-numbering",
+      "source": "/concept/Godels-numbering",
       "target": "/concept/formal-language",
       "text": "formal language"
     },
@@ -4421,8 +4329,8 @@
     },
     {
       "source": "/concept/Tarskis-undefinability-theorem",
-      "target": "/concept/G%C3%B6dels-numbering",
-      "text": "Gödel's numbering"
+      "target": "/concept/Godels-numbering",
+      "text": "Godel's numbering"
     },
     {
       "source": "/concept/Turing-machine",
@@ -4616,8 +4524,8 @@
     },
     {
       "source": "/concept/mechanistic-organization",
-      "target": "/concept/mechanistic-system-detailed",
-      "text": "mechanistic system (detailed)"
+      "target": "/concept/mechanistic-system",
+      "text": "mechanistic system"
     },
     {
       "source": "/concept/mechanistic-organization",
@@ -5208,46 +5116,6 @@
       "source": "/note/note-on-Longo2012",
       "target": "/reference/Jakkaraju2003",
       "text": "Jakkaraju2003"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Montevil2019",
-      "text": "Montevil2019"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Montevil2020a",
-      "text": "Montevil2020a"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Bustin2014",
-      "text": "Bustin2014"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Clark2017",
-      "text": "Clark2017"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
-      "target": "/reference/Montevil2020a",
-      "text": "Montevil2020a"
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2015",

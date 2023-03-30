@@ -16,7 +16,7 @@ Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> 
 If you are interested in **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
 
 
-Here are the main points of my <a href="/images/CV_03_23_internet_version.pdf" >CV</a>: 
+Here are the main points of my <a href="/images/CV_03_23_internet_version.pdf" >CV</a>[^1] : 
 -  **PhD degree** in **physical chemistry** from Paris Sciences et Lettres Research University (2022).  
 - **Diploma** from the **École Normale Supérieure** **(ENS)** of Paris (2019).
 - **Master's degree** in analytical, physical and theoretical chemistry from **Sorbonne Université** (2019).
@@ -47,3 +47,4 @@ To find more details with a narrative, check my [personal story](personal%20stor
 📄 Grosjean, Benoît, Anton Robert, Rodolphe Vuilleumier, et Marie-Laure Bocquet. 2020. « Spontaneous liquid water dissociation on hybridised boron nitride and graphene atomic layers from ab initio molecular dynamics simulations ». _Physical Chemistry Chemical Physics_ 22 (19): 10710‑16.
 
 
+[^1]: Reload a second time on the page if there is the "null" bug.  

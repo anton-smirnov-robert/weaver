@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Where am I?.md",
+                "file": "Anton Robert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where am I?.md",
+                "file": "Anton Robert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Where am I?.md",
+                "file": "Anton Robert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where am I?.md"
+                "file": "Anton Robert.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "Where am I?.md",
     "PhD project_french.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "Where am I?.md",
     "Anton Robert.md",
     "about the website.md",
     "concept/bitcoin.md",
