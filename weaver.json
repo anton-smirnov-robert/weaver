@@ -8144,6 +8144,86 @@
       "publicationTitle": "Le Monde diplomatique"
     },
     {
+      "key": "LG5478XB",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0039368110001135",
+      "series": "Model-Based Representation in Scientific Practice",
+      "volume": "42",
+      "issue": "2",
+      "pages": "262-271",
+      "publicationTitle": "Studies in History and Philosophy of Science Part A",
+      "ISSN": "0039-3681",
+      "date": "2011-06-01",
+      "journalAbbreviation": "Studies in History and Philosophy of Science Part A",
+      "DOI": "10.1016/j.shpsa.2010.11.034",
+      "accessDate": "2023-03-30T15:15:11Z",
+      "libraryCatalog": "ScienceDirect",
+      "language": "en",
+      "abstractNote": "The recent discussion on scientific representation has focused on models and their relationship to the real world. It has been assumed that models give us knowledge because they represent their supposed real target systems. However, here agreement among philosophers of science has tended to end as they have presented widely different views on how representation should be understood. I will argue that the traditional representational approach is too limiting as regards the epistemic value of modelling given the focus on the relationship between a single model and its supposed target system, and the neglect of the actual representational means with which scientists construct models. I therefore suggest an alternative account of models as epistemic tools. This amounts to regarding them as concrete artefacts that are built by specific representational means and are constrained by their design in such a way that they facilitate the study of certain scientific questions, and learning from them by means of construction and manipulation.",
+      "title": "Modelling and representing: An artefactual approach to model-based representation",
+      "shortTitle": "Modelling and representing",
+      "creators": [
+        {
+          "firstName": "Tarja",
+          "lastName": "Knuuttila",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Epistemic tools",
+          "type": 1
+        },
+        {
+          "tag": "Modelling",
+          "type": 1
+        },
+        {
+          "tag": "Representation",
+          "type": 1
+        },
+        {
+          "tag": "Scientific models",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-30T15:15:11Z",
+      "dateModified": "2023-03-30T15:15:11Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LG5478XB",
+      "itemID": 7269,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Knuuttila - 2011 - Modelling and representing An artefactual approac.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-30T15:15:36Z",
+          "dateModified": "2023-03-30T15:15:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/HBZEJMG3",
+          "path": "/Users/robert/Dropbox/zotero/storage/HBZEJMG3/Knuuttila - 2011 - Modelling and representing An artefactual approac.pdf",
+          "select": "zotero://select/library/items/HBZEJMG3"
+        },
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-30T15:15:24Z",
+          "dateModified": "2023-03-30T15:15:24Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/5UMV8KGM",
+          "path": "/Users/robert/Dropbox/zotero/storage/5UMV8KGM/S0039368110001135.html",
+          "select": "zotero://select/library/items/5UMV8KGM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Knuuttila2011",
+      "itemKey": "LG5478XB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LG5478XB"
+    },
+    {
       "key": "V6W6UQZZ",
       "version": 0,
       "itemType": "journalArticle",
