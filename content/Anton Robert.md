@@ -3,11 +3,10 @@ title: "Anton Robert"
 date: 2023-03-30
 showthedate: true
 ---
-
+	
 Hello!
 
-
-<p align="center"><img src="http://localhost:1313/images/profil.png" height=300px /></p>
+<p align="center"><img src="/images/profil.png" height=300px /></p>
 
 I'm a **physical chemist** that bifurcates towards **theoretical biology**.   
 You can take a look at my [PhD project](PhD%20project.md) (in french [here](PhD%20project_french.md)).  
