@@ -1,15 +1,31 @@
 
 ---
-title: "The principle of variation and biological objects"
+title: "note on Montevil2016 and Montevil2022a"
 date: 2023-03-24
 draft: false
 showthedate: true
 enabletoc: true
+draft: true
 tags:
 - writing
 ---
 
-This is my understanding of the reading of the following articles : [Montevil2016](reference/Montevil2016.md), [Montevil2019a](reference/Montevil2019a.md), [Montevil2019](reference/Montevil2019.md), [Montevil2022a](reference/Montevil2022a.md).
+This is my understanding of the reading of the following two articles : 
+
+#### **Theoretical principles for biology: Variation**     
+by Montévil M., Mossio M., Pocheville A., Longo G. (2016)         
+*Progress in Biophysics and Molecular Biology* 122: 36-50    
+
+Reference: [Montevil2016](reference/Montevil2016.md)
+
+and 
+
+#### **Historicity at the heart of biology**     
+by Montévil M. (2020)         
+*Theory in Biosciences* 141: 165-173          
+
+Referenc: [Montevil2020](reference/Montevil2020.md)
+
 
 ### How does physics work? 
 
@@ -17,9 +33,13 @@ Physics uses *generic* objects. They are abstract objects sharing some common *p
 
 A mathematical equation governs the dynamics of the *state* of an object in a *predefined* space of pertinent observables (e.g., position, momenta, angle, etc.) called *phase space*. All possibilities are given in advance, and a trajectory is only a partial order indexed by a variable that we call time. Equations are valid in the entire phase space. Therefore, equations are not concerned about the specific values of the object's state or propreties, but rather about the *relations* between those quantities. Most physical properties are actually defined in a relational way (charge, mass, solubility, elasticity, etc.), and we can consider that physics rely on a relational epistemology.
 
-At the core of this physical description of matter lies the cental notion of *[[symmetry]]*, which is invariance under transformation. First, generic objects are symmetric, because they can be permutated while leaving the scientific explanation invariant. Second, the objectivity of phase spaces rely on the invariance of the observables by a suitable transformation of a reference. For instance, Galilean referentials are useful because the dynamics studied in one of them are also valid in others. Lastly, equations are justified using conservation laws that can be linked to  symmetries (Noether's theorem). Fundamentals laws of physics, such as the conservation of energy in mechanics, stem from a time-reversal symmetry. 
+At the core of this physical description of matter lies the cental notion of symmetry, which is invariance under transformation. First, generic objects are symmetric, because they can be permutated while leaving the scientific explanation invariant. Second, the objectivity of phase spaces rely on the invariance of the observables by a suitable transformation of a reference. For instance, Galilean referentials are useful because the dynamics studied in one of them are also valid in others. Lastly, equations are justified using conservation laws that can be linked to  symmetries (Noether's theorem). Fundamentals laws of physics, such as the conservation of energy in mechanics, stem from a time-reversal symmetry. 
 
-In sum, physics understands change (of state of objects) based on invariance (under some transformations). Symmetries are central (for objects, for observables, for time) to extend objectivity by stating what is *identical* (objects, experiments, energy). The trajectory of the state a *generic* object is given as a partial order on a set of pertinent possibilities. It is given by a mathematical equation that is concerned by the differential effect caused by a relation between states and properties of objects, for all possible values defined by the predefined phase space. 
+In sum, physics understands change (of state of objects) based on invariance (under some transformations). Symmetries are central (for objects, for observables, for time) to extend objectivity by stating what is *identical* (objects, experiments, energy). The trajectory of the state a *generic* object is given as a partial order on a set of pertinent possibilities. It is given by a mathematical equation that is concerned by the differential effect caused by a relation between states and properties of objects, for all possible values defined by the predefined phase space ([Longo2014](reference/Longo2014.md),[VanFraassen1989](reference/VanFraassen1989.md)). 
+
+
+![](images/Pasted%20image%2020230320111525.png)
+
 
 ### Can physics provide a rigourous framework for biology? 
 
@@ -58,18 +78,9 @@ Specific objects, unlike generic objects, are difficult to abstract from their m
 Given the principle of variation, the relative regularities of the functional parts of an organism remain to be explained.
 We will argue elsewhere that it needs to be explained thanks to the circularity of their organization. 
 
-### Measurements of biological objects and biological knowledge
-
-Generic objects are symmetric with respect to the scientific rationale, and one needs not to specify which electron it uses for an experiment in physics. In other words, electrons all share the same properties that define them. The object of biology, organisms, are specific objects. Therefore, biological knowledge is *a priori* bounded in time if one assumes that the relevance of an epistemic insight is primarily to be assessed by the existence of the studied object.
-
-The merit of this provocative view is to contrast with the mainstream belief that looks for invariant laws in biology. Indeed, practical measures undertaken to tackle the irreproducibility crisis in biomedical research ([Bustin2014](reference/Bustin2014.md),[Baker2016](reference/Baker2016.md)) are rather protocolization ([Montevil2021](reference/Montevil2021.md)), making raw data available, or even video-taping scientists ([Clark2017](reference/Clark2017.md)), rather then questionning theoretical frames ([Soto2021](reference/Soto2021.md)).
-
-A proper philosophical inquiry about the nature of biological knowledge seems crucial once organisms are acknowledged as specific objects. Can we obtain general insights of biological phenomena? Is studing extinct organisms relevant *per se* or does it need to aim at to understanding the history of the present ones? Does biological knowledge is less certain, by construction, than the one of physics? What does biology aims to understands if organisms are continuously changing their laws? Are there regularities in the ways variations are unpredictably occuring ? Does those regularities have a lifetime?
-
-In any case, there is no doubt that practical research in biology must be able to generalize scientific results. Therefore, in practice, measurements need to go beyond the principled specificity of organisms, and argue for practical categories, a process called *symmetrization* ([Montevil2020a](reference/Montevil2020a.md)). 
-
-
-
+This principle is inspired by the notion of “descent with modification” of Darwin ([Darwin1859](reference/Darwin1859.md)). Compared to Lamarck, Darwin states that variations come from "chance", they are not directed. The latter would imply a deterministic framework and therefore anhistoricity. Other roots of the idea come from ([Beatty1995](reference/Beatty1995.md)) and ([Gould2002](reference/Gould2002.md)).
+Variation, as a principle, does not need a justification. However, one can find it in chaotic processes, random gene expression, cellular proliferation with two non-identical cells, etc...
+In contrast to Darwin's idea, variation also occur during ontogenesis (not only for phylogenesis). 
 
 
 [^1]: It will be argued elsewhere that the pertinent observables for biology are material entities that have a [biological function](concept/biological%20function.md) or that are constrained by them — those term will be defined. In the folllowing, pertinent observables and functional part are synonymous. 

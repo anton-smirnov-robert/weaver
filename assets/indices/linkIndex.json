@@ -9,8 +9,13 @@
         },
         {
           "source": "/Anton-Robert",
-          "target": "/",
-          "text": "anton.smirnov.robert@gmail.com"
+          "target": "/PhD-project-french",
+          "text": "here"
+        },
+        {
+          "source": "/Anton-Robert",
+          "target": "/Where-am-I",
+          "text": "Where am I?"
         },
         {
           "source": "/Anton-Robert",
@@ -106,8 +111,8 @@
         },
         {
           "source": "/PhD-project",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
         },
         {
           "source": "/PhD-project",
@@ -186,6 +191,178 @@
         },
         {
           "source": "/PhD-project",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        }
+      ],
+      "/PhD-project-french": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Roli2022",
+          "text": "Roli2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Noble2015",
+          "text": "Noble2015"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
+        },
+        {
+          "source": "/PhD-project-french",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         }
@@ -799,18 +976,6 @@
           "text": "entropy"
         }
       ],
-      "/concept/symmetry": [
-        {
-          "source": "/concept/symmetry",
-          "target": "/reference/Longo2014",
-          "text": "Longo2014"
-        },
-        {
-          "source": "/concept/symmetry",
-          "target": "/reference/VanFraassen1989",
-          "text": "VanFraassen1989"
-        }
-      ],
       "/definition/Groupe-des-Dix": [
         {
           "source": "/definition/Groupe-des-Dix",
@@ -1409,21 +1574,6 @@
         },
         {
           "source": "/note/note-on-Monte%CC%81vil2016",
-          "target": "/reference/Darwin1859",
-          "text": "Darwin1859"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2016",
-          "target": "/reference/Beatty1995",
-          "text": "Beatty1995"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2016",
-          "target": "/reference/Gould2002",
-          "text": "Gould2002"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2016",
           "target": "/concept/symmetry",
           "text": "symmetry"
         },
@@ -1475,6 +1625,48 @@
           "source": "/note/note-on-Monte%CC%81vil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
+        }
+      ],
+      "/note/note-on-Montevil2019-and-Montevil2020a": [
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Bustin2014",
+          "text": "Bustin2014"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Clark2017",
+          "text": "Clark2017"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
         }
       ],
       "/note/note-on-Mossio2014": [
@@ -1621,425 +1813,9 @@
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
         }
-      ],
-      "/writing/v0.1-The-principle-of-variation-and-biological-objects": [
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2016",
-          "text": "Montevil2016"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2019",
-          "text": "Montevil2019"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/symmetry",
-          "text": "symmetry"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Kauffman2019",
-          "text": "Kauffman2019"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/note/note-on-Mont%C3%A9vil2019a",
-          "text": "note on Montévil2019a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2016",
-          "text": "Montevil2016"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Bustin2014",
-          "text": "Bustin2014"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Clark2017",
-          "text": "Clark2017"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/concept/biological-function",
-          "text": "biological function"
-        }
-      ],
-      "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Grothendieck1972",
-          "text": "Grothendieck1972"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stiegler2016",
-          "text": "Stiegler2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stiegler2020",
-          "text": "Stiegler2020"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Soto2021a",
-          "text": "Soto2021a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Montevil2021b",
-          "text": "Montevil2021b"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/OECD2021",
-          "text": "OECD2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Boudreau2016",
-          "text": "Boudreau2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Chu2021",
-          "text": "Chu2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Muthukrishna2019",
-          "text": "Muthukrishna2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Godin2020",
-          "text": "Godin2020"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Rip1994",
-          "text": "Rip1994"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Elzinga1997",
-          "text": "Elzinga1997"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Blok2015a",
-          "text": "Blok2015a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Nedeva2006",
-          "text": "Nedeva2006"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Davies2006",
-          "text": "Davies2006"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Arora2018",
-          "text": "Arora2018"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Maxmen2019",
-          "text": "Maxmen2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Mirowski2012",
-          "text": "Mirowski2012"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Sandstrom2018",
-          "text": "Sandstrom2018"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Demeritt2000",
-          "text": "Demeritt2000"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/McNie2007",
-          "text": "McNie2007"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Laillier2022",
-          "text": "Laillier2022"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Giry2022",
-          "text": "Giry2022"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stephan2015",
-          "text": "Stephan2015"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Koppl2015",
-          "text": "Koppl2015"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Chu2021",
-          "text": "Chu2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Trebino2009a",
-          "text": "Trebino2009a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Nicholson2021",
-          "text": "Nicholson2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Alombert2021",
-          "text": "Alombert2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Castoriadis1975",
-          "text": "Castoriadis1975"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stiegler2016",
-          "text": "Stiegler2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Lacetera2011",
-          "text": "Lacetera2011"
-        }
       ]
     },
     "backlinks": {
-      "/": [
-        {
-          "source": "/Anton-Robert",
-          "target": "/",
-          "text": "anton.smirnov.robert@gmail.com"
-        }
-      ],
       "/Anton-Robert": [
         {
           "source": "/Where-am-I",
@@ -2052,6 +1828,20 @@
           "source": "/Anton-Robert",
           "target": "/PhD-project",
           "text": "PhD project"
+        }
+      ],
+      "/PhD-project-french": [
+        {
+          "source": "/Anton-Robert",
+          "target": "/PhD-project-french",
+          "text": "here"
+        }
+      ],
+      "/Where-am-I": [
+        {
+          "source": "/Anton-Robert",
+          "target": "/Where-am-I",
+          "text": "Where am I?"
         }
       ],
       "/about-the-website": [
@@ -2283,11 +2073,6 @@
         },
         {
           "source": "/note/note-on-Mossio2014",
-          "target": "/concept/biological-function",
-          "text": "biological function"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
           "target": "/concept/biological-function",
           "text": "biological function"
         }
@@ -2857,13 +2642,6 @@
           "text": "note on Longo2012"
         }
       ],
-      "/note/note-on-Mont%C3%A9vil2019a": [
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/note/note-on-Mont%C3%A9vil2019a",
-          "text": "note on Montévil2019a"
-        }
-      ],
       "/personal-story": [
         {
           "source": "/Anton-Robert",
@@ -2871,32 +2649,11 @@
           "text": "personal story"
         }
       ],
-      "/reference/Alombert2021": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Alombert2021",
-          "text": "Alombert2021"
-        }
-      ],
-      "/reference/Anderson2007": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Anderson2007",
-          "text": "Anderson2007"
-        }
-      ],
       "/reference/Anfinsen1973": [
         {
           "source": "/concept/Anfinsens-dogma",
           "target": "/reference/Anfinsen1973",
           "text": "Anfinsen1973"
-        }
-      ],
-      "/reference/Arora2018": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Arora2018",
-          "text": "Arora2018"
         }
       ],
       "/reference/Arrow1962": [
@@ -2920,19 +2677,12 @@
           "text": "Atkins1984"
         }
       ],
-      "/reference/Audetat2015": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Audetat2015",
-          "text": "Audetat2015"
-        }
-      ],
       "/reference/Bailly2011": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Bailly2011",
@@ -2941,21 +2691,9 @@
       ],
       "/reference/Baker2016": [
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
           "target": "/reference/Baker2016",
           "text": "Baker2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Baker2016",
-          "text": "Baker2016"
-        }
-      ],
-      "/reference/Beatty1995": [
-        {
-          "source": "/note/note-on-Monte%CC%81vil2016",
-          "target": "/reference/Beatty1995",
-          "text": "Beatty1995"
         }
       ],
       "/reference/Bernard1865": [
@@ -2973,6 +2711,16 @@
         }
       ],
       "/reference/Bich2020": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Bich2020",
@@ -2994,11 +2742,6 @@
       "/reference/Blok2015a": [
         {
           "source": "/note/note-on-Paic2019",
-          "target": "/reference/Blok2015a",
-          "text": "Blok2015a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Blok2015a",
           "text": "Blok2015a"
         }
@@ -3035,13 +2778,6 @@
           "text": "Boolos2007"
         }
       ],
-      "/reference/Boudreau2016": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Boudreau2016",
-          "text": "Boudreau2016"
-        }
-      ],
       "/reference/Brillouin1951": [
         {
           "source": "/concept/Brillouins-relation-between-entropy-and-information",
@@ -3075,14 +2811,19 @@
       ],
       "/reference/Bustin2014": [
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
           "target": "/reference/Bustin2014",
           "text": "Bustin2014"
         }
       ],
       "/reference/Canguilhem1992a": [
         {
-          "source": "/PhD-project",
+          "source": "/PhD-project-french",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/PhD-project-french",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         },
@@ -3092,22 +2833,17 @@
           "text": "Canguilhem1992a"
         },
         {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         }
       ],
       "/reference/Canguilhem1992b": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Canguilhem1992b",
@@ -3121,35 +2857,9 @@
           "text": "Cannon1929"
         }
       ],
-      "/reference/Castoriadis1975": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Castoriadis1975",
-          "text": "Castoriadis1975"
-        }
-      ],
-      "/reference/Chavalarias2016": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Chavalarias2016",
-          "text": "Chavalarias2016"
-        }
-      ],
-      "/reference/Chu2021": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Chu2021",
-          "text": "Chu2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Chu2021",
-          "text": "Chu2021"
-        }
-      ],
       "/reference/Clark2017": [
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
           "target": "/reference/Clark2017",
           "text": "Clark2017"
         }
@@ -3175,13 +2885,6 @@
           "text": "Danchin2002"
         }
       ],
-      "/reference/Darwin1859": [
-        {
-          "source": "/note/note-on-Monte%CC%81vil2016",
-          "target": "/reference/Darwin1859",
-          "text": "Darwin1859"
-        }
-      ],
       "/reference/Davies2006": [
         {
           "source": "/note/note-on-Paic2019",
@@ -3190,11 +2893,6 @@
         },
         {
           "source": "/note/note-on-Polanyi1962",
-          "target": "/reference/Davies2006",
-          "text": "Davies2006"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
         }
@@ -3213,14 +2911,12 @@
           "text": "Deffuant2015"
         }
       ],
-      "/reference/Demeritt2000": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Demeritt2000",
-          "text": "Demeritt2000"
-        }
-      ],
       "/reference/Doudna2017": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Doudna2017",
@@ -3230,25 +2926,6 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        }
-      ],
-      "/reference/Edwards2017": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Edwards2017",
-          "text": "Edwards2017"
-        }
-      ],
-      "/reference/Elzinga1997": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Elzinga1997",
-          "text": "Elzinga1997"
         }
       ],
       "/reference/Estrada2013": [
@@ -3256,25 +2933,6 @@
           "source": "/definition/complexity-sciences",
           "target": "/reference/Estrada2013",
           "text": "Estrada2013"
-        }
-      ],
-      "/reference/Fang2012": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Fang2012",
-          "text": "Fang2012"
-        }
-      ],
-      "/reference/Fire2019": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Fire2019",
-          "text": "Fire2019"
         }
       ],
       "/reference/Fischer2009": [
@@ -3298,14 +2956,12 @@
           "text": "Gilbert1996"
         }
       ],
-      "/reference/Giry2022": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Giry2022",
-          "text": "Giry2022"
-        }
-      ],
       "/reference/Glade2015": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Glade2015",
@@ -3313,6 +2969,16 @@
         }
       ],
       "/reference/Glade2022": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Glade2022",
@@ -3329,27 +2995,6 @@
           "source": "/concept/biological-function",
           "target": "/reference/Godfrey-Smith1994",
           "text": "Godfrey-Smith1994"
-        }
-      ],
-      "/reference/Godin2020": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Godin2020",
-          "text": "Godin2020"
-        }
-      ],
-      "/reference/Gould2002": [
-        {
-          "source": "/note/note-on-Monte%CC%81vil2016",
-          "target": "/reference/Gould2002",
-          "text": "Gould2002"
-        }
-      ],
-      "/reference/Grothendieck1972": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Grothendieck1972",
-          "text": "Grothendieck1972"
         }
       ],
       "/reference/Hamilton1964": [
@@ -3369,18 +3014,6 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Hayek1945",
-          "text": "Hayek1945"
-        }
-      ],
-      "/reference/Hayek1979": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Hayek1979",
-          "text": "Hayek1979"
         }
       ],
       "/reference/Heisenberg1971": [
@@ -3400,18 +3033,6 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Henriques2013",
-          "text": "Henriques2013"
-        }
-      ],
-      "/reference/Hill2020": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Hill2020",
-          "text": "Hill2020"
         }
       ],
       "/reference/Horgan1995": [
@@ -3456,7 +3077,12 @@
       ],
       "/reference/Kauffman2019": [
         {
-          "source": "/PhD-project",
+          "source": "/PhD-project-french",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/PhD-project-french",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         },
@@ -3466,16 +3092,9 @@
           "text": "Kauffman2019"
         },
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/PhD-project",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
-        }
-      ],
-      "/reference/Koppl2015": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Koppl2015",
-          "text": "Koppl2015"
         }
       ],
       "/reference/Kuhn1970": [
@@ -3492,26 +3111,19 @@
           "text": "Kuhn2012"
         }
       ],
-      "/reference/Lacetera2011": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Lacetera2011",
-          "text": "Lacetera2011"
-        }
-      ],
       "/reference/Laillier2022": [
         {
           "source": "/note/note-on-Laillier2022",
           "target": "/reference/Laillier2022",
           "text": "Laillier2022"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Laillier2022",
-          "text": "Laillier2022"
         }
       ],
       "/reference/Laland2015": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Laland2015",
@@ -3538,11 +3150,6 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Lazebnik2018",
           "text": "Lazebnik2018"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Lazebnik2018",
-          "text": "Lazebnik2018"
         }
       ],
       "/reference/LiVigni2021": [
@@ -3559,6 +3166,11 @@
       ],
       "/reference/Longo2012": [
         {
+          "source": "/PhD-project-french",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
           "source": "/PhD-project",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
@@ -3572,33 +3184,31 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
-        }
-      ],
-      "/reference/Longo2014": [
-        {
-          "source": "/concept/symmetry",
-          "target": "/reference/Longo2014",
-          "text": "Longo2014"
         }
       ],
       "/reference/Longo2021": [
         {
+          "source": "/PhD-project-french",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
           "source": "/PhD-project",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
         {
           "source": "/note/note-on-Longo2012",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         }
       ],
       "/reference/Lotka1945": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Lotka1945",
@@ -3631,13 +3241,6 @@
           "text": "Maturana1973"
         }
       ],
-      "/reference/Maxmen2019": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Maxmen2019",
-          "text": "Maxmen2019"
-        }
-      ],
       "/reference/MaynardSmith1999": [
         {
           "source": "/note/note-on-Longo2012",
@@ -3650,20 +3253,6 @@
           "source": "/concept/Modern-Synthesis",
           "target": "/reference/Mayr1982",
           "text": "Mayr1982"
-        }
-      ],
-      "/reference/McNie2007": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/McNie2007",
-          "text": "McNie2007"
-        }
-      ],
-      "/reference/Merton1957": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Merton1957",
-          "text": "Merton1957"
         }
       ],
       "/reference/Millikan1989": [
@@ -3683,21 +3272,14 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Mirowski2011",
-          "text": "Mirowski2011"
-        }
-      ],
-      "/reference/Mirowski2012": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Mirowski2012",
-          "text": "Mirowski2012"
         }
       ],
       "/reference/Montevil2015": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Montevil2015",
@@ -3739,19 +3321,14 @@
           "source": "/note/note-on-Monte%CC%81vil2016",
           "target": "/reference/Montevil2016",
           "text": "Montevil2016"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2016",
-          "text": "Montevil2016"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2016",
-          "text": "Montevil2016"
         }
       ],
       "/reference/Montevil2016b": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Montevil2016b",
@@ -3760,17 +3337,27 @@
       ],
       "/reference/Montevil2019": [
         {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
+        },
+        {
           "source": "/PhD-project",
           "target": "/reference/Montevil2019",
           "text": "Montevil2019"
         },
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
           "target": "/reference/Montevil2019",
           "text": "Montevil2019"
         }
       ],
       "/reference/Montevil2019a": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Montevil2019a",
@@ -3780,69 +3367,79 @@
           "source": "/note/note-on-Monte%CC%81vil2019a",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
+        }
+      ],
+      "/reference/Montevil2020": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
         },
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
         }
       ],
       "/reference/Montevil2020a": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         },
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         }
       ],
       "/reference/Montevil2021": [
         {
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
           "source": "/note/note-on-Monte%CC%81vil2021",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         }
       ],
       "/reference/Montevil2021a": [
         {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
           "source": "/PhD-project",
           "target": "/reference/Montevil2021a",
           "text": "Montevil2021a"
         }
       ],
-      "/reference/Montevil2021b": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Montevil2021b",
-          "text": "Montevil2021b"
-        }
-      ],
       "/reference/Montevil2022": [
         {
-          "source": "/PhD-project",
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/PhD-project-french",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
@@ -3855,26 +3452,19 @@
           "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
-        }
-      ],
-      "/reference/Montevil2022a": [
+        },
         {
           "source": "/PhD-project",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
-        },
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         }
       ],
       "/reference/Moreno2015": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Moreno2015",
@@ -3912,13 +3502,6 @@
           "text": "Muller2003"
         }
       ],
-      "/reference/Muthukrishna2019": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Muthukrishna2019",
-          "text": "Muthukrishna2019"
-        }
-      ],
       "/reference/Nedeva2006": [
         {
           "source": "/note/note-on-Paic2019",
@@ -3927,11 +3510,6 @@
         },
         {
           "source": "/note/note-on-Polanyi1962",
-          "target": "/reference/Nedeva2006",
-          "text": "Nedeva2006"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Nedeva2006",
           "text": "Nedeva2006"
         }
@@ -3943,13 +3521,6 @@
           "text": "Nelson1959"
         }
       ],
-      "/reference/Nicholson2021": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Nicholson2021",
-          "text": "Nicholson2021"
-        }
-      ],
       "/reference/Noble2014": [
         {
           "source": "/note/note-on-Laland2015",
@@ -3958,6 +3529,11 @@
         }
       ],
       "/reference/Noble2015": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Noble2015",
+          "text": "Noble2015"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Noble2015",
@@ -3978,40 +3554,11 @@
           "text": "OECD1966"
         }
       ],
-      "/reference/OECD2021": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/OECD2021",
-          "text": "OECD2021"
-        }
-      ],
       "/reference/Paic2019": [
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Paic2019",
-          "text": "Paic2019"
-        }
-      ],
-      "/reference/Park2023": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Park2023",
-          "text": "Park2023"
         }
       ],
       "/reference/Petit2019": [
@@ -4019,18 +3566,6 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Petit2019",
-          "text": "Petit2019"
-        }
-      ],
-      "/reference/Petit2019a": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Petit2019a",
-          "text": "Petit2019a"
         }
       ],
       "/reference/Piaget1967": [
@@ -4074,21 +3609,14 @@
           "source": "/reference/Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Polanyi1962",
-          "text": "Polanyi1962"
-        }
-      ],
-      "/reference/Rip1994": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Rip1994",
-          "text": "Rip1994"
         }
       ],
       "/reference/Roli2022": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Roli2022",
+          "text": "Roli2022"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Roli2022",
@@ -4121,13 +3649,6 @@
           "source": "/concept/open-ended-evolution",
           "target": "/reference/Ruiz-Mirazo2004",
           "text": "Ruiz-Mirazo2004"
-        }
-      ],
-      "/reference/Sandstrom2018": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Sandstrom2018",
-          "text": "Sandstrom2018"
         }
       ],
       "/reference/Schrodinger1944": [
@@ -4188,6 +3709,16 @@
       ],
       "/reference/Soto2016": [
         {
+          "source": "/PhD-project-french",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
           "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
@@ -4200,50 +3731,14 @@
       ],
       "/reference/Soto2021": [
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/note/note-on-Montevil2019-and-Montevil2020a",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Soto2021",
-          "text": "Soto2021"
-        }
-      ],
-      "/reference/Soto2021a": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Soto2021a",
-          "text": "Soto2021a"
-        }
-      ],
-      "/reference/Stephan2015": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stephan2015",
-          "text": "Stephan2015"
-        }
-      ],
-      "/reference/Stiegler2016": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stiegler2016",
-          "text": "Stiegler2016"
-        },
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Stiegler2016",
-          "text": "Stiegler2016"
         }
       ],
       "/reference/Stiegler2020": [
         {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
+          "source": "/PhD-project-french",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
         }
@@ -4269,13 +3764,6 @@
           "text": "Taniguchi2010"
         }
       ],
-      "/reference/Trebino2009a": [
-        {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Trebino2009a",
-          "text": "Trebino2009a"
-        }
-      ],
       "/reference/Turing1936": [
         {
           "source": "/concept/Turing-machine",
@@ -4288,14 +3776,12 @@
           "text": "Turing1936"
         }
       ],
-      "/reference/VanFraassen1989": [
-        {
-          "source": "/concept/symmetry",
-          "target": "/reference/VanFraassen1989",
-          "text": "VanFraassen1989"
-        }
-      ],
       "/reference/Varenne2013": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/Varenne2013",
@@ -4324,6 +3810,11 @@
         }
       ],
       "/reference/West-Eberhard2003": [
+        {
+          "source": "/PhD-project-french",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
         {
           "source": "/PhD-project",
           "target": "/reference/West-Eberhard2003",
@@ -4355,13 +3846,6 @@
           "target": "/reference/Zwanzig1992",
           "text": "Zwanzig1992"
         }
-      ],
-      "/symmetry": [
-        {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/symmetry",
-          "text": "symmetry"
-        }
       ]
     }
   },
@@ -4373,13 +3857,188 @@
     },
     {
       "source": "/Anton-Robert",
-      "target": "/",
-      "text": "anton.smirnov.robert@gmail.com"
+      "target": "/PhD-project-french",
+      "text": "here"
+    },
+    {
+      "source": "/Anton-Robert",
+      "target": "/Where-am-I",
+      "text": "Where am I?"
     },
     {
       "source": "/Anton-Robert",
       "target": "/personal-story",
       "text": "personal story"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Roli2022",
+      "text": "Roli2022"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/West-Eberhard2003",
+      "text": "West-Eberhard2003"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Bailly2011",
+      "text": "Bailly2011"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Noble2015",
+      "text": "Noble2015"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2020",
+      "text": "Montevil2020"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Lotka1945",
+      "text": "Lotka1945"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Canguilhem1992b",
+      "text": "Canguilhem1992b"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Varenne2013",
+      "text": "Varenne2013"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2019",
+      "text": "Montevil2019"
+    },
+    {
+      "source": "/PhD-project-french",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
     },
     {
       "source": "/PhD-project",
@@ -4468,8 +4127,8 @@
     },
     {
       "source": "/PhD-project",
-      "target": "/reference/Montevil2022a",
-      "text": "Montevil2022a"
+      "target": "/reference/Montevil2020",
+      "text": "Montevil2020"
     },
     {
       "source": "/PhD-project",
@@ -5087,16 +4746,6 @@
       "text": "entropy"
     },
     {
-      "source": "/concept/symmetry",
-      "target": "/reference/Longo2014",
-      "text": "Longo2014"
-    },
-    {
-      "source": "/concept/symmetry",
-      "target": "/reference/VanFraassen1989",
-      "text": "VanFraassen1989"
-    },
-    {
       "source": "/definition/Groupe-des-Dix",
       "target": "/reference/LiVigni2021",
       "text": "LiVigni2021"
@@ -5597,6 +5246,46 @@
       "text": "Jakkaraju2003"
     },
     {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Montevil2019",
+      "text": "Montevil2019"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Bustin2014",
+      "text": "Bustin2014"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Clark2017",
+      "text": "Clark2017"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/note/note-on-Montevil2019-and-Montevil2020a",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
       "source": "/note/note-on-Monte%CC%81vil2015",
       "target": "/reference/Montevil2015",
       "text": "Montevil2015"
@@ -5650,21 +5339,6 @@
       "source": "/note/note-on-Monte%CC%81vil2016",
       "target": "/reference/Montevil2016",
       "text": "Montevil2016"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2016",
-      "target": "/reference/Darwin1859",
-      "text": "Darwin1859"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2016",
-      "target": "/reference/Beatty1995",
-      "text": "Beatty1995"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2016",
-      "target": "/reference/Gould2002",
-      "text": "Gould2002"
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2016",
@@ -5850,411 +5524,6 @@
       "source": "/reference/Polanyi1962",
       "target": "/reference/Polanyi1962",
       "text": "Polanyi1962"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2016",
-      "text": "Montevil2016"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2019a",
-      "text": "Montevil2019a"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2019",
-      "text": "Montevil2019"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2022a",
-      "text": "Montevil2022a"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/symmetry",
-      "text": "symmetry"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Kauffman2019",
-      "text": "Kauffman2019"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2019a",
-      "text": "Montevil2019a"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/note/note-on-Mont%C3%A9vil2019a",
-      "text": "note on Montévil2019a"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2022a",
-      "text": "Montevil2022a"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2016",
-      "text": "Montevil2016"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Bustin2014",
-      "text": "Bustin2014"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Clark2017",
-      "text": "Clark2017"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/reference/Montevil2020a",
-      "text": "Montevil2020a"
-    },
-    {
-      "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-      "target": "/concept/biological-function",
-      "text": "biological function"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Grothendieck1972",
-      "text": "Grothendieck1972"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Stiegler2016",
-      "text": "Stiegler2016"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Stiegler2020",
-      "text": "Stiegler2020"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Soto2021a",
-      "text": "Soto2021a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Montevil2021b",
-      "text": "Montevil2021b"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/OECD2021",
-      "text": "OECD2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Boudreau2016",
-      "text": "Boudreau2016"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Chu2021",
-      "text": "Chu2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Park2023",
-      "text": "Park2023"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Muthukrishna2019",
-      "text": "Muthukrishna2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Polanyi1962",
-      "text": "Polanyi1962"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Henriques2013",
-      "text": "Henriques2013"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Godin2020",
-      "text": "Godin2020"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Rip1994",
-      "text": "Rip1994"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Elzinga1997",
-      "text": "Elzinga1997"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Blok2015a",
-      "text": "Blok2015a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Petit2019",
-      "text": "Petit2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Nedeva2006",
-      "text": "Nedeva2006"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Davies2006",
-      "text": "Davies2006"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Mirowski2011",
-      "text": "Mirowski2011"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Petit2019a",
-      "text": "Petit2019a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Arora2018",
-      "text": "Arora2018"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Maxmen2019",
-      "text": "Maxmen2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Hayek1979",
-      "text": "Hayek1979"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Lazebnik2018",
-      "text": "Lazebnik2018"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Audetat2015",
-      "text": "Audetat2015"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Mirowski2012",
-      "text": "Mirowski2012"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Anderson2007",
-      "text": "Anderson2007"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Chavalarias2016",
-      "text": "Chavalarias2016"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Sandstrom2018",
-      "text": "Sandstrom2018"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Hill2020",
-      "text": "Hill2020"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Baker2016",
-      "text": "Baker2016"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Fang2012",
-      "text": "Fang2012"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Edwards2017",
-      "text": "Edwards2017"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Demeritt2000",
-      "text": "Demeritt2000"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/McNie2007",
-      "text": "McNie2007"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Hayek1945",
-      "text": "Hayek1945"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Paic2019",
-      "text": "Paic2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Laillier2022",
-      "text": "Laillier2022"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Giry2022",
-      "text": "Giry2022"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Merton1957",
-      "text": "Merton1957"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Stephan2015",
-      "text": "Stephan2015"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Audetat2015",
-      "text": "Audetat2015"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Koppl2015",
-      "text": "Koppl2015"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Canguilhem1992a",
-      "text": "Canguilhem1992a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Canguilhem1992a",
-      "text": "Canguilhem1992a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Soto2021",
-      "text": "Soto2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Chu2021",
-      "text": "Chu2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Fire2019",
-      "text": "Fire2019"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Trebino2009a",
-      "text": "Trebino2009a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Nicholson2021",
-      "text": "Nicholson2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Park2023",
-      "text": "Park2023"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Alombert2021",
-      "text": "Alombert2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Castoriadis1975",
-      "text": "Castoriadis1975"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Montevil2021",
-      "text": "Montevil2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Stiegler2016",
-      "text": "Stiegler2016"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Canguilhem1992a",
-      "text": "Canguilhem1992a"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Doudna2017",
-      "text": "Doudna2017"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-      "target": "/reference/Lacetera2011",
-      "text": "Lacetera2011"
     }
   ]
 }

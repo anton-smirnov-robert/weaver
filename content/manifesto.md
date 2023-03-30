@@ -2,7 +2,7 @@
 title: "manifesto"
 date: 2022-12-06
 showthedate: true
-draft: false
+draft: true
 ---
 
 *(english version to come)* 

@@ -4,8 +4,10 @@ date: 2023-03-30
 showthedate: true
 ---
 
-|  <p align="left">   Hello! <br> <br> I'm a **physical chemist** that bifurcates towards **theoretical biology**. <br> <br> You can take a look at my [PhD project](PhD%20project.md). <br> <br> Contact: [anton.smirnov.robert@gmail.com]()  </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=300px /></p>     |
+|  <p align="left">   Hello! <br> <br> I'm a **physical chemist** that bifurcates towards **theoretical biology**. <br> <br> You can take a look at my [PhD project](PhD%20project.md) (in french [here](PhD%20project%20(french).md)). <br> <br> Contact: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a> </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=300px /></p>     |
 |  ---  |  --- |
+
+If you are interested in **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
 
 
 Here are the main points of my <a href="/images/CV_03_23_internet_version.pdf" >CV</a>: 
@@ -14,7 +16,8 @@ Here are the main points of my <a href="/images/CV_03_23_internet_version.pdf" >
 - **Master's degree** in analytical, physical and theoretical chemistry from **Sorbonne Université** (2019).
 - Contracted visitor in **IBM Research Zürich** on quantum computing for chemistry (2018-2019)
 
-If you want to know more about me, check my [personal story](personal%20story.md). 
+If you want to know more about me, you check my [personal story](personal%20story.md). 
+
 
 ### List of scientific articles (📄) and patents (💡)
 
