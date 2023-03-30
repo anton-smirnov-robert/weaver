@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md",
+                "file": "Where am I?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md",
+                "file": "Where am I?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md",
+                "file": "Where am I?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md"
+                "file": "Where am I?.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "PhD project_french.md",
+    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
     "Where am I?.md",
     "Anton Robert.md",
-    "PhD project_french.md",
     "about the website.md",
     "concept/bitcoin.md",
     "concept/Godel's incompleteness theorem.md",
@@ -162,7 +163,6 @@
     "reference/Montevil2020a.md",
     "reference/Montevil2019.md",
     "note/note on Montévil2016.md",
-    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
     "manifesto.md",
     "PhD project.md",
     "projects/thesis_project/(v1.2) projet.md",

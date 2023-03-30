@@ -15,9 +15,9 @@ Most of the website is public, but it is most certainly useless to you.
 It forces *me* to make (**relatively**) clear sentences and proper notes.
 However, I've soon realized that the best note is the one you can throw away when you've finished it...
 
-Now, Weaver is rather an intertwined network of information that makes sense to me. 
-It continuously needs work to be maintained, not to fade out in forgotten binaries on the internet.
-Weaver does not matter as such. It is like a daily exercise, for leaving the nest with some knowledge.
+Weaver is therefore rather an intertwined network of information that makes sense to me. 
+It continuously needs work to be maintained as such, not to fade out in forgotten binaries on the internet.
+Weaver is not a goal in itself. It is like a daily exercise, for leaving the nest with some knowledge.
 
 ![](images/weaver.png)
 <p style="text-align: center;"> <sub> Image: Village weaver (Ploceus cucullatus). Credits: K.B. Newman—NHPA/Encyclopædia Britannica, Inc. </sub></p>
