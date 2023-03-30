@@ -20,13 +20,17 @@ tags:
 - [ ] Note [Montevil2019](reference/Montevil2019.md)
 
 - [ ] Course of Yogi on youtube.
-- [ ] Theoretical history of biological theories (Darwin, modern sythesis, neo-darwinism, extended version, current problems, Denis Noble, etc.)
+
 
 
 ## Prepare chapters of thesis
 
 #### Part I : The disrupted theoretical framework of biology 
 -  Chapter about the history of theories in biology and experimental facts. 
+- [ ] Theoretical history of biological theories (Darwin, modern sythesis, neo-darwinism, extended version, current problems, etc.)
+- [ ] See Denis Noble
+- [ ] West-Everhard
+- [ ] 
 -  Chapter about some sociology of science (resistance to theories, dialogues with modelers, proletarization of scientific thought, commercialization, etc.)
 
 #### Part II : An organicist perspective  
