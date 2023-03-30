@@ -1,5 +1,5 @@
 ---
-title: "PhD project (french)"
+title: "PhD project (French)"
 date: 2023-03-30
 showthedate: true
 draft: false

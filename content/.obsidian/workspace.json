@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04e771c3ab6ef462",
+        "id": "c33eab521195fb39",
         "type": "tabs",
         "children": [
           {
-            "id": "680b0d1a687ab769",
+            "id": "9b2f283a3d9947b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept/Godel's incompleteness theorem.md",
+                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/Godel's incompleteness theorem.md",
+                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/Godel's incompleteness theorem.md",
+                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/Godel's incompleteness theorem.md"
+                "file": "writing/(v1.1) Le déclin de la théorisation en sciences.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "680b0d1a687ab769",
+  "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "Where am I?.md",
+    "Anton Robert.md",
+    "PhD project_french.md",
+    "about the website.md",
+    "concept/bitcoin.md",
+    "concept/Godel's incompleteness theorem.md",
     "concept/Godel's numbering.md",
     "note/note on Montevil2019 and Montevil2020a.md",
     "note/note on Montevil2016 and Montevil2022a.md",
@@ -157,26 +163,20 @@
     "reference/Montevil2019.md",
     "note/note on Montévil2016.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "PhD project_french.md",
     "manifesto.md",
-    "Anton Robert.md",
     "PhD project.md",
     "projects/thesis_project/(v1.2) projet.md",
     "reference/Montevil2020.md",
     "reference/Montevil2022a.md",
     "concept/symmetry.md",
-    "Where am I?.md",
     "writing/(v1.2) projet.md",
     "note/history of self-determination.md",
     "reference/Noble2015.md",
     "reference/Roli2022.md",
     "note/note on Laland2015.md",
-    "personal story.md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
-    "projects/TODO.md",
     "images/Pasted image 20230324225643.png",
-    "reference/Montevil2016.md",
     "images/Pasted image 20230320184008.png",
     "images/Pasted image 20230320111525.png",
     "projects/summary_of_theory",

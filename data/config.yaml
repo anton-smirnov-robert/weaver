@@ -67,8 +67,6 @@ page_title:
 links:
   - link_name: Where am I?
     link: "/Where-am-I"
-  - link_name: About me
-    link: "/About-me" 
 
 favicon:
   - { rel: "shortcut icon", href: "weaver.png", type: "image/png" }
