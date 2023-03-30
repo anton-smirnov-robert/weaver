@@ -11,12 +11,8 @@
             "id": "63644dbd7afaa631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PhD project (french).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD project (french).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD project (french).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PhD project (french).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,18 +140,22 @@
   },
   "active": "63644dbd7afaa631",
   "lastOpenFiles": [
+    "concept/mechanistic organization.md",
+    "concept/mechanistic system.md",
+    "note/note on Montevil2016 and Montevil2022a.md",
+    "note/note on Montevil2019 and Montevil2020a.md",
+    "reference/Montevil2020a.md",
+    "reference/Montevil2019.md",
+    "note/note on Montévil2016.md",
+    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
+    "PhD project_french.md",
     "manifesto.md",
-    "PhD project (french).md",
     "Anton Robert.md",
     "PhD project.md",
     "projects/thesis_project/(v1.2) projet.md",
-    "note/note on Montevil2016 and Montevil2022a.md",
     "reference/Montevil2020.md",
     "reference/Montevil2022a.md",
-    "note/note on Montévil2016.md",
-    "note/note on Montevil2019 and Montevil2020a.md",
     "concept/symmetry.md",
-    "writing/(v1.1) Le déclin de la théorisation en sciences.md",
     "Where am I?.md",
     "writing/(v1.2) projet.md",
     "note/history of self-determination.md",
@@ -173,10 +169,6 @@
     "images/Pasted image 20230324225643.png",
     "reference/Montevil2016.md",
     "note/note on Montévil2019a.md",
-    "reference/Bustin2014.md",
-    "reference/Clark2017.md",
-    "note/note on Montévil2019.md",
-    "reference/Montevil2022.md",
     "images/Pasted image 20230320184008.png",
     "images/Pasted image 20230320111525.png",
     "projects/summary_of_theory",

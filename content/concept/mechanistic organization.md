@@ -12,7 +12,7 @@ A mechanistic organization [mechanistic system](concept/mechanistic%20system.md)
 
 #### Details:
 
-Call an organization a system with a *telos*. I posit that a mechanistic organization (MO) is a [mechanistic system (detailed)](concept/mechanistic%20system%20(detailed).md) with two additional features:
+Call an organization a system with a *telos*. I posit that a mechanistic organization (MO) is a [mechanistic system](concept/mechanistic%20system.md) with two additional features:
 
 #### T5: The system has a *telos*. 
 The *telos* can be given by one or several subjects that belong to the system[^1]. 

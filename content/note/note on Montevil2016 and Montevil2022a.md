@@ -10,15 +10,11 @@ tags:
 - writing
 ---
 
-This is my understanding of the reading of the following two articles : 
-
 #### **Theoretical principles for biology: Variation**     
 by Montévil M., Mossio M., Pocheville A., Longo G. (2016)         
 *Progress in Biophysics and Molecular Biology* 122: 36-50    
 
 Reference: [Montevil2016](reference/Montevil2016.md)
-
-and 
 
 #### **Historicity at the heart of biology**     
 by Montévil M. (2020)         

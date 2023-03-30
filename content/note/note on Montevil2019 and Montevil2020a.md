@@ -8,7 +8,16 @@ tags:
 - literature-note
 ---
 
-This is my understading of [Montevil2019](reference/Montevil2019.md) and [Montevil2020a](reference/Montevil2020a.md). 
+#### **Measurement in biology is methodized by theory**     
+by Montévil M. (2019)         
+*Biology & Philosophy* 34: 35   
+
+Reference: [Montevil2019](reference/Montevil2019.md) 
+
+#### **The Identity of Organisms in Scientific Practice: Integrating Historical and Relational Conceptions**     
+by Montévil M., Mossio M. (2020)         
+*Frontiers in Physiology* 11: 611       
+Reference: [Montevil2020a](reference/Montevil2020a.md). 
 
 ### Measurements of biological objects and biological knowledge
 

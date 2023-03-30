@@ -4,7 +4,7 @@ date: 2023-03-30
 showthedate: true
 ---
 
-|  <p align="left">   Hello! <br> <br> I'm a **physical chemist** that bifurcates towards **theoretical biology**. <br> <br> You can take a look at my [PhD project](PhD%20project.md) (in french [here](PhD%20project%20(french).md)). <br> <br> Contact: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a> </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=300px /></p>     |
+|  <p align="left">   Hello! <br> <br> I'm a **physical chemist** that bifurcates towards **theoretical biology**. <br> <br> You can take a look at my [PhD project](PhD%20project.md) (in french [here](PhD%20project_french.md)). <br> <br> Contact: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a> </p>   | <p align="left"><img src="http://localhost:1313/images/profil.png" height=300px /></p>     |
 |  ---  |  --- |
 
 If you are interested in **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
