@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d15fa81f6d3a71",
+        "id": "04e771c3ab6ef462",
         "type": "tabs",
         "children": [
           {
-            "id": "63644dbd7afaa631",
+            "id": "680b0d1a687ab769",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "concept/Godel's incompleteness theorem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "concept/Godel's incompleteness theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "concept/Godel's incompleteness theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "concept/Godel's incompleteness theorem.md"
+              }
             }
           }
         ]
@@ -138,12 +146,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "63644dbd7afaa631",
+  "active": "680b0d1a687ab769",
   "lastOpenFiles": [
+    "concept/Godel's numbering.md",
+    "note/note on Montevil2019 and Montevil2020a.md",
+    "note/note on Montevil2016 and Montevil2022a.md",
     "concept/mechanistic organization.md",
     "concept/mechanistic system.md",
-    "note/note on Montevil2016 and Montevil2022a.md",
-    "note/note on Montevil2019 and Montevil2020a.md",
     "reference/Montevil2020a.md",
     "reference/Montevil2019.md",
     "note/note on Montévil2016.md",
@@ -168,7 +177,6 @@
     "projects/TODO.md",
     "images/Pasted image 20230324225643.png",
     "reference/Montevil2016.md",
-    "note/note on Montévil2019a.md",
     "images/Pasted image 20230320184008.png",
     "images/Pasted image 20230320111525.png",
     "projects/summary_of_theory",

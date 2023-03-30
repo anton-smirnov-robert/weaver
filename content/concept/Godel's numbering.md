@@ -1,5 +1,5 @@
 ---
-title: "Gödel's numbering"
+title: "Godel's numbering"
 date: 2022-12-12
 draft: false
 showthedate: true

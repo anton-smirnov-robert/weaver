@@ -13,7 +13,7 @@ A [formal system](definition/formal%20system.md)'s truth cannot be defined withi
 
 #### Proof
 
-- Use [Gödel's numbering](concept/Gödel's%20numbering.md) to encode all possible sentences. We note $[A]$ the code of $A$.
+- Use [Godel's numbering](concept/Godel's%20numbering.md) to encode all possible sentences. We note $[A]$ the code of $A$.
 - We suppose $\exists V$ a function such that   $$\forall A, A\iff V( [A] )$$
 - Use the diagonalization lemma (difficult, not explained here) for $\neg V$. It reads $$\exists A, A\iff \neg V( [A] )$$
 - There is a contradiction. $V$ does not exist. 
