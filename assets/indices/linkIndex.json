@@ -4,13 +4,190 @@
       "/Anton-Robert": [
         {
           "source": "/Anton-Robert",
-          "target": "/manifesto",
-          "text": "manifesto"
+          "target": "/PhD-project",
+          "text": "PhD project"
         },
         {
           "source": "/Anton-Robert",
-          "target": "/Anton-Robert",
+          "target": "/",
           "text": "anton.smirnov.robert@gmail.com"
+        },
+        {
+          "source": "/Anton-Robert",
+          "target": "/personal-story",
+          "text": "personal story"
+        }
+      ],
+      "/PhD-project": [
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Longo2012",
+          "text": "Longo2012"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Roli2022",
+          "text": "Roli2022"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/West-Eberhard2003",
+          "text": "West-Eberhard2003"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Noble2015",
+          "text": "Noble2015"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Soto2016",
+          "text": "Soto2016"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Moreno2015",
+          "text": "Moreno2015"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2021a",
+          "text": "Montevil2021a"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Lotka1945",
+          "text": "Lotka1945"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Canguilhem1992b",
+          "text": "Canguilhem1992b"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Stiegler2021",
+          "text": "Stiegler2021"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Glade2022",
+          "text": "Glade2022"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2016b",
+          "text": "Montevil2016b"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Glade2015",
+          "text": "Glade2015"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Varenne2013",
+          "text": "Varenne2013"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Bich2020",
+          "text": "Bich2020"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2022",
+          "text": "Montevil2022"
         }
       ],
       "/Where-am-I": [
@@ -1853,196 +2030,28 @@
           "target": "/reference/Lacetera2011",
           "text": "Lacetera2011"
         }
-      ],
-      "/writing/v1.2-projet": [
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Longo2012",
-          "text": "Longo2012"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Glade2022",
-          "text": "Glade2022"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/West-Eberhard2003",
-          "text": "West-Eberhard2003"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Laland2015",
-          "text": "Laland2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Kauffman2019",
-          "text": "Kauffman2019"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Noble2008",
-          "text": "Noble2008"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Bailly2011",
-          "text": "Bailly2011"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Glade2015",
-          "text": "Glade2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Soto2016",
-          "text": "Soto2016"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Kauffman2019",
-          "text": "Kauffman2019"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Soto2016",
-          "text": "Soto2016"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Moreno2015",
-          "text": "Moreno2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2022",
-          "text": "Montevil2022"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2021a",
-          "text": "Montevil2021a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Lotka1945",
-          "text": "Lotka1945"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Canguilhem1992b",
-          "text": "Canguilhem1992b"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Stiegler2020",
-          "text": "Stiegler2020"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Glade2022",
-          "text": "Glade2022"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2016b",
-          "text": "Montevil2016b"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Bich2020",
-          "text": "Bich2020"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2022",
-          "text": "Montevil2022"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Glade2015",
-          "text": "Glade2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Varenne2013",
-          "text": "Varenne2013"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Bich2020",
-          "text": "Bich2020"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2022",
-          "text": "Montevil2022"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2022",
-          "text": "Montevil2022"
-        }
       ]
     },
     "backlinks": {
-      "/Anton-Robert": [
+      "/": [
         {
           "source": "/Anton-Robert",
-          "target": "/Anton-Robert",
+          "target": "/",
           "text": "anton.smirnov.robert@gmail.com"
-        },
+        }
+      ],
+      "/Anton-Robert": [
         {
           "source": "/Where-am-I",
           "target": "/Anton-Robert",
           "text": "about me"
+        }
+      ],
+      "/PhD-project": [
+        {
+          "source": "/Anton-Robert",
+          "target": "/PhD-project",
+          "text": "PhD project"
         }
       ],
       "/about-the-website": [
@@ -2809,13 +2818,6 @@
           "text": "taxonomy"
         }
       ],
-      "/manifesto": [
-        {
-          "source": "/Anton-Robert",
-          "target": "/manifesto",
-          "text": "manifesto"
-        }
-      ],
       "/note/history-of-self-determination": [
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
@@ -2860,6 +2862,13 @@
           "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
           "target": "/note/note-on-Mont%C3%A9vil2019a",
           "text": "note on Montévil2019a"
+        }
+      ],
+      "/personal-story": [
+        {
+          "source": "/Anton-Robert",
+          "target": "/personal-story",
+          "text": "personal story"
         }
       ],
       "/reference/Alombert2021": [
@@ -2925,7 +2934,7 @@
       ],
       "/reference/Bailly2011": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Bailly2011",
           "text": "Bailly2011"
         }
@@ -2965,12 +2974,12 @@
       ],
       "/reference/Bich2020": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         }
@@ -3073,7 +3082,12 @@
       ],
       "/reference/Canguilhem1992a": [
         {
-          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
+          "source": "/PhD-project",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         },
@@ -3088,19 +3102,14 @@
           "text": "Canguilhem1992a"
         },
         {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Canguilhem1992a",
-          "text": "Canguilhem1992a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
+          "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         }
       ],
       "/reference/Canguilhem1992b": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992b",
           "text": "Canguilhem1992b"
         }
@@ -3213,17 +3222,17 @@
       ],
       "/reference/Doudna2017": [
         {
+          "source": "/PhD-project",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
         {
           "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
-          "target": "/reference/Doudna2017",
-          "text": "Doudna2017"
-        },
-        {
-          "source": "/writing/v1.2-projet",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         }
@@ -3298,24 +3307,19 @@
       ],
       "/reference/Glade2015": [
         {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Glade2015",
-          "text": "Glade2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Glade2015",
           "text": "Glade2015"
         }
       ],
       "/reference/Glade2022": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         }
@@ -3452,17 +3456,17 @@
       ],
       "/reference/Kauffman2019": [
         {
+          "source": "/PhD-project",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
           "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Kauffman2019",
-          "text": "Kauffman2019"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Kauffman2019",
-          "text": "Kauffman2019"
-        },
-        {
-          "source": "/writing/v1.2-projet",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         }
@@ -3509,17 +3513,17 @@
       ],
       "/reference/Laland2015": [
         {
+          "source": "/PhD-project",
+          "target": "/reference/Laland2015",
+          "text": "Laland2015"
+        },
+        {
           "source": "/concept/Modern-Synthesis",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         },
         {
           "source": "/note/note-on-Laland2015",
-          "target": "/reference/Laland2015",
-          "text": "Laland2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         }
@@ -3555,7 +3559,7 @@
       ],
       "/reference/Longo2012": [
         {
-          "source": "/note/note-on-Longo2012",
+          "source": "/PhD-project",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
@@ -3565,7 +3569,7 @@
           "text": "Longo2012"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         }
@@ -3579,6 +3583,11 @@
       ],
       "/reference/Longo2021": [
         {
+          "source": "/PhD-project",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
@@ -3587,16 +3596,11 @@
           "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Longo2021",
-          "text": "Longo2021"
         }
       ],
       "/reference/Lotka1945": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Lotka1945",
           "text": "Lotka1945"
         }
@@ -3695,6 +3699,11 @@
       ],
       "/reference/Montevil2015": [
         {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
           "source": "/concept/closure-of-constraints",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
@@ -3723,11 +3732,6 @@
           "source": "/note/note-on-Monte%CC%81vil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
         }
       ],
       "/reference/Montevil2016": [
@@ -3749,12 +3753,17 @@
       ],
       "/reference/Montevil2016b": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2016b",
           "text": "Montevil2016b"
         }
       ],
       "/reference/Montevil2019": [
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
+        },
         {
           "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
           "target": "/reference/Montevil2019",
@@ -3762,6 +3771,11 @@
         }
       ],
       "/reference/Montevil2019a": [
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
         {
           "source": "/note/note-on-Monte%CC%81vil2019a",
           "target": "/reference/Montevil2019a",
@@ -3776,26 +3790,16 @@
           "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
         }
       ],
       "/reference/Montevil2020a": [
         {
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
           "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/writing/v1.2-projet",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         }
@@ -3824,7 +3828,7 @@
       ],
       "/reference/Montevil2021a": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2021a",
           "text": "Montevil2021a"
         }
@@ -3838,29 +3842,24 @@
       ],
       "/reference/Montevil2022": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
         {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Montevil2022",
-          "text": "Montevil2022"
-        },
-        {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         }
       ],
       "/reference/Montevil2022a": [
         {
-          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022a",
           "text": "Montevil2022a"
         },
@@ -3870,14 +3869,14 @@
           "text": "Montevil2022a"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/writing/v0.1-The-principle-of-variation-and-biological-objects",
           "target": "/reference/Montevil2022a",
           "text": "Montevil2022a"
         }
       ],
       "/reference/Moreno2015": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Moreno2015",
           "text": "Moreno2015"
         }
@@ -3951,18 +3950,18 @@
           "text": "Nicholson2021"
         }
       ],
-      "/reference/Noble2008": [
-        {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Noble2008",
-          "text": "Noble2008"
-        }
-      ],
       "/reference/Noble2014": [
         {
           "source": "/note/note-on-Laland2015",
           "target": "/reference/Noble2014",
           "text": "Noble2014"
+        }
+      ],
+      "/reference/Noble2015": [
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Noble2015",
+          "text": "Noble2015"
         }
       ],
       "/reference/Nolan2021": [
@@ -4089,6 +4088,13 @@
           "text": "Rip1994"
         }
       ],
+      "/reference/Roli2022": [
+        {
+          "source": "/PhD-project",
+          "target": "/reference/Roli2022",
+          "text": "Roli2022"
+        }
+      ],
       "/reference/Rosen1991": [
         {
           "source": "/note/history-of-self-determination",
@@ -4182,12 +4188,12 @@
       ],
       "/reference/Soto2016": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
         }
@@ -4240,11 +4246,13 @@
           "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
-        },
+        }
+      ],
+      "/reference/Stiegler2021": [
         {
-          "source": "/writing/v1.2-projet",
-          "target": "/reference/Stiegler2020",
-          "text": "Stiegler2020"
+          "source": "/PhD-project",
+          "target": "/reference/Stiegler2021",
+          "text": "Stiegler2021"
         }
       ],
       "/reference/Tang2004": [
@@ -4289,7 +4297,7 @@
       ],
       "/reference/Varenne2013": [
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/PhD-project",
           "target": "/reference/Varenne2013",
           "text": "Varenne2013"
         }
@@ -4317,12 +4325,12 @@
       ],
       "/reference/West-Eberhard2003": [
         {
-          "source": "/concept/biological-function",
+          "source": "/PhD-project",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
         },
         {
-          "source": "/writing/v1.2-projet",
+          "source": "/concept/biological-function",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
         }
@@ -4360,13 +4368,188 @@
   "links": [
     {
       "source": "/Anton-Robert",
-      "target": "/manifesto",
-      "text": "manifesto"
+      "target": "/PhD-project",
+      "text": "PhD project"
     },
     {
       "source": "/Anton-Robert",
-      "target": "/Anton-Robert",
+      "target": "/",
       "text": "anton.smirnov.robert@gmail.com"
+    },
+    {
+      "source": "/Anton-Robert",
+      "target": "/personal-story",
+      "text": "personal story"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Longo2012",
+      "text": "Longo2012"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Roli2022",
+      "text": "Roli2022"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/West-Eberhard2003",
+      "text": "West-Eberhard2003"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Laland2015",
+      "text": "Laland2015"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Bailly2011",
+      "text": "Bailly2011"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Noble2015",
+      "text": "Noble2015"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Soto2016",
+      "text": "Soto2016"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Moreno2015",
+      "text": "Moreno2015"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2021a",
+      "text": "Montevil2021a"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Lotka1945",
+      "text": "Lotka1945"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Canguilhem1992b",
+      "text": "Canguilhem1992b"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Stiegler2021",
+      "text": "Stiegler2021"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Glade2022",
+      "text": "Glade2022"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2016b",
+      "text": "Montevil2016b"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Glade2015",
+      "text": "Glade2015"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Varenne2013",
+      "text": "Varenne2013"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Bich2020",
+      "text": "Bich2020"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2019",
+      "text": "Montevil2019"
+    },
+    {
+      "source": "/PhD-project",
+      "target": "/reference/Montevil2022",
+      "text": "Montevil2022"
     },
     {
       "source": "/Where-am-I",
@@ -6072,181 +6255,6 @@
       "source": "/writing/v1.1-Le-de%CC%81clin-de-la-the%CC%81orisation-en-sciences",
       "target": "/reference/Lacetera2011",
       "text": "Lacetera2011"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Canguilhem1992a",
-      "text": "Canguilhem1992a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Doudna2017",
-      "text": "Doudna2017"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Longo2021",
-      "text": "Longo2021"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Canguilhem1992a",
-      "text": "Canguilhem1992a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Longo2012",
-      "text": "Longo2012"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Glade2022",
-      "text": "Glade2022"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/West-Eberhard2003",
-      "text": "West-Eberhard2003"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Laland2015",
-      "text": "Laland2015"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2015",
-      "text": "Montevil2015"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Kauffman2019",
-      "text": "Kauffman2019"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Noble2008",
-      "text": "Noble2008"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Bailly2011",
-      "text": "Bailly2011"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Glade2015",
-      "text": "Glade2015"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Soto2016",
-      "text": "Soto2016"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Kauffman2019",
-      "text": "Kauffman2019"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Soto2016",
-      "text": "Soto2016"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Moreno2015",
-      "text": "Moreno2015"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2022a",
-      "text": "Montevil2022a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2019a",
-      "text": "Montevil2019a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2022",
-      "text": "Montevil2022"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2021a",
-      "text": "Montevil2021a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Lotka1945",
-      "text": "Lotka1945"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Canguilhem1992b",
-      "text": "Canguilhem1992b"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Stiegler2020",
-      "text": "Stiegler2020"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Glade2022",
-      "text": "Glade2022"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2016b",
-      "text": "Montevil2016b"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Bich2020",
-      "text": "Bich2020"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2022",
-      "text": "Montevil2022"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Glade2015",
-      "text": "Glade2015"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Varenne2013",
-      "text": "Varenne2013"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2020a",
-      "text": "Montevil2020a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Bich2020",
-      "text": "Bich2020"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2022",
-      "text": "Montevil2022"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2020a",
-      "text": "Montevil2020a"
-    },
-    {
-      "source": "/writing/v1.2-projet",
-      "target": "/reference/Montevil2022",
-      "text": "Montevil2022"
     }
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a452cd13a8e7a4",
+        "id": "ed3b8398a8b5053c",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc2cc12c072a667",
+            "id": "f382aed0815dd500",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "PhD project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "PhD project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "PhD project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anton Robert.md"
+                "file": "PhD project.md"
               }
             }
           }
@@ -146,13 +146,23 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "bcc2cc12c072a667",
+  "active": "f382aed0815dd500",
   "lastOpenFiles": [
+    "writing/(v1.2) projet.md",
+    "projects/thesis_project/(v1.2) projet.md",
+    "note/history of self-determination.md",
+    "Anton Robert.md",
+    "PhD project.md",
+    "reference/Noble2015.md",
+    "reference/Roli2022.md",
+    "note/note on Laland2015.md",
+    "personal story.md",
+    "images/CV_03_23_internet_version.pdf",
+    "images/Curriculum_vitae_03_23.pdf",
+    "manifesto.md",
     "projects/TODO.md",
     "writing/(v0.1) The principle of variation and biological objects.md",
-    "writing/(v1.2) projet.md",
     "writing/(v1.1) Le déclin de la théorisation en sciences.md",
-    "note/history of self-determination.md",
     "note/note on Montévil2016.md",
     "images/Pasted image 20230324225643.png",
     "reference/Montevil2016.md",
@@ -164,19 +174,11 @@
     "reference/Montevil2022.md",
     "concept/new possibility.md",
     "note/note on Mossio2014.md",
-    "projects/thesis_project/(v1.2) projet.md",
     "concept/Modern Synthesis.md",
     "reference/David2013.md",
     "reference/Huang2009.md",
-    "reference/Stadler2001.md",
     "images/Pasted image 20230320184008.png",
-    "reference/VanFraassen1989.md",
-    "reference/Beatty1995.md",
-    "reference/Gould2002.md",
     "images/Pasted image 20230320111525.png",
-    "reference/Darwin1859.md",
-    "note/note on Montévil2021.md",
-    "note/note on Rovelli2017.md",
     "projects/summary_of_theory",
     "writing",
     "images/Pasted image 20230118122044.png"
