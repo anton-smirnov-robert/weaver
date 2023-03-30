@@ -28,9 +28,10 @@ tags:
 #### Part I : The disrupted theoretical framework of biology 
 -  Chapter about the history of theories in biology and experimental facts. 
 - [ ] Theoretical history of biological theories (Darwin, modern sythesis, neo-darwinism, extended version, current problems, etc.)
-- [ ] See Denis Noble
-- [ ] West-Everhard
-- [ ] 
+- [ ] Denis Noble
+- [ ] West-Eberhard
+- [ ] Walsh
+- [ ] Kauffman, Rosen
 -  Chapter about some sociology of science (resistance to theories, dialogues with modelers, proletarization of scientific thought, commercialization, etc.)
 
 #### Part II : An organicist perspective  

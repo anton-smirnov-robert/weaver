@@ -14583,6 +14583,62 @@
       "select": "zotero://select/library/items/MB3TG6DL"
     },
     {
+      "key": "8U9FWUPM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.frontiersin.org/articles/10.3389/fevo.2021.806283",
+      "volume": "9",
+      "publicationTitle": "Frontiers in Ecology and Evolution",
+      "ISSN": "2296-701X",
+      "date": "2022",
+      "accessDate": "2023-03-30T08:46:42Z",
+      "libraryCatalog": "Frontiers",
+      "abstractNote": "Artificial intelligence has made tremendous advances since its inception about seventy years ago. Self-driving cars, programs beating experts at complex games, and smart robots capable of assisting people that need care are just some among the successful examples of machine intelligence. This kind of progress might entice us to envision a society populated by autonomous robots capable of performing the same tasks humans do in the near future. This prospect seems limited only by the power and complexity of current computational devices, which is improving fast. However, there are several significant obstacles on this path. General intelligence involves situational reasoning, taking perspectives, choosing goals, and an ability to deal with ambiguous information. We observe that all of these characteristics are connected to the ability of identifying and exploiting new affordances\u2014opportunities (or impediments) on the path of an agent to achieve its goals. A general example of an affordance is the use of an object in the hands of an agent. We show that it is impossible to predefine a list of such uses. Therefore, they cannot be treated algorithmically. This means that \u201cAI agents\u201d and organisms differ in their ability to leverage new affordances. Only organisms can do this. This implies that true AGI is not achievable in the current algorithmic frame of AI research. It also has important consequences for the theory of evolution. We argue that organismic agency is strictly required for truly open-ended evolution through radical emergence. We discuss the diverse ramifications of this argument, not only in AI research and evolution, but also for the philosophy of science.",
+      "title": "How Organisms Come to Know the World: Fundamental Limits on Artificial General Intelligence",
+      "shortTitle": "How Organisms Come to Know the World",
+      "creators": [
+        {
+          "firstName": "Andrea",
+          "lastName": "Roli",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Johannes",
+          "lastName": "Jaeger",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stuart A.",
+          "lastName": "Kauffman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-30T08:46:42Z",
+      "dateModified": "2023-03-30T08:46:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/8U9FWUPM",
+      "itemID": 7267,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-30T08:46:45Z",
+          "dateModified": "2023-03-30T08:46:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/7JH3SWQ2",
+          "path": "/Users/robert/Dropbox/zotero/storage/7JH3SWQ2/Roli et al. - 2022 - How Organisms Come to Know the World Fundamental .pdf",
+          "select": "zotero://select/library/items/7JH3SWQ2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Roli2022",
+      "itemKey": "8U9FWUPM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8U9FWUPM"
+    },
+    {
       "key": "TMUIXBLJ",
       "version": 0,
       "itemType": "book",
@@ -17069,6 +17125,57 @@
       "libraryID": 1,
       "select": "zotero://select/library/items/4Z9EK7PF",
       "publicationTitle": "Towards a Theoretical Biology: Prolegomena"
+    },
+    {
+      "key": "M87W65JA",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Cambridge University Press",
+      "date": "2015",
+      "libraryCatalog": "Google Scholar",
+      "title": "Organisms, agency, and evolution",
+      "creators": [
+        {
+          "firstName": "Denis M.",
+          "lastName": "Walsh",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-30T08:41:42Z",
+      "dateModified": "2023-03-30T08:41:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/M87W65JA",
+      "itemID": 7265,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-30T08:41:47Z",
+          "dateModified": "2023-03-30T08:41:47Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/D9JESMTW",
+          "path": "/Users/robert/Dropbox/zotero/storage/D9JESMTW/books.html",
+          "select": "zotero://select/library/items/D9JESMTW"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Walsh - Organisms, Agency, and Evolution.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-30T08:40:29Z",
+          "dateModified": "2023-03-30T08:41:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/KV2WHAZB",
+          "path": "/Users/robert/Dropbox/zotero/storage/KV2WHAZB/Walsh - Organisms, Agency, and Evolution.pdf",
+          "select": "zotero://select/library/items/KV2WHAZB"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Walsh2015",
+      "itemKey": "M87W65JA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M87W65JA"
     },
     {
       "key": "L5PB7GTG",
