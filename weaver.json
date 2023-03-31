@@ -1581,6 +1581,48 @@
       "select": "zotero://select/library/items/W5L4CG9P"
     },
     {
+      "key": "TY6R9SWZ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.science.org/doi/10.1126/stke.3612006pe47",
+      "volume": "2006",
+      "issue": "361",
+      "pages": "pe47-pe47",
+      "publicationTitle": "Science's STKE",
+      "date": "2006-11-14",
+      "extra": "Publisher: American Association for the Advancement of Science",
+      "DOI": "10.1126/stke.3612006pe47",
+      "accessDate": "2023-03-31T15:07:50Z",
+      "libraryCatalog": "science.org (Atypon)",
+      "abstractNote": "The regulatory genome functions as a vast information processor through development. It processes the initial conditions that are set by asymmetric distributions of cellular components in the egg and translates them into the onset of spatially localized specification states. It regulates the timely differential activation of signaling molecules and transcription factors that divide the emerging domains into subdomains. It also governs the activation of groups of differentiation genes, the genes that encode, at the protein level, the functional and the structural properties of a cell type. The sea urchin endomesoderm gene regulatory network provides a window into the different levels of the regulatory apparatus. It demonstrates how the static physical genomic components define functional connections between the various regulatory genes that act together to conduct the dynamical developmental program.",
+      "title": "Deciphering the Underlying Mechanism of Specification and Differentiation: The Sea Urchin Gene Regulatory Network",
+      "shortTitle": "Deciphering the Underlying Mechanism of Specification and Differentiation",
+      "creators": [
+        {
+          "firstName": "Smadar",
+          "lastName": "Ben-Tabou de-Leon",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eric H.",
+          "lastName": "Davidson",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-31T15:07:51Z",
+      "dateModified": "2023-03-31T15:07:51Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/TY6R9SWZ",
+      "itemID": 7282,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Ben-Taboude-Leon2006",
+      "itemKey": "TY6R9SWZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/TY6R9SWZ"
+    },
+    {
       "key": "EVNWIC2N",
       "version": 0,
       "itemType": "journalArticle",
