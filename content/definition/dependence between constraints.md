@@ -8,7 +8,7 @@ tags:
 - definition
 ---
 
-The dependence between [biological constraint](definition/biological%20constraint.md) can be understood as "repair" or "replacement" mechanisms. It can be slow or fast depending on which one of the *generative* or *dependent* constraint is faster.
+The dependence between [biological constraint](concept/biological%20constraint.md) can be understood as "repair" or "replacement" mechanisms. It can be slow or fast depending on which one of the *generative* or *dependent* constraint is faster.
 Note that there is still no thermodynamic flow between the generative and the dependent constraints.
 
 $$\begin{array}{l}\text { Definition } 2 \text { (Dependence between constraints) Following the above line of rea- } \\ \text { soning, we define a relationship of dependence between constraints as a situation in } \\ \text { which, given two time scales } \tau_{1} \text { and } \tau_{2} \text { considered jointly, we have: } \\ \text { 1. } C_{1} \text { is a constraint at scale } \tau_{1} \text {, } \\

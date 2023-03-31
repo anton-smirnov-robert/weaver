@@ -17,7 +17,7 @@ Generally:
 - In describing physical and chemical systems, constraints are usually introduced as external determinations (boundary conditions, parameters, restrictions on the configuration space, etc.), which contribute to determining the behaviour and dynamics of a system, although their existence does not depend on the dynamics on which they act —  (Montévil et Mossio, 2015, p. 5) 
 
 Specifically: 
-- constrains a [biological process](definition/biological%20process.md) at the relevant time scale at which this process occurs. 
+- constrains a [biological process](concept/biological%20process.md) at the relevant time scale at which this process occurs. 
 - correspond to theoretical symmetries that are local, in the sense of being stable at limited temporal and spatial scales. —  (Montévil et Mossio, 2015, p. 6) 
 - refer to entities which, while acting upon these processes, can be said — from the appropriate viewpoint to remain unaffected by them. (Montévil et Mossio, 2015, p. 6) 
 - exerts a causal role on the target process. In formal terms, we express this by stating that the situations with or without the constraint are different (asymmetric). This must be true when considering the effects of the constraint rather than its mere presence —  (Montévil et Mossio, 2015, p. 7) 

@@ -27,7 +27,7 @@ The main argument is that:
 where self-constraint should be understood as [closure of constraints](concept/closure%20of%20constraints.md). Also: 
 > [!quote] 
 >
->[biological constraint](definition/biological%20constraint.md) subject to closure correspond to [biological function](concept/biological%20function.md)s. —  (Mossio et Bich, 2014, p. 3) 
+>[biological constraint](concept/biological%20constraint.md) subject to closure correspond to [biological function](concept/biological%20function.md)s. —  (Mossio et Bich, 2014, p. 3) 
 
 Most importantly: not all circular causation mean self-constraint (water cycle for instance). For instance, a river does not specify its external boundary conditions (the water bed): 
 > [!quote] 

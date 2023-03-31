@@ -706,10 +706,22 @@
           "text": "choice function"
         }
       ],
+      "/concept/biological-constraint": [
+        {
+          "source": "/concept/biological-constraint",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/concept/biological-constraint",
+          "target": "/concept/biological-process",
+          "text": "biological process"
+        }
+      ],
       "/concept/biological-function": [
         {
           "source": "/concept/biological-function",
-          "target": "/definition/biological-constraint",
+          "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
         {
@@ -736,6 +748,13 @@
           "source": "/concept/biological-function",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
+        }
+      ],
+      "/concept/biological-process": [
+        {
+          "source": "/concept/biological-process",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
         }
       ],
       "/concept/closure-of-constraints": [
@@ -917,7 +936,7 @@
         },
         {
           "source": "/concept/new-possibility",
-          "target": "/definition/biological-constraint",
+          "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
         {
@@ -1007,25 +1026,6 @@
           "text": "Sipser2013"
         }
       ],
-      "/definition/biological-constraint": [
-        {
-          "source": "/definition/biological-constraint",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        },
-        {
-          "source": "/definition/biological-constraint",
-          "target": "/definition/biological-process",
-          "text": "biological process"
-        }
-      ],
-      "/definition/biological-process": [
-        {
-          "source": "/definition/biological-process",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        }
-      ],
       "/definition/complexity-sciences": [
         {
           "source": "/definition/complexity-sciences",
@@ -1056,7 +1056,7 @@
       "/definition/dependence-between-constraints": [
         {
           "source": "/definition/dependence-between-constraints",
-          "target": "/definition/biological-constraint",
+          "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
         {
@@ -1527,12 +1527,12 @@
         },
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/definition/biological-process",
+          "target": "/concept/biological-process",
           "text": "biological process"
         },
         {
           "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/definition/biological-constraint",
+          "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
         {
@@ -1633,7 +1633,7 @@
         },
         {
           "source": "/note/note-on-Mossio2014",
-          "target": "/definition/biological-constraint",
+          "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
         {
@@ -1996,6 +1996,33 @@
           "text": "Turing machine"
         }
       ],
+      "/concept/biological-constraint": [
+        {
+          "source": "/concept/biological-function",
+          "target": "/concept/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/concept/new-possibility",
+          "target": "/concept/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/definition/dependence-between-constraints",
+          "target": "/concept/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/note/note-on-Monte%CC%81vil2015",
+          "target": "/concept/biological-constraint",
+          "text": "biological constraint"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/concept/biological-constraint",
+          "text": "biological constraint"
+        }
+      ],
       "/concept/biological-function": [
         {
           "source": "/concept/new-possibility",
@@ -2011,6 +2038,18 @@
           "source": "/note/note-on-Mossio2014",
           "target": "/concept/biological-function",
           "text": "biological function"
+        }
+      ],
+      "/concept/biological-process": [
+        {
+          "source": "/concept/biological-constraint",
+          "target": "/concept/biological-process",
+          "text": "biological process"
+        },
+        {
+          "source": "/note/note-on-Monte%CC%81vil2015",
+          "target": "/concept/biological-process",
+          "text": "biological process"
         }
       ],
       "/concept/closure-of-constraints": [
@@ -2293,45 +2332,6 @@
           "source": "/note/note-on-LiVigni2021",
           "target": "/definition/backcasting",
           "text": "backcasting"
-        }
-      ],
-      "/definition/biological-constraint": [
-        {
-          "source": "/concept/biological-function",
-          "target": "/definition/biological-constraint",
-          "text": "biological constraint"
-        },
-        {
-          "source": "/concept/new-possibility",
-          "target": "/definition/biological-constraint",
-          "text": "biological constraint"
-        },
-        {
-          "source": "/definition/dependence-between-constraints",
-          "target": "/definition/biological-constraint",
-          "text": "biological constraint"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/definition/biological-constraint",
-          "text": "biological constraint"
-        },
-        {
-          "source": "/note/note-on-Mossio2014",
-          "target": "/definition/biological-constraint",
-          "text": "biological constraint"
-        }
-      ],
-      "/definition/biological-process": [
-        {
-          "source": "/definition/biological-constraint",
-          "target": "/definition/biological-process",
-          "text": "biological process"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/definition/biological-process",
-          "text": "biological process"
         }
       ],
       "/definition/blood": [
@@ -3192,17 +3192,17 @@
           "text": "Montevil2015"
         },
         {
+          "source": "/concept/biological-constraint",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
+          "source": "/concept/biological-process",
+          "target": "/reference/Montevil2015",
+          "text": "Montevil2015"
+        },
+        {
           "source": "/concept/closure-of-constraints",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        },
-        {
-          "source": "/definition/biological-constraint",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        },
-        {
-          "source": "/definition/biological-process",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
@@ -4378,8 +4378,18 @@
       "text": "choice function"
     },
     {
+      "source": "/concept/biological-constraint",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/concept/biological-constraint",
+      "target": "/concept/biological-process",
+      "text": "biological process"
+    },
+    {
       "source": "/concept/biological-function",
-      "target": "/definition/biological-constraint",
+      "target": "/concept/biological-constraint",
       "text": "biological constraint"
     },
     {
@@ -4406,6 +4416,11 @@
       "source": "/concept/biological-function",
       "target": "/reference/West-Eberhard2003",
       "text": "West-Eberhard2003"
+    },
+    {
+      "source": "/concept/biological-process",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
     },
     {
       "source": "/concept/closure-of-constraints",
@@ -4569,7 +4584,7 @@
     },
     {
       "source": "/concept/new-possibility",
-      "target": "/definition/biological-constraint",
+      "target": "/concept/biological-constraint",
       "text": "biological constraint"
     },
     {
@@ -4643,21 +4658,6 @@
       "text": "Sipser2013"
     },
     {
-      "source": "/definition/biological-constraint",
-      "target": "/reference/Montevil2015",
-      "text": "Montevil2015"
-    },
-    {
-      "source": "/definition/biological-constraint",
-      "target": "/definition/biological-process",
-      "text": "biological process"
-    },
-    {
-      "source": "/definition/biological-process",
-      "target": "/reference/Montevil2015",
-      "text": "Montevil2015"
-    },
-    {
       "source": "/definition/complexity-sciences",
       "target": "/definition/Santa-Fe-Institute-SFI",
       "text": "Santa Fe Institute (SFI)"
@@ -4684,7 +4684,7 @@
     },
     {
       "source": "/definition/dependence-between-constraints",
-      "target": "/definition/biological-constraint",
+      "target": "/concept/biological-constraint",
       "text": "biological constraint"
     },
     {
@@ -5129,12 +5129,12 @@
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/definition/biological-process",
+      "target": "/concept/biological-process",
       "text": "biological process"
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/definition/biological-constraint",
+      "target": "/concept/biological-constraint",
       "text": "biological constraint"
     },
     {
@@ -5229,7 +5229,7 @@
     },
     {
       "source": "/note/note-on-Mossio2014",
-      "target": "/definition/biological-constraint",
+      "target": "/concept/biological-constraint",
       "text": "biological constraint"
     },
     {
