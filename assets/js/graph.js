@@ -68,7 +68,6 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       if ( d.id == "/Where-am-I" ) { return "#dadada" }
       if ( d.id == "/Anton-Robert" ) { return "#dadada" } 
       if ( d.id == "/PhD-project" ) { return "#dadada" }
-      if ( d.id == "/PhD-project_french" ) { return "#dadada" }
       if ( d.id == "/personal-story" ) { return "#dadada" }
       if ( d.id == "/about-the-website" ) { return "#dadada" } 
     }
@@ -107,7 +106,16 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
 
   const simulation = d3
     .forceSimulation(data.nodes)
-    .force("charge", d3.forceManyBody().strength(-repelForce))
+  //  .force("charge", d3.forceManyBody().strength(-repelForce))
+    .force("charge", d3.forceManyBody().strength(function getRadius(d) {
+     const numOut = index.links[d.id]?.length || 0
+     const numIn = index.backlinks[d.id]?.length || 0
+     if (d.id === curPage || (d.id === "/" && curPage === "")) {
+       return 15
+     }
+     return -(2 + Math.sqrt(numOut + numIn))/2
+    }  ))
+
     .force(
       "link",
       d3
@@ -115,17 +123,13 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .id((d) => d.id)
         .distance(linkDistance),
     )
-    .force("center", d3.forceCenter(0,0).strength(centerForce))
+    //.force("center", d3.forceCenter(0,0).strength(centerForce))
     .force('collision', d3.forceCollide().radius( function getRadius(d) {
-
     const numOut = index.links[d.id]?.length || 0
     const numIn = index.backlinks[d.id]?.length || 0
     if (d.id === curPage || (d.id === "/" && curPage === "")) {
       return 15
     }
-   // if ( d.id == "/Where-am-I" ) { return 10 }
-   // if ( d.id == "/Anton-Robert" ) { return 10 }
-   // if ( d.id == "/about-the-website" ) { return 5 } 
     return 2 + Math.sqrt(numOut + numIn)
   }  ))
 
