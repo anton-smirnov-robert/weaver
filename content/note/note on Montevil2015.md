@@ -16,7 +16,7 @@ DOI: 10.1016/j.jtbi.2015.02.029
 
 Référence:  [Montevil2015](reference/Montevil2015.md)
 
-First, the authors tell a brief [history of self-determination](note/history%20of%20self-determination.md). They define a [biological process](concept/biological%20process.md), a [biological constraint](concept/biological%20constraint.md), a [dependence between constraints](definition/dependence%20between%20constraints.md). Finally they introduce the concept of [closure of constraints](concept/closure%20of%20constraints.md).
+First, the authors tell a brief [pre-note on the organicist tradition](note/pre-note%20on%20the%20organicist%20tradition.md). They define a [biological process](concept/biological%20process.md), a [biological constraint](concept/biological%20constraint.md), a [dependence between constraints](definition/dependence%20between%20constraints.md). Finally they introduce the concept of [closure of constraints](concept/closure%20of%20constraints.md).
 
 The authors argue that the capacity of biological systems to self-determine should be understood as their capacity to self-constrain: organize by realizing a [closure of constraints](concept/closure%20of%20constraints.md). 
 They also argue that [closure of constraints](concept/closure%20of%20constraints.md) grounds [biological function](concept/biological%20function.md)s. 

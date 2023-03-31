@@ -1108,81 +1108,326 @@
           "text": "taxonomy"
         }
       ],
-      "/note/history-of-self-determination": [
+      "/note/draft-on-the-decline-of-theorization-in-science": [
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Kant1790",
-          "text": "Kant1790"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Bernard1865",
-          "text": "Bernard1865"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Bernard1879",
-          "text": "Bernard1879"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Cannon1929",
-          "text": "Cannon1929"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Schrodinger1944",
-          "text": "Schrodinger1944"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/VonBertalanffy1952",
-          "text": "VonBertalanffy1952"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Wiener1948",
-          "text": "Wiener1948"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Ashby1957",
-          "text": "Ashby1957"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Weiss1968",
-          "text": "Weiss1968"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Waddington1968",
-          "text": "Waddington1968"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Piaget1967",
-          "text": "Piaget1967"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Maturana1973",
-          "text": "Maturana1973"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Rosen1991",
-          "text": "Rosen1991"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Atkins1984",
-          "text": "Atkins1984"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
         },
         {
-          "source": "/note/history-of-self-determination",
-          "target": "/reference/Kauffman2000",
-          "text": "Kauffman2000"
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Rip1994",
+          "text": "Rip1994"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Trebino2009a",
+          "text": "Trebino2009a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Nicholson2021",
+          "text": "Nicholson2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Castoriadis1975",
+          "text": "Castoriadis1975"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
         }
       ],
       "/note/note-on-Hayek1945": [
@@ -1507,100 +1752,56 @@
           "text": "Jakkaraju2003"
         }
       ],
-      "/note/note-on-Monte%CC%81vil2015": [
+      "/note/note-on-Montevil2015": [
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/note/history-of-self-determination",
-          "text": "history of self-determination"
+          "source": "/note/note-on-Montevil2015",
+          "target": "/note/pre-note-on-the-organicist-tradition",
+          "text": "pre-note on the organicist tradition"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-process",
           "text": "biological process"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-function",
           "text": "biological function"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
-        }
-      ],
-      "/note/note-on-Monte%CC%81vil2019a": [
-        {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
-          "target": "/reference/Montevil2019a",
-          "text": "Montevil2019a"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
-          "target": "/concept/novelty",
-          "text": "novelty"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
-          "target": "/concept/new-possibility",
-          "text": "new possibility"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
-          "target": "/concept/novelty",
-          "text": "novelty"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
-          "target": "/concept/new-possibility",
-          "text": "new possibility"
-        }
-      ],
-      "/note/note-on-Monte%CC%81vil2021": [
-        {
-          "source": "/note/note-on-Monte%CC%81vil2021",
-          "target": "/reference/Montevil2021",
-          "text": "Montevil2021"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2021",
-          "target": "/concept/scientific-positivism",
-          "text": "scientific positivism"
-        },
-        {
-          "source": "/note/note-on-Monte%CC%81vil2021",
-          "target": "/reference/Morin1982",
-          "text": "Morin1982"
         }
       ],
       "/note/note-on-Montevil2016-and-Montevil2022a": [
@@ -1636,13 +1837,13 @@
         },
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-          "target": "/note/note-on-Mont%C3%A9vil2019a",
-          "text": "note on Montévil2019a"
+          "target": "/note/note-on-Montevil2019a",
+          "text": "note on Montevil2019a"
         },
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
         },
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2022a",
@@ -1670,6 +1871,50 @@
           "text": "biological function"
         }
       ],
+      "/note/note-on-Montevil2019a": [
+        {
+          "source": "/note/note-on-Montevil2019a",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/note/note-on-Montevil2019a",
+          "target": "/concept/novelty",
+          "text": "novelty"
+        },
+        {
+          "source": "/note/note-on-Montevil2019a",
+          "target": "/concept/new-possibility",
+          "text": "new possibility"
+        },
+        {
+          "source": "/note/note-on-Montevil2019a",
+          "target": "/concept/novelty",
+          "text": "novelty"
+        },
+        {
+          "source": "/note/note-on-Montevil2019a",
+          "target": "/concept/new-possibility",
+          "text": "new possibility"
+        }
+      ],
+      "/note/note-on-Montevil2021": [
+        {
+          "source": "/note/note-on-Montevil2021",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2021",
+          "target": "/concept/scientific-positivism",
+          "text": "scientific positivism"
+        },
+        {
+          "source": "/note/note-on-Montevil2021",
+          "target": "/reference/Morin1982",
+          "text": "Morin1982"
+        }
+      ],
       "/note/note-on-Mossio2014": [
         {
           "source": "/note/note-on-Mossio2014",
@@ -1678,8 +1923,8 @@
         },
         {
           "source": "/note/note-on-Mossio2014",
-          "target": "/note/history-of-self-determination",
-          "text": "history of self-determination"
+          "target": "/note/pre-note-on-the-organicist-tradition",
+          "text": "pre-note on the organicist tradition"
         },
         {
           "source": "/note/note-on-Mossio2014",
@@ -1806,6 +2051,83 @@
           "source": "/note/note-on-Rovelli2017",
           "target": "/definition/entropy",
           "text": "entropy"
+        }
+      ],
+      "/note/pre-note-on-the-organicist-tradition": [
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Kant1790",
+          "text": "Kant1790"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Bernard1865",
+          "text": "Bernard1865"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Bernard1879",
+          "text": "Bernard1879"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Cannon1929",
+          "text": "Cannon1929"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/VonBertalanffy1952",
+          "text": "VonBertalanffy1952"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Wiener1948",
+          "text": "Wiener1948"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Ashby1957",
+          "text": "Ashby1957"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Weiss1968",
+          "text": "Weiss1968"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Waddington1968",
+          "text": "Waddington1968"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Piaget1967",
+          "text": "Piaget1967"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Maturana1973",
+          "text": "Maturana1973"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Rosen1991",
+          "text": "Rosen1991"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Atkins1984",
+          "text": "Atkins1984"
+        },
+        {
+          "source": "/note/pre-note-on-the-organicist-tradition",
+          "target": "/reference/Kauffman2000",
+          "text": "Kauffman2000"
         }
       ],
       "/reference/Polanyi1962": [
@@ -2066,7 +2388,7 @@
           "text": "biological constraint"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-constraint",
           "text": "biological constraint"
         },
@@ -2083,12 +2405,12 @@
           "text": "biological function"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-function",
           "text": "biological function"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/concept/biological-function",
           "text": "biological function"
         },
@@ -2105,7 +2427,7 @@
           "text": "biological process"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-process",
           "text": "biological process"
         }
@@ -2122,17 +2444,17 @@
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/concept/closure-of-constraints",
           "text": "closure of constraints"
         },
@@ -2255,12 +2577,12 @@
       ],
       "/concept/new-possibility": [
         {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
+          "source": "/note/note-on-Montevil2019a",
           "target": "/concept/new-possibility",
           "text": "new possibility"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
+          "source": "/note/note-on-Montevil2019a",
           "target": "/concept/new-possibility",
           "text": "new possibility"
         }
@@ -2277,12 +2599,12 @@
           "text": "novelty"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
+          "source": "/note/note-on-Montevil2019a",
           "target": "/concept/novelty",
           "text": "novelty"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
+          "source": "/note/note-on-Montevil2019a",
           "target": "/concept/novelty",
           "text": "novelty"
         }
@@ -2301,7 +2623,7 @@
       ],
       "/concept/scientific-positivism": [
         {
-          "source": "/note/note-on-Monte%CC%81vil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/concept/scientific-positivism",
           "text": "scientific positivism"
         }
@@ -2444,7 +2766,7 @@
           "text": "dependence between constraints"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/definition/dependence-between-constraints",
           "text": "dependence between constraints"
         }
@@ -2588,18 +2910,6 @@
           "text": "taxonomy"
         }
       ],
-      "/note/history-of-self-determination": [
-        {
-          "source": "/note/note-on-Monte%CC%81vil2015",
-          "target": "/note/history-of-self-determination",
-          "text": "history of self-determination"
-        },
-        {
-          "source": "/note/note-on-Mossio2014",
-          "target": "/note/history-of-self-determination",
-          "text": "history of self-determination"
-        }
-      ],
       "/note/note-on-Longo2012": [
         {
           "source": "/concept/Laplacian-determinism",
@@ -2627,11 +2937,23 @@
           "text": "note on Longo2012"
         }
       ],
-      "/note/note-on-Mont%C3%A9vil2019a": [
+      "/note/note-on-Montevil2019a": [
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-          "target": "/note/note-on-Mont%C3%A9vil2019a",
-          "text": "note on Montévil2019a"
+          "target": "/note/note-on-Montevil2019a",
+          "text": "note on Montevil2019a"
+        }
+      ],
+      "/note/pre-note-on-the-organicist-tradition": [
+        {
+          "source": "/note/note-on-Montevil2015",
+          "target": "/note/pre-note-on-the-organicist-tradition",
+          "text": "pre-note on the organicist tradition"
+        },
+        {
+          "source": "/note/note-on-Mossio2014",
+          "target": "/note/pre-note-on-the-organicist-tradition",
+          "text": "pre-note on the organicist tradition"
         }
       ],
       "/personal-story": [
@@ -2641,11 +2963,32 @@
           "text": "personal story"
         }
       ],
+      "/reference/Alombert2021": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Alombert2021",
+          "text": "Alombert2021"
+        }
+      ],
+      "/reference/Anderson2007": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Anderson2007",
+          "text": "Anderson2007"
+        }
+      ],
       "/reference/Anfinsen1973": [
         {
           "source": "/concept/Anfinsens-dogma",
           "target": "/reference/Anfinsen1973",
           "text": "Anfinsen1973"
+        }
+      ],
+      "/reference/Arora2018": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Arora2018",
+          "text": "Arora2018"
         }
       ],
       "/reference/Arrow1962": [
@@ -2657,16 +3000,28 @@
       ],
       "/reference/Ashby1957": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Ashby1957",
           "text": "Ashby1957"
         }
       ],
       "/reference/Atkins1984": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Atkins1984",
           "text": "Atkins1984"
+        }
+      ],
+      "/reference/Audetat2015": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Audetat2015",
+          "text": "Audetat2015"
         }
       ],
       "/reference/Bailly2011": [
@@ -2681,6 +3036,13 @@
           "text": "Bailly2011"
         }
       ],
+      "/reference/Baker2016": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        }
+      ],
       "/reference/Beatty1995": [
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2022a",
@@ -2690,14 +3052,14 @@
       ],
       "/reference/Bernard1865": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Bernard1865",
           "text": "Bernard1865"
         }
       ],
       "/reference/Bernard1879": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Bernard1879",
           "text": "Bernard1879"
         }
@@ -2732,6 +3094,11 @@
         }
       ],
       "/reference/Blok2015a": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Blok2015a",
+          "text": "Blok2015a"
+        },
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Blok2015a",
@@ -2768,6 +3135,13 @@
           "source": "/definition/recursive-function",
           "target": "/reference/Boolos2007",
           "text": "Boolos2007"
+        }
+      ],
+      "/reference/Boudreau2016": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Boudreau2016",
+          "text": "Boudreau2016"
         }
       ],
       "/reference/Brillouin1951": [
@@ -2821,6 +3195,21 @@
           "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Canguilhem1992a",
+          "text": "Canguilhem1992a"
         }
       ],
       "/reference/Canguilhem1992b": [
@@ -2837,9 +3226,35 @@
       ],
       "/reference/Cannon1929": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Cannon1929",
           "text": "Cannon1929"
+        }
+      ],
+      "/reference/Castoriadis1975": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Castoriadis1975",
+          "text": "Castoriadis1975"
+        }
+      ],
+      "/reference/Chavalarias2016": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Chavalarias2016",
+          "text": "Chavalarias2016"
+        }
+      ],
+      "/reference/Chu2021": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Chu2021",
+          "text": "Chu2021"
         }
       ],
       "/reference/Crick1958": [
@@ -2872,6 +3287,11 @@
       ],
       "/reference/Davies2006": [
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Davies2006",
+          "text": "Davies2006"
+        },
+        {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Davies2006",
           "text": "Davies2006"
@@ -2896,6 +3316,13 @@
           "text": "Deffuant2015"
         }
       ],
+      "/reference/Demeritt2000": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Demeritt2000",
+          "text": "Demeritt2000"
+        }
+      ],
       "/reference/Doudna2017": [
         {
           "source": "/PhD-project",
@@ -2908,9 +3335,28 @@
           "text": "Doudna2017"
         },
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Doudna2017",
+          "text": "Doudna2017"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
+        }
+      ],
+      "/reference/Edwards2017": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Edwards2017",
+          "text": "Edwards2017"
+        }
+      ],
+      "/reference/Elzinga1997": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Elzinga1997",
+          "text": "Elzinga1997"
         }
       ],
       "/reference/Estrada2013": [
@@ -2918,6 +3364,25 @@
           "source": "/definition/complexity-sciences",
           "target": "/reference/Estrada2013",
           "text": "Estrada2013"
+        }
+      ],
+      "/reference/Fang2012": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Fang2012",
+          "text": "Fang2012"
+        }
+      ],
+      "/reference/Fire2019": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Fire2019",
+          "text": "Fire2019"
         }
       ],
       "/reference/Fischer2009": [
@@ -2939,6 +3404,13 @@
           "source": "/note/note-on-Laland2015",
           "target": "/reference/Gilbert1996",
           "text": "Gilbert1996"
+        }
+      ],
+      "/reference/Giry2022": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Giry2022",
+          "text": "Giry2022"
         }
       ],
       "/reference/Glade2015": [
@@ -2982,11 +3454,25 @@
           "text": "Godfrey-Smith1994"
         }
       ],
+      "/reference/Godin2020": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Godin2020",
+          "text": "Godin2020"
+        }
+      ],
       "/reference/Gould2002": [
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/reference/Gould2002",
           "text": "Gould2002"
+        }
+      ],
+      "/reference/Grothendieck1972": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Grothendieck1972",
+          "text": "Grothendieck1972"
         }
       ],
       "/reference/Hamilton1964": [
@@ -2998,6 +3484,11 @@
       ],
       "/reference/Hayek1945": [
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Hayek1945",
+          "text": "Hayek1945"
+        },
+        {
           "source": "/note/note-on-Hayek1945",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
@@ -3006,6 +3497,13 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Hayek1945",
           "text": "Hayek1945"
+        }
+      ],
+      "/reference/Hayek1979": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Hayek1979",
+          "text": "Hayek1979"
         }
       ],
       "/reference/Heisenberg1971": [
@@ -3017,6 +3515,11 @@
       ],
       "/reference/Henriques2013": [
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Henriques2013",
+          "text": "Henriques2013"
+        },
+        {
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
@@ -3025,6 +3528,13 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Henriques2013",
           "text": "Henriques2013"
+        }
+      ],
+      "/reference/Hill2020": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Hill2020",
+          "text": "Hill2020"
         }
       ],
       "/reference/Horgan1995": [
@@ -3055,14 +3565,14 @@
       ],
       "/reference/Kant1790": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Kant1790",
           "text": "Kant1790"
         }
       ],
       "/reference/Kauffman2000": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Kauffman2000",
           "text": "Kauffman2000"
         }
@@ -3094,6 +3604,13 @@
           "text": "Kauffman2019"
         }
       ],
+      "/reference/Koppl2015": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Koppl2015",
+          "text": "Koppl2015"
+        }
+      ],
       "/reference/Kuhn1970": [
         {
           "source": "/note/note-on-Henriques2013",
@@ -3108,7 +3625,19 @@
           "text": "Kuhn2012"
         }
       ],
+      "/reference/Lacetera2011": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Lacetera2011",
+          "text": "Lacetera2011"
+        }
+      ],
       "/reference/Laillier2022": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Laillier2022",
+          "text": "Laillier2022"
+        },
         {
           "source": "/note/note-on-Laillier2022",
           "target": "/reference/Laillier2022",
@@ -3138,6 +3667,11 @@
         }
       ],
       "/reference/Lazebnik2018": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Lazebnik2018",
+          "text": "Lazebnik2018"
+        },
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Lazebnik2018",
@@ -3202,6 +3736,11 @@
           "text": "Longo2021"
         },
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Longo2021",
+          "text": "Longo2021"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
@@ -3235,14 +3774,21 @@
       ],
       "/reference/Maturana1973": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/note-on-Mossio2014",
           "target": "/reference/Maturana1973",
           "text": "Maturana1973"
         },
         {
-          "source": "/note/note-on-Mossio2014",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Maturana1973",
           "text": "Maturana1973"
+        }
+      ],
+      "/reference/Maxmen2019": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Maxmen2019",
+          "text": "Maxmen2019"
         }
       ],
       "/reference/MaynardSmith1999": [
@@ -3259,6 +3805,20 @@
           "text": "Mayr1982"
         }
       ],
+      "/reference/McNie2007": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/McNie2007",
+          "text": "McNie2007"
+        }
+      ],
+      "/reference/Merton1957": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Merton1957",
+          "text": "Merton1957"
+        }
+      ],
       "/reference/Millikan1989": [
         {
           "source": "/concept/biological-function",
@@ -3268,6 +3828,11 @@
       ],
       "/reference/Mirowski2011": [
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Mirowski2011",
+          "text": "Mirowski2011"
+        },
+        {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
@@ -3276,6 +3841,13 @@
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Mirowski2011",
           "text": "Mirowski2011"
+        }
+      ],
+      "/reference/Mirowski2012": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Mirowski2012",
+          "text": "Mirowski2012"
         }
       ],
       "/reference/Montevil2015": [
@@ -3310,12 +3882,12 @@
           "text": "Montevil2015"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2015",
+          "source": "/note/note-on-Montevil2015",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         }
@@ -3373,7 +3945,7 @@
           "text": "Montevil2019a"
         },
         {
-          "source": "/note/note-on-Monte%CC%81vil2019a",
+          "source": "/note/note-on-Montevil2019a",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         }
@@ -3386,6 +3958,11 @@
         },
         {
           "source": "/PhD-project",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         },
@@ -3409,7 +3986,17 @@
       ],
       "/reference/Montevil2021": [
         {
-          "source": "/note/note-on-Monte%CC%81vil2021",
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2021",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         }
@@ -3424,6 +4011,13 @@
           "source": "/PhD-project",
           "target": "/reference/Montevil2021a",
           "text": "Montevil2021a"
+        }
+      ],
+      "/reference/Montevil2021b": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021b",
+          "text": "Montevil2021b"
         }
       ],
       "/reference/Montevil2022": [
@@ -3458,13 +4052,6 @@
           "text": "Montevil2022"
         }
       ],
-      "/reference/Montevil2022a": [
-        {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-          "target": "/reference/Montevil2022a",
-          "text": "Montevil2022a"
-        }
-      ],
       "/reference/Moreno2015": [
         {
           "source": "/PhD-project",
@@ -3479,7 +4066,7 @@
       ],
       "/reference/Morin1982": [
         {
-          "source": "/note/note-on-Monte%CC%81vil2021",
+          "source": "/note/note-on-Montevil2021",
           "target": "/reference/Morin1982",
           "text": "Morin1982"
         },
@@ -3508,7 +4095,19 @@
           "text": "Muller2003"
         }
       ],
+      "/reference/Muthukrishna2019": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Muthukrishna2019",
+          "text": "Muthukrishna2019"
+        }
+      ],
       "/reference/Nedeva2006": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Nedeva2006",
+          "text": "Nedeva2006"
+        },
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Nedeva2006",
@@ -3525,6 +4124,13 @@
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Nelson1959",
           "text": "Nelson1959"
+        }
+      ],
+      "/reference/Nicholson2021": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Nicholson2021",
+          "text": "Nicholson2021"
         }
       ],
       "/reference/Noble2014": [
@@ -3560,23 +4166,64 @@
           "text": "OECD1966"
         }
       ],
+      "/reference/OECD2021": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/OECD2021",
+          "text": "OECD2021"
+        }
+      ],
       "/reference/Paic2019": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Paic2019",
+          "text": "Paic2019"
+        },
         {
           "source": "/note/note-on-Paic2019",
           "target": "/reference/Paic2019",
           "text": "Paic2019"
         }
       ],
+      "/reference/Park2023": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Park2023",
+          "text": "Park2023"
+        }
+      ],
       "/reference/Petit2019": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Petit2019",
+          "text": "Petit2019"
+        },
         {
           "source": "/note/note-on-Henriques2013",
           "target": "/reference/Petit2019",
           "text": "Petit2019"
         }
       ],
+      "/reference/Petit2019a": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Petit2019a",
+          "text": "Petit2019a"
+        }
+      ],
       "/reference/Piaget1967": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Piaget1967",
           "text": "Piaget1967"
         }
@@ -3602,6 +4249,11 @@
           "text": "Polanyi1962"
         },
         {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Polanyi1962",
+          "text": "Polanyi1962"
+        },
+        {
           "source": "/note/note-on-Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
@@ -3615,6 +4267,13 @@
           "source": "/reference/Polanyi1962",
           "target": "/reference/Polanyi1962",
           "text": "Polanyi1962"
+        }
+      ],
+      "/reference/Rip1994": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Rip1994",
+          "text": "Rip1994"
         }
       ],
       "/reference/Roli2022": [
@@ -3631,7 +4290,7 @@
       ],
       "/reference/Rosen1991": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Rosen1991",
           "text": "Rosen1991"
         }
@@ -3657,6 +4316,13 @@
           "text": "Ruiz-Mirazo2004"
         }
       ],
+      "/reference/Sandstrom2018": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Sandstrom2018",
+          "text": "Sandstrom2018"
+        }
+      ],
       "/reference/Schrodinger1944": [
         {
           "source": "/concept/Brillouins-relation-between-entropy-and-information",
@@ -3679,12 +4345,12 @@
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/note-on-Longo2012",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         },
         {
-          "source": "/note/note-on-Longo2012",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         }
@@ -3735,9 +4401,52 @@
           "text": "Soto2016"
         }
       ],
+      "/reference/Soto2021": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        }
+      ],
+      "/reference/Soto2021a": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021a",
+          "text": "Soto2021a"
+        }
+      ],
+      "/reference/Stephan2015": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stephan2015",
+          "text": "Stephan2015"
+        }
+      ],
+      "/reference/Stiegler2016": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Stiegler2016",
+          "text": "Stiegler2016"
+        }
+      ],
       "/reference/Stiegler2020": [
         {
           "source": "/PhD-project",
+          "target": "/reference/Stiegler2020",
+          "text": "Stiegler2020"
+        },
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
         }
@@ -3761,6 +4470,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
+        }
+      ],
+      "/reference/Trebino2009a": [
+        {
+          "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Trebino2009a",
+          "text": "Trebino2009a"
         }
       ],
       "/reference/Turing1936": [
@@ -3796,21 +4512,21 @@
       ],
       "/reference/VonBertalanffy1952": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/VonBertalanffy1952",
           "text": "VonBertalanffy1952"
         }
       ],
       "/reference/Waddington1968": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Waddington1968",
           "text": "Waddington1968"
         }
       ],
       "/reference/Weiss1968": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Weiss1968",
           "text": "Weiss1968"
         }
@@ -3841,7 +4557,7 @@
       ],
       "/reference/Wiener1948": [
         {
-          "source": "/note/history-of-self-determination",
+          "source": "/note/pre-note-on-the-organicist-tradition",
           "target": "/reference/Wiener1948",
           "text": "Wiener1948"
         }
@@ -4862,79 +5578,324 @@
       "text": "taxonomy"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Kant1790",
-      "text": "Kant1790"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Grothendieck1972",
+      "text": "Grothendieck1972"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Bernard1865",
-      "text": "Bernard1865"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Bernard1879",
-      "text": "Bernard1879"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Stiegler2020",
+      "text": "Stiegler2020"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Cannon1929",
-      "text": "Cannon1929"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Soto2021a",
+      "text": "Soto2021a"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Schrodinger1944",
-      "text": "Schrodinger1944"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Montevil2021b",
+      "text": "Montevil2021b"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/VonBertalanffy1952",
-      "text": "VonBertalanffy1952"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/OECD2021",
+      "text": "OECD2021"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Wiener1948",
-      "text": "Wiener1948"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Boudreau2016",
+      "text": "Boudreau2016"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Ashby1957",
-      "text": "Ashby1957"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Weiss1968",
-      "text": "Weiss1968"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Waddington1968",
-      "text": "Waddington1968"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Piaget1967",
-      "text": "Piaget1967"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Muthukrishna2019",
+      "text": "Muthukrishna2019"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Maturana1973",
-      "text": "Maturana1973"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Rosen1991",
-      "text": "Rosen1991"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Polanyi1962",
+      "text": "Polanyi1962"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Atkins1984",
-      "text": "Atkins1984"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Henriques2013",
+      "text": "Henriques2013"
     },
     {
-      "source": "/note/history-of-self-determination",
-      "target": "/reference/Kauffman2000",
-      "text": "Kauffman2000"
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Godin2020",
+      "text": "Godin2020"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Rip1994",
+      "text": "Rip1994"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Elzinga1997",
+      "text": "Elzinga1997"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Blok2015a",
+      "text": "Blok2015a"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Petit2019",
+      "text": "Petit2019"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Nedeva2006",
+      "text": "Nedeva2006"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Davies2006",
+      "text": "Davies2006"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Mirowski2011",
+      "text": "Mirowski2011"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Petit2019a",
+      "text": "Petit2019a"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Arora2018",
+      "text": "Arora2018"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Maxmen2019",
+      "text": "Maxmen2019"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Hayek1979",
+      "text": "Hayek1979"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Lazebnik2018",
+      "text": "Lazebnik2018"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Mirowski2012",
+      "text": "Mirowski2012"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Anderson2007",
+      "text": "Anderson2007"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Chavalarias2016",
+      "text": "Chavalarias2016"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Sandstrom2018",
+      "text": "Sandstrom2018"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Hill2020",
+      "text": "Hill2020"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Fang2012",
+      "text": "Fang2012"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Edwards2017",
+      "text": "Edwards2017"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Demeritt2000",
+      "text": "Demeritt2000"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/McNie2007",
+      "text": "McNie2007"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Hayek1945",
+      "text": "Hayek1945"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Paic2019",
+      "text": "Paic2019"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Laillier2022",
+      "text": "Laillier2022"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Giry2022",
+      "text": "Giry2022"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Merton1957",
+      "text": "Merton1957"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Stephan2015",
+      "text": "Stephan2015"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Audetat2015",
+      "text": "Audetat2015"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Koppl2015",
+      "text": "Koppl2015"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Chu2021",
+      "text": "Chu2021"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Fire2019",
+      "text": "Fire2019"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Trebino2009a",
+      "text": "Trebino2009a"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Nicholson2021",
+      "text": "Nicholson2021"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Park2023",
+      "text": "Park2023"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Alombert2021",
+      "text": "Alombert2021"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Castoriadis1975",
+      "text": "Castoriadis1975"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Stiegler2016",
+      "text": "Stiegler2016"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Canguilhem1992a",
+      "text": "Canguilhem1992a"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Doudna2017",
+      "text": "Doudna2017"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Longo2021",
+      "text": "Longo2021"
+    },
+    {
+      "source": "/note/draft-on-the-decline-of-theorization-in-science",
+      "target": "/reference/Lacetera2011",
+      "text": "Lacetera2011"
     },
     {
       "source": "/note/note-on-Hayek1945",
@@ -5247,6 +6208,56 @@
       "text": "Jakkaraju2003"
     },
     {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/note/pre-note-on-the-organicist-tradition",
+      "text": "pre-note on the organicist tradition"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/concept/biological-process",
+      "text": "biological process"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/concept/biological-constraint",
+      "text": "biological constraint"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/definition/dependence-between-constraints",
+      "text": "dependence between constraints"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/concept/closure-of-constraints",
+      "text": "closure of constraints"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/concept/biological-function",
+      "text": "biological function"
+    },
+    {
+      "source": "/note/note-on-Montevil2015",
+      "target": "/reference/Montevil2015",
+      "text": "Montevil2015"
+    },
+    {
       "source": "/note/note-on-Montevil2016-and-Montevil2022a",
       "target": "/reference/Montevil2016",
       "text": "Montevil2016"
@@ -5278,13 +6289,13 @@
     },
     {
       "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-      "target": "/note/note-on-Mont%C3%A9vil2019a",
-      "text": "note on Montévil2019a"
+      "target": "/note/note-on-Montevil2019a",
+      "text": "note on Montevil2019a"
     },
     {
       "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-      "target": "/reference/Montevil2022a",
-      "text": "Montevil2022a"
+      "target": "/reference/Montevil2020",
+      "text": "Montevil2020"
     },
     {
       "source": "/note/note-on-Montevil2016-and-Montevil2022a",
@@ -5312,92 +6323,42 @@
       "text": "biological function"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/reference/Montevil2015",
-      "text": "Montevil2015"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/note/history-of-self-determination",
-      "text": "history of self-determination"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/concept/biological-process",
-      "text": "biological process"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/concept/biological-constraint",
-      "text": "biological constraint"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/definition/dependence-between-constraints",
-      "text": "dependence between constraints"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/concept/closure-of-constraints",
-      "text": "closure of constraints"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/concept/closure-of-constraints",
-      "text": "closure of constraints"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/concept/closure-of-constraints",
-      "text": "closure of constraints"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/concept/biological-function",
-      "text": "biological function"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2015",
-      "target": "/reference/Montevil2015",
-      "text": "Montevil2015"
-    },
-    {
-      "source": "/note/note-on-Monte%CC%81vil2019a",
+      "source": "/note/note-on-Montevil2019a",
       "target": "/reference/Montevil2019a",
       "text": "Montevil2019a"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2019a",
+      "source": "/note/note-on-Montevil2019a",
       "target": "/concept/novelty",
       "text": "novelty"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2019a",
+      "source": "/note/note-on-Montevil2019a",
       "target": "/concept/new-possibility",
       "text": "new possibility"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2019a",
+      "source": "/note/note-on-Montevil2019a",
       "target": "/concept/novelty",
       "text": "novelty"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2019a",
+      "source": "/note/note-on-Montevil2019a",
       "target": "/concept/new-possibility",
       "text": "new possibility"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2021",
+      "source": "/note/note-on-Montevil2021",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2021",
+      "source": "/note/note-on-Montevil2021",
       "target": "/concept/scientific-positivism",
       "text": "scientific positivism"
     },
     {
-      "source": "/note/note-on-Monte%CC%81vil2021",
+      "source": "/note/note-on-Montevil2021",
       "target": "/reference/Morin1982",
       "text": "Morin1982"
     },
@@ -5408,8 +6369,8 @@
     },
     {
       "source": "/note/note-on-Mossio2014",
-      "target": "/note/history-of-self-determination",
-      "text": "history of self-determination"
+      "target": "/note/pre-note-on-the-organicist-tradition",
+      "text": "pre-note on the organicist tradition"
     },
     {
       "source": "/note/note-on-Mossio2014",
@@ -5530,6 +6491,81 @@
       "source": "/note/note-on-Rovelli2017",
       "target": "/definition/entropy",
       "text": "entropy"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Kant1790",
+      "text": "Kant1790"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Bernard1865",
+      "text": "Bernard1865"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Bernard1879",
+      "text": "Bernard1879"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Cannon1929",
+      "text": "Cannon1929"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/VonBertalanffy1952",
+      "text": "VonBertalanffy1952"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Wiener1948",
+      "text": "Wiener1948"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Ashby1957",
+      "text": "Ashby1957"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Weiss1968",
+      "text": "Weiss1968"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Waddington1968",
+      "text": "Waddington1968"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Piaget1967",
+      "text": "Piaget1967"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Maturana1973",
+      "text": "Maturana1973"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Rosen1991",
+      "text": "Rosen1991"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Atkins1984",
+      "text": "Atkins1984"
+    },
+    {
+      "source": "/note/pre-note-on-the-organicist-tradition",
+      "target": "/reference/Kauffman2000",
+      "text": "Kauffman2000"
     },
     {
       "source": "/reference/Polanyi1962",

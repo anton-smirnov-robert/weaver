@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/concept.md",
+                "file": "note/draft on the decline of theorization in science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/concept.md",
+                "file": "note/draft on the decline of theorization in science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/concept.md",
+                "file": "note/draft on the decline of theorization in science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/concept.md"
+                "file": "note/draft on the decline of theorization in science.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "note/pre-note on the organicist tradition.md",
+    "note/draft on the decline of theorization in science.md",
+    "note/note on Montevil2019a.md",
+    "note/note on Montevil2016 and Montevil2022a.md",
+    "note/note on Montevil2015.md",
+    "note/note on Montevil2021.md",
+    "templates/concept.md",
     "templates/definition.md",
     "templates/note.md",
-    "note/note on Montevil2016 and Montevil2022a.md",
     "Anton Robert.md",
     "PhD project.md",
     "PhD project_french.md",
@@ -168,12 +174,6 @@
     "definition/recursive function.md",
     "definition/prion.md",
     "definition/predicate.md",
-    "definition/molecular chaperon.md",
-    "definition/metabolite.md",
-    "definition/mammal.md",
-    "definition/Groupe des Dix.md",
-    "definition/ISC-PIF.md",
-    "definition/glycemia.md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",

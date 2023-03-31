@@ -1,5 +1,5 @@
 ---
-title: "history of self-determination"
+title: "pre-note on the organicist tradition"
 date: 2023-01-17
 draft: false
 showthedate: true

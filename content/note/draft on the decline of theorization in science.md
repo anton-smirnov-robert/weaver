@@ -1,14 +1,15 @@
 ---
-title: "(v1.1) Le déclin de la théorisation en sciences"
+title: "draft on the decline of theorization in science"
 date: 2023-02-14
 draft: false
 showthedate: true
 enabletoc: true
-draft: true
+draft: false
 tags:
-- writing
+- literature-note
 ---
 
+==**French version**== 
 
 ## Résumé
 

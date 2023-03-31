@@ -9,7 +9,7 @@ tags:
 - literature-note
 ---
 
-#### **Possibility spaces and the notion of novelty: from music to biology**     
+## **Possibility spaces and the notion of novelty: from music to biology**     
 by Montévil M. (2019)         
 *Synthese* 196: 4555-4581       
 

@@ -15,7 +15,7 @@ by Mossio M., Bich L. (2014)
 
 Reference: [Mossio2014](reference/Mossio2014.md)
 
-First, a brief [history of self-determination](note/history%20of%20self-determination.md).
+First, a brief [pre-note on the organicist tradition](note/pre-note%20on%20the%20organicist%20tradition.md).
 
 Teleological organization means that the activity of the organization is oriented towards an end (see also [mechanistic organization](concept/mechanistic%20organization.md)). It has a *telos* in contrasts to physical systems. It can be extrinsic (for artefacts) and intrinsic for biological systems. The telos of biological systems is to establish and maintain their own conditions of existence. 
 
