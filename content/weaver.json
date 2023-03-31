@@ -11088,6 +11088,59 @@
       "select": "zotero://select/library/items/6NHCR8DU"
     },
     {
+      "key": "XAUGPCMT",
+      "version": 0,
+      "itemType": "bookSection",
+      "url": "http://link.springer.com/10.1007/978-1-4939-7456-6_4",
+      "volume": "1702",
+      "place": "New York, NY",
+      "publisher": "Springer New York",
+      "pages": "41-55",
+      "ISBN": "978-1-4939-7455-9 978-1-4939-7456-6",
+      "date": "2018",
+      "extra": "Series Title: Methods in Molecular Biology\nDOI: 10.1007/978-1-4939-7456-6_4",
+      "accessDate": "2023-03-31T14:43:50Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "title": "A Primer on Mathematical Modeling in the Study of Organisms and Their Parts",
+      "creators": [
+        {
+          "firstName": "Mariano",
+          "lastName": "Bizzarri",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Ma\u00ebl",
+          "lastName": "Mont\u00e9vil",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-31T14:43:50Z",
+      "dateModified": "2023-03-31T14:43:50Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XAUGPCMT",
+      "itemID": 7278,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-31T14:43:57Z",
+          "dateModified": "2023-03-31T14:43:57Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/DGEYC944",
+          "path": "/Users/robert/Dropbox/zotero/storage/DGEYC944/Mont\u00e9vil - 2018 - A Primer on Mathematical Modeling in the Study of .pdf",
+          "select": "zotero://select/library/items/DGEYC944"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Montevil2018",
+      "itemKey": "XAUGPCMT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XAUGPCMT",
+      "publicationTitle": "Systems Biology"
+    },
+    {
       "key": "NVDHTXQT",
       "version": 0,
       "itemType": "journalArticle",
