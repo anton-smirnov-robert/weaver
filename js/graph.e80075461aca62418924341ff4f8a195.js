@@ -115,7 +115,19 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         .id((d) => d.id)
         .distance(linkDistance),
     )
-    .force("center", d3.forceCenter())
+    .force("center", d3.forceCenter(0,0).strength(centerForce))
+    .force('collision', d3.forceCollide().radius( function getRadius(d) {
+
+    const numOut = index.links[d.id]?.length || 0
+    const numIn = index.backlinks[d.id]?.length || 0
+    if (d.id === curPage || (d.id === "/" && curPage === "")) {
+      return 15
+    }
+   // if ( d.id == "/Where-am-I" ) { return 10 }
+   // if ( d.id == "/Anton-Robert" ) { return 10 }
+   // if ( d.id == "/about-the-website" ) { return 5 } 
+    return 2 + Math.sqrt(numOut + numIn)
+  }  ))
 
   const svg = d3
     .select("#graph-container")
@@ -168,10 +180,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     if (d.id === curPage || (d.id === "/" && curPage === "")) {
       return 15
     }
-    if ( d.id == "/Where-am-I" ) { return 10 }
-    if ( d.id == "/About-me" ) { return 10 }
-    if ( d.id == "/about-the-website" ) { return 5 }
-    if ( d.id == "/manifesto" ) { return 5 }
+   // if ( d.id == "/Where-am-I" ) { return 10 }
+   // if ( d.id == "/Anton-Robert" ) { return 10 }
+   // if ( d.id == "/about-the-website" ) { return 5 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 
