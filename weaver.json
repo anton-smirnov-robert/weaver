@@ -12712,6 +12712,71 @@
       "select": "zotero://select/library/items/E6XC53IZ"
     },
     {
+      "key": "ACVHQIJ2",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsta.2009.0245",
+      "volume": "368",
+      "issue": "1914",
+      "pages": "1125-1139",
+      "publicationTitle": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+      "date": "2010-03-13",
+      "extra": "Publisher: Royal Society",
+      "DOI": "10.1098/rsta.2009.0245",
+      "accessDate": "2023-03-31T14:51:43Z",
+      "libraryCatalog": "royalsocietypublishing.org (Atypon)",
+      "abstractNote": "Biophysics at the systems level, as distinct from molecular biophysics, acquired its most famous paradigm in the work of Hodgkin and Huxley, who integrated their equations for the nerve impulse in 1952. Their approach has since been extended to other organs of the body, notably including the heart. The modern field of computational biology has expanded rapidly during the first decade of the twenty-first century and, through its contribution to what is now called systems biology, it is set to revise many of the fundamental principles of biology, including the relations between genotypes and phenotypes. Evolutionary theory, in particular, will require re-assessment. To succeed in this, computational and systems biology will need to develop the theoretical framework required to deal with multilevel interactions. While computational power is necessary, and is forthcoming, it is not sufficient. We will also require mathematical insight, perhaps of a nature we have not yet identified. This article is therefore also a challenge to mathematicians to develop such insights.",
+      "title": "Biophysics and systems biology",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "cell biophysics",
+          "type": 1
+        },
+        {
+          "tag": "computational biology",
+          "type": 1
+        },
+        {
+          "tag": "mathematical biology",
+          "type": 1
+        },
+        {
+          "tag": "systems biology",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-03-31T14:51:43Z",
+      "dateModified": "2023-03-31T14:51:43Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ACVHQIJ2",
+      "itemID": 7280,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-31T14:51:44Z",
+          "dateModified": "2023-03-31T14:51:44Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/4DT8EBW6",
+          "path": "/Users/robert/Dropbox/zotero/storage/4DT8EBW6/Noble - 2010 - Biophysics and systems biology.pdf",
+          "select": "zotero://select/library/items/4DT8EBW6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2010",
+      "itemKey": "ACVHQIJ2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ACVHQIJ2"
+    },
+    {
       "key": "FLLSXNPK",
       "version": 0,
       "itemType": "journalArticle",
