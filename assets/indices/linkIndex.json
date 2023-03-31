@@ -9,11 +9,6 @@
         },
         {
           "source": "/Anton-Robert",
-          "target": "/PhD-project_french",
-          "text": "here"
-        },
-        {
-          "source": "/Anton-Robert",
           "target": "/Where-am-I",
           "text": "Where am I?"
         },
@@ -193,176 +188,174 @@
           "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
-        }
-      ],
-      "/PhD-project_french": [
+        },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Roli2022",
           "text": "Roli2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Bailly2011",
           "text": "Bailly2011"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Noble2015",
           "text": "Noble2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Moreno2015",
           "text": "Moreno2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2021a",
           "text": "Montevil2021a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Lotka1945",
           "text": "Lotka1945"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992b",
           "text": "Canguilhem1992b"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2016b",
           "text": "Montevil2016b"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Glade2015",
           "text": "Glade2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Varenne2013",
           "text": "Varenne2013"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2019",
           "text": "Montevil2019"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         }
@@ -1610,6 +1603,73 @@
           "text": "Morin1982"
         }
       ],
+      "/note/note-on-Montevil2016-and-Montevil2022a": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/VanFraassen1989",
+          "text": "VanFraassen1989"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/note/note-on-Mont%C3%A9vil2019a",
+          "text": "note on Montévil2019a"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Darwin1859",
+          "text": "Darwin1859"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Beatty1995",
+          "text": "Beatty1995"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Gould2002",
+          "text": "Gould2002"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/concept/biological-function",
+          "text": "biological function"
+        }
+      ],
       "/note/note-on-Mossio2014": [
         {
           "source": "/note/note-on-Mossio2014",
@@ -1769,13 +1829,6 @@
           "source": "/Anton-Robert",
           "target": "/PhD-project",
           "text": "PhD project"
-        }
-      ],
-      "/PhD-project_french": [
-        {
-          "source": "/Anton-Robert",
-          "target": "/PhD-project_french",
-          "text": "here"
         }
       ],
       "/Where-am-I": [
@@ -2026,6 +2079,11 @@
       "/concept/biological-function": [
         {
           "source": "/concept/new-possibility",
+          "target": "/concept/biological-function",
+          "text": "biological function"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/concept/biological-function",
           "text": "biological function"
         },
@@ -2569,6 +2627,13 @@
           "text": "note on Longo2012"
         }
       ],
+      "/note/note-on-Mont%C3%A9vil2019a": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/note/note-on-Mont%C3%A9vil2019a",
+          "text": "note on Montévil2019a"
+        }
+      ],
       "/personal-story": [
         {
           "source": "/Anton-Robert",
@@ -2611,9 +2676,16 @@
           "text": "Bailly2011"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Bailly2011",
           "text": "Bailly2011"
+        }
+      ],
+      "/reference/Beatty1995": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Beatty1995",
+          "text": "Beatty1995"
         }
       ],
       "/reference/Bernard1865": [
@@ -2642,12 +2714,12 @@
           "text": "Bich2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Bich2020",
           "text": "Bich2020"
         }
@@ -2741,12 +2813,12 @@
           "text": "Canguilhem1992a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992a",
           "text": "Canguilhem1992a"
         }
@@ -2758,7 +2830,7 @@
           "text": "Canguilhem1992b"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Canguilhem1992b",
           "text": "Canguilhem1992b"
         }
@@ -2789,6 +2861,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Danchin2002",
           "text": "Danchin2002"
+        }
+      ],
+      "/reference/Darwin1859": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Darwin1859",
+          "text": "Darwin1859"
         }
       ],
       "/reference/Davies2006": [
@@ -2824,7 +2903,7 @@
           "text": "Doudna2017"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Doudna2017",
           "text": "Doudna2017"
         },
@@ -2869,7 +2948,7 @@
           "text": "Glade2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Glade2015",
           "text": "Glade2015"
         }
@@ -2886,12 +2965,12 @@
           "text": "Glade2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Glade2022",
           "text": "Glade2022"
         }
@@ -2901,6 +2980,13 @@
           "source": "/concept/biological-function",
           "target": "/reference/Godfrey-Smith1994",
           "text": "Godfrey-Smith1994"
+        }
+      ],
+      "/reference/Gould2002": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Gould2002",
+          "text": "Gould2002"
         }
       ],
       "/reference/Hamilton1964": [
@@ -2993,12 +3079,17 @@
           "text": "Kauffman2019"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
+          "target": "/reference/Kauffman2019",
+          "text": "Kauffman2019"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         }
@@ -3031,7 +3122,7 @@
           "text": "Laland2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Laland2015",
           "text": "Laland2015"
         },
@@ -3077,7 +3168,7 @@
           "text": "Longo2012"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Longo2012",
           "text": "Longo2012"
         },
@@ -3092,6 +3183,13 @@
           "text": "Longo2012"
         }
       ],
+      "/reference/Longo2014": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
+        }
+      ],
       "/reference/Longo2021": [
         {
           "source": "/PhD-project",
@@ -3099,7 +3197,7 @@
           "text": "Longo2021"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Longo2021",
           "text": "Longo2021"
         },
@@ -3116,7 +3214,7 @@
           "text": "Lotka1945"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Lotka1945",
           "text": "Lotka1945"
         }
@@ -3187,7 +3285,7 @@
           "text": "Montevil2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
@@ -3222,6 +3320,18 @@
           "text": "Montevil2015"
         }
       ],
+      "/reference/Montevil2016": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        }
+      ],
       "/reference/Montevil2016b": [
         {
           "source": "/PhD-project",
@@ -3229,7 +3339,7 @@
           "text": "Montevil2016b"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2016b",
           "text": "Montevil2016b"
         }
@@ -3241,7 +3351,7 @@
           "text": "Montevil2019"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2019",
           "text": "Montevil2019"
         }
@@ -3253,7 +3363,12 @@
           "text": "Montevil2019a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2019a",
+          "text": "Montevil2019a"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         },
@@ -3270,7 +3385,12 @@
           "text": "Montevil2020"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         }
@@ -3282,7 +3402,7 @@
           "text": "Montevil2020a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         }
@@ -3301,7 +3421,7 @@
           "text": "Montevil2021a"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2021a",
           "text": "Montevil2021a"
         }
@@ -3323,19 +3443,26 @@
           "text": "Montevil2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Montevil2022",
           "text": "Montevil2022"
+        }
+      ],
+      "/reference/Montevil2022a": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/Montevil2022a",
+          "text": "Montevil2022a"
         }
       ],
       "/reference/Moreno2015": [
@@ -3345,7 +3472,7 @@
           "text": "Moreno2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Moreno2015",
           "text": "Moreno2015"
         }
@@ -3414,7 +3541,7 @@
           "text": "Noble2015"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Noble2015",
           "text": "Noble2015"
         }
@@ -3497,7 +3624,7 @@
           "text": "Roli2022"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Roli2022",
           "text": "Roli2022"
         }
@@ -3598,19 +3725,19 @@
           "text": "Soto2016"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Soto2016",
           "text": "Soto2016"
         }
       ],
       "/reference/Stiegler2020": [
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Stiegler2020",
           "text": "Stiegler2020"
         }
@@ -3648,6 +3775,13 @@
           "text": "Turing1936"
         }
       ],
+      "/reference/VanFraassen1989": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "target": "/reference/VanFraassen1989",
+          "text": "VanFraassen1989"
+        }
+      ],
       "/reference/Varenne2013": [
         {
           "source": "/PhD-project",
@@ -3655,7 +3789,7 @@
           "text": "Varenne2013"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/Varenne2013",
           "text": "Varenne2013"
         }
@@ -3688,7 +3822,7 @@
           "text": "West-Eberhard2003"
         },
         {
-          "source": "/PhD-project_french",
+          "source": "/PhD-project",
           "target": "/reference/West-Eberhard2003",
           "text": "West-Eberhard2003"
         },
@@ -3726,11 +3860,6 @@
       "source": "/Anton-Robert",
       "target": "/PhD-project",
       "text": "PhD project"
-    },
-    {
-      "source": "/Anton-Robert",
-      "target": "/PhD-project_french",
-      "text": "here"
     },
     {
       "source": "/Anton-Robert",
@@ -3913,172 +4042,172 @@
       "text": "Montevil2022"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Canguilhem1992a",
       "text": "Canguilhem1992a"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Doudna2017",
       "text": "Doudna2017"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Longo2021",
       "text": "Longo2021"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Canguilhem1992a",
       "text": "Canguilhem1992a"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Longo2012",
       "text": "Longo2012"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Roli2022",
       "text": "Roli2022"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Glade2022",
       "text": "Glade2022"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/West-Eberhard2003",
       "text": "West-Eberhard2003"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Laland2015",
       "text": "Laland2015"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2015",
       "text": "Montevil2015"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Kauffman2019",
       "text": "Kauffman2019"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Bailly2011",
       "text": "Bailly2011"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Noble2015",
       "text": "Noble2015"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Soto2016",
       "text": "Soto2016"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Kauffman2019",
       "text": "Kauffman2019"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Soto2016",
       "text": "Soto2016"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Moreno2015",
       "text": "Moreno2015"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2020",
       "text": "Montevil2020"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2019a",
       "text": "Montevil2019a"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2022",
       "text": "Montevil2022"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2021a",
       "text": "Montevil2021a"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Lotka1945",
       "text": "Lotka1945"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Canguilhem1992b",
       "text": "Canguilhem1992b"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Stiegler2020",
       "text": "Stiegler2020"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Glade2022",
       "text": "Glade2022"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2016b",
       "text": "Montevil2016b"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Bich2020",
       "text": "Bich2020"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2022",
       "text": "Montevil2022"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Glade2015",
       "text": "Glade2015"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Varenne2013",
       "text": "Varenne2013"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2020a",
       "text": "Montevil2020a"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Bich2020",
       "text": "Bich2020"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2019",
       "text": "Montevil2019"
     },
     {
-      "source": "/PhD-project_french",
+      "source": "/PhD-project",
       "target": "/reference/Montevil2022",
       "text": "Montevil2022"
     },
@@ -5116,6 +5245,71 @@
       "source": "/note/note-on-Longo2012",
       "target": "/reference/Jakkaraju2003",
       "text": "Jakkaraju2003"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Montevil2016",
+      "text": "Montevil2016"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Montevil2020",
+      "text": "Montevil2020"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Longo2014",
+      "text": "Longo2014"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/VanFraassen1989",
+      "text": "VanFraassen1989"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Kauffman2019",
+      "text": "Kauffman2019"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Montevil2019a",
+      "text": "Montevil2019a"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/note/note-on-Mont%C3%A9vil2019a",
+      "text": "note on Montévil2019a"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Montevil2022a",
+      "text": "Montevil2022a"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Montevil2016",
+      "text": "Montevil2016"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Darwin1859",
+      "text": "Darwin1859"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Beatty1995",
+      "text": "Beatty1995"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/reference/Gould2002",
+      "text": "Gould2002"
+    },
+    {
+      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "target": "/concept/biological-function",
+      "text": "biological function"
     },
     {
       "source": "/note/note-on-Monte%CC%81vil2015",

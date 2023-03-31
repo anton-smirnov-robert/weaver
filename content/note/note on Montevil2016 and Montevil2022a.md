@@ -5,9 +5,9 @@ date: 2023-03-24
 draft: false
 showthedate: true
 enabletoc: true
-draft: true
+draft: false
 tags:
-- writing
+- literature-note
 ---
 
 #### **Theoretical principles for biology: Variation**     

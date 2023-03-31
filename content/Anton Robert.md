@@ -9,8 +9,8 @@ Hello!
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
 I'm a **physical chemist** that bifurcates towards **theoretical biology**.   
-You can take a look at my [PhD project](PhD%20project.md) (in french [here](PhD%20project_french.md)).  
-Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>
+You can take a look at my [PhD project](PhD%20project.md).  
+Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>.
 
 If you are interested in **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "definition/Santa Fe Institute (SFI).md",
+                "file": "templates/concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "definition/Santa Fe Institute (SFI).md",
+                "file": "templates/concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "definition/Santa Fe Institute (SFI).md",
+                "file": "templates/concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "definition/Santa Fe Institute (SFI).md"
+                "file": "templates/concept.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "templates/definition.md",
+    "templates/note.md",
+    "note/note on Montevil2016 and Montevil2022a.md",
+    "Anton Robert.md",
+    "PhD project.md",
+    "PhD project_french.md",
+    "definition/Santa Fe Institute (SFI).md",
     "definition/backcasting.md",
     "definition/complexity.md",
     "concept/biological process.md",
@@ -167,13 +174,6 @@
     "definition/Groupe des Dix.md",
     "definition/ISC-PIF.md",
     "definition/glycemia.md",
-    "definition/gene product.md",
-    "definition/dependence between constraints.md",
-    "definition/deductive system.md",
-    "definition/abacus.md",
-    "definition/chemotaxis.md",
-    "definition/automaton.md",
-    "definition/arithmetic function.md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",
