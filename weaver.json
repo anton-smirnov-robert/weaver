@@ -5832,6 +5832,43 @@
       "select": "zotero://select/library/items/M7QRGYTW"
     },
     {
+      "key": "S7QUBFBA",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "93",
+      "pages": "47\u201356",
+      "publicationTitle": "Studies in history and philosophy of science",
+      "date": "2022",
+      "extra": "Publisher: Elsevier",
+      "libraryCatalog": "Google Scholar",
+      "title": "Teleology and the organism: Kant's controversial legacy for contemporary biology",
+      "shortTitle": "Teleology and the organism",
+      "creators": [
+        {
+          "firstName": "Andrea",
+          "lastName": "Gambarotto",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Auguste",
+          "lastName": "Nahas",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T10:35:40Z",
+      "dateModified": "2023-04-01T10:35:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/S7QUBFBA",
+      "itemID": 7288,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Gambarotto2022",
+      "itemKey": "S7QUBFBA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/S7QUBFBA"
+    },
+    {
       "key": "6Q99EJKU",
       "version": 0,
       "itemType": "book",
