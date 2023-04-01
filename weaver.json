@@ -12819,6 +12819,69 @@
       "select": "zotero://select/library/items/ACVHQIJ2"
     },
     {
+      "key": "M5VI8FPX",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2010.201384",
+      "rights": "\u00a9 2011 The Author. Journal compilation \u00a9 2011 The Physiological Society",
+      "volume": "589",
+      "issue": "5",
+      "pages": "1007-1015",
+      "publicationTitle": "The Journal of Physiology",
+      "ISSN": "1469-7793",
+      "date": "2011",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1113/jphysiol.2010.201384",
+      "DOI": "10.1113/jphysiol.2010.201384",
+      "accessDate": "2023-04-01T00:30:47Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "abstractNote": "This article argues that the gene-centric interpretations of evolution, and more particularly the selfish gene expression of those interpretations, form barriers to the integration of physiological science with evolutionary theory. A gene-centred approach analyses the relationships between genotypes and phenotypes in terms of differences (change the genotype and observe changes in phenotype). We now know that, most frequently, this does not correctly reveal the relationships because of extensive buffering by robust networks of interactions. By contrast, understanding biological function through physiological analysis requires an integrative approach in which the activity of the proteins and RNAs formed from each DNA template is analysed in networks of interactions. These networks also include components that are not specified by nuclear DNA. Inheritance is not through DNA sequences alone. The selfish gene idea is not useful in the physiological sciences, since selfishness cannot be defined as an intrinsic property of nucleotide sequences independently of gene frequency, i.e. the \u2018success\u2019 in the gene pool that is supposed to be attributable to the \u2018selfish\u2019 property. It is not a physiologically testable hypothesis.",
+      "title": "Neo-Darwinism, the Modern Synthesis and selfish genes: are they of use in physiology?",
+      "shortTitle": "Neo-Darwinism, the Modern Synthesis and selfish genes",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T00:30:47Z",
+      "dateModified": "2023-04-01T00:30:47Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/M5VI8FPX",
+      "itemID": 7283,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T00:30:48Z",
+          "dateModified": "2023-04-01T00:30:48Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ZIPT4AJT",
+          "path": "/Users/robert/Dropbox/zotero/storage/ZIPT4AJT/Noble - 2011 - Neo-Darwinism, the Modern Synthesis and selfish ge.pdf",
+          "select": "zotero://select/library/items/ZIPT4AJT"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T00:30:53Z",
+          "dateModified": "2023-04-01T00:30:53Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/F74DJ5NK",
+          "path": "/Users/robert/Dropbox/zotero/storage/F74DJ5NK/jphysiol.2010.html",
+          "select": "zotero://select/library/items/F74DJ5NK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2011",
+      "itemKey": "M5VI8FPX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M5VI8FPX"
+    },
+    {
       "key": "FLLSXNPK",
       "version": 0,
       "itemType": "journalArticle",
