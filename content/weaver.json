@@ -13375,6 +13375,47 @@
       "select": "zotero://select/library/items/VQ6BA7I4"
     },
     {
+      "key": "IQS6LXWB",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Cambridge University Press",
+      "date": "2016",
+      "libraryCatalog": "Google Scholar",
+      "title": "Dance to the tune of life: Biological relativity",
+      "shortTitle": "Dance to the tune of life",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "Noble",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T17:44:45Z",
+      "dateModified": "2023-04-01T17:44:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/IQS6LXWB",
+      "itemID": 7318,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T17:44:53Z",
+          "dateModified": "2023-04-01T17:44:53Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/4UH9K6YI",
+          "path": "/Users/robert/Dropbox/zotero/storage/4UH9K6YI/books.html",
+          "select": "zotero://select/library/items/4UH9K6YI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Noble2016",
+      "itemKey": "IQS6LXWB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IQS6LXWB"
+    },
+    {
       "key": "JRHXJHMY",
       "version": 0,
       "itemType": "journalArticle",
