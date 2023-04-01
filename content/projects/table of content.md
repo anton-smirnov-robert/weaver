@@ -17,7 +17,7 @@ tags:
 
 #### Current limits and experimental observations. ==(experimental biology)==
 
-- see: Denis Noble, West-Eberhard, Walsh, Kauffman, Rosen, Laland
+- see: Denis Noble, West-Eberhard, Walsh, Kauffman, Rosen, Laland, Denis Walsh, Hunnema
 
 ## **Chapter II** : What sciences should learn from philosophy 
 

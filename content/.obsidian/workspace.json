@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD project.md",
+                "file": "projects/table of content.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +170,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4901790a85c5981d",
+  "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
-    "projects/quotes.md",
+    "PhD project.md",
     "projects/table of content.md",
+    "projects/quotes.md",
     "projects/TODO.md",
     "images/Pasted image 20230331170857.png",
-    "PhD project.md",
     "note/note on Longo2012.md",
     "note/draft on the decline of theorization in science.md",
     "note/pre-note on the organicist tradition.md",
