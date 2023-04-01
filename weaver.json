@@ -14745,6 +14745,46 @@
       "select": "zotero://select/library/items/27I38YYR"
     },
     {
+      "key": "VX26Y6V8",
+      "version": 0,
+      "itemType": "journalArticle",
+      "libraryCatalog": "Zotero",
+      "language": "en",
+      "abstractNote": "This project aims to bring to fruition a theoretical framework that posits nonmechanistic principles for understanding organisms. It proposes to elaborate methods, know-how and generally applicable guidelines that will allow biologists to make these concepts their own, and use them in practice to generate new knowledge. The epistemological question regards the types of knowledge that one can generate with models stemming from theories that emphasize, for example, the irreducible unpredictability of the variation of organisms or the speci\ufb01c circularity of their organization. Oscillating between modeling and critical re\ufb02exivity, this work will mature thanks to methodological experiments that will be the object of scienti\ufb01c publications, and thanks to discussions with several epistemologists concerning the di\ufb03culties (inherent or accidental) encountered along the way. By contributing to the understanding of viable organizational modes of material and functional entities, this interdisciplinary work also grounds relevant concepts to think/heal (p\u00e6nser ) the Anthropocene.",
+      "title": "Research proposal: Methods and epistemological limits of an organicist biology",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T11:00:00Z",
+      "dateModified": "2023-04-01T11:00:00Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/VX26Y6V8",
+      "itemID": 7292,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Robert - Research proposal Methods and epistemological lim.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T10:59:58Z",
+          "dateModified": "2023-04-01T11:00:01Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/K8KIUZEU",
+          "path": "/Users/robert/Dropbox/zotero/storage/K8KIUZEU/Robert - Research proposal Methods and epistemological lim.pdf",
+          "select": "zotero://select/library/items/K8KIUZEU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Robert",
+      "itemKey": "VX26Y6V8",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VX26Y6V8"
+    },
+    {
       "key": "HVDP8HK5",
       "version": 0,
       "itemType": "patent",
