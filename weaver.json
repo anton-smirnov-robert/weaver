@@ -12764,6 +12764,98 @@
       "select": "zotero://select/library/items/FJDJUGX5"
     },
     {
+      "key": "PKBC5UHJ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1369848617300444",
+      "volume": "66",
+      "pages": "73-82",
+      "publicationTitle": "Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences",
+      "ISSN": "1369-8486",
+      "date": "2017-12-01",
+      "journalAbbreviation": "Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences",
+      "DOI": "10.1016/j.shpsc.2017.10.002",
+      "accessDate": "2023-04-01T10:45:03Z",
+      "libraryCatalog": "ScienceDirect",
+      "language": "en",
+      "abstractNote": "The concept of epigenetics has evolved since Waddington defined it from the late 1930s as the study of the causal mechanisms at work in development. It has become a multi-faceted notion with different meanings, depending on the disciplinary context it is used. In this article, we first analyse the transformations of the concept of epigenetics, from Waddington to contemporary accounts, in order to identify its different meanings and traditions, and to come up with a typology of epigenetics throughout its history. Second, we show on this basis that epigenetics has progressively turned its main focus from biological problems regarding development, toward issues concerning evolution. Yet, both these different epistemological aspects of epigenetics still coexist. Third, we claim that the classical opposition between epigenesis and preformationism as ways of thinking about the developmental process is part of the history of epigenetics and has contributed to its current various meanings. With these objectives in mind, we first show how Waddington introduced the term \u201cepigenetics\u201d in a biological context in order to solve a developmental problem, and we then build on this by presenting Nanney's, Riggs' and Holliday's definitions, which form the basis for the current conception of \u201cmolecular epigenetics\u201d. Then, we show that the evo-devo research field is where some particular uses of epigenetics have started shifting from developmental issues to evolutionary problems. We also show that epigenetics has progressively focused on the issue of epigenetic inheritance within the Extended Evolutionary Synthesis' framework. Finally, we conclude by presenting a typology of the different conceptions of epigenetics throughout time, and analyse the connections between them. We argue that, since Waddington, epigenetics, as an integrative research area, has been used to bridge the gap between different biological fields.",
+      "title": "Epigenetics: A way to bridge the gap between biological fields",
+      "shortTitle": "Epigenetics",
+      "creators": [
+        {
+          "firstName": "Antonine",
+          "lastName": "Nicoglou",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Francesca",
+          "lastName": "Merlin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Concepts of epigenetics",
+          "type": 1
+        },
+        {
+          "tag": "Development",
+          "type": 1
+        },
+        {
+          "tag": "Embryology and genetics",
+          "type": 1
+        },
+        {
+          "tag": "Epigenetic inheritance",
+          "type": 1
+        },
+        {
+          "tag": "Epigenetics",
+          "type": 1
+        },
+        {
+          "tag": "Evo-devo",
+          "type": 1
+        },
+        {
+          "tag": "Molecular biology",
+          "type": 1
+        },
+        {
+          "tag": "Nanney",
+          "type": 1
+        },
+        {
+          "tag": "Waddington",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-04-01T10:45:03Z",
+      "dateModified": "2023-04-01T10:45:03Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/PKBC5UHJ",
+      "itemID": 7289,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T10:45:14Z",
+          "dateModified": "2023-04-01T10:45:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GRKNLNCK",
+          "path": "/Users/robert/Dropbox/zotero/storage/GRKNLNCK/S1369848617300444.html",
+          "select": "zotero://select/library/items/GRKNLNCK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Nicoglou2017",
+      "itemKey": "PKBC5UHJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PKBC5UHJ"
+    },
+    {
       "key": "E6XC53IZ",
       "version": 0,
       "itemType": "journalArticle",
