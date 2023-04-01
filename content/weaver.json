@@ -5909,6 +5909,57 @@
       "select": "zotero://select/library/items/6Q99EJKU"
     },
     {
+      "key": "QHHN7Y45",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "University of Chicago press",
+      "date": "2019",
+      "libraryCatalog": "Google Scholar",
+      "title": "Scientific perspectivism",
+      "creators": [
+        {
+          "firstName": "Ronald N.",
+          "lastName": "Giere",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T23:31:05Z",
+      "dateModified": "2023-04-01T23:31:05Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/QHHN7Y45",
+      "itemID": 7320,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Giere - 2019 - Scientific perspectivism.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T23:33:14Z",
+          "dateModified": "2023-04-01T23:33:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/44UCMTQ8",
+          "path": "/Users/robert/Dropbox/zotero/storage/44UCMTQ8/Giere - 2019 - Scientific perspectivism.pdf",
+          "select": "zotero://select/library/items/44UCMTQ8"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T23:31:32Z",
+          "dateModified": "2023-04-01T23:31:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/SP3EDKNA",
+          "path": "/Users/robert/Dropbox/zotero/storage/SP3EDKNA/html.html",
+          "select": "zotero://select/library/items/SP3EDKNA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Giere2019",
+      "itemKey": "QHHN7Y45",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/QHHN7Y45"
+    },
+    {
       "key": "ZL34ISS5",
       "version": 0,
       "itemType": "book",
