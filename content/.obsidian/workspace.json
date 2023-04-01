@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD project.md",
+                "file": "projects/table of content.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD project.md",
+                "file": "projects/table of content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD project.md",
+                "file": "projects/table of content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD project.md"
+                "file": "projects/table of content.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
-    "PhD project_french.md",
     "PhD project.md",
+    "PhD project_french.md",
     "projects/TODO.md",
     "Sans titre.md",
     "projects/table of content.md",

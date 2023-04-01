@@ -31,6 +31,7 @@ tags:
 #### The need of a dialogue, and the interdisciplinarity question ==(sociology of science)==
 
 - Interdisciplinarity,bridging conceptual thinkers and practical modelers (commensurability)
+- Agree on what is science ? The fact that you plaay by the rules that you fix yourself. 
 
 ## Chapter III : Towards an organicist theory in biology
 
