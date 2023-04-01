@@ -7365,6 +7365,52 @@
       "select": "zotero://select/library/items/4ZEY47GH"
     },
     {
+      "key": "YE7E8HVR",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Oxford University Press",
+      "date": "2017",
+      "libraryCatalog": "Google Scholar",
+      "title": "Challenging the modern synthesis: Adaptation, development, and inheritance",
+      "shortTitle": "Challenging the modern synthesis",
+      "creators": [
+        {
+          "firstName": "Philippe",
+          "lastName": "Huneman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Denis M.",
+          "lastName": "Walsh",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T10:12:07Z",
+      "dateModified": "2023-04-01T10:12:07Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YE7E8HVR",
+      "itemID": 7286,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T10:12:31Z",
+          "dateModified": "2023-04-01T10:12:31Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GDEWAE53",
+          "path": "/Users/robert/Dropbox/zotero/storage/GDEWAE53/books.html",
+          "select": "zotero://select/library/items/GDEWAE53"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Huneman2017",
+      "itemKey": "YE7E8HVR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YE7E8HVR"
+    },
+    {
       "key": "6EEFK46G",
       "version": 0,
       "itemType": "newspaperArticle",
