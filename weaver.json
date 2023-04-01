@@ -90,7 +90,7 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": true,
+      "keepUpdated": false,
       "worker": true
     }
   },
@@ -7237,6 +7237,99 @@
       "itemKey": "33CCB3XQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/33CCB3XQ"
+    },
+    {
+      "key": "9RYKNPPH",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0303264721001167",
+      "volume": "207",
+      "pages": "104463",
+      "publicationTitle": "Biosystems",
+      "ISSN": "0303-2647",
+      "date": "2021-09-01",
+      "journalAbbreviation": "Biosystems",
+      "DOI": "10.1016/j.biosystems.2021.104463",
+      "accessDate": "2023-04-01T14:24:39Z",
+      "libraryCatalog": "ScienceDirect",
+      "language": "en",
+      "abstractNote": "As shown by Hofmeyr, the processes in the living cell can be divided into three classes of efficient causes that produce each other, so making the cell closed to efficient causation, the hallmark of an organism. They are the enzyme catalysts of covalent metabolic chemistry, the intracellular milieu that drives the supramolecular processes of chaperone-assisted folding and self-assembly of polypeptides and nucleic acids into functional catalysts and transporters, and the membrane transporters that maintain the intracellular milieu, in particular its electrolyte composition. Each class of efficient cause can be modelled as a relational diagram in the form of a mapping in graph-theoretic form, and a minimal model of a self-manufacturing system that is closed to efficient causation can be constructed from these three mappings using the formalism of relational biology. This fabrication-assembly or (F,A)-system serves as an alternative to Robert Rosen\u2019s replicative metabolism-repair or (M,R)-system, which has been notoriously problematic to realise in terms of real biochemical processes. A key feature of the model is the explicit incorporation of formal cause, which arrests the infinite regress that plagues all relational models of the cell. The (F,A)-system is extended into a detailed relational model of the self-manufacturing cell that has a clear biochemical realisation. This (F,A) cell model allows the interpretation and visualisation of concepts such as the metabolism and repair components of Rosen\u2019s (M,R)-system, John von Neumann\u2019s universal constructor, Howard Pattee\u2019s symbol-function split via the symbol-folding transformation, Marcello Barbieri\u2019s genotype\u2013ribotype\u2013phenotype ontology, and Tibor G\u00e1nti\u2019s chemoton.",
+      "title": "A biochemically-realisable relational model of the self-manufacturing cell",
+      "creators": [
+        {
+          "firstName": "Jan-Hendrik S.",
+          "lastName": "Hofmeyr",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Autopoiesis",
+          "type": 1
+        },
+        {
+          "tag": "Closure to efficient causation",
+          "type": 1
+        },
+        {
+          "tag": "Fabrication",
+          "type": 1
+        },
+        {
+          "tag": "Formal cause",
+          "type": 1
+        },
+        {
+          "tag": "Metabolism-repair systems",
+          "type": 1
+        },
+        {
+          "tag": "Relational biology",
+          "type": 1
+        },
+        {
+          "tag": "Self-assembly",
+          "type": 1
+        },
+        {
+          "tag": "Self-manufacture",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-04-01T14:24:39Z",
+      "dateModified": "2023-04-01T14:24:39Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9RYKNPPH",
+      "itemID": 7314,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "ScienceDirect Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T14:24:46Z",
+          "dateModified": "2023-04-01T14:24:46Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/4VT86J2P",
+          "path": "/Users/robert/Dropbox/zotero/storage/4VT86J2P/S0303264721001167.html",
+          "select": "zotero://select/library/items/4VT86J2P"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-01T14:24:51Z",
+          "dateModified": "2023-04-01T14:24:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/33WHZQDL",
+          "path": "/Users/robert/Dropbox/zotero/storage/33WHZQDL/Hofmeyr - 2021 - A biochemically-realisable relational model of the.pdf",
+          "select": "zotero://select/library/items/33WHZQDL"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Hofmeyr2021",
+      "itemKey": "9RYKNPPH",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9RYKNPPH"
     },
     {
       "key": "2BR47MBC",
