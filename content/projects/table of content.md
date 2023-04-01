@@ -19,19 +19,21 @@ tags:
 
 - see: Denis Noble, West-Eberhard, Walsh, Kauffman, Rosen, Laland, Denis Walsh, Hunnema
 
-## **Chapter II** : What sciences should learn from philosophy 
+## **Chapter II** : A new departure: what sciences should learn from philosophy 
 
-#### Beyond the genocentric paradigm and its consequences in medecine ==(philosophy of science)==
+#### Beyond the reductionnist, mechanistic paradigm  ==(philosophy of science)==
 
-- Lakatos, Kuhn, Morin
+- Génocentrisme et géocentrisme (Denis Noble, Longo et Mossio)
+- Stielger (Bifurquer), cours de Johannes Jaeger (livre), Morin.
 
 #### The decline of theorization in science ==(politicy and economy of science)==
 
+- PWD
 
 #### The need of a dialogue, and the interdisciplinarity question ==(sociology of science)==
 
 - Interdisciplinarity,bridging conceptual thinkers and practical modelers (commensurability)
-- Agree on what is science ? The fact that you plaay by the rules that you fix yourself. 
+- Agree on what is science ? The fact that you play by the rules that you fix yourself. 
 
 ## Chapter III : Towards an organicist theory in biology
 
