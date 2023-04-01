@@ -7332,6 +7332,37 @@
       "select": "zotero://select/library/items/9RYKNPPH"
     },
     {
+      "key": "77VAWRW7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "207",
+      "pages": "104463",
+      "publicationTitle": "Biosystems",
+      "date": "2021",
+      "extra": "Publisher: Elsevier",
+      "libraryCatalog": "Google Scholar",
+      "title": "A biochemically-realisable relational model of the self-manufacturing cell",
+      "creators": [
+        {
+          "firstName": "Jan-Hendrik S.",
+          "lastName": "Hofmeyr",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-01T14:32:45Z",
+      "dateModified": "2023-04-01T14:32:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/77VAWRW7",
+      "itemID": 7317,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Hofmeyr2021a",
+      "itemKey": "77VAWRW7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/77VAWRW7"
+    },
+    {
       "key": "2BR47MBC",
       "version": 0,
       "itemType": "journalArticle",
