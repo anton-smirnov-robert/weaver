@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/table of content.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43a7df901b2ad24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/TODO.md",
+                "file": "PhD project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "PhD project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/TODO.md",
+                "file": "PhD project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/TODO.md"
+                "file": "PhD project.md"
               }
             }
           }
@@ -159,12 +146,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b43a7df901b2ad24",
+  "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
-    "Sans titre.md",
-    "projects/TODO.md",
-    "projects/table of content.md",
+    "PhD project_french.md",
     "PhD project.md",
+    "projects/TODO.md",
+    "Sans titre.md",
+    "projects/table of content.md",
     "projects/quotes.md",
     "images/Pasted image 20230331170857.png",
     "note/note on Longo2012.md",
@@ -178,7 +166,6 @@
     "templates/definition.md",
     "templates/note.md",
     "Anton Robert.md",
-    "PhD project_french.md",
     "definition/Santa Fe Institute (SFI).md",
     "definition/backcasting.md",
     "definition/complexity.md",
