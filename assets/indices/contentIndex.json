@@ -17,6 +17,12 @@
     "lastmodified": "2023-03-31T11:02:42.232698136+02:00",
     "tags": null
   },
+  "/Sans-titre": {
+    "title": "",
+    "content": "",
+    "lastmodified": "2023-04-01T12:49:09.49842035+02:00",
+    "tags": null
+  },
   "/Where-am-I": {
     "title": "Where am I?",
     "content": "\nWelcome!\n\nYou are on my personal website. You can find out [about me](Anton%20Robert.md) by clicking on the red bold link.\n\nI created **Weaver** (*tisserand*/*tisserin* in French) to organize and access my literature notes using the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method. \nIt takes the form of a local [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) with a nice graphical interface. \nMost of the website is public, but it is most certainly useless to you.\nIt forces *me* to make (**relatively**) clear sentences and proper notes.\nHowever, I've soon realized that the best note is the one you can throw away when you've finished it...\n\nWeaver is therefore rather an intertwined network of information that makes sense to me. \nIt continuously needs work to be maintained as such, not to fade out in forgotten binaries on the internet.\nWeaver is not a goal in itself. It is like a daily exercise, for leaving the nest with some knowledge.\n\n![](images/weaver.png)\n\u003cp style=\"text-align: center;\"\u003e \u003csub\u003e Image: Village weaver (Ploceus cucullatus). Credits: K.B. Newman—NHPA/Encyclopædia Britannica, Inc. \u003c/sub\u003e\u003c/p\u003e\n\nThe website is always in construction. \nFor now, it just gives an example of an original academic workflow.\nIn the futur, I'm thinking about collaborative work. If you have ideas, reach out! \n\nBriefly, I split the entries in **four tags**:\n- **definitions**: words that I did not know or common words whose meaning is worth specifying in a given context. \n- **concepts**\n- **references** they are automatically generated pages with reference to a document and the commented quotes I highlighted in the PDF document. \n- **notes**: they are most often literature notes, augmented summaries of documents, organized in terms of atomized and linked definitions, concepts, and references. \n\nAt the end of each page, you can access the local graph (with depth 2) around your location.\nTo get the big picture, you can also zoom or drag nodes on the global graph that contains all entries (click on **Weaver** in the top-left corner of the page). \n\nHere are more technical aspects aspects [[about the website]] or my workflow. ",
