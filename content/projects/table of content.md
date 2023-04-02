@@ -36,6 +36,9 @@ tags:
 #### Why making principles ? Why a theoretical approach ? 
 
 - Perspectivism (Greier aand Yogi courses). Link with models and Knuutena
+- Pragmatism of theories as tools.
+- Robustness (Wimsatt)
+- Like axioms. It depends on what you can do with it?. 
 
 ## Chapter III : Towards an organicist theory in biology
 
