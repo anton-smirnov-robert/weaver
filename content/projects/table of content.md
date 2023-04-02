@@ -28,12 +28,14 @@ tags:
 
 #### The decline of theorization in science ==(politicy and economy of science)==
 
-- PWD
 
 #### The need of a dialogue, and the interdisciplinarity question ==(sociology of science)==
 
-- Interdisciplinarity,bridging conceptual thinkers and practical modelers (commensurability)
-- Agree on what is science ? The fact that you play by the rules that you fix yourself. 
+- Interdisciplinarity, bridging conceptual thinkers and practical modelers (commensurability and scientific revolution)
+
+#### Why making principles ? Why a theoretical approach ? 
+
+- Perspectivism (Greier aand Yogi courses). Link with models and Knuutena
 
 ## Chapter III : Towards an organicist theory in biology
 
