@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "87be2be0d585c6e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2119678557503fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Montevil2019.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,18 +166,23 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "images/Pasted image 20230403202109.png",
+    "reference/Montevil2019.md",
+    "note/note on Montevil2019 and Montevil2020a.md",
+    "note/note on Montevil2016 and Montevil2022a.md",
+    "Sans titre.md",
+    "Sans titre 1.md",
+    "images/Pasted image 20230403194022.png",
     "projects/table of content.md",
     "PhD project.md",
     "PhD project_french.md",
     "projects/TODO.md",
-    "Sans titre.md",
     "projects/quotes.md",
     "images/Pasted image 20230331170857.png",
     "note/note on Longo2012.md",
     "note/draft on the decline of theorization in science.md",
     "note/pre-note on the organicist tradition.md",
     "note/note on Montevil2019a.md",
-    "note/note on Montevil2016 and Montevil2022a.md",
     "note/note on Montevil2015.md",
     "note/note on Montevil2021.md",
     "templates/concept.md",
@@ -171,10 +194,6 @@
     "definition/complexity.md",
     "concept/biological process.md",
     "concept/biological constraint.md",
-    "definition/blood.md",
-    "definition/vertebrate.md",
-    "definition/taxonomy.md",
-    "definition/systematics.md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",

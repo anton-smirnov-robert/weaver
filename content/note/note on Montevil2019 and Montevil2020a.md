@@ -29,10 +29,28 @@ The merit of this provocative view is to contrast with the mainstream belief tha
 
 A proper philosophical inquiry about the nature of biological knowledge seems crucial once organisms are acknowledged as specific objects. Can we obtain general insights of biological phenomena? Is studing extinct organisms relevant *per se* or does it need to aim at to understanding the history of the present ones? Does biological knowledge is less certain, by construction, than the one of physics? What does biology aims to understands if organisms are continuously changing their laws? Are there regularities in the ways variations are unpredictably occuring ? Does those regularities have a lifetime?
 
-In any case, there is no doubt that practical research in biology must be able to generalize scientific results. Therefore, in practice, measurements need to go beyond the principled specificity of organisms, and argue for practical categories, a process called *symmetrization* ([Montevil2020a](reference/Montevil2020a.md)). 
+In any case, there is no doubt that practical research in biology must be able to generalize scientific results. Therefore, in practice, measurements need to go beyond the principled specificity of organisms, and argue for practical categories, a process called *symmetrization* ([Montevil2020a](reference/Montevil2020a.md)). This amount to descibing a "method" section in experimental papers.
+
+#### In practice
+
+Names in biology come from systematics. It articulates taxonomy (or typification — selection of an object to represent the group type) and phylogenetic. Names are associated with concrete material objects. They define the offsprings of this specific object. They are insufficient for scientific practices because we do not know the amount of variations that the specie or its descent experienced since the naming. Even inbred strains vary due to genetic drift. To limit variations, lab exchange strains and therefore matter. 
 
 
+![](images/Pasted%20image%2020230403194022.png)
 
+Control of the past context is also done on ontological time scales. Stress, place of development, etc. But, past context does not only refer to development. Being infected by a virus is a past context, that plays a role in the experience. Biologist often filter individuals that have undergone unwanted variations, are frightened, with mutations, etc. When measuring, you can have the "there is no case for that" problem. This is also the Glaton's board effect, with qualitative diffference.
+
+
+#### Measurements in a nutshell 
+
+- There is a synchronic part of measurements, like in physics. There is a interval of precision, etc. You can abstract 
+- There is a control of history by:
+1) Genealogy
+2) Past and current context
+3) Choosing and filtering individuals
+- There are still uncontrolled variations, that can be qualitative in top of variability.
+
+![](images/Pasted%20image%2020230403202109.png)
 
 ### On historicty and relational conceptions
 
