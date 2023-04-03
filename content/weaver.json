@@ -16084,6 +16084,59 @@
       "select": "zotero://select/library/items/PWUF82R8"
     },
     {
+      "key": "RL9FHEYM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "15",
+      "pages": "61\u201376",
+      "publicationTitle": "Acta Analytica",
+      "date": "2000",
+      "libraryCatalog": "PhilPapers",
+      "title": "The Myth of Substance and the Fallacy of Misplaced Concreteness",
+      "creators": [
+        {
+          "firstName": "Johanna",
+          "lastName": "Seibt",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-03T10:10:28Z",
+      "dateModified": "2023-04-03T10:10:28Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/RL9FHEYM",
+      "itemID": 7323,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Seibt - 2000 - The Myth of Substance and the Fallacy of Misplaced.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-03T10:10:48Z",
+          "dateModified": "2023-04-03T10:10:48Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/SK2I3RCG",
+          "path": "/Users/robert/Dropbox/zotero/storage/SK2I3RCG/Seibt - 2000 - The Myth of Substance and the Fallacy of Misplaced.pdf",
+          "select": "zotero://select/library/items/SK2I3RCG"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-03T10:10:36Z",
+          "dateModified": "2023-04-03T10:10:36Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/JCXYBCTV",
+          "path": "/Users/robert/Dropbox/zotero/storage/JCXYBCTV/SEITMO.html",
+          "select": "zotero://select/library/items/JCXYBCTV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Seibt2000",
+      "itemKey": "RL9FHEYM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RL9FHEYM"
+    },
+    {
       "key": "DBVR2JX2",
       "version": 0,
       "itemType": "journalArticle",
