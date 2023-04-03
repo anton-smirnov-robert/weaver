@@ -4780,6 +4780,43 @@
       "publicationTitle": "Dialogic"
     },
     {
+      "key": "PWZMT59H",
+      "version": 0,
+      "itemType": "journalArticle",
+      "volume": "34",
+      "pages": "1\u201324",
+      "publicationTitle": "Biology & Philosophy",
+      "date": "2019",
+      "extra": "Publisher: Springer",
+      "libraryCatalog": "Google Scholar",
+      "title": "Beyond networks: mechanism and process in evo-devo",
+      "shortTitle": "Beyond networks",
+      "creators": [
+        {
+          "firstName": "James",
+          "lastName": "DiFrisco",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Johannes",
+          "lastName": "Jaeger",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-03T10:29:21Z",
+      "dateModified": "2023-04-03T10:29:21Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/PWZMT59H",
+      "itemID": 7326,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "DiFrisco2019",
+      "itemKey": "PWZMT59H",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PWZMT59H"
+    },
+    {
       "key": "ZZ87SXLK",
       "version": 0,
       "itemType": "book",
