@@ -4809,7 +4809,19 @@
       "dateModified": "2023-04-03T10:29:21Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/PWZMT59H",
       "itemID": 7326,
-      "attachments": [],
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "DiFrisco et Jaeger - 2019 - Beyond networks mechanism and process in evo-devo.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-03T11:17:32Z",
+          "dateModified": "2023-04-03T11:17:32Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/5E7RS4GA",
+          "path": "/Users/robert/Dropbox/zotero/storage/5E7RS4GA/DiFrisco et Jaeger - 2019 - Beyond networks mechanism and process in evo-devo.pdf",
+          "select": "zotero://select/library/items/5E7RS4GA"
+        }
+      ],
       "notes": [],
       "citationKey": "DiFrisco2019",
       "itemKey": "PWZMT59H",
@@ -12878,6 +12890,110 @@
       "itemKey": "UHF7HCMP",
       "libraryID": 1,
       "select": "zotero://select/library/items/UHF7HCMP"
+    },
+    {
+      "key": "F7LL44UL",
+      "version": 0,
+      "itemType": "book",
+      "url": "https://library.oapen.org/handle/20.500.12657/29752",
+      "publisher": "Oxford University Press",
+      "date": "2018",
+      "extra": "Accepted: 2018-07-01 23:55",
+      "accessDate": "2023-04-03T11:19:24Z",
+      "libraryCatalog": "library.oapen.org",
+      "language": "English",
+      "abstractNote": "This collection of essays explores the metaphysical thesis that the living world is not ontologically made up of substantial particles or things, as has often been assumed, but is rather constituted by processes. The biological domain is organized as an interdependent hierarchy of processes, which are stabilized and actively maintained at different timescales. Even entities that intuitively appear to be paradigms of things, such as organisms, are actually better understood as processes. Unlike previous attempts to articulate processual views of biology, which have tended to use Alfred North Whitehead\u2019s panpsychist metaphysics as a foundation, this book takes a naturalistic approach to metaphysics. It submits that the main motivations for replacing an ontology of substances with one of processes are to be looked for in the empirical findings of science. Biology provides compelling reasons for thinking that the living realm is fundamentally dynamic and that the existence of things is always conditional on the existence of processes. The phenomenon of life cries out for theories that prioritize processes over things, and it suggests that the central explanandum of biology is not change but rather stability\u2014or, more precisely, stability attained through constant change. This multicontributor volume brings together philosophers of science and metaphysicians interested in exploring the consequences of a processual philosophy of biology. The contributors draw on an extremely wide range of biological case studies and employ a process perspective to cast new light on a number of traditional philosophical problems such as identity, persistence, and individuality.",
+      "title": "Everything Flows: Towards a Processual Philosophy of Biology",
+      "shortTitle": "Everything Flows",
+      "creators": [
+        {
+          "firstName": "Daniel J.",
+          "lastName": "Nicholson",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "John",
+          "lastName": "Dupr\u00e9",
+          "creatorType": "editor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "bic Book Industry Communication::P Mathematics & science::PS Biology",
+          "type": 1
+        },
+        {
+          "tag": "Evolution",
+          "type": 1
+        },
+        {
+          "tag": "explanation",
+          "type": 1
+        },
+        {
+          "tag": "identity",
+          "type": 1
+        },
+        {
+          "tag": "individuality",
+          "type": 1
+        },
+        {
+          "tag": "life sciences",
+          "type": 1
+        },
+        {
+          "tag": "metaphysics of science",
+          "type": 1
+        },
+        {
+          "tag": "organism",
+          "type": 1
+        },
+        {
+          "tag": "persistence",
+          "type": 1
+        },
+        {
+          "tag": "philosophy of biology",
+          "type": 1
+        },
+        {
+          "tag": "process ontology",
+          "type": 1
+        },
+        {
+          "tag": "substance ontology",
+          "type": 1
+        },
+        {
+          "tag": "symbiosis",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-04-03T11:19:24Z",
+      "dateModified": "2023-04-03T11:19:24Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/F7LL44UL",
+      "itemID": 7328,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-03T11:19:33Z",
+          "dateModified": "2023-04-03T11:19:33Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/XYZEQZ5N",
+          "path": "/Users/robert/Dropbox/zotero/storage/XYZEQZ5N/Nicholson et Dupr\u00e9 - 2018 - Everything Flows Towards a Processual Philosophy .pdf",
+          "select": "zotero://select/library/items/XYZEQZ5N"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Nicholson2018",
+      "itemKey": "F7LL44UL",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/F7LL44UL"
     },
     {
       "key": "FJDJUGX5",
