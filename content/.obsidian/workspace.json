@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/table of content.md",
+                "file": "note/note on Montevil2019 and Montevil2020a.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/table of content.md",
+                "file": "note/note on Montevil2019 and Montevil2020a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/table of content.md",
+                "file": "note/note on Montevil2019 and Montevil2020a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/table of content.md"
+                "file": "note/note on Montevil2019 and Montevil2020a.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "projects/table of content.md",
     "PhD project.md",
     "PhD project_french.md",
     "projects/TODO.md",
     "Sans titre.md",
-    "projects/table of content.md",
     "projects/quotes.md",
     "images/Pasted image 20230331170857.png",
     "note/note on Longo2012.md",
