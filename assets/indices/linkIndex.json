@@ -1142,6 +1142,23 @@
           "text": "taxonomy"
         }
       ],
+      "/note-on-Montevil2020a": [
+        {
+          "source": "/note-on-Montevil2020a",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/note-on-Montevil2020a",
+          "target": "/concept/symmetrization",
+          "text": "symmetrization"
+        },
+        {
+          "source": "/note-on-Montevil2020a",
+          "target": "/note/note-on-Montevil2019",
+          "text": "note on Montevil2019"
+        }
+      ],
       "/note/draft-on-the-decline-of-theorization-in-science": [
         {
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
@@ -1900,6 +1917,53 @@
           "text": "biological function"
         }
       ],
+      "/note/note-on-Montevil2019": [
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/note/note-on-Montevil2016-and-Montevil2020",
+          "text": "note on Montevil2016 and Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Bustin2014",
+          "text": "Bustin2014"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Clark2017",
+          "text": "Clark2017"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/concept/biological-measurement",
+          "text": "biological measurement"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/concept/symmetrization",
+          "text": "symmetrization"
+        }
+      ],
       "/note/note-on-Montevil2019a": [
         {
           "source": "/note/note-on-Montevil2019a",
@@ -2449,6 +2513,13 @@
           "text": "biological function"
         }
       ],
+      "/concept/biological-measurement": [
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/concept/biological-measurement",
+          "text": "biological measurement"
+        }
+      ],
       "/concept/biological-process": [
         {
           "source": "/concept/biological-constraint",
@@ -2689,6 +2760,18 @@
           "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
+        }
+      ],
+      "/concept/symmetrization": [
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/concept/symmetrization",
+          "text": "symmetrization"
+        },
+        {
+          "source": "/note-on-Montevil2020a",
+          "target": "/concept/symmetrization",
+          "text": "symmetrization"
         }
       ],
       "/definition/Groupe-des-Dix": [
@@ -2973,6 +3056,20 @@
           "text": "note on Longo2012"
         }
       ],
+      "/note/note-on-Montevil2016-and-Montevil2020": [
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/note/note-on-Montevil2016-and-Montevil2020",
+          "text": "note on Montevil2016 and Montevil2020"
+        }
+      ],
+      "/note/note-on-Montevil2019": [
+        {
+          "source": "/note-on-Montevil2020a",
+          "target": "/note/note-on-Montevil2019",
+          "text": "note on Montevil2019"
+        }
+      ],
       "/note/note-on-Montevil2019a": [
         {
           "source": "/note/note-on-Montevil2016-and-Montevil2020",
@@ -3085,6 +3182,11 @@
         },
         {
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
           "target": "/reference/Baker2016",
           "text": "Baker2016"
         }
@@ -3221,6 +3323,13 @@
           "text": "Bush1945"
         }
       ],
+      "/reference/Bustin2014": [
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Bustin2014",
+          "text": "Bustin2014"
+        }
+      ],
       "/reference/Canguilhem1992a": [
         {
           "source": "/PhD-project",
@@ -3301,6 +3410,13 @@
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
           "target": "/reference/Chu2021",
           "text": "Chu2021"
+        }
+      ],
+      "/reference/Clark2017": [
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Clark2017",
+          "text": "Clark2017"
         }
       ],
       "/reference/Crick1958": [
@@ -3984,6 +4100,11 @@
           "source": "/PhD-project",
           "target": "/reference/Montevil2019",
           "text": "Montevil2019"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
+          "target": "/reference/Montevil2019",
+          "text": "Montevil2019"
         }
       ],
       "/reference/Montevil2019a": [
@@ -4040,6 +4161,11 @@
           "source": "/PhD-project",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
+        },
+        {
+          "source": "/note-on-Montevil2020a",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
         }
       ],
       "/reference/Montevil2021": [
@@ -4050,6 +4176,11 @@
         },
         {
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Montevil2021",
+          "text": "Montevil2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
           "target": "/reference/Montevil2021",
           "text": "Montevil2021"
         },
@@ -4467,6 +4598,11 @@
         },
         {
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
+          "target": "/reference/Soto2021",
+          "text": "Soto2021"
+        },
+        {
+          "source": "/note/note-on-Montevil2019",
           "target": "/reference/Soto2021",
           "text": "Soto2021"
         }
@@ -6406,6 +6542,51 @@
       "text": "biological function"
     },
     {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/reference/Montevil2019",
+      "text": "Montevil2019"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/note/note-on-Montevil2016-and-Montevil2020",
+      "text": "note on Montevil2016 and Montevil2020"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/reference/Bustin2014",
+      "text": "Bustin2014"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/reference/Montevil2021",
+      "text": "Montevil2021"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/reference/Clark2017",
+      "text": "Clark2017"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/reference/Soto2021",
+      "text": "Soto2021"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/concept/biological-measurement",
+      "text": "biological measurement"
+    },
+    {
+      "source": "/note/note-on-Montevil2019",
+      "target": "/concept/symmetrization",
+      "text": "symmetrization"
+    },
+    {
       "source": "/note/note-on-Montevil2019a",
       "target": "/reference/Montevil2019a",
       "text": "Montevil2019a"
@@ -6649,6 +6830,21 @@
       "source": "/note/pre-note-on-the-organicist-tradition",
       "target": "/reference/Kauffman2000",
       "text": "Kauffman2000"
+    },
+    {
+      "source": "/note-on-Montevil2020a",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/note-on-Montevil2020a",
+      "target": "/concept/symmetrization",
+      "text": "symmetrization"
+    },
+    {
+      "source": "/note-on-Montevil2020a",
+      "target": "/note/note-on-Montevil2019",
+      "text": "note on Montevil2019"
     },
     {
       "source": "/reference/Polanyi1962",
