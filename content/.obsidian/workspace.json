@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Sans titre.md",
+                "file": "note/Intuitive departure from physics and the principle of variations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note on Montevil2020a.md",
+                "file": "note/Intuitive departure from physics and the principle of variations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note on Montevil2020a.md",
+                "file": "note/Intuitive departure from physics and the principle of variations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note on Montevil2020a.md"
+                "file": "note/Intuitive departure from physics and the principle of variations.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "820b07bd6119a8b5",
+  "active": "ad93198efde2552a",
   "lastOpenFiles": [
-    "note/Sans titre.md",
     "note on Montevil2020a.md",
+    "note/Intuitive departure from physics and the principle of variations.md",
     "note/note on Montevil2016 and Montevil2020.md",
     "reference/Montevil2020a.md",
     "images/Pasted image 20230404124000.png",
