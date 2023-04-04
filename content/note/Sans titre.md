@@ -41,3 +41,9 @@ Peculiar zone gives rise to ordered structured, therefore organizations.
 
 How are atoms and molecules of organisms organized so that they stay in very tiny zone of the phase space for relatively long time?
 
+For the phase space perspective, it means that trajectories are trying to be recursive. 
+
+Now, dwelling on a specific zone can be seen from a macroscopic point of view. You can define a coarse-grained area that can be meaningful.
+
+Accordingly, we now that organisms have evolving phenotypes so we now that they go throught several macrospaces.
+
