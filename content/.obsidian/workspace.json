@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "c33eab521195fb39",
+        "id": "07cd6d5cb277cbac",
         "type": "tabs",
+        "dimension": 63.38535414165666,
         "children": [
           {
-            "id": "9b2f283a3d9947b4",
+            "id": "820b07bd6119a8b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Montevil2019.md",
+                "file": "note on Montevil2020a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b7699786faac138",
+        "type": "tabs",
+        "dimension": 36.614645858343344,
+        "children": [
+          {
+            "id": "888dbd38faef1122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Montevil2020a.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Montevil2019.md",
+                "file": "note on Montevil2020a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Montevil2019.md",
+                "file": "note on Montevil2020a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Montevil2019.md"
+                "file": "note on Montevil2020a.md"
               }
             }
           }
@@ -146,15 +166,20 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9b2f283a3d9947b4",
+  "active": "820b07bd6119a8b5",
   "lastOpenFiles": [
     "note/note on Montevil2016 and Montevil2020.md",
+    "concept/epistemology of physics.md",
+    "note on Montevil2020a.md",
     "note/note on Montevil2019.md",
+    "concept/symmetrization.md",
+    "concept/biological measurement.md",
+    "symmetrization.md",
+    "reference/Montevil2020a.md",
     "images/Pasted image 20230403204846.png",
     "images/Pasted image 20230403203403.png",
     "images/Pasted image 20230403202109.png",
     "reference/Montevil2019.md",
-    "Sans titre.md",
     "Sans titre 1.md",
     "images/Pasted image 20230403194022.png",
     "projects/table of content.md",
@@ -174,10 +199,6 @@
     "templates/note.md",
     "Anton Robert.md",
     "definition/Santa Fe Institute (SFI).md",
-    "definition/backcasting.md",
-    "definition/complexity.md",
-    "concept/biological process.md",
-    "concept/biological constraint.md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",
