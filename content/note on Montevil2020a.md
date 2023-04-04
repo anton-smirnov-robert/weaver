@@ -49,8 +49,6 @@ In some experimental situation, a group of organism can share some *generic* pro
 
 The historical aspects refers to the change of phase space that are provocated by unpredictable variations. 
 
-
-
 The historicity is because, in a certain phase space,  there is a simple variation. In the other one, a new phase space is obtain and the latter is a phase space of functions that open new possibilities such that we do not go back. It is  stabilized (function). Why is it stabilized, because it has a functional role (it is produced and contributes in produces)
 
 
