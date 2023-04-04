@@ -46,7 +46,6 @@ However, there is the same problem of having to make explicit the entire closure
 ### Hybrid historical and organizational aspects 
 
 In some experimental situation, a group of organism can share some *generic* properties. The only way for them to share aspects, here constraints is from common history (by principle of unpredictable variations). 
-The historical aspect can account the gener
 
 The historical aspects refers to the change of phase space that are provocated by unpredictable variations. 
 
