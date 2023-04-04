@@ -6,7 +6,7 @@
       {
         "id": "07cd6d5cb277cbac",
         "type": "tabs",
-        "dimension": 63.38535414165666,
+        "dimension": 46.397188049209134,
         "children": [
           {
             "id": "820b07bd6119a8b5",
@@ -25,7 +25,7 @@
       {
         "id": "8b7699786faac138",
         "type": "tabs",
-        "dimension": 36.614645858343344,
+        "dimension": 53.602811950790866,
         "children": [
           {
             "id": "888dbd38faef1122",
@@ -168,9 +168,11 @@
   },
   "active": "820b07bd6119a8b5",
   "lastOpenFiles": [
-    "note/note on Montevil2016 and Montevil2020.md",
     "concept/epistemology of physics.md",
+    "reference/Feynman2017.md",
+    "reference/Feynman1967.md",
     "note on Montevil2020a.md",
+    "note/note on Montevil2016 and Montevil2020.md",
     "note/note on Montevil2019.md",
     "concept/symmetrization.md",
     "concept/biological measurement.md",
@@ -197,8 +199,6 @@
     "templates/concept.md",
     "templates/definition.md",
     "templates/note.md",
-    "Anton Robert.md",
-    "definition/Santa Fe Institute (SFI).md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",

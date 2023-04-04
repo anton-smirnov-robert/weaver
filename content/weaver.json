@@ -5508,6 +5508,45 @@
       "select": "zotero://select/library/items/ZDGVZ4XX"
     },
     {
+      "key": "EI4TL4D6",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "MIT press",
+      "date": "1967",
+      "title": "The Character of Physical Law",
+      "creators": [
+        {
+          "firstName": "Richard",
+          "lastName": "Feynman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-04T09:25:07Z",
+      "dateModified": "2023-04-04T09:25:26Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/EI4TL4D6",
+      "itemID": 7375,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-04T09:25:11Z",
+          "dateModified": "2023-04-04T09:25:11Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/VVSC7JX2",
+          "path": "/Users/robert/Dropbox/zotero/storage/VVSC7JX2/Feynman - 2017 - The Character of Physical Law, with new foreword.pdf",
+          "select": "zotero://select/library/items/VVSC7JX2"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Feynman1967",
+      "itemKey": "EI4TL4D6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EI4TL4D6"
+    },
+    {
       "key": "GJLNHP5X",
       "version": 0,
       "itemType": "journalArticle",

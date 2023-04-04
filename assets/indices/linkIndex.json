@@ -831,6 +831,33 @@
           "text": "effective computability"
         }
       ],
+      "/concept/epistemology-of-physics": [
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/Feynman1967",
+          "text": "Feynman1967"
+        },
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/VanFraassen1989",
+          "text": "VanFraassen1989"
+        },
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
+        },
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/Longo2014",
+          "text": "Longo2014"
+        },
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        }
+      ],
       "/concept/formal-language": [
         {
           "source": "/concept/formal-language",
@@ -986,6 +1013,13 @@
           "source": "/concept/second-principle-of-thermodynamics",
           "target": "/definition/entropy",
           "text": "entropy"
+        }
+      ],
+      "/concept/symmetrization": [
+        {
+          "source": "/concept/symmetrization",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
         }
       ],
       "/definition/Groupe-des-Dix": [
@@ -1804,69 +1838,64 @@
           "text": "Montevil2015"
         }
       ],
-      "/note/note-on-Montevil2016-and-Montevil2022a": [
+      "/note/note-on-Montevil2016-and-Montevil2020": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2016",
           "text": "Montevil2016"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-          "target": "/reference/Longo2014",
-          "text": "Longo2014"
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
+          "target": "/concept/epistemology-of-physics",
+          "text": "epistemology of physics"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-          "target": "/reference/VanFraassen1989",
-          "text": "VanFraassen1989"
-        },
-        {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/note/note-on-Montevil2019a",
           "text": "note on Montevil2019a"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2016",
           "text": "Montevil2016"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Darwin1859",
           "text": "Darwin1859"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Beatty1995",
           "text": "Beatty1995"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Gould2002",
           "text": "Gould2002"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/concept/biological-function",
           "text": "biological function"
         }
@@ -2410,7 +2439,7 @@
           "text": "biological function"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/concept/biological-function",
           "text": "biological function"
         },
@@ -2518,6 +2547,13 @@
           "source": "/concept/decidability",
           "target": "/concept/effective-computability",
           "text": "effective computability"
+        }
+      ],
+      "/concept/epistemology-of-physics": [
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
+          "target": "/concept/epistemology-of-physics",
+          "text": "epistemology of physics"
         }
       ],
       "/concept/formal-language": [
@@ -2939,7 +2975,7 @@
       ],
       "/note/note-on-Montevil2019a": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/note/note-on-Montevil2019a",
           "text": "note on Montevil2019a"
         }
@@ -3034,9 +3070,19 @@
           "source": "/PhD-project",
           "target": "/reference/Bailly2011",
           "text": "Bailly2011"
+        },
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/Bailly2011",
+          "text": "Bailly2011"
         }
       ],
       "/reference/Baker2016": [
+        {
+          "source": "/concept/symmetrization",
+          "target": "/reference/Baker2016",
+          "text": "Baker2016"
+        },
         {
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
           "target": "/reference/Baker2016",
@@ -3045,7 +3091,7 @@
       ],
       "/reference/Beatty1995": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Beatty1995",
           "text": "Beatty1995"
         }
@@ -3280,7 +3326,7 @@
       ],
       "/reference/Darwin1859": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Darwin1859",
           "text": "Darwin1859"
         }
@@ -3373,6 +3419,13 @@
           "text": "Fang2012"
         }
       ],
+      "/reference/Feynman1967": [
+        {
+          "source": "/concept/epistemology-of-physics",
+          "target": "/reference/Feynman1967",
+          "text": "Feynman1967"
+        }
+      ],
       "/reference/Fire2019": [
         {
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
@@ -3463,7 +3516,7 @@
       ],
       "/reference/Gould2002": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Gould2002",
           "text": "Gould2002"
         }
@@ -3599,7 +3652,7 @@
           "text": "Kauffman2019"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Kauffman2019",
           "text": "Kauffman2019"
         }
@@ -3719,7 +3772,7 @@
       ],
       "/reference/Longo2014": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/concept/epistemology-of-physics",
           "target": "/reference/Longo2014",
           "text": "Longo2014"
         }
@@ -3894,12 +3947,17 @@
       ],
       "/reference/Montevil2016": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/concept/epistemology-of-physics",
           "target": "/reference/Montevil2016",
           "text": "Montevil2016"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
+          "target": "/reference/Montevil2016",
+          "text": "Montevil2016"
+        },
+        {
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2016",
           "text": "Montevil2016"
         }
@@ -3940,7 +3998,7 @@
           "text": "Montevil2019a"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2019a",
           "text": "Montevil2019a"
         },
@@ -3962,12 +4020,12 @@
           "text": "Montevil2020"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         },
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
         }
@@ -4493,7 +4551,7 @@
       ],
       "/reference/VanFraassen1989": [
         {
-          "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+          "source": "/concept/epistemology-of-physics",
           "target": "/reference/VanFraassen1989",
           "text": "VanFraassen1989"
         }
@@ -5343,6 +5401,31 @@
       "text": "effective computability"
     },
     {
+      "source": "/concept/epistemology-of-physics",
+      "target": "/reference/Feynman1967",
+      "text": "Feynman1967"
+    },
+    {
+      "source": "/concept/epistemology-of-physics",
+      "target": "/reference/VanFraassen1989",
+      "text": "VanFraassen1989"
+    },
+    {
+      "source": "/concept/epistemology-of-physics",
+      "target": "/reference/Bailly2011",
+      "text": "Bailly2011"
+    },
+    {
+      "source": "/concept/epistemology-of-physics",
+      "target": "/reference/Longo2014",
+      "text": "Longo2014"
+    },
+    {
+      "source": "/concept/epistemology-of-physics",
+      "target": "/reference/Montevil2016",
+      "text": "Montevil2016"
+    },
+    {
       "source": "/concept/formal-language",
       "target": "/definition/syntax",
       "text": "syntax"
@@ -5476,6 +5559,11 @@
       "source": "/concept/second-principle-of-thermodynamics",
       "target": "/definition/entropy",
       "text": "entropy"
+    },
+    {
+      "source": "/concept/symmetrization",
+      "target": "/reference/Baker2016",
+      "text": "Baker2016"
     },
     {
       "source": "/definition/Groupe-des-Dix",
@@ -6258,67 +6346,62 @@
       "text": "Montevil2015"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Montevil2016",
       "text": "Montevil2016"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Montevil2020",
       "text": "Montevil2020"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-      "target": "/reference/Longo2014",
-      "text": "Longo2014"
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
+      "target": "/concept/epistemology-of-physics",
+      "text": "epistemology of physics"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
-      "target": "/reference/VanFraassen1989",
-      "text": "VanFraassen1989"
-    },
-    {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Kauffman2019",
       "text": "Kauffman2019"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Montevil2019a",
       "text": "Montevil2019a"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/note/note-on-Montevil2019a",
       "text": "note on Montevil2019a"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Montevil2020",
       "text": "Montevil2020"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Montevil2016",
       "text": "Montevil2016"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Darwin1859",
       "text": "Darwin1859"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Beatty1995",
       "text": "Beatty1995"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/reference/Gould2002",
       "text": "Gould2002"
     },
     {
-      "source": "/note/note-on-Montevil2016-and-Montevil2022a",
+      "source": "/note/note-on-Montevil2016-and-Montevil2020",
       "target": "/concept/biological-function",
       "text": "biological function"
     },

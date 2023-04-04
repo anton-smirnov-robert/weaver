@@ -22,4 +22,4 @@ The concept identity for organisms can be more or less restricted. The largest i
 
 In experimental biology, [symmetrization](concept/symmetrization.md) is the process of (concretely of epistemically) positing a reference class in experimental practices (see [note on Montevil2019](note/note%20on%20Montevil2019.md)). However, it is not sufficient because you do not control how many variations occured before your last control. 
 
-In 
+

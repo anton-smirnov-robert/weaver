@@ -17,7 +17,7 @@ At the core of this physical description of matter lies the cental notion of sym
 
 In sum, physics understands change (of state of objects) based on invariance (under some transformations). Symmetries are central (for objects, for observables, for time) to extend objectivity by stating what is *identical* (objects, experiments, energy). The trajectory of the state a *generic* object is given as a partial order on a set of pertinent possibilities. It is given by a mathematical equation that is concerned by the differential effect caused by a relation between states and properties of objects, for all possible values defined by the predefined phase space. 
 
-See also: ([Bailly2011](reference/Bailly2011.md),[Longo2014](reference/Longo2014.md),[Montevil2016](reference/Montevil2016.md),[VanFraassen1989](reference/VanFraassen1989.md)). 
+See also: ([Feynman1967](reference/Feynman1967.md),[VanFraassen1989](reference/VanFraassen1989.md),[Bailly2011](reference/Bailly2011.md),[Longo2014](reference/Longo2014.md),[Montevil2016](reference/Montevil2016.md)). 
 
 
 ![](images/Pasted%20image%2020230320111525.png)
