@@ -15,13 +15,7 @@ by Montévil M. (2019)
 
 Reference: [Montevil2019](reference/Montevil2019.md) 
 
-#### **The Identity of Organisms in Scientific Practice: Integrating Historical and Relational Conceptions**     
-by Montévil M., Mossio M. (2020)         
-*Frontiers in Physiology* 11: 611       
-Reference: [Montevil2020a](reference/Montevil2020a.md). 
-
-
-### Measurements of biological objects and biological knowledge
+### Introduction and recap of the [note on Montevil2016 and Montevil2020](note/note%20on%20Montevil2016%20and%20Montevil2020.md). 
 
 Generic objects are symmetric with respect to the scientific rationale, and one needs not to specify which electron it uses for an experiment in physics. In other words, electrons all share the same properties that define them. The object of biology, organisms, are specific objects. Therefore, biological knowledge is *a priori* bounded in time if one assumes that the relevance of an epistemic insight is primarily to be assessed by the existence of the studied object.
 
@@ -31,7 +25,7 @@ A proper philosophical inquiry about the nature of biological knowledge seems cr
 
 In any case, there is no doubt that practical research in biology must be able to generalize scientific results. Therefore, in practice, measurements need to go beyond the principled specificity of organisms, and argue for practical categories, a process called *symmetrization* ([Montevil2020a](reference/Montevil2020a.md)). This amount to descibing a "method" section in experimental papers.
 
-#### In practice
+### What do biologists do? 
 
 Names in biology come from systematics. It articulates taxonomy (or typification — selection of an object to represent the group type) and phylogenetic. Names are associated with concrete material objects. They define the offsprings of this specific object. They are insufficient for scientific practices because we do not know the amount of variations that the specie or its descent experienced since the naming. Even inbred strains vary due to genetic drift. To limit variations, lab exchange strains and therefore matter. 
 
@@ -40,8 +34,7 @@ Names in biology come from systematics. It articulates taxonomy (or typification
 
 Control of the past context is also done on ontological time scales. Stress, place of development, etc. But, past context does not only refer to development. Being infected by a virus is a past context, that plays a role in the experience. Biologist often filter individuals that have undergone unwanted variations, are frightened, with mutations, etc. When measuring, you can have the "there is no case for that" problem. This is also the Glaton's board effect, with qualitative diffference.
 
-
-#### Measurements in a nutshell 
+### Three aspects of biological measurements
 
 - There is a synchronic part of measurements, like in physics. There is a interval of precision, etc. You can abstract 
 - There is a control of history by:
@@ -52,5 +45,20 @@ Control of the past context is also done on ontological time scales. Stress, pla
 
 ![](images/Pasted%20image%2020230403202109.png)
 
-### On historicty and relational conceptions
+### Symmetrization 
+
+They are two types of symmetrization: concrete and epistemic.
+Concrete one act on material objects (inbreding) where epistemic one is considering that something is the same (position of foetus does not matter).
+Conctrete one constrains the biological phenomena under scrutiny. 
+
+![](images/Pasted%20image%2020230403203403.png)
+
+There are several ways to symmetrize individuals. The idea is to have a generalizable rersult. Either you try to obtain to control maximally the history of wild animals to measure some feature (outbred, inbred, in vitro). In this case, you will have knowledge that is very singular, but reproducible. However, those strategies are very sensible to the situation of the world that you staged (Latour) in you laboratory. This certainly is the origin of the reproducibility crisis in biology. 
+
+![](images/Pasted%20image%2020230403204846.png)
+
+On the other hand, if you do not alter the history of individuals (wild specimens), your result will be less reproducible, but more general in the sense that it is about specimens that you encounter in nature. For instance the field metabolic rate (E1).
+
+However, you can depart from this diagonal. For instance, putting individuals in a specific situations, you can obtain a general insight that is reproducible. The idea is that you have amplified their common caracteristics or diminished their different ones. Another way to do so is by focusing on a case study. You do not aim at reproducibility nor generalization but, you want to show some thing can happen. This is important is our framework, because it can be argued that we need to redefine species
+
 

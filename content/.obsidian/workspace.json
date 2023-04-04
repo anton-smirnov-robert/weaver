@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Montevil2019 and Montevil2020a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "87be2be0d585c6e1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2119678557503fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/Montevil2019.md",
+                "file": "note/note on Montevil2019.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Montevil2019 and Montevil2020a.md",
+                "file": "note/note on Montevil2019.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Montevil2019 and Montevil2020a.md",
+                "file": "note/note on Montevil2019.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Montevil2019 and Montevil2020a.md"
+                "file": "note/note on Montevil2019.md"
               }
             }
           }
@@ -166,10 +148,12 @@
   },
   "active": "9b2f283a3d9947b4",
   "lastOpenFiles": [
+    "note/note on Montevil2016 and Montevil2020.md",
+    "note/note on Montevil2019.md",
+    "images/Pasted image 20230403204846.png",
+    "images/Pasted image 20230403203403.png",
     "images/Pasted image 20230403202109.png",
     "reference/Montevil2019.md",
-    "note/note on Montevil2019 and Montevil2020a.md",
-    "note/note on Montevil2016 and Montevil2022a.md",
     "Sans titre.md",
     "Sans titre 1.md",
     "images/Pasted image 20230403194022.png",

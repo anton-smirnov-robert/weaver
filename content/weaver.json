@@ -90,7 +90,7 @@
     "options": {
       "exportNotes": true,
       "exportFileData": false,
-      "keepUpdated": true,
+      "keepUpdated": false,
       "worker": true
     }
   },
@@ -8571,6 +8571,61 @@
       "itemKey": "LG5478XB",
       "libraryID": 1,
       "select": "zotero://select/library/items/LG5478XB"
+    },
+    {
+      "key": "M6K3PDKK",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsfs.2018.0041",
+      "volume": "8",
+      "issue": "6",
+      "pages": "20180041",
+      "publicationTitle": "Interface Focus",
+      "ISSN": "2042-8898, 2042-8901",
+      "date": "2018-12-06",
+      "journalAbbreviation": "Interface Focus.",
+      "DOI": "10.1098/rsfs.2018.0041",
+      "accessDate": "2023-04-04T08:07:43Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Shannon information theory provides various measures of so-called syntactic information, which reflect the amount of statistical correlation between systems. By contrast, the concept of \u2018semantic information\u2019 refers to those correlations which carry significance or \u2018meaning\u2019 for a given system. Semantic information plays an important role in many fields, including biology, cognitive science and philosophy, and there has been a long-standing interest in formulating a broadly applicable and formal theory of semantic information. In this paper, we introduce such a theory. We define semantic information as the syntactic information that a physical system has about its environment which is causally necessary for the system to maintain its own existence. \u2018Causal necessity\u2019 is defined in terms of counter-factual interventions which scramble correlations between the system and its environment, while \u2018maintaining existence\u2019 is defined in terms of the system's ability to keep itself in a low entropy state. We also use recent results in non-equilibrium statistical physics to analyse semantic information from a thermodynamic point of view. Our framework is grounded in the intrinsic dynamics of a system coupled to an environment, and is applicable to any physical system, living or otherwise. It leads to formal definitions of several concepts that have been intuitively understood to be related to semantic information, including \u2018value of information\u2019, \u2018semantic content\u2019 and \u2018agency\u2019.",
+      "title": "Semantic information, autonomous agency and non-equilibrium statistical physics",
+      "creators": [
+        {
+          "firstName": "Artemy",
+          "lastName": "Kolchinsky",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "David H.",
+          "lastName": "Wolpert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-04T08:07:43Z",
+      "dateModified": "2023-04-04T08:07:43Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/M6K3PDKK",
+      "itemID": 7361,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Texte int\u00e9gral",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-04T08:07:49Z",
+          "dateModified": "2023-04-04T08:07:49Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/D2AGINXK",
+          "path": "/Users/robert/Dropbox/zotero/storage/D2AGINXK/Kolchinsky et Wolpert - 2018 - Semantic information, autonomous agency and non-eq.pdf",
+          "select": "zotero://select/library/items/D2AGINXK"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kolchinsky2018",
+      "itemKey": "M6K3PDKK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/M6K3PDKK"
     },
     {
       "key": "V6W6UQZZ",
