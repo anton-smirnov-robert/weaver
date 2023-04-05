@@ -53,7 +53,9 @@ To characterize an identity you need:
 
 For instance, this makes the distinction between organisms having *homological* functions and *analogical* functions, because we need to precise a recent common ancestor say that it is identical. This prevents physicist to analyze the eye of mammal or cephalopods with the same optical model. To be identical means that you have the same historical origin (or hidden numerous relational properties) *and* that you can be described by the same physico-mathematical structure. 
 
-The characterization puts the emphasis on explaining how organisms maintain themselves in time, on stability. 
+The characterization of closure puts the emphasis on explaining how organisms maintain themselves in time, on stability. It actually determines what kind of variations is likely to be preserved and exclude other (like DNA mutation if you don't look at DNA). In that case, you will have a different functional regime and a change of identity (following our definition of identity). This is way you identity is *bounded* in time. 
+
+Also, while organizational proximity is an unjustified but a fundamental hypothesis in general, the use of closure *provides a theoretical support* for cross-generational organization proximity ([Mossio2022](reference/Mossio2022.md)). In other words, there is an argumentation for the "short arrow" in the viable organismal macrostate. If functional novelties take time and variations, you can use for several generations the same common ancestor as a reference. 
 
 
 ![](images/Pasted%20image%2020230404124000.png)
