@@ -18,21 +18,44 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "351d9c6fd1b5bd2d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ad93198efde2552a",
+            "id": "a92435c89b95fde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/Intuitive departure from physics and the principle of variations.md",
+                "file": "natural selection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "03bca47ea8fdf86c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bfa8d1dea12d20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/Montevil2020a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/Intuitive departure from physics and the principle of variations.md",
+                "file": "note on Montevil2020a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/Intuitive departure from physics and the principle of variations.md",
+                "file": "note on Montevil2020a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/Intuitive departure from physics and the principle of variations.md"
+                "file": "note on Montevil2020a.md"
               }
             }
           }
@@ -159,12 +182,17 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "ad93198efde2552a",
+  "active": "820b07bd6119a8b5",
   "lastOpenFiles": [
+    "natural selection.md",
     "note on Montevil2020a.md",
+    "note/note on Montevil2019a.md",
+    "concept/new possibility.md",
+    "reference/Lecointre2018.md",
+    "reference/Mossio2022.md",
+    "reference/Montevil2020a.md",
     "note/Intuitive departure from physics and the principle of variations.md",
     "note/note on Montevil2016 and Montevil2020.md",
-    "reference/Montevil2020a.md",
     "images/Pasted image 20230404124000.png",
     "note/note on Montevil2019.md",
     "concept/symmetrization.md",
@@ -188,11 +216,6 @@
     "note/note on Longo2012.md",
     "note/draft on the decline of theorization in science.md",
     "note/pre-note on the organicist tradition.md",
-    "note/note on Montevil2019a.md",
-    "note/note on Montevil2015.md",
-    "note/note on Montevil2021.md",
-    "templates/concept.md",
-    "templates/definition.md",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",

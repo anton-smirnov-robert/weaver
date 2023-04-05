@@ -42,14 +42,18 @@ The organizational approach of the relational conception of identity can be more
 
 However, there is the same problem of having to make explicit the entire closure (though now closure is to be established). Therefore, one uses *partial closure*. It is different from local biophysical models. Same objection: you miss stuffs. Yes but I have closure so I may capture more relevant stuffs (reciprocal stabilization of constraints). 
 
+In some experimental situation, a group of organism can share some *generic* properties. The only way for them to share aspects, here constraints, is from common history. In fact, closure can explain stability across generations ([Mossio2022](reference/Mossio2022.md)). At the evolutionnary time scale, [[natural selection]] provides the rationale. 
 
-### Hybrid historical and organizational aspects 
+### Hybrid identity
 
-In some experimental situation, a group of organism can share some *generic* properties. The only way for them to share aspects, here constraints is from common history (by principle of unpredictable variations). 
+To characterize an identity you need:
 
-The historical aspects refers to the change of phase space that are provocated by unpredictable variations. 
+- A *generic* description of *partial* closure to *abstract* a group of organisms and their environment (with means other organisms).
+- A *complementary* reference to a *recent* common ancestor to take into account the neglected aspects of the relational model (such as past contexts or fonctions). 
 
-The historicity is because, in a certain phase space,  there is a simple variation. In the other one, a new phase space is obtain and the latter is a phase space of functions that open new possibilities such that we do not go back. It is  stabilized (function). Why is it stabilized, because it has a functional role (it is produced and contributes in produces)
+For instance, this makes the distinction between organisms having *homological* functions and *analogical* functions, because we need to precise a recent common ancestor say that it is identical. This prevents physicist to analyze the eye of mammal or cephalopods with the same optical model. To be identical means that you have the same historical origin (or hidden numerous relational properties) *and* that you can be described by the same physico-mathematical structure. 
+
+The characterization puts the emphasis on explaining how organisms maintain themselves in time, on stability. 
 
 
 ![](images/Pasted%20image%2020230404124000.png)

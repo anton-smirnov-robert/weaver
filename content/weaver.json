@@ -9316,6 +9316,76 @@
       "select": "zotero://select/library/items/3ENVXMML"
     },
     {
+      "key": "R5DBPWB8",
+      "version": 0,
+      "itemType": "bookSection",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119452713.ch14",
+      "publisher": "John Wiley & Sons, Ltd",
+      "pages": "139-152",
+      "ISBN": "978-1-119-45271-3",
+      "date": "2018",
+      "extra": "Section: 14\n_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119452713.ch14\nDOI: 10.1002/9781119452713.ch14",
+      "accessDate": "2023-04-05T08:34:39Z",
+      "libraryCatalog": "Wiley Online Library",
+      "language": "en",
+      "abstractNote": "Modern natural history serves a federation of disciplines, and as such falls into a \u201cmeta-science\u201d of the diversity and history of objects, which makes it into a discipline following the institutional sense of the word. Natural history and evolution biology of the twentieth century have not completely removed idealism, where the dynamics of life are not fully understood because they are locked up into invariants, as if these latter would exist in the material world. Biology needed a principle of change to explain the evolution of species, but a principle of stability to explain the regularity in the structure and function of the body and its organs. The grade is a classification structure that designates a \u201cdegree of complexity\u201d, and that, taken in an evolutionist context, proclaims the degree of complexity. The notion of a body plan is used in articles on developmental genetics.",
+      "title": "The Boxes and their Content: What to Do with Invariants in Biology?",
+      "shortTitle": "The Boxes and their Content",
+      "creators": [
+        {
+          "firstName": "Guillaume",
+          "lastName": "Lecointre",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "body plan",
+          "type": 1
+        },
+        {
+          "tag": "evolutionary biology",
+          "type": 1
+        },
+        {
+          "tag": "genetic information",
+          "type": 1
+        },
+        {
+          "tag": "natural history",
+          "type": 1
+        },
+        {
+          "tag": "species concept",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-04-05T08:34:39Z",
+      "dateModified": "2023-04-05T08:34:39Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/R5DBPWB8",
+      "itemID": 7400,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-05T08:34:45Z",
+          "dateModified": "2023-04-05T08:34:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/DJFSHMWV",
+          "path": "/Users/robert/Dropbox/zotero/storage/DJFSHMWV/9781119452713.html",
+          "select": "zotero://select/library/items/DJFSHMWV"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Lecointre2018",
+      "itemKey": "R5DBPWB8",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/R5DBPWB8",
+      "publicationTitle": "Life Sciences, Information Sciences"
+    },
+    {
       "key": "ST2CHFJ6",
       "version": 0,
       "itemType": "journalArticle",
