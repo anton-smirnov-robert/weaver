@@ -26,14 +26,6 @@ On the other hand, the *relational* aspect says that a bat is a bat if it has th
 
 One could choose one or the other view and be satisftied because 1) based on Darwin's view of evolution or 2) just lack of epistemic knowledge but otherwise, it is good. Or we can say that both are need and complement each other. *It is always a matter of perspective.* Be careful not to confuse with synchronic and diachronic, it is not the same mapping. The relational conception has those two aspect, and the genealogical one also. 
 
->[!note] 
->
->Because parts are linked with one another in a circular way, we cannot isolate them without a proper justifications of the boundary conditions. For instance, if the boundary condition of my model depends on the result that I observe, how can I justify my boundary conditions in the first place. I need somehow a justification to say that if I have this phenomena, I can use my boundary coonditions. If I know for sure what I will obtain (from the beginning), I don't need to do a model. In other words, **boundary conditions or external parameters are always heuristics. They are suggestions that are validated a posteriori if the result of my model is compatible with sustaining this boundary condition (via closure)**. This validation amounts to justifying that your model (and its external parameters) have a biological function. In fact, not doing this means that you are studying something assuming that it has a biological function. You take for granted the specific values of your parameters and boundary conditions. With $\chi$, this can be done by the argument of natural selection!? That why the authors says that we need instances like Fig3b to use Fig3a ?
-
->[!warning]
->
->Another way to point out one limiting aspect of the epistemology of physics is that you boundary/initial conditions, external parameters of you equation does not depend on the results of your model. You fix it with a steady hand, the one of the manufacturer building the model as an artefact. 
-
 The idea is that the genealogical conception provides *whole organisms* as candidates for identity classes. The relational conception, in turn, details the relevant parts for the purpose of the model/experiment.
 
 ### Organization approach of the relational conception
@@ -44,18 +36,43 @@ However, there is the same problem of having to make explicit the entire closure
 
 In some experimental situation, a group of organism can share some *generic* properties. The only way for them to share aspects, here constraints, is from common history. In fact, closure can explain stability across generations ([Mossio2022](reference/Mossio2022.md)). At the evolutionnary time scale, [[natural selection]] provides the rationale. 
 
-### Hybrid identity
+### Hybrid and bounded identity
 
 To characterize an identity you need:
 
 - A *generic* description of *partial* closure to *abstract* a group of organisms and their environment (with means other organisms).
 - A *complementary* reference to a *recent* common ancestor to take into account the neglected aspects of the relational model (such as past contexts or fonctions). 
 
-For instance, this makes the distinction between organisms having *homological* functions and *analogical* functions, because we need to precise a recent common ancestor say that it is identical. This prevents physicist to analyze the eye of mammal or cephalopods with the same optical model. To be identical means that you have the same historical origin (or hidden numerous relational properties) *and* that you can be described by the same physico-mathematical structure. 
+For instance, this makes the distinction between organisms with funcitonnal ==*homology*== and ==*analogy*==, because we need to precise a recent common ancestor say that it is identical. This prevents physicist to analyze the eye of mammal or cephalopods with the same optical model. To be identical means that you have the same historical origin (or hidden numerous relational properties) *and* that you can be described by the same physico-mathematical structure. Therefore your identity is *hybrid*.
 
 The characterization of closure puts the emphasis on explaining how organisms maintain themselves in time, on stability. It actually determines what kind of variations is likely to be preserved and exclude other (like DNA mutation if you don't look at DNA). In that case, you will have a different functional regime and a change of identity (following our definition of identity). This is way you identity is *bounded* in time. 
 
 Also, while organizational proximity is an unjustified but a fundamental hypothesis in general, the use of closure *provides a theoretical support* for cross-generational organization proximity ([Mossio2022](reference/Mossio2022.md)). In other words, there is an argumentation for the "short arrow" in the viable organismal macrostate. If functional novelties take time and variations, you can use for several generations the same common ancestor as a reference. 
 
+The identity class shrinks when the common ancestors is more recent or when the relational aspects are more explicited. 
+
+### Introducing $\chi$
+
+$\chi$ is all what is not made explicit by the relational description, that is what has not been abstracted. It is a symbol in the etymological sense: it point to a specific and material object of the world. 
+
+$\chi$ is part of the closure. In some sense, $\chi$  could be unpacked into fully relational aspects that are generic, i.e. shared by individuals that stem from a common descent. However, this is not feasible in practice and would just use $\chi$ to fill the unknown. At the end of the day, this hybrid identity would be useless. In any case, $\chi$ is irreducible to fully relational aspect (be it for principled or practical reasons).
+
+Rather, $\chi$  is the reminder that some arguments should be given with a relational description. 
+
+Using $\chi$  to realize closure makes you think of justifying the closure by giving instances of partial closure with $\chi$ (see Fig3b). In fact, Fig3a is what is done in biophysics: it is implicitely assumed that closure is realized (i.e. that the result of my simulation maintain the boundary conditions I use) wihtout proper justifications. 
+
+
+>[!warning]
+>
+>Another way to point out one limiting aspect of the epistemology of physics is that you boundary/initial conditions, external parameters of you equation does not depend on the results of your model. You fix it with a steady hand, the one of the manufacturer building the model as an artefact. 
+
 
 ![](images/Pasted%20image%2020230404124000.png)
+
+The role that plays $\chi$  when linked to other constraints depends on what one knows about the organisms. For instance, it can be the place of a rationale for justifying some boundary conditions maintained by processes constrained generically, or how an explicited constrain helps maintaining some other generic process. In cases of partial closure, constraints necesserally have multiple functions. Cases of partial closure are needed to justify the use of biophysical models afterwards. In other words, the starting point is never the relational closure. It is always the hybrid closure with $\chi$.
+
+![](images/Pasted%20image%2020230405123654.png)
+
+If, from an identity class or diagram $\mathcal{D}^0$ you unpack some relational aspects from $\chi$ , you have a more restricted identity class or diagram $\mathcal{D}^1$. Depending on what you want to do, you might want to be more general and still use  $\mathcal{D}^0$. The knowledge of being able to define $\mathcal{D}^1$ is not lost and you ca define a ==*type*== $\mathcal{D}^0[\mathcal{D}^1]$, that is an instance of $\mathcal{D}^0$ that helps you argue about $\chi$  without commiting in expliciting it. The idea is to be able to be representative. You can also have more types $ $\mathcal{D}^0[\mathcal{D}^{1,1},\mathcal{D}^{1,2},...]$ to taken into account some diversity. This moves as an epistemological role: it shows that a diversity of explicted different constraints can maintain the same generic process for instance.
+
+Lastly, $\chi$ can accomodate for unpredictable variations that *may appear*. You can define types that are valid *at different times*: $\mathcal{D}_{t_1}^0[\mathcal{D}^{1,1}_{t_2},\mathcal{D}^{1,2}_{t_2},...]$. In other words, $\chi$ can be used as a "propulsive constraint", that is one that promotes the appearance of unpredictable novelties. In other words, we know that something will probably happen, but we don't know what.  However, to discuss the propulsive constraint, you need to use types to make it explicit because e.g. $\mathcal{D}^{1,1}_{t_2}$  does not include it.
