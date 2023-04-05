@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07cd6d5cb277cbac",
+        "id": "3bbc88a5a9e15bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "820b07bd6119a8b5",
+            "id": "452e470d9aa06e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note on Montevil2020a.md",
+                "file": "note/intuitive departure from physics and the principle of variations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note on Montevil2020a.md",
+                "file": "note/intuitive departure from physics and the principle of variations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note on Montevil2020a.md",
+                "file": "note/intuitive departure from physics and the principle of variations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note on Montevil2020a.md"
+                "file": "note/intuitive departure from physics and the principle of variations.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "820b07bd6119a8b5",
+  "active": "452e470d9aa06e35",
   "lastOpenFiles": [
+    "reference/Knuuttila2011.md",
+    "note on Montevil2020a.md",
     "images/Pasted image 20230405123654.png",
     "natural selection.md",
-    "note on Montevil2020a.md",
     "note/note on Montevil2019a.md",
     "concept/new possibility.md",
     "reference/Lecointre2018.md",
     "reference/Mossio2022.md",
     "reference/Montevil2020a.md",
-    "note/Intuitive departure from physics and the principle of variations.md",
+    "note/intuitive departure from physics and the principle of variations.md",
     "note/note on Montevil2016 and Montevil2020.md",
     "images/Pasted image 20230404124000.png",
     "note/note on Montevil2019.md",
@@ -186,7 +187,6 @@
     "images/Pasted image 20230320184008.png",
     "images/Pasted image 20230320111525.png",
     "projects/summary_of_theory",
-    "writing",
-    "images/Pasted image 20230118122044.png"
+    "writing"
   ]
 }
