@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0238d62f3645aeed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ce49d7a2672fd42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/open-ended evolution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
