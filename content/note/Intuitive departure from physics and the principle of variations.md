@@ -58,26 +58,38 @@ This is actually what we can observe for most organisms on a daily basis.
 However, in the phase space, the volume of microstate configurations in which the organism under scrutiny lives is extremly small with respect to the one where it is dead. 
 Indeed, there are a lot more atomic configurations that makes your dead, for instance when your atoms are scattered. The most probable macrostate being "death", an organism would eventually die, according to the second law of thermodynamics. This is indeed what we observe. 
 
-We have established the system takes a *lifetime* to access for the first time the largest macrostate of the system that we can label "death". Everyday observations tells us that we usually don't come back from this first incursion in the "death" macrostate. Similarly, particles in a box initially placed in one corner spread rapidly in the entire box, but do not go back in the corner even if they can, in principle. This is a matter of probabilities given a *physically relevant time of observation* $T_{\mathrm{phys}}$, which is central to our understanding of most systems in physics. $T_{\mathrm{phys}}$ corresponds to the time the system takes so that the duration of its visit of the different macrostates of the phase space is roughly proportional to their volume. For particles in a box, the volume of the macrostate corresponding to all of them being in one corner is so small that we even don't need the system to go there to describe the system very well. In general, we cannot know $T_{\mathrm{phys}}$ in advance, so that when we investigate a physical systems of particles, we have to make this as an hypothesis: the *ergodic hypothesis*. Another way yo put it is to say that if you scrutinize the system for a time larger than  $T_{\mathrm{phys}}$ , the measure of your observable —that are time-averaged quantities— won't change. 
+We have established the system takes a *lifetime* to access for the first time the largest macrostate of the system that we can label "death". Everyday observations tells us that we usually don't come back from this first incursion in the "death" macrostate. Similarly, particles in a box initially placed in one corner spread rapidly in the entire box, but do not go back in the corner even if they can, in principle. This is a matter of probabilities given a *physically relevant time of observation* $\tau_{\mathrm{phys}}$, which is central to our understanding of most systems in physics. $\tau_{\mathrm{phys}}$ corresponds to the time the system takes so that the duration of its visit of the different macrostates of the phase space is roughly proportional to their volume. For particles in a box, the volume of the macrostate corresponding to all of them being in one corner is so small that we even don't need the system to go there to describe the system very well. In general, we cannot know $\tau_{\mathrm{phys}}$ in advance, so that when we investigate a physical systems of particles, we have to make this as an hypothesis: the *ergodic hypothesis*. Another way yo put it is to say that if you scrutinize the system for a time larger than  $\tau_{\mathrm{phys}}$ , the measure of your observable —that are time-averaged quantities— won't change. 
 
-Coming back to our biological system, we have seen that if we wait long enough to be able to argue that our system might be ergodic on the basis that it has visited the two macrostates of our coarse-graining, the organism is dead. Together with the fact that the "death" macrostate is at least extremely larger than the "alive" one, we can conclude that for a *organismal relevant time of observation*  $T_{\mathrm{org}}$ —a lifetime—, the physical system under scrutiny is highly non-ergodic: $$T_{\mathrm{org}} \ll T_{\mathrm{phys}}.$$Accordingly, what is biologically interesting in physics happens *out-of-equilibrium*, that is outside the "equilibrium" or "death" macrostate. 
-
-We suggest to zoom in the "alive" macrostate and call it the biological system[^1], in contrast to the physical one that contains it.  
-When following the unpredictable trajectory of an organism in the biological system, we know that at some point it will jump out of it. 
-This is rather peculiar from a physico-mathematical point of view, because if we describe the phase space of the biological system, it amounts to predefining all possibilities for the states of the system where the organisms lives. 
-On the one hand, the zooming-in seems inevitable to reduce the immense complexity of the huge and useless —from  a biological perspective— physical system. 
-On the other hand, we know *for sure* that it will exit those predefined possibilities in order to die. 
-It seems that the most rational and practical thing to do is to predefinine possibilities, but to expect that unpredefined states may be reached. 
-Of course, we don't know what will be the trajectory so that there is a large part of unpredictbility even if it, here, it *must* exit the predefined possibilities. 
-
-We now evaluate the ergodicity of the biological system for the trajectory of our generic organism. 
-Let's make a coarse-graining of this macrostate by labelling regions corresponding name-bearing types of organisms.
-Observations tells us that an organism does not go through all living macrostates during its lifetime $T_{\mathrm{org}}$. 
-For instance, an elephant does not become a rat, then a flower, and finally a bacteria before dying.
+Coming back to our biological system, we have seen that if we wait long enough to be able to argue that our system might be ergodic on the basis that it has visited the two macrostates of our coarse-graining, the organism is dead. Together with the fact that the "death" macrostate is at least extremely larger than the "alive" one, we can conclude that for a *organismal relevant time of observation*  $\tau_{\mathrm{org}}$ —a lifetime—, the physical system under scrutiny is highly non-ergodic: $\tau_{\mathrm{org}} \ll  \tau_{\mathrm{phys}}.$ Accordingly, what is biologically interesting in physics happens *out-of-equilibrium*, that is outside the "equilibrium" or "death" macrostate. 
 
 
-This means that an organism only explores an extremely small part of the living macrostate during its lifetime . 
-Getting back to the global phase space, this means that the overall system is *highly non-ergodic, that is historical*.
+We now zoom in the "alive" macrostate and call it the biological system, in contrast to the physical one that contains it.  
+We can ascribe a physico-mathematical structure to it, notably by predefining all possibilities for the states of the system (phase space) where the organisms lives[^1]. 
+We now have two ways to *perceive* the system. 
+On the one hand, we have the global physical system described by an immense phase space, and where we know that a living organism will eventually enter the preponderant macrostate labelled "death". 
+On the other hand, we have the local biological system caracterized by a more practical and smaller phase space. However, defining this physico-mathematical structure requires predefining possibilities in which the dead state cannot be accomodated, by construction. 
+Chosing one of both physico-mathematical comes at a price. 
+The biological one seems inevitable to reduce the immense and useless (from a biological perspective) "death" macrostate of physical system. 
+However, the latter cannot accomodate the last but important stage of life, because we exclude this possibility by construction of the biological space. 
+In sum, *if we give up on trying to understand the deterministic but unpredictable trajectory of an organism in the huge and highly non-ergodic physical system, we need to adopt the physico-mathematical structure of the biological system while knowing that it will no longer be valid on the time scale of a lifetime $\tau_{\mathrm{org}}$.*
+It looks like if choose this perspective, our describtion becomes fragile, because we cannot rely on an invariant mathematical apparatus to describe the evolution of an organism. Then, how to know when it breaks down? For how long is it valid? 
+It seems that we encounter a new strong sense of randomness because what is not predefined can happen from this perspective. 
+However, we do not face the stronger sort of unpredictability here because, even if we cannot say how or when (that is by following which trajectory), we know *for sure* that death will happen.
+
+We now evaluate the ergodicity of the biological system for the trajectory of our generic organism during it lifetime $\tau_{\mathrm{org}}$.
+Let's make a coarse-graining of this system by labelling regions corresponding to species.
+We will agree on the fact that an organism does not go through all living macrostates during its lifetime $\tau_{\mathrm{org}}$. 
+For instance, an elephant does not become a cornflower, then a rat, then a diplodocus, and finally an *E.coli* bacteria before dying.
+In other words, on the time scale of $\tau_{\mathrm{org}}$, the biological system is also highly non-ergodic.
+
+A seemingly more challenging evaluation would be to ask if the biological system is ergodic on the time scale of biological evolution $\tau_{\mathrm{bio}}\sim 10^9$ years. In other words, did the universe explored all the possibilities for living organisms? 
+
+Accordingly, we might want to adopt the same strategy as described above.
+We will consider different local physico-mathematical structures that are valid on the time scale of $\tau_{\mathrm{org}}$. 
+
+Moreover, we can also detail all macrostates , it seems like for all species
+
+What 
 Genericity, specificity, historicity, unpredictability.
 
 
@@ -92,7 +104,12 @@ An estimation for the bacteria *E.coli*:   $2^{4.6\times 10^{10}}$[Morowitz1955
 So how fast can we expect an organism to go to it? We will come back to this. 
 
 
-[^1]: Of course, we face major difficulties in practice to define such a macrostate because we do not *understand* the living attribute of an organism based on its atomic positons and velocities. However, it can define in principle, at least as the states in the phase space that points to (short sequences of) configurations of atoms that a human would acknowledge as alive. 
+[^1]: Of course, we face major difficulties in practice to define such a macrostate because we do not *understand* the living attribute of an organism based on its atomic positons and velocities. However, it can define in principle, at least as the states in the phase space that points to configurations of atoms that a human would recognize as alive. 
+
+
+
+
+
 
 
 
