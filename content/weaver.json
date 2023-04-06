@@ -96,7 +96,7 @@
   },
   "version": {
     "zotero": "6.0.23",
-    "bbt": "6.7.64"
+    "bbt": "6.7.67"
   },
   "collections": {},
   "items": [
@@ -12443,6 +12443,55 @@
       "itemKey": "N6GH3DXA",
       "libraryID": 1,
       "select": "zotero://select/library/items/N6GH3DXA"
+    },
+    {
+      "key": "ACRZ2UH2",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://link.springer.com/10.1007/BF02477985",
+      "volume": "17",
+      "issue": "2",
+      "pages": "81-86",
+      "publicationTitle": "The Bulletin of Mathematical Biophysics",
+      "ISSN": "0007-4985, 1522-9602",
+      "date": "6/1955",
+      "journalAbbreviation": "Bulletin of Mathematical Biophysics",
+      "DOI": "10.1007/BF02477985",
+      "accessDate": "2023-04-06T10:47:18Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Some order-disorder considerations in living systems",
+      "creators": [
+        {
+          "firstName": "Harold J.",
+          "lastName": "Morowitz",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-06T10:47:18Z",
+      "dateModified": "2023-04-06T10:47:18Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ACRZ2UH2",
+      "itemID": 7406,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Morowitz - 1955 - Some order-disorder considerations in living syste.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-06T10:47:15Z",
+          "dateModified": "2023-04-06T10:47:19Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GAZC8M5D",
+          "path": "/Users/robert/Dropbox/zotero/storage/GAZC8M5D/Morowitz - 1955 - Some order-disorder considerations in living syste.pdf",
+          "select": "zotero://select/library/items/GAZC8M5D"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Morowitz1955a",
+      "itemKey": "ACRZ2UH2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ACRZ2UH2"
     },
     {
       "key": "DSXKSEJH",
