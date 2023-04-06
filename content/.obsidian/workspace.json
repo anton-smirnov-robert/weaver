@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/intuitive departure from physics and the principle of variations.md",
+                "file": "note/principle of variation from physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/intuitive departure from physics and the principle of variations.md",
+                "file": "note/principle of variation from physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/intuitive departure from physics and the principle of variations.md",
+                "file": "note/principle of variation from physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/intuitive departure from physics and the principle of variations.md"
+                "file": "note/principle of variation from physics.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "452e470d9aa06e35",
   "lastOpenFiles": [
+    "note/pre-note on the organicist tradition.md",
+    "note/principle of variation from physics.md",
+    "concept/theoretical gaps.md",
+    "note/draft on the decline of theorization in science.md",
+    "images/Pasted image 20230406174519.png",
+    "images/Pasted image 20230406174512.png",
     "concept/natural selection.md",
-    "note/intuitive departure from physics and the principle of variations.md",
     "concept/open-ended evolution.md",
     "reference/Ruiz-Mirazo2004.md",
     "reference/Morowitz1955a.md",
@@ -177,15 +182,10 @@
     "Sans titre 1.md",
     "images/Pasted image 20230403194022.png",
     "projects/table of content.md",
-    "PhD project.md",
-    "PhD project_french.md",
-    "projects/TODO.md",
     "images/Pasted image 20230331170857.png",
     "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "images/Pasted image 20230324225643.png",
-    "images/Pasted image 20230320184008.png",
-    "images/Pasted image 20230320111525.png",
     "projects/summary_of_theory",
     "writing"
   ]
