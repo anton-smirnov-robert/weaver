@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/open-ended evolution.md",
+                "file": "note/intuitive departure from physics and the principle of variations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/open-ended evolution.md",
+                "file": "note/intuitive departure from physics and the principle of variations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/open-ended evolution.md"
+                "file": "note/intuitive departure from physics and the principle of variations.md"
               }
             }
           }
@@ -164,16 +164,16 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6ce49d7a2672fd42",
+  "active": "452e470d9aa06e35",
   "lastOpenFiles": [
-    "reference/Ruiz-Mirazo2004.md",
-    "concept/open-ended evolution.md",
+    "concept/natural selection.md",
     "note/intuitive departure from physics and the principle of variations.md",
+    "concept/open-ended evolution.md",
+    "reference/Ruiz-Mirazo2004.md",
     "reference/Morowitz1955a.md",
     "reference/Knuuttila2011.md",
     "note on Montevil2020a.md",
     "images/Pasted image 20230405123654.png",
-    "natural selection.md",
     "note/note on Montevil2019a.md",
     "concept/new possibility.md",
     "reference/Lecointre2018.md",

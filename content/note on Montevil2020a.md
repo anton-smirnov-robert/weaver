@@ -34,7 +34,7 @@ The organizational approach of the relational conception of identity can be more
 
 However, there is the same problem of having to make explicit the entire closure (though now closure is to be established). Therefore, one uses *partial closure*. It is different from local biophysical models. Same objection: you miss stuffs. Yes but I have closure so I may capture more relevant stuffs (reciprocal stabilization of constraints). 
 
-In some experimental situation, a group of organism can share some *generic* properties. The only way for them to share aspects, here constraints, is from common history. In fact, closure can explain stability across generations ([Mossio2022](reference/Mossio2022.md)). At the evolutionnary time scale, [[natural selection]] provides the rationale. 
+In some experimental situation, a group of organism can share some *generic* properties. The only way for them to share aspects, here constraints, is from common history. In fact, closure can explain stability across generations ([Mossio2022](reference/Mossio2022.md)). At the evolutionnary time scale, [[concept/natural selection]] provides the rationale. 
 
 ### Hybrid and bounded identity
 

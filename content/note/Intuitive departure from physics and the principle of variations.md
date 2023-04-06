@@ -82,14 +82,12 @@ We will agree on the fact that an organism does not go through all living macros
 For instance, an elephant does not become a cornflower, then a rat, then a diplodocus, and finally an *E.coli* bacteria before dying.
 In other words, on the time scale of $\tau_{\mathrm{org}}$, the biological system is also highly non-ergodic.
 
-A seemingly more challenging evaluation would be to ask if the biological system is ergodic on the time scale of biological evolution $\tau_{\mathrm{bio}}\sim 10^9$ years. In other words, did the universe explored all the possibilities for living organisms? 
+A seemingly more challenging question would be to ask if the biological system is ergodic on the time scale of biological evolution $\tau_{\mathrm{bio}}\sim 10^9$ years. This requires going beyong our single organism picture to include reproduction, but this is not difficult. We consider that before dying, an organism give rise to a new life form somewhere in the biological space. However, and this the fundamental hypothesis of heredity, the starting point of the offspring's trajectory is close (let's say in the same macrostate defining the species) to the point where the parent has reproduced. We consider that organism are independent so we can represent all trajectories on the same picture (Fig.). 
 
-Accordingly, we might want to adopt the same strategy as described above.
-We will consider different local physico-mathematical structures that are valid on the time scale of $\tau_{\mathrm{org}}$. 
+Now, we ask, are all the possibilities of living organisms explored since the first living beings appeared on Earth? Darwin first understood that the myriad of life forms we can observe nowadays were not created at once, but had a common origin. Their unbounded diversification on the time scale of $\tau_{\mathrm{bio}}$  come from the mechanism of "descent with modification". In other words, the idea of an *open-ended evolution* —that all observations support for the past and that we have all reasons to believe that it still occuring— is equivalent to saying that our biological system is not ergodic on the time scale of $\tau_{\mathrm{bio}}$ .
 
-Moreover, we can also detail all macrostates , it seems like for all species
 
-What 
+
 Genericity, specificity, historicity, unpredictability.
 
 
