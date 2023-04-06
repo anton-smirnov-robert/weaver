@@ -12,10 +12,12 @@ tags:
 
 ### On theoretical gaps and changes of perspectives
 
+" a way to understand"
+
 When we face a problem that we struggle to solve, it is common to say that we need to change perspective. 
 Roughly, this means starting from a "kludged" new set of acceptable axioms from which we can solve our problem more easily.
 When the problem is solved, you usually see the logical path that we could have taken from our first perspective. 
-Our problem was that we did not find the pathwayin the first case, but it existed.
+Our problem was that we did not find the pathway in the first case, but it existed.
 In fact, there is a lot of chance that your "kludged" new set of acceptable axioms and your initial ones are actually reducible to a common set of axioms. 
 
 However, for more conceptually involved questions, such as scientific ones, you may not find such a pathway when you have solved you problem from a new perspective.
@@ -46,16 +48,27 @@ This is to avoid **incommensurability**.
 #### Old
 
 For classical mechanics or thermodynamics, a generic organism and its environment constitute a large enough closed system. 
-The phase space is the position and momenta of all atoms in the system. 
-A equation governs the movement of atoms, starting from an living organism and an appropriate environnement state. 
-The trajectory is deterministic but unpredictable for epistemic reasons—we are not Laplacian deamons— or practical reasons — if it is chaotic. 
-Propagating the trajectory of the time scale of some minutes, hours, or even years would certainly not kill our generic organism. 
-This is certainly the case for most organisms, as we can observe everyday.
-However, the volume of microstate configurations in which the organism under scrutiny lives is extremly small with respect to the one where it is dead. 
-According to the second law of thermodynamics and Boltzmann's reasoning, the organism should be dead quasi-instantaneously!
-Of course, the entropy of the organism—with an appropriate definition— may not increase if the one of its environement does.
-However, in the global phase space, the state of the system takes a *lifetime* to access for the first time the largest macrostate of the system that we can label "death" or "equilibrium".
-In other words, if we wait long enough to be able to argue that our system *might* be ergodic on the basis that it has visited the two macrostates of our coarse-graining, our object would be qualified as dead by biologists. 
+Here we consider only one organism, but the discussion is the same for multiple independent ones.
+We consider the phase space as the position and momenta of all atoms in this enormous global system. 
+An equation governs the trajectory of the system's state, starting from a state corresponding to living organism and an appropriate environnement state. 
+The trajectory is deterministic but unpredictable to us for epistemic reasons—we are not Laplacian deamons— or for practical reasons, if it is chaotic. 
+Propagating the trajectory of the time scale of some minutes, hours, or even years would most probably not kill our generic organism. 
+This is actually what we can observe for most organisms on a daily basis.
+
+However, in the phase space, the volume of microstate configurations in which the organism under scrutiny lives is extremly small with respect to the one where it is dead. 
+	Indeed, there are a lot more atomic configurations that makes your dead, for instance when your atoms are scattered. For 
+Actually   $2^{46 000 000}$
+ 
+The most probable macrostate being "death", an organism would eventually die, according to the second law of thermodynamics. 
+This is indeed what we observe. 
+
+In any case, we have agreed on the fact that the state of the system takes a *lifetime* to access for the first time the largest macrostate of the system that we can label "death". Everyday observations tells us that we usually don't come back from this first entry in the "death" macrostate. Similarly, particles in a box initially placed in one corner spread rapidly in the entire box, but do not go back in the corner even if they can, in principle. This is a matter of probabilities given a *physically relevant time of observation* $T_{\mathrm{phys}}$, which central to our understanding of most systems in physics.
+
+$T_{\mathrm{phys}}$ corresponds to the time the system takes so that the duration of its visit of the different macrostates of the phase space is roughly proportional to their volume. For particles in a box, the volume of the macrostate corresponding to all of them being in one corner is so small that we even don't need the system to go there to describe the system very well. In general, we cannot know $T_{\mathrm{phys}}$ in advance, so that when we investigate a physical systems of particles, we have to make this as an hypothesis: the *ergodic hypothesis*. Another way yo put it is to say that if you scrutinize the system for a time larger than  $T_{\mathrm{phys}}$ , the measure of your observable —that are time-averaged quantities— won't change. 
+
+Coming back to our biological system, we have seen that if we wait long enough to be able to argue that our system *might* be ergodic on the basis that it has entered the two macrostates of our coarse-graining, the organism is dead. Together with the fact that the "death" macrostate is at least extremely larger than the "alive" one as we have established earlier, we can conclude that for a *biological relevant time of observation*  $T_{\mathrm{bio}}$ —a lifetime—, the physical system under scrutiny is highly non-ergodic: $$T_{\mathrm{bio}} \ll T_{\mathrm{phys}}.$$ 
+
+
 Therefore, everything that is of interest for biology in physics happens *out-of-equilibrium*.
 
 Moreover, let's precise how non-ergodic is the system on the timescale of a lifetime. 
@@ -67,9 +80,18 @@ This means that an organism only explores an extremely small part of the living 
 Getting back to the global phase space, this means that the overall system is *highly non-ergodic, that is historical*.
 
 
+Genericity, specificity, historicity, unpredictability.
+
 
 How does all organisms span on this region?
 Is the natural history of evolution on the unnivser also non-ergodic ?K
+
+
+
+Need to explain closure.
+Now, according to Boltzmann reasonning, the larger the volume of the most probable macrostate, the faster you get to it. 
+So how fast can we expect an organism to go to it? We will come back to this. 
+
 
 [^1]: Of course, we face major difficulties in practice to define such a macrostate because we do not *understand* the living attribute of an organism based on its atomic positons and velocities. However, it can define in principle, at least as the states in the phase space that points to (short sequences of) configurations of atoms that a human would acknowledge as alive. 
 
