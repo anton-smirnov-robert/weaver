@@ -5547,6 +5547,46 @@
       "select": "zotero://select/library/items/EI4TL4D6"
     },
     {
+      "key": "ZPGI98LC",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Westview Press",
+      "date": "1972",
+      "title": "Statistical mechanics: a set of lectures",
+      "shortTitle": "Statistical mechanics",
+      "creators": [
+        {
+          "firstName": "Richard P.",
+          "lastName": "Feynman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-07T08:24:16Z",
+      "dateModified": "2023-04-07T08:29:06Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZPGI98LC",
+      "itemID": 7408,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-07T08:24:31Z",
+          "dateModified": "2023-04-07T08:24:31Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/6J5WNBKE",
+          "path": "/Users/robert/Dropbox/zotero/storage/6J5WNBKE/statistical-mechanics-richard-feynman.html",
+          "select": "zotero://select/library/items/6J5WNBKE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Feynman1972",
+      "itemKey": "ZPGI98LC",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZPGI98LC"
+    },
+    {
       "key": "GJLNHP5X",
       "version": 0,
       "itemType": "journalArticle",
