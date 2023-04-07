@@ -58,7 +58,10 @@ In sum, the observation of the open-ended evolution at the time scale $\tau_{\ma
 Let's conclude, the physico-mathematical structure to describe an organism is not stable with respect to the flow of time, and change in an unpredictable way. An organism results from a history of unpredictable changes of physico-mathematical structures. Because, of this strong randomness, organisms all differ *qualitatively* by principle. ==Organisms are specific objects.==
 
 
-Need to explain closure.([Schrodinger1944](reference/Schrodinger1944.md)).
+- Genealogy is a precious reference point! (identity of organisms)
+
+
+- Need to explain closure.([Schrodinger1944](reference/Schrodinger1944.md)).
 Now, according to Boltzmann reasonning, the larger the volume of the most probable macrostate, the faster you get to it. 
 An estimation for the bacteria *E.coli*:   $2^{4.6\times 10^{10}}$[Morowitz1955a](reference/Morowitz1955a.md)
 So how fast can we expect an organism to go to it? We will come back to this. 
