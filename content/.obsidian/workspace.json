@@ -11,8 +11,12 @@
             "id": "13439d25f2b2a475",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/principle of variation from physics, the Truman model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/principle of variation from physics, the Truman model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/principle of variation from physics, the Truman model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/principle of variation from physics, the Truman model.md"
+              }
             }
           }
         ]
@@ -140,10 +148,11 @@
   },
   "active": "13439d25f2b2a475",
   "lastOpenFiles": [
+    "Sans titre.md",
+    "note/principle of variation from physics, the Truman model.md",
     "note/note on Montevil2020a.md",
     "note/note on Montevil2019.md",
     "note/note on Montevil2021.md",
-    "note/principle of variation from physics, the Truman model.md",
     "reference/Feynman1972.md",
     "reference/Feynman2018.md",
     "reference/Palmer1982.md",
@@ -169,7 +178,6 @@
     "concept/epistemology of physics.md",
     "reference/Feynman2017.md",
     "reference/Feynman1967.md",
-    "concept/biological measurement.md",
     "images/Pasted image 20230403204846.png",
     "images/Pasted image 20230403203403.png",
     "images/Pasted image 20230403202109.png",
