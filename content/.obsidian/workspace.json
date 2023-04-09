@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3bbc88a5a9e15bfd",
+        "id": "54ff0c914b1e5b55",
         "type": "tabs",
         "children": [
           {
-            "id": "452e470d9aa06e35",
+            "id": "13439d25f2b2a475",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/principle of variation from physics, the Truman model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/principle of variation from physics, the Truman model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/principle of variation from physics, the Truman model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/principle of variation from physics, the Truman model.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "452e470d9aa06e35",
+  "active": "13439d25f2b2a475",
   "lastOpenFiles": [
+    "note/note on Montevil2020a.md",
+    "note/note on Montevil2019.md",
+    "note/note on Montevil2021.md",
+    "note/principle of variation from physics, the Truman model.md",
     "reference/Feynman1972.md",
     "reference/Feynman2018.md",
-    "note/principle of variation from physics, the Truman model.md",
     "reference/Palmer1982.md",
     "note/pre-note on the organicist tradition.md",
     "concept/theoretical gaps.md",
@@ -162,7 +157,6 @@
     "reference/Ruiz-Mirazo2004.md",
     "reference/Morowitz1955a.md",
     "reference/Knuuttila2011.md",
-    "note on Montevil2020a.md",
     "images/Pasted image 20230405123654.png",
     "note/note on Montevil2019a.md",
     "concept/new possibility.md",
@@ -171,13 +165,11 @@
     "reference/Montevil2020a.md",
     "note/note on Montevil2016 and Montevil2020.md",
     "images/Pasted image 20230404124000.png",
-    "note/note on Montevil2019.md",
     "concept/symmetrization.md",
     "concept/epistemology of physics.md",
     "reference/Feynman2017.md",
     "reference/Feynman1967.md",
     "concept/biological measurement.md",
-    "symmetrization.md",
     "images/Pasted image 20230403204846.png",
     "images/Pasted image 20230403203403.png",
     "images/Pasted image 20230403202109.png",

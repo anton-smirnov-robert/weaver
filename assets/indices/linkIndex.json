@@ -916,6 +916,18 @@
           "text": "Mossio2014"
         }
       ],
+      "/concept/natural-selection": [
+        {
+          "source": "/concept/natural-selection",
+          "target": "/reference/Lecointre2018",
+          "text": "Lecointre2018"
+        },
+        {
+          "source": "/concept/natural-selection",
+          "target": "/reference/Lecointre2018",
+          "text": "Lecointre2018"
+        }
+      ],
       "/concept/negentropy": [
         {
           "source": "/concept/negentropy",
@@ -1140,23 +1152,6 @@
           "source": "/definition/systematics",
           "target": "/definition/taxonomy",
           "text": "taxonomy"
-        }
-      ],
-      "/note-on-Montevil2020a": [
-        {
-          "source": "/note-on-Montevil2020a",
-          "target": "/reference/Montevil2020a",
-          "text": "Montevil2020a"
-        },
-        {
-          "source": "/note-on-Montevil2020a",
-          "target": "/concept/symmetrization",
-          "text": "symmetrization"
-        },
-        {
-          "source": "/note-on-Montevil2020a",
-          "target": "/note/note-on-Montevil2019",
-          "text": "note on Montevil2019"
         }
       ],
       "/note/draft-on-the-decline-of-theorization-in-science": [
@@ -1991,6 +1986,48 @@
           "text": "new possibility"
         }
       ],
+      "/note/note-on-Montevil2020a": [
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Montevil2020a",
+          "text": "Montevil2020a"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/concept/symmetrization",
+          "text": "symmetrization"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/note/note-on-Montevil2019",
+          "text": "note on Montevil2019"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/note/note-on-Montevil2016-and-Montevil2020",
+          "text": "note on Montevil2016 and Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Mossio2022",
+          "text": "Mossio2022"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/concept/natural-selection",
+          "text": "concept/natural selection"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Mossio2022",
+          "text": "Mossio2022"
+        }
+      ],
       "/note/note-on-Montevil2021": [
         {
           "source": "/note/note-on-Montevil2021",
@@ -2670,6 +2707,13 @@
           "text": "mechanistic system"
         }
       ],
+      "/concept/natural-selection": [
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/concept/natural-selection",
+          "text": "concept/natural selection"
+        }
+      ],
       "/concept/negentropy": [
         {
           "source": "/concept/Brillouins-relation-between-entropy-and-information",
@@ -2769,7 +2813,7 @@
           "text": "symmetrization"
         },
         {
-          "source": "/note-on-Montevil2020a",
+          "source": "/note/note-on-Montevil2020a",
           "target": "/concept/symmetrization",
           "text": "symmetrization"
         }
@@ -3061,11 +3105,16 @@
           "source": "/note/note-on-Montevil2019",
           "target": "/note/note-on-Montevil2016-and-Montevil2020",
           "text": "note on Montevil2016 and Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/note/note-on-Montevil2016-and-Montevil2020",
+          "text": "note on Montevil2016 and Montevil2020"
         }
       ],
       "/note/note-on-Montevil2019": [
         {
-          "source": "/note-on-Montevil2020a",
+          "source": "/note/note-on-Montevil2020a",
           "target": "/note/note-on-Montevil2019",
           "text": "note on Montevil2019"
         }
@@ -3852,6 +3901,18 @@
           "text": "Lazebnik2018"
         }
       ],
+      "/reference/Lecointre2018": [
+        {
+          "source": "/concept/natural-selection",
+          "target": "/reference/Lecointre2018",
+          "text": "Lecointre2018"
+        },
+        {
+          "source": "/concept/natural-selection",
+          "target": "/reference/Lecointre2018",
+          "text": "Lecointre2018"
+        }
+      ],
       "/reference/LiVigni2021": [
         {
           "source": "/definition/Groupe-des-Dix",
@@ -4149,6 +4210,11 @@
           "source": "/note/note-on-Montevil2016-and-Montevil2020",
           "target": "/reference/Montevil2020",
           "text": "Montevil2020"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Montevil2020",
+          "text": "Montevil2020"
         }
       ],
       "/reference/Montevil2020a": [
@@ -4163,7 +4229,7 @@
           "text": "Montevil2020a"
         },
         {
-          "source": "/note-on-Montevil2020a",
+          "source": "/note/note-on-Montevil2020a",
           "target": "/reference/Montevil2020a",
           "text": "Montevil2020a"
         }
@@ -4275,6 +4341,18 @@
           "source": "/note/note-on-Mossio2014",
           "target": "/reference/Mossio2014",
           "text": "Mossio2014"
+        }
+      ],
+      "/reference/Mossio2022": [
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Mossio2022",
+          "text": "Mossio2022"
+        },
+        {
+          "source": "/note/note-on-Montevil2020a",
+          "target": "/reference/Mossio2022",
+          "text": "Mossio2022"
         }
       ],
       "/reference/Muller2003": [
@@ -5612,6 +5690,16 @@
       "text": "Mossio2014"
     },
     {
+      "source": "/concept/natural-selection",
+      "target": "/reference/Lecointre2018",
+      "text": "Lecointre2018"
+    },
+    {
+      "source": "/concept/natural-selection",
+      "target": "/reference/Lecointre2018",
+      "text": "Lecointre2018"
+    },
+    {
       "source": "/concept/negentropy",
       "target": "/reference/Schrodinger1944",
       "text": "Schrodinger1944"
@@ -6612,6 +6700,46 @@
       "text": "new possibility"
     },
     {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/reference/Montevil2020a",
+      "text": "Montevil2020a"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/concept/symmetrization",
+      "text": "symmetrization"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/note/note-on-Montevil2019",
+      "text": "note on Montevil2019"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/reference/Montevil2020",
+      "text": "Montevil2020"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/note/note-on-Montevil2016-and-Montevil2020",
+      "text": "note on Montevil2016 and Montevil2020"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/reference/Mossio2022",
+      "text": "Mossio2022"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/concept/natural-selection",
+      "text": "concept/natural selection"
+    },
+    {
+      "source": "/note/note-on-Montevil2020a",
+      "target": "/reference/Mossio2022",
+      "text": "Mossio2022"
+    },
+    {
       "source": "/note/note-on-Montevil2021",
       "target": "/reference/Montevil2021",
       "text": "Montevil2021"
@@ -6830,21 +6958,6 @@
       "source": "/note/pre-note-on-the-organicist-tradition",
       "target": "/reference/Kauffman2000",
       "text": "Kauffman2000"
-    },
-    {
-      "source": "/note-on-Montevil2020a",
-      "target": "/reference/Montevil2020a",
-      "text": "Montevil2020a"
-    },
-    {
-      "source": "/note-on-Montevil2020a",
-      "target": "/concept/symmetrization",
-      "text": "symmetrization"
-    },
-    {
-      "source": "/note-on-Montevil2020a",
-      "target": "/note/note-on-Montevil2019",
-      "text": "note on Montevil2019"
     },
     {
       "source": "/reference/Polanyi1962",
