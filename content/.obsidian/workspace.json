@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/différance of organisms.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "759e61092573ef67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2f6def24d33afe0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concept/epistemology of physics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/différance of organisms.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/différance of organisms.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/différance of organisms.md"
+                "file": "note/différance and deconstruction in biology.md"
               }
             }
           }
@@ -180,7 +162,7 @@
   "active": "09822287a7191472",
   "lastOpenFiles": [
     "concept/epistemology of physics.md",
-    "note/différance of organisms.md",
+    "note/différance and deconstruction in biology.md",
     "note/principle of variation from physics.md",
     "reference/Derrida2019.md",
     "reference/Stiegler2020a.md",

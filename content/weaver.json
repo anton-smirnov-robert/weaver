@@ -7640,6 +7640,70 @@
       "select": "zotero://select/library/items/2BR47MBC"
     },
     {
+      "key": "EXZRL2WA",
+      "version": 0,
+      "itemType": "preprint",
+      "url": "http://arxiv.org/abs/2303.01809",
+      "date": "2023-03-03",
+      "extra": "arXiv:2303.01809 [q-bio]",
+      "accessDate": "2023-04-10T16:06:06Z",
+      "libraryCatalog": "arXiv.org",
+      "language": "en",
+      "abstractNote": "Autocatalytic sets are self-catalyzing and self-sustaining chemical reaction networks that are believed to have played an important role in the origin of life. They have been studied extensively both theoretically as well as experimentally. This short note provides (1) a complete and formal de\ufb01nition of autocatalytic sets (or RAF sets), and (2) an e\ufb03cient algorithm to detect such sets in arbitrary reaction networks. Although both have been presented in various forms in earlier publications, this note serves as a concise and convenient reference.",
+      "title": "A Concise and Formal Definition of RAF Sets and the RAF Algorithm",
+      "creators": [
+        {
+          "firstName": "Wim",
+          "lastName": "Hordijk",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Quantitative Biology - Molecular Networks",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-04-10T16:06:06Z",
+      "dateModified": "2023-04-10T16:06:07Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/EXZRL2WA",
+      "itemID": 7427,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Hordijk - 2023 - A Concise and Formal Definition of RAF Sets and th.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-10T16:06:02Z",
+          "dateModified": "2023-04-10T16:06:08Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/AQ2DIY26",
+          "path": "/Users/robert/Dropbox/zotero/storage/AQ2DIY26/Hordijk - 2023 - A Concise and Formal Definition of RAF Sets and th.pdf",
+          "select": "zotero://select/library/items/AQ2DIY26"
+        }
+      ],
+      "notes": [
+        {
+          "key": "LSGUM3CB",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "EXZRL2WA",
+          "note": "Comment: 7 pages, 1 figure",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-04-10T16:06:06Z",
+          "dateModified": "2023-04-10T16:06:06Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LSGUM3CB"
+        }
+      ],
+      "citationKey": "Hordijk2023",
+      "itemKey": "EXZRL2WA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EXZRL2WA",
+      "number": "arXiv:2303.01809",
+      "publisher": "arXiv"
+    },
+    {
       "key": "FW4ETXGQ",
       "version": 0,
       "itemType": "journalArticle",
