@@ -36,7 +36,7 @@ Another aspect of deconstruction is to find justification for the parameters tha
 Don't take for granted the use of specific values of parameters that allow you to write down the physical system or boundary/initial conditions. 
 
 
-### Deconstruction of formal grammars and the closure of *grammē*. 
+### Deconstruction of formal grammars and the closure of *grammes*. 
 
 The deconstruction of formal grammars amounts to materializing symbols.
 A set of sentences, as material traces that belong to a language, is produced by assembling letters (atoms) from a irreducible alphabet according to production rules (physical laws). 
