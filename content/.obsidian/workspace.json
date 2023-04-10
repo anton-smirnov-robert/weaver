@@ -11,11 +11,28 @@
             "id": "2ebab55220718256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "note/principle of variation from physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09822287a7191472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/différance of organisms.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/pre-note on the organicist tradition.md",
+                "file": "note/différance of organisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/pre-note on the organicist tradition.md",
+                "file": "note/différance of organisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/pre-note on the organicist tradition.md"
+                "file": "note/différance of organisms.md"
               }
             }
           }
@@ -142,10 +159,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "09822287a7191472",
   "lastOpenFiles": [
-    "note/draft on the decline of theorization in science.md",
+    "reference/Stiegler2020a.md",
     "note/principle of variation from physics.md",
+    "note/différance of organisms.md",
+    "note/draft on the decline of theorization in science.md",
     "images/Pasted image 20230410100952.png",
     "note/note on Montevil2019a.md",
     "images/from_physics_to_biology.pdf",
@@ -174,7 +193,6 @@
     "images/Pasted image 20230404124000.png",
     "concept/symmetrization.md",
     "concept/epistemology of physics.md",
-    "reference/Feynman2017.md",
     "images/Pasted image 20230403204846.png",
     "images/Pasted image 20230403203403.png",
     "images/Pasted image 20230403202109.png",
