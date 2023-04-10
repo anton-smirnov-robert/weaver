@@ -4721,6 +4721,57 @@
       "select": "zotero://select/library/items/FS383VF2"
     },
     {
+      "key": "XYHDBDNP",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "M\u00e9dia Diffusion",
+      "date": "2019",
+      "libraryCatalog": "Google Scholar",
+      "title": "L'\u00e9criture et la diff\u00e9rence",
+      "creators": [
+        {
+          "firstName": "Jacques",
+          "lastName": "Derrida",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-10T10:24:46Z",
+      "dateModified": "2023-04-10T10:24:46Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/XYHDBDNP",
+      "itemID": 7423,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-10T10:24:49Z",
+          "dateModified": "2023-04-10T10:24:49Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/PLT6U57U",
+          "path": "/Users/robert/Dropbox/zotero/storage/PLT6U57U/Derrida - 2019 - L'\u00e9criture et la diff\u00e9rence.pdf",
+          "select": "zotero://select/library/items/PLT6U57U"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-10T10:24:58Z",
+          "dateModified": "2023-04-10T10:24:58Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/INERUXNW",
+          "path": "/Users/robert/Dropbox/zotero/storage/INERUXNW/books.html",
+          "select": "zotero://select/library/items/INERUXNW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Derrida2019",
+      "itemKey": "XYHDBDNP",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XYHDBDNP"
+    },
+    {
       "key": "7JVGIGAI",
       "version": 0,
       "itemType": "webpage",
