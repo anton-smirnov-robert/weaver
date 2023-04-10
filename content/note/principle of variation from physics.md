@@ -41,6 +41,7 @@ If we need a biophysical model for all organisms and that the latter needs to be
  
 Therefore, we are mixing two epistemologies: we define an organism by referring to its genealogy *and* some physico-mathematical models! Each organism has its specific (contextual) history. ==Organisms are specific and historical objects that vary in unpredictable ways, by principle.== The question is why do organisms look alike? What does some life forms seem to be stabilized?
 
+![](images/Pasted%20image%2020230410100952.png)
 
 [^1]: Of course, we face major difficulties in practice to define such a macrostate because we do not *understand* the living attribute of an organism based on its atomic positions and velocities. However, it can be defined in principle, at least as the states in the phase space that points to configurations of atoms that a human would recognize as alive. 
 
