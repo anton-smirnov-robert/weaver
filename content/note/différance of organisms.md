@@ -31,7 +31,6 @@ In different contexts, it differentiates differently to keep deffering death.
 Graphe = Formes immuables, conditions aux bords ou paramètres souvant abstrait de leur matérialité. 
 Gramme = Graphie matérialisée par une trace. Ici, c'est une **contrainte**.==
 
-
 **Deconstruction** of physical models means challenging their physico-mathematical structure. It can take several forms: 
 1) Giving a physico-chemical *trace* to the *geometrical*, *graphical* abstract object. Challenging the existence of immutable objects (e.g. the box containing particles is made of atoms and will experience the second law). 
 2) 
