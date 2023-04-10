@@ -39,9 +39,9 @@ Don't take for granted the use of specific values of parameters that allow you t
 ### Deconstruction of formal grammars and the closure of *grammē*. 
 
 The deconstruction of formal grammars amounts to materializing symbols.
-A set of words, as material traces that belong to a language, is produced by assembling letters (atoms) from a irreducible alphabet according to production rules (physical laws). 
+A set of sentences, as material traces that belong to a language, is produced by assembling letters (atoms) from a irreducible alphabet according to production rules (physical laws). 
 The assemblage of atoms requires non-terminal symbols (according to production rules), which are graphes that must be materialized in deconstructing formal grammars. 
-If non-terminal symbols cannot be in the alphabet, how to materialize them?  Can a language exist? 
-This can be explained as a closure of *grammē*, where languages (set of words) exist *because* they have a function: the one of being the trace of non-terminal symbols, that is *grammes*. 
+If non-terminal symbols cannot be in the alphabet, how to materialize them? Can a materialized language exist?  Not on its own!
+This can be explained as a closure of *grammē*, where languages (set of sentences) exist *because* they have a function: the one of being the trace of non-terminal symbols, that is *grammes*. 
 
-In other words, languages exist because they have a function: the one of being able to 
+In other words, languages exist because they have a function: the one of being able to generate one another. 
