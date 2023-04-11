@@ -1026,30 +1026,6 @@
       "select": "zotero://select/library/items/LJXSW42C"
     },
     {
-      "key": "H647TI85",
-      "version": 0,
-      "itemType": "attachment",
-      "title": "Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
-      "linkMode": "imported_file",
-      "contentType": "application/pdf",
-      "charset": "",
-      "filename": "Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
-      "tags": [],
-      "collections": [
-        "3TXVTZ22"
-      ],
-      "relations": {},
-      "dateAdded": "2023-04-11T07:50:35Z",
-      "dateModified": "2023-04-11T07:50:35Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/H647TI85",
-      "itemID": 7441,
-      "localPath": "/Users/robert/Dropbox/zotero/storage/H647TI85/Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
-      "defaultPath": "files/7441/Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
-      "itemKey": "H647TI85",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/H647TI85"
-    },
-    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
@@ -5261,6 +5237,55 @@
       "itemKey": "ES3PASM8",
       "libraryID": 1,
       "select": "zotero://select/library/items/ES3PASM8"
+    },
+    {
+      "key": "FPCECIZK",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://www.nature.com/articles/nnano.2015.250",
+      "volume": "10",
+      "issue": "11",
+      "pages": "919-923",
+      "publicationTitle": "Nature Nanotechnology",
+      "ISSN": "1748-3387, 1748-3395",
+      "date": "11/2015",
+      "journalAbbreviation": "Nature Nanotech",
+      "DOI": "10.1038/nnano.2015.250",
+      "accessDate": "2023-04-11T15:04:21Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Dissipative adaptation in driven self-assembly",
+      "creators": [
+        {
+          "firstName": "Jeremy L.",
+          "lastName": "England",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-11T15:04:21Z",
+      "dateModified": "2023-04-11T15:04:21Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/FPCECIZK",
+      "itemID": 7443,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "England - 2015 - Dissipative adaptation in driven self-assembly.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-11T15:04:17Z",
+          "dateModified": "2023-04-11T15:04:22Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/HMBH9BZH",
+          "path": "/Users/robert/Dropbox/zotero/storage/HMBH9BZH/England - 2015 - Dissipative adaptation in driven self-assembly.pdf",
+          "select": "zotero://select/library/items/HMBH9BZH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "England2015",
+      "itemKey": "FPCECIZK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FPCECIZK"
     },
     {
       "key": "CBWU4UFA",
