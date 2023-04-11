@@ -1026,6 +1026,30 @@
       "select": "zotero://select/library/items/LJXSW42C"
     },
     {
+      "key": "H647TI85",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-04-11T07:50:35Z",
+      "dateModified": "2023-04-11T07:50:35Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/H647TI85",
+      "itemID": 7441,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/H647TI85/Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
+      "defaultPath": "files/7441/Bernard Stiegler - La Soci\u00e9t\u00e9 automatique 1. L\u2019avenir du travail-Fayard (2015).pdf",
+      "itemKey": "H647TI85",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/H647TI85"
+    },
+    {
       "key": "DNV5ID3G",
       "version": 0,
       "itemType": "journalArticle",
@@ -4805,7 +4829,20 @@
           "select": "zotero://select/library/items/GGCGMCRL"
         }
       ],
-      "notes": [],
+      "notes": [
+        {
+          "key": "9VRMHWJ9",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "ARE6CXSN",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FARE6CXSN%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FARE6CXSN%22%2C%22type%22%3A%22article-journal%22%2C%22container-title%22%3A%22Paris%2C%20Minuit%22%2C%22source%22%3A%22Google%20Scholar%22%2C%22title%22%3A%22De%20la%20grammatologie%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Derrida%22%2C%22given%22%3A%22Jacques%22%7D%5D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%221967%22%5D%5D%7D%2C%22citation-key%22%3A%22Derrida1967a%22%7D%7D%5D\" data-schema-version=\"8\"><h1></h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FGGCGMCRL%22%2C%22annotationKey%22%3A%22PIFIWCCG%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2242%22%2C%22position%22%3A%7B%22pageIndex%22%3A41%2C%22rects%22%3A%5B%5B81.756%2C101.17%2C334.811%2C112.17%5D%2C%5B56.16%2C89.65%2C335.183%2C100.65%5D%2C%5B55.92%2C78.13%2C335.171%2C89.13%5D%2C%5B55.92%2C66.86%2C334.959%2C76.86%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FARE6CXSN%22%5D%2C%22locator%22%3A%2242%22%7D%7D\">que l'\u00e9criture n'est pas seulement un moyen auxiliaire au service de la science \u2014 et \u00e9ventuellement son objet \u2014 mais d'abord, comme l'a en particulier rappel\u00e9 Husserl, dans L'origine de la g\u00e9om\u00e9trie, la condition de possibilit\u00e9 des objets id\u00e9aux</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FARE6CXSN%22%5D%2C%22locator%22%3A%2242%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Derrida, 1967, p. 42</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FGGCGMCRL%22%2C%22annotationKey%22%3A%22LWYX4TZ9%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2243%22%2C%22position%22%3A%7B%22pageIndex%22%3A42%2C%22rects%22%3A%5B%5B29.04%2C532.69%2C308.471%2C543.69%5D%2C%5B29.28%2C521.17%2C207.207%2C532.17%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FARE6CXSN%22%5D%2C%22locator%22%3A%2243%22%7D%7D\">et donc de l'objectivit\u00e9 scientifique. Avant d'\u00eatre son objet, l'\u00e9criture est la condition de l'epist\u00e9m\u00e8.</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FARE6CXSN%22%5D%2C%22locator%22%3A%2243%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Derrida, 1967, p. 43</span>)</span></p>\n</div>",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-04-11T07:41:05Z",
+          "dateModified": "2023-04-11T07:41:05Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/9VRMHWJ9"
+        }
+      ],
       "citationKey": "Derrida1967a",
       "itemKey": "ARE6CXSN",
       "libraryID": 1,

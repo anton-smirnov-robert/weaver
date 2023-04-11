@@ -26,6 +26,10 @@ A ==trace== is a physico-chemical material entity made by an assemblage of small
 
 A ==graphe== is an abstract (or fictitiously immutable — i.e. that does not follow the second law) form which is *required* to build physico-mathematical structures (a square for a box, a point for an object, a network that maitains interactions, etc.). 
 
+>[!quote]
+>
+>L'écriture n'est pas seulement un moyen auxiliaire au service de la science — et éventuellement son objet — mais d'abord, comme l'a en particulier rappelé Husserl, dans *L'origine de la géométrie*, **la** **condition de possibilité des objets idéaux** et donc de l'objectivité scientifique. Avant d'être son objet, l'écriture est la condition de l'*epistémè*.  (Derrida, 1967, p. 42-43)
+
 A ==*grammē*== — or a ==*constraint*== — is a form of writing the biological models. It is a graphe embodied in a trace. If the graphe is playing a role in a physico-mathematical structures, the process by which the abstract object is materialized so that the question of its existence and maintenance is raised, is called *deconstruction*. 
 
 ==The deconstruction of biophysical models leads to the principle of organization and the closure of constraints.==
