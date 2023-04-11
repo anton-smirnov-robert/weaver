@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0c1af4afb194a5ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45e516b780c6ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1539e5932ca9900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/différance and deconstruction in biology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa80247a31a6c501",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5c88b569518d9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f328da4dd6613fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c69f56a3c217639e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86b9b7d6deb175b8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "9fa4fa23d5a1c7da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f845594b6384f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72cd8d540e534930",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/différance and deconstruction in biology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "553d7d342a398efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note/différance and deconstruction in biology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cf3fb34238cc5a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f987752f743c1e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/différance and deconstruction in biology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "a1539e5932ca9900",
+  "lastOpenFiles": [
+    "note/principle of variation from physics.md",
+    "concept/Turing machine.md",
+    "note/différance and deconstruction in biology.md",
+    "concept/epistemology of physics.md",
+    "reference/Derrida2019.md",
+    "reference/Stiegler2020a.md",
+    "note/draft on the decline of theorization in science.md",
+    "images/Pasted image 20230410100952.png",
+    "note/note on Montevil2019a.md",
+    "images/from_physics_to_biology.pdf",
+    "Sans titre.md",
+    "note/note on Montevil2020a.md",
+    "note/note on Montevil2019.md",
+    "note/note on Montevil2021.md",
+    "reference/Feynman1972.md",
+    "reference/Feynman2018.md",
+    "reference/Palmer1982.md",
+    "note/pre-note on the organicist tradition.md",
+    "concept/theoretical gaps.md",
+    "images/Pasted image 20230406174519.png",
+    "images/Pasted image 20230406174512.png",
+    "concept/natural selection.md",
+    "concept/open-ended evolution.md",
+    "reference/Ruiz-Mirazo2004.md",
+    "reference/Morowitz1955a.md",
+    "reference/Knuuttila2011.md",
+    "images/Pasted image 20230405123654.png",
+    "concept/new possibility.md",
+    "reference/Lecointre2018.md",
+    "reference/Mossio2022.md",
+    "reference/Montevil2020a.md",
+    "images/Pasted image 20230404124000.png",
+    "images/Pasted image 20230403204846.png",
+    "images/Pasted image 20230403203403.png",
+    "images/Pasted image 20230403202109.png",
+    "images/Pasted image 20230403194022.png",
+    "images/Pasted image 20230331170857.png",
+    "images/CV_03_23_internet_version.pdf",
+    "images/Curriculum_vitae_03_23.pdf",
+    "projects/summary_of_theory",
+    "writing"
+  ]
+}
