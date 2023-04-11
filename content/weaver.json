@@ -4772,13 +4772,13 @@
       "select": "zotero://select/library/items/N5DN26KI"
     },
     {
-      "key": "47TAPJE9",
+      "key": "ARE6CXSN",
       "version": 0,
-      "itemType": "book",
-      "publisher": "Jhu Press",
-      "date": "2016",
+      "itemType": "journalArticle",
+      "publicationTitle": "Paris, Minuit",
+      "date": "1967",
       "libraryCatalog": "Google Scholar",
-      "title": "Of grammatology",
+      "title": "De la grammatologie",
       "creators": [
         {
           "firstName": "Jacques",
@@ -4788,39 +4788,28 @@
       ],
       "tags": [],
       "relations": [],
-      "dateAdded": "2023-04-11T07:16:11Z",
-      "dateModified": "2023-04-11T07:16:11Z",
-      "uri": "http://zotero.org/users/local/asN0yRvl/items/47TAPJE9",
-      "itemID": 7432,
+      "dateAdded": "2023-04-11T07:24:49Z",
+      "dateModified": "2023-04-11T07:25:09Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ARE6CXSN",
+      "itemID": 7435,
       "attachments": [
         {
           "itemType": "attachment",
-          "title": "Full Text",
+          "title": "Jacques - 1967 - De la grammatologie.pdf",
           "tags": [],
           "relations": [],
-          "dateAdded": "2023-04-11T07:16:16Z",
-          "dateModified": "2023-04-11T07:16:16Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/XKMQAF5W",
-          "path": "/Users/robert/Dropbox/zotero/storage/XKMQAF5W/Derrida - 2016 - Of grammatology.pdf",
-          "select": "zotero://select/library/items/XKMQAF5W"
-        },
-        {
-          "itemType": "attachment",
-          "title": "Snapshot",
-          "tags": [],
-          "relations": [],
-          "dateAdded": "2023-04-11T07:16:21Z",
-          "dateModified": "2023-04-11T07:16:21Z",
-          "uri": "http://zotero.org/users/local/asN0yRvl/items/LCH44JBP",
-          "path": "/Users/robert/Dropbox/zotero/storage/LCH44JBP/books.html",
-          "select": "zotero://select/library/items/LCH44JBP"
+          "dateAdded": "2023-04-11T07:24:55Z",
+          "dateModified": "2023-04-11T07:24:55Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GGCGMCRL",
+          "path": "/Users/robert/Dropbox/zotero/storage/GGCGMCRL/Jacques - 1967 - De la grammatologie.pdf",
+          "select": "zotero://select/library/items/GGCGMCRL"
         }
       ],
       "notes": [],
-      "citationKey": "Derrida2016",
-      "itemKey": "47TAPJE9",
+      "citationKey": "Derrida1967a",
+      "itemKey": "ARE6CXSN",
       "libraryID": 1,
-      "select": "zotero://select/library/items/47TAPJE9"
+      "select": "zotero://select/library/items/ARE6CXSN"
     },
     {
       "key": "XYHDBDNP",
