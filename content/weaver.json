@@ -8419,6 +8419,55 @@
       "select": "zotero://select/library/items/INDGGC5S"
     },
     {
+      "key": "VUE5VV8Y",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.78.2690",
+      "volume": "78",
+      "issue": "14",
+      "pages": "2690-2693",
+      "publicationTitle": "Physical Review Letters",
+      "ISSN": "0031-9007, 1079-7114",
+      "date": "1997-4-7",
+      "journalAbbreviation": "Phys. Rev. Lett.",
+      "DOI": "10.1103/PhysRevLett.78.2690",
+      "accessDate": "2023-04-12T18:05:27Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Nonequilibrium Equality for Free Energy Differences",
+      "creators": [
+        {
+          "firstName": "C.",
+          "lastName": "Jarzynski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-12T18:05:27Z",
+      "dateModified": "2023-04-12T18:05:27Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/VUE5VV8Y",
+      "itemID": 7456,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Jarzynski - 1997 - Nonequilibrium Equality for Free Energy Difference.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-12T18:05:24Z",
+          "dateModified": "2023-04-12T18:05:27Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/R3DUW6AP",
+          "path": "/Users/robert/Dropbox/zotero/storage/R3DUW6AP/Jarzynski - 1997 - Nonequilibrium Equality for Free Energy Difference.pdf",
+          "select": "zotero://select/library/items/R3DUW6AP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Jarzynski1997",
+      "itemKey": "VUE5VV8Y",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VUE5VV8Y"
+    },
+    {
       "key": "2PUBE7ZC",
       "version": 0,
       "itemType": "journalArticle",
