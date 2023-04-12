@@ -9331,6 +9331,69 @@
       "select": "zotero://select/library/items/8N4WIZTF"
     },
     {
+      "key": "SF7FU8FU",
+      "version": 0,
+      "itemType": "book",
+      "url": "http://link.springer.com/10.1007/978-1-4757-3978-7",
+      "series": "Applied Mathematical Sciences",
+      "volume": "112",
+      "place": "New York, NY",
+      "publisher": "Springer New York",
+      "ISBN": "978-1-4419-1951-9 978-1-4757-3978-7",
+      "date": "2004",
+      "extra": "DOI: 10.1007/978-1-4757-3978-7",
+      "accessDate": "2023-04-12T10:35:45Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Elements of Applied Bifurcation Theory",
+      "creators": [
+        {
+          "firstName": "Yuri A.",
+          "lastName": "Kuznetsov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "S. S.",
+          "lastName": "Antman",
+          "creatorType": "seriesEditor"
+        },
+        {
+          "firstName": "J. E.",
+          "lastName": "Marsden",
+          "creatorType": "seriesEditor"
+        },
+        {
+          "firstName": "L.",
+          "lastName": "Sirovich",
+          "creatorType": "seriesEditor"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-12T10:35:45Z",
+      "dateModified": "2023-04-12T10:35:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/SF7FU8FU",
+      "itemID": 7445,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Kuznetsov - 2004 - Elements of Applied Bifurcation Theory.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-12T10:35:41Z",
+          "dateModified": "2023-04-12T10:35:46Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LXD8Z4Y7",
+          "path": "/Users/robert/Dropbox/zotero/storage/LXD8Z4Y7/Kuznetsov - 2004 - Elements of Applied Bifurcation Theory.pdf",
+          "select": "zotero://select/library/items/LXD8Z4Y7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kuznetsov2004",
+      "itemKey": "SF7FU8FU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SF7FU8FU"
+    },
+    {
       "key": "3TFPI3SG",
       "version": 0,
       "itemType": "journalArticle",
