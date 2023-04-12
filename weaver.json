@@ -5239,6 +5239,56 @@
       "select": "zotero://select/library/items/ES3PASM8"
     },
     {
+      "key": "IDLFGYAJ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://aip.scitation.org/doi/10.1063/1.4818538",
+      "volume": "139",
+      "issue": "12",
+      "pages": "121923",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "ISSN": "0021-9606",
+      "date": "2013-09-28",
+      "extra": "Publisher: American Institute of Physics",
+      "journalAbbreviation": "J. Chem. Phys.",
+      "DOI": "10.1063/1.4818538",
+      "accessDate": "2023-04-12T17:46:12Z",
+      "libraryCatalog": "aip.scitation.org (Atypon)",
+      "abstractNote": "Self-replication is a capacity common to every species of living thing, and simple physical intuition dictates that such a process must invariably be fueled by the production of entropy. Here, we undertake to make this intuition rigorous and quantitative by deriving a lower bound for the amount of heat that is produced during a process of self-replication in a system coupled to a thermal bath. We find that the minimum value for the physically allowed rate of heat production is determined by the growth rate, internal entropy, and durability of the replicator, and we discuss the implications of this finding for bacterial cell division, as well as for the pre-biotic emergence of self-replicating nucleic acids.",
+      "title": "Statistical physics of self-replication",
+      "creators": [
+        {
+          "firstName": "Jeremy L.",
+          "lastName": "England",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-12T17:46:12Z",
+      "dateModified": "2023-04-12T17:46:12Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/IDLFGYAJ",
+      "itemID": 7452,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-12T17:46:17Z",
+          "dateModified": "2023-04-12T17:46:17Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/34JFLMWS",
+          "path": "/Users/robert/Dropbox/zotero/storage/34JFLMWS/England - 2013 - Statistical physics of self-replication.pdf",
+          "select": "zotero://select/library/items/34JFLMWS"
+        }
+      ],
+      "notes": [],
+      "citationKey": "England2013",
+      "itemKey": "IDLFGYAJ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IDLFGYAJ"
+    },
+    {
       "key": "FPCECIZK",
       "version": 0,
       "itemType": "journalArticle",
