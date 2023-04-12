@@ -7962,6 +7962,59 @@
       "select": "zotero://select/library/items/FW4ETXGQ"
     },
     {
+      "key": "6SEZG8E5",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1700617114",
+      "volume": "114",
+      "issue": "29",
+      "pages": "7565-7570",
+      "publicationTitle": "Proceedings of the National Academy of Sciences",
+      "date": "2017-07-18",
+      "extra": "Publisher: Proceedings of the National Academy of Sciences",
+      "DOI": "10.1073/pnas.1700617114",
+      "accessDate": "2023-04-12T18:45:23Z",
+      "libraryCatalog": "pnas.org (Atypon)",
+      "abstractNote": "A chemical mixture that continually absorbs work from its environment may exhibit steady-state chemical concentrations that deviate from their equilibrium values. Such behavior is particularly interesting in a scenario where the environmental work sources are relatively difficult to access, so that only the proper orchestration of many distinct catalytic actors can power the dissipative flux required to maintain a stable, far-from-equilibrium steady state. In this article, we study the dynamics of an in silico chemical network with random connectivity in an environment that makes strong thermodynamic forcing available only to rare combinations of chemical concentrations. We find that the long-time dynamics of such systems are biased toward states that exhibit a fine-tuned extremization of environmental forcing.",
+      "title": "Spontaneous fine-tuning to environment in many-species chemical reaction networks",
+      "creators": [
+        {
+          "firstName": "Jordan M.",
+          "lastName": "Horowitz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeremy L.",
+          "lastName": "England",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-12T18:45:23Z",
+      "dateModified": "2023-04-12T18:45:23Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/6SEZG8E5",
+      "itemID": 7466,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-12T18:45:31Z",
+          "dateModified": "2023-04-12T18:45:31Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/XWJSQIRB",
+          "path": "/Users/robert/Dropbox/zotero/storage/XWJSQIRB/Horowitz et England - 2017 - Spontaneous fine-tuning to environment in many-spe.pdf",
+          "select": "zotero://select/library/items/XWJSQIRB"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Horowitz2017",
+      "itemKey": "6SEZG8E5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6SEZG8E5"
+    },
+    {
       "key": "4ZEY47GH",
       "version": 0,
       "itemType": "journalArticle",
@@ -8565,6 +8618,76 @@
       "itemKey": "7I6Y2WJ2",
       "libraryID": 1,
       "select": "zotero://select/library/items/7I6Y2WJ2"
+    },
+    {
+      "key": "Z5IRIQWS",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.119.038001",
+      "volume": "119",
+      "issue": "3",
+      "pages": "038001",
+      "publicationTitle": "Physical Review Letters",
+      "date": "2017-07-21",
+      "extra": "Publisher: American Physical Society",
+      "journalAbbreviation": "Phys. Rev. Lett.",
+      "DOI": "10.1103/PhysRevLett.119.038001",
+      "accessDate": "2023-04-12T18:41:33Z",
+      "libraryCatalog": "APS",
+      "abstractNote": "Recent studies of active matter have stimulated interest in the driven self-assembly of complex structures. Phenomenological modeling of particular examples has yielded insight, but general thermodynamic principles unifying the rich diversity of behaviors observed have been elusive. Here, we study the stochastic search of a toy chemical space by a collection of reacting Brownian particles subject to periodic forcing. We observe the emergence of an adaptive resonance in the system matched to the drive frequency, and show that the increased work absorption by these resonant structures is key to their stabilization. Our findings are consistent with a recently proposed thermodynamic mechanism for far-from-equilibrium self-organization.",
+      "title": "Self-Organized Resonance during Search of a Diverse Chemical Space",
+      "creators": [
+        {
+          "firstName": "Tal",
+          "lastName": "Kachman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeremy A.",
+          "lastName": "Owen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeremy L.",
+          "lastName": "England",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-04-12T18:41:33Z",
+      "dateModified": "2023-04-12T18:41:33Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/Z5IRIQWS",
+      "itemID": 7463,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "APS Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-12T18:41:41Z",
+          "dateModified": "2023-04-12T18:41:41Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ZVNK4QBV",
+          "path": "/Users/robert/Dropbox/zotero/storage/ZVNK4QBV/PhysRevLett.119.html",
+          "select": "zotero://select/library/items/ZVNK4QBV"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-04-12T18:41:39Z",
+          "dateModified": "2023-04-12T18:41:39Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/6INE3KGM",
+          "path": "/Users/robert/Dropbox/zotero/storage/6INE3KGM/Kachman et al. - 2017 - Self-Organized Resonance during Search of a Divers.pdf",
+          "select": "zotero://select/library/items/6INE3KGM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Kachman2017",
+      "itemKey": "Z5IRIQWS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z5IRIQWS"
     },
     {
       "key": "E6KEYQN3",
