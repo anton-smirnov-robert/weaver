@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "7f24e4709ef90acc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "472f9c38e9e6ca13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dissipative systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/différance and deconstruction in biology.md",
+                "file": "dissipative systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/différance and deconstruction in biology.md",
+                "file": "dissipative systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/différance and deconstruction in biology.md"
+                "file": "dissipative systems.md"
               }
             }
           }
@@ -146,11 +164,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a1539e5932ca9900",
+  "active": "472f9c38e9e6ca13",
   "lastOpenFiles": [
+    "note/différance and deconstruction in biology.md",
+    "dissipative systems.md",
     "note/principle of variation from physics.md",
     "concept/Turing machine.md",
-    "note/différance and deconstruction in biology.md",
     "concept/epistemology of physics.md",
     "reference/Derrida2019.md",
     "reference/Stiegler2020a.md",
@@ -178,7 +197,6 @@
     "concept/new possibility.md",
     "reference/Lecointre2018.md",
     "reference/Mossio2022.md",
-    "reference/Montevil2020a.md",
     "images/Pasted image 20230404124000.png",
     "images/Pasted image 20230403204846.png",
     "images/Pasted image 20230403203403.png",
