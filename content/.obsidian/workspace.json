@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "7f24e4709ef90acc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "472f9c38e9e6ca13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dissipative systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dissipative systems.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dissipative systems.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dissipative systems.md"
+                "file": "note/différance and deconstruction in biology.md"
               }
             }
           }
@@ -164,13 +146,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "472f9c38e9e6ca13",
+  "active": "a1539e5932ca9900",
   "lastOpenFiles": [
-    "note/différance and deconstruction in biology.md",
+    "concept/epistemology of physics.md",
     "dissipative systems.md",
+    "note/différance and deconstruction in biology.md",
     "note/principle of variation from physics.md",
     "concept/Turing machine.md",
-    "concept/epistemology of physics.md",
     "reference/Derrida2019.md",
     "reference/Stiegler2020a.md",
     "note/draft on the decline of theorization in science.md",
