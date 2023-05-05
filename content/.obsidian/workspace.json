@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/différance and deconstruction in biology.md",
+                "file": "concept/epistemology of physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/différance and deconstruction in biology.md",
+                "file": "concept/epistemology of physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/différance and deconstruction in biology.md",
+                "file": "concept/epistemology of physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/différance and deconstruction in biology.md"
+                "file": "concept/epistemology of physics.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "a1539e5932ca9900",
   "lastOpenFiles": [
+    "note/différance and deconstruction in biology.md",
     "concept/epistemology of physics.md",
     "dissipative systems.md",
-    "note/différance and deconstruction in biology.md",
     "note/principle of variation from physics.md",
     "concept/Turing machine.md",
     "reference/Derrida2019.md",
