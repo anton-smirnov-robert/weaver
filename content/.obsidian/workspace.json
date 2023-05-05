@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e45e516b780c6ecb",
+        "id": "c3edfb5d35db7b12",
         "type": "tabs",
         "children": [
           {
-            "id": "a1539e5932ca9900",
+            "id": "7a214cbe459c7445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concept/epistemology of physics.md",
+                "file": "reference/OECD1966.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concept/epistemology of physics.md",
+                "file": "reference/OECD1966.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concept/epistemology of physics.md",
+                "file": "reference/OECD1966.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concept/epistemology of physics.md"
+                "file": "reference/OECD1966.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a1539e5932ca9900",
+  "active": "7a214cbe459c7445",
   "lastOpenFiles": [
-    "note/différance and deconstruction in biology.md",
     "concept/epistemology of physics.md",
+    "note/différance and deconstruction in biology.md",
     "dissipative systems.md",
     "note/principle of variation from physics.md",
     "concept/Turing machine.md",
