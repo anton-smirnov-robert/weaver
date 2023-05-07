@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "975c5365f7cbfd28",
+        "id": "f214b16ebc9a751c",
         "type": "tabs",
         "children": [
           {
-            "id": "de1da1c8721c0bee",
+            "id": "f3044bd12e6df4ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/OECD1966.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OECD 1966",
+                "query": "grothen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/OECD1966.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/OECD1966.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "reference/OECD1966.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +139,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "de1da1c8721c0bee",
+  "active": "c69f56a3c217639e",
   "lastOpenFiles": [
+    "reference/OECD1966.md",
     "reference/Godin2020.md",
     "projects/theorization_in_sciences/(v0.2) Le besoin d'une économie des théories scientifiques..md",
-    "reference/OECD1966.md",
     "concept/epistemology of physics.md",
     "note/différance and deconstruction in biology.md",
     "dissipative systems.md",

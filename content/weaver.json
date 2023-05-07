@@ -13735,6 +13735,33 @@
       "select": "zotero://select/library/items/HST2G4NN"
     },
     {
+      "key": "YE4T45SX",
+      "version": 0,
+      "itemType": "journalArticle",
+      "publicationTitle": "Philosophy World Democracy",
+      "date": "2021",
+      "title": "« La fin de la philosophie et la tâche de la pensée »",
+      "creators": [
+        {
+          "firstName": "Jean-Luc",
+          "lastName": "Nancy",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-06T08:40:24Z",
+      "dateModified": "2023-05-06T08:41:11Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YE4T45SX",
+      "itemID": 7512,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Nancy2021",
+      "itemKey": "YE4T45SX",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YE4T45SX"
+    },
+    {
       "key": "S4RH2L3U",
       "version": 0,
       "itemType": "videoRecording",
