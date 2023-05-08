@@ -6312,6 +6312,60 @@
       "select": "zotero://select/library/items/M7QRGYTW"
     },
     {
+      "key": "3U7CBDFZ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "issue": "16",
+      "pages": "3–18",
+      "publicationTitle": "The national interest",
+      "date": "1989",
+      "extra": "Publisher: JSTOR",
+      "libraryCatalog": "Google Scholar",
+      "title": "The end of history?",
+      "creators": [
+        {
+          "firstName": "Francis",
+          "lastName": "Fukuyama",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-08T09:06:14Z",
+      "dateModified": "2023-05-08T09:06:14Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/3U7CBDFZ",
+      "itemID": 7513,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-08T09:06:19Z",
+          "dateModified": "2023-05-08T09:06:19Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/DB835L2I",
+          "path": "/Users/robert/Dropbox/zotero/storage/DB835L2I/Fukuyama - 1989 - The end of history.pdf",
+          "select": "zotero://select/library/items/DB835L2I"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-08T09:06:27Z",
+          "dateModified": "2023-05-08T09:06:27Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/JRH3DUV4",
+          "path": "/Users/robert/Dropbox/zotero/storage/JRH3DUV4/24027184.html",
+          "select": "zotero://select/library/items/JRH3DUV4"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Fukuyama1989",
+      "itemKey": "3U7CBDFZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3U7CBDFZ"
+    },
+    {
       "key": "S7QUBFBA",
       "version": 0,
       "itemType": "journalArticle",
