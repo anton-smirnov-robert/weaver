@@ -11,8 +11,12 @@
             "id": "f3044bd12e6df4ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jadis",
+                "query": "lazy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md"
+              }
             }
           }
         ]
@@ -139,7 +147,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c69f56a3c217639e",
+  "active": "f3044bd12e6df4ba",
   "lastOpenFiles": [
     "reference/OECD1966.md",
     "reference/Godin2020.md",
