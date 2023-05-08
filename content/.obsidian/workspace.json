@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f214b16ebc9a751c",
+        "id": "33c8e382f8509adf",
         "type": "tabs",
         "children": [
           {
-            "id": "f3044bd12e6df4ba",
+            "id": "706a8bee96945d98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lazy",
+                "query": "LPPR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "projects/theorization_in_sciences/marketization_of_scientific_research.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +138,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f3044bd12e6df4ba",
+  "active": "2f328da4dd6613fa",
   "lastOpenFiles": [
+    "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
+    "projects/theorization_in_sciences/article epistemological mismatch.md",
+    "projects/theorization_in_sciences/marketization_of_scientific_research.md",
     "reference/OECD1966.md",
     "reference/Godin2020.md",
     "projects/theorization_in_sciences/(v0.2) Le besoin d'une économie des théories scientifiques..md",
@@ -176,9 +170,6 @@
     "images/Pasted image 20230406174512.png",
     "concept/natural selection.md",
     "concept/open-ended evolution.md",
-    "reference/Ruiz-Mirazo2004.md",
-    "reference/Morowitz1955a.md",
-    "reference/Knuuttila2011.md",
     "images/Pasted image 20230405123654.png",
     "images/Pasted image 20230404124000.png",
     "images/Pasted image 20230403204846.png",
