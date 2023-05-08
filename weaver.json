@@ -3237,6 +3237,43 @@
       "select": "zotero://select/library/items/2NCRZMKH"
     },
     {
+      "key": "4SC4ULNS",
+      "version": 0,
+      "itemType": "journalArticle",
+      "publicationTitle": "Philosophy World Democracy",
+      "date": "2021",
+      "title": "Science in the Storm 1: GMOs, Agnotology, Theory – Introduction",
+      "creators": [
+        {
+          "firstName": "Victor",
+          "lastName": "Chaix",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maël",
+          "lastName": "Montévil",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Giuseppe",
+          "lastName": "Longo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-08T21:51:41Z",
+      "dateModified": "2023-05-08T21:53:18Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/4SC4ULNS",
+      "itemID": 7516,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Chaix2021",
+      "itemKey": "4SC4ULNS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4SC4ULNS"
+    },
+    {
       "key": "VF38WHSM",
       "version": 0,
       "itemType": "journalArticle",
