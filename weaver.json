@@ -96,7 +96,7 @@
   },
   "version": {
     "zotero": "6.0.26",
-    "bbt": "6.7.76"
+    "bbt": "6.7.79"
   },
   "collections": {},
   "items": [
@@ -8708,6 +8708,57 @@
       "itemKey": "VUE5VV8Y",
       "libraryID": 1,
       "select": "zotero://select/library/items/VUE5VV8Y"
+    },
+    {
+      "key": "88I7HKVR",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-062910-140506",
+      "volume": "2",
+      "issue": "1",
+      "pages": "329-351",
+      "publicationTitle": "Annual Review of Condensed Matter Physics",
+      "ISSN": "1947-5454, 1947-5462",
+      "date": "2011-03-01",
+      "journalAbbreviation": "Annu. Rev. Condens. Matter Phys.",
+      "DOI": "10.1146/annurev-conmatphys-062910-140506",
+      "accessDate": "2023-05-09T12:43:28Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "The reason we never observe violations of the second law of thermodynamics is in part a matter of statistics: When ∼10\n              23\n              degrees of freedom are involved, the odds are overwhelmingly stacked against the possibility of seeing significant deviations away from the mean behavior. As we turn our attention to smaller systems, however, statistical fluctuations become more prominent. In recent years it has become apparent that the fluctuations of systems far from thermal equilibrium are not mere background noise, but satisfy strong, useful, and unexpected properties. In particular, a proper accounting of fluctuations allows us to rewrite familiar inequalities of macroscopic thermodynamics as equalities. This review describes some of this progress, and argues that it has refined our understanding of irreversibility and the second law.",
+      "title": "Equalities and Inequalities: Irreversibility and the Second Law of Thermodynamics at the Nanoscale",
+      "shortTitle": "Equalities and Inequalities",
+      "creators": [
+        {
+          "firstName": "Christopher",
+          "lastName": "Jarzynski",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-09T12:43:28Z",
+      "dateModified": "2023-05-09T12:43:28Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/88I7HKVR",
+      "itemID": 7520,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Jarzynski - 2011 - Equalities and Inequalities Irreversibility and t.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-09T12:43:51Z",
+          "dateModified": "2023-05-09T12:43:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/U2UPKDLJ",
+          "path": "/Users/robert/Dropbox/zotero/storage/U2UPKDLJ/Jarzynski - 2011 - Equalities and Inequalities Irreversibility and t.pdf",
+          "select": "zotero://select/library/items/U2UPKDLJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Jarzynski2011",
+      "itemKey": "88I7HKVR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/88I7HKVR"
     },
     {
       "key": "2PUBE7ZC",
