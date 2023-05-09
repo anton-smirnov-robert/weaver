@@ -9075,6 +9075,60 @@
       "select": "zotero://select/library/items/9262T7WI"
     },
     {
+      "key": "YPZLKR97",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://journals.jps.jp/doi/10.1143/JPSJ.80.045003",
+      "volume": "80",
+      "issue": "4",
+      "pages": "045003",
+      "publicationTitle": "Journal of the Physical Society of Japan",
+      "ISSN": "0031-9015, 1347-4073",
+      "date": "2011-04-15",
+      "journalAbbreviation": "J. Phys. Soc. Jpn.",
+      "DOI": "10.1143/JPSJ.80.045003",
+      "accessDate": "2023-05-09T12:50:52Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Jarzynski Equality for an Energy-Controlled System",
+      "creators": [
+        {
+          "firstName": "Hitoshi",
+          "lastName": "Katsuda",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Masayuki",
+          "lastName": "Ohzeki",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-09T12:50:52Z",
+      "dateModified": "2023-05-09T12:50:52Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YPZLKR97",
+      "itemID": 7523,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Katsuda et Ohzeki - 2011 - Jarzynski Equality for an Energy-Controlled System.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-09T12:50:49Z",
+          "dateModified": "2023-05-09T12:50:53Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LMTSDS2P",
+          "path": "/Users/robert/Dropbox/zotero/storage/LMTSDS2P/Katsuda et Ohzeki - 2011 - Jarzynski Equality for an Energy-Controlled System.pdf",
+          "select": "zotero://select/library/items/LMTSDS2P"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Katsuda2011",
+      "itemKey": "YPZLKR97",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YPZLKR97"
+    },
+    {
       "key": "IAYQBKZC",
       "version": 0,
       "itemType": "book",
