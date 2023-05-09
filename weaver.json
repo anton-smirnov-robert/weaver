@@ -18878,6 +18878,33 @@
       "select": "zotero://select/library/items/4CNQ2PRM"
     },
     {
+      "key": "9CTZ58L3",
+      "version": 0,
+      "itemType": "journalArticle",
+      "publicationTitle": "Philosophy World Democracy",
+      "date": "2021",
+      "title": "Du bon gouvernement de la recherche",
+      "creators": [
+        {
+          "firstName": "Alain",
+          "lastName": "Supiot",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-09T00:39:39Z",
+      "dateModified": "2023-05-09T00:40:06Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9CTZ58L3",
+      "itemID": 7517,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Supiot2021",
+      "itemKey": "9CTZ58L3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9CTZ58L3"
+    },
+    {
       "key": "9WQFBJX8",
       "version": 0,
       "itemType": "journalArticle",
