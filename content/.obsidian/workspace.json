@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LPPR",
+                "query": "jadis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2f328da4dd6613fa",
+  "active": "c69f56a3c217639e",
   "lastOpenFiles": [
     "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
     "projects/theorization_in_sciences/article epistemological mismatch.md",
