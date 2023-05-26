@@ -18038,6 +18038,54 @@
       "select": "zotero://select/library/items/RL9FHEYM"
     },
     {
+      "key": "32NJKTQ7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001",
+      "volume": "75",
+      "issue": "12",
+      "pages": "126001",
+      "publicationTitle": "Reports on Progress in Physics",
+      "ISSN": "0034-4885, 1361-6633",
+      "date": "2012-12-01",
+      "journalAbbreviation": "Rep. Prog. Phys.",
+      "DOI": "10.1088/0034-4885/75/12/126001",
+      "accessDate": "2023-05-26T18:25:08Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "title": "Stochastic thermodynamics, fluctuation theorems and molecular machines",
+      "creators": [
+        {
+          "firstName": "Udo",
+          "lastName": "Seifert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-26T18:25:08Z",
+      "dateModified": "2023-05-26T18:25:08Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/32NJKTQ7",
+      "itemID": 7543,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-26T18:25:18Z",
+          "dateModified": "2023-05-26T18:25:18Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/Q82C5WXF",
+          "path": "/Users/robert/Dropbox/zotero/storage/Q82C5WXF/Seifert - 2012 - Stochastic thermodynamics, fluctuation theorems an.pdf",
+          "select": "zotero://select/library/items/Q82C5WXF"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Seifert2012",
+      "itemKey": "32NJKTQ7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/32NJKTQ7"
+    },
+    {
       "key": "DBVR2JX2",
       "version": 0,
       "itemType": "journalArticle",

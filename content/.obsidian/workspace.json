@@ -11,22 +11,11 @@
             "id": "d37934c41e8544c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "41126576a651ead9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +147,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "41126576a651ead9",
+  "active": "d37934c41e8544c0",
   "lastOpenFiles": [
     "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
     "projects/theorization_in_sciences/article epistemological mismatch.md",
