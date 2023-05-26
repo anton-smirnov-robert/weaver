@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "33c8e382f8509adf",
+        "id": "e5ff21fcaf85da31",
         "type": "tabs",
         "children": [
           {
-            "id": "706a8bee96945d98",
+            "id": "d37934c41e8544c0",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "41126576a651ead9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jadis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +69,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfb95275e047eed9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -139,7 +158,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c69f56a3c217639e",
+  "active": "41126576a651ead9",
   "lastOpenFiles": [
     "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
     "projects/theorization_in_sciences/article epistemological mismatch.md",
