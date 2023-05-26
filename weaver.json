@@ -7153,6 +7153,93 @@
       "select": "zotero://select/library/items/2PBC6ZBR"
     },
     {
+      "key": "LPQ7IGLB",
+      "version": 0,
+      "itemType": "book",
+      "url": "http://arxiv.org/abs/1903.11870",
+      "date": "05/2020",
+      "extra": "DOI: 10.1142/11591\narXiv:1903.11870 [cond-mat]",
+      "accessDate": "2023-05-19T15:37:44Z",
+      "libraryCatalog": "arXiv.org",
+      "abstractNote": "The Gibbs entropy of a macroscopic classical system is a function of a probability distribution over phase space, i.e., of an ensemble. In contrast, the Boltzmann entropy is a function on phase space, and is thus defined for an individual system. Our aim is to discuss and compare these two notions of entropy, along with the associated ensemblist and individualist views of thermal equilibrium. Using the Gibbsian ensembles for the computation of the Gibbs entropy, the two notions yield the same (leading order) values for the entropy of a macroscopic system in thermal equilibrium. The two approaches do not, however, necessarily agree for non-equilibrium systems. For those, we argue that the Boltzmann entropy is the one that corresponds to thermodynamic entropy, in particular in connection with the second law of thermodynamics. Moreover, we describe the quantum analog of the Boltzmann entropy, and we argue that the individualist (Boltzmannian) concept of equilibrium is supported by the recent works on thermalization of closed quantum systems.",
+      "title": "Gibbs and Boltzmann Entropy in Classical and Quantum Mechanics",
+      "creators": [
+        {
+          "firstName": "Sheldon",
+          "lastName": "Goldstein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Joel L.",
+          "lastName": "Lebowitz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Roderich",
+          "lastName": "Tumulka",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nino",
+          "lastName": "Zanghi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Condensed Matter - Statistical Mechanics",
+          "type": 1
+        }
+      ],
+      "relations": [],
+      "dateAdded": "2023-05-19T15:37:44Z",
+      "dateModified": "2023-05-19T15:37:44Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/LPQ7IGLB",
+      "itemID": 7531,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "arXiv.org Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-19T15:38:14Z",
+          "dateModified": "2023-05-19T15:38:14Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/MMAF2326",
+          "path": "/Users/robert/Dropbox/zotero/storage/MMAF2326/1903.html",
+          "select": "zotero://select/library/items/MMAF2326"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Full Text PDF",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-19T15:38:33Z",
+          "dateModified": "2023-05-19T15:38:33Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/AZRF9IMM",
+          "path": "/Users/robert/Dropbox/zotero/storage/AZRF9IMM/Goldstein et al. - 2020 - Gibbs and Boltzmann Entropy in Classical and Quant.pdf",
+          "select": "zotero://select/library/items/AZRF9IMM"
+        }
+      ],
+      "notes": [
+        {
+          "key": "H6J8P8XZ",
+          "version": 0,
+          "itemType": "note",
+          "parentItem": "LPQ7IGLB",
+          "note": "Comment: 50 pages LaTeX, 3 figures; v2 minor improvements throughout the paper",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2023-05-19T15:37:44Z",
+          "dateModified": "2023-05-19T15:37:44Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/H6J8P8XZ"
+        }
+      ],
+      "citationKey": "Goldstein2020",
+      "itemKey": "LPQ7IGLB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/LPQ7IGLB"
+    },
+    {
       "key": "CTQ74C4Y",
       "version": 0,
       "itemType": "book",
@@ -15865,6 +15952,48 @@
       "select": "zotero://select/library/items/9CFABBJB"
     },
     {
+      "key": "77UFY6UQ",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://link.springer.com/10.1007/s11165-009-9151-z",
+      "volume": "41",
+      "issue": "2",
+      "pages": "169-191",
+      "publicationTitle": "Research in Science Education",
+      "ISSN": "0157-244X, 1573-1898",
+      "date": "3/2011",
+      "journalAbbreviation": "Res Sci Educ",
+      "DOI": "10.1007/s11165-009-9151-z",
+      "accessDate": "2023-05-22T21:51:51Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Characterizing High School Students’ Written Explanations in Biology Laboratories",
+      "creators": [
+        {
+          "firstName": "Deniz",
+          "lastName": "Peker",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Carolyn S.",
+          "lastName": "Wallace",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-22T21:51:51Z",
+      "dateModified": "2023-05-22T21:51:51Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/77UFY6UQ",
+      "itemID": 7537,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Peker2011",
+      "itemKey": "77UFY6UQ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/77UFY6UQ"
+    },
+    {
       "key": "ID89RBWZ",
       "version": 0,
       "itemType": "journalArticle",
@@ -17467,6 +17596,91 @@
       "select": "zotero://select/library/items/LS6RJ2D3"
     },
     {
+      "key": "ESWLFN72",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevLett.78.772",
+      "volume": "78",
+      "issue": "5",
+      "pages": "772-774",
+      "publicationTitle": "Physical Review Letters",
+      "ISSN": "0031-9007, 1079-7114",
+      "date": "1997-2-3",
+      "journalAbbreviation": "Phys. Rev. Lett.",
+      "DOI": "10.1103/PhysRevLett.78.772",
+      "accessDate": "2023-05-25T09:25:49Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Dynamical Approach to Temperature",
+      "creators": [
+        {
+          "firstName": "Hans Henrik",
+          "lastName": "Rugh",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-25T09:25:49Z",
+      "dateModified": "2023-05-25T09:25:50Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ESWLFN72",
+      "itemID": 7541,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Rugh - 1997 - Dynamical Approach to Temperature.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-25T09:25:46Z",
+          "dateModified": "2023-05-25T09:25:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/ADETZA9H",
+          "path": "/Users/robert/Dropbox/zotero/storage/ADETZA9H/Rugh - 1997 - Dynamical Approach to Temperature.pdf",
+          "select": "zotero://select/library/items/ADETZA9H"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Rugh1997",
+      "itemKey": "ESWLFN72",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ESWLFN72"
+    },
+    {
+      "key": "GUDPNJHY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://iopscience.iop.org/article/10.1088/0305-4470/31/38/011",
+      "volume": "31",
+      "issue": "38",
+      "pages": "7761-7770",
+      "publicationTitle": "Journal of Physics A: Mathematical and General",
+      "ISSN": "0305-4470, 1361-6447",
+      "date": "1998-09-25",
+      "journalAbbreviation": "J. Phys. A: Math. Gen.",
+      "DOI": "10.1088/0305-4470/31/38/011",
+      "accessDate": "2023-05-25T10:27:42Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "title": "A geometric, dynamical approach to thermodynamics",
+      "creators": [
+        {
+          "firstName": "Hans Henrik",
+          "lastName": "Rugh",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-25T10:27:42Z",
+      "dateModified": "2023-05-25T10:27:42Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/GUDPNJHY",
+      "itemID": 7542,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Rugh1998",
+      "itemKey": "GUDPNJHY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GUDPNJHY"
+    },
+    {
       "key": "K7Y8959H",
       "version": 0,
       "itemType": "journalArticle",
@@ -18591,6 +18805,47 @@
       "select": "zotero://select/library/items/75GUIEZV"
     },
     {
+      "key": "PLPULTW7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "publicationTitle": "Montreal, Canada: McGill University",
+      "date": "2006",
+      "libraryCatalog": "Google Scholar",
+      "title": "Whitehead and science: From philosophy of nature to speculative cosmology",
+      "shortTitle": "Whitehead and science",
+      "creators": [
+        {
+          "firstName": "Isabelle",
+          "lastName": "Stengers",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-22T22:00:49Z",
+      "dateModified": "2023-05-22T22:00:49Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/PLPULTW7",
+      "itemID": 7538,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-22T22:00:53Z",
+          "dateModified": "2023-05-22T22:00:53Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/GYD3IVQP",
+          "path": "/Users/robert/Dropbox/zotero/storage/GYD3IVQP/Stengers - 2006 - Whitehead and science From philosophy of nature t.pdf",
+          "select": "zotero://select/library/items/GYD3IVQP"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Stengers2006",
+      "itemKey": "PLPULTW7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PLPULTW7"
+    },
+    {
       "key": "RX4SX8QZ",
       "version": 0,
       "itemType": "journalArticle",
@@ -19433,6 +19688,129 @@
       "itemKey": "ATYYGVG7",
       "libraryID": 1,
       "select": "zotero://select/library/items/ATYYGVG7"
+    },
+    {
+      "key": "9H6II9Z2",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://iopscience.iop.org/article/10.1209/epl/i1999-00139-0",
+      "volume": "45",
+      "issue": "2",
+      "pages": "149-155",
+      "publicationTitle": "Europhysics Letters (EPL)",
+      "ISSN": "0295-5075, 1286-4854",
+      "date": "1999-01-15",
+      "journalAbbreviation": "Europhys. Lett.",
+      "DOI": "10.1209/epl/i1999-00139-0",
+      "accessDate": "2023-05-17T14:51:45Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "title": "On the classical statistical mechanics of non-Hamiltonian systems",
+      "creators": [
+        {
+          "firstName": "M. E",
+          "lastName": "Tuckerman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "C. J",
+          "lastName": "Mundy",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "G. J",
+          "lastName": "Martyna",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-17T14:51:45Z",
+      "dateModified": "2023-05-17T14:51:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9H6II9Z2",
+      "itemID": 7524,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Tuckerman et al. - 1999 - On the classical statistical mechanics of non-Hami.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-17T14:52:09Z",
+          "dateModified": "2023-05-17T14:52:09Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/Q79TLACA",
+          "path": "/Users/robert/Dropbox/zotero/storage/Q79TLACA/Tuckerman et al. - 1999 - On the classical statistical mechanics of non-Hami.pdf",
+          "select": "zotero://select/library/items/Q79TLACA"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Tuckerman1999",
+      "itemKey": "9H6II9Z2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9H6II9Z2"
+    },
+    {
+      "key": "YQQ2A6N4",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://pubs.aip.org/aip/jcp/article/115/4/1678-1702/451151",
+      "volume": "115",
+      "issue": "4",
+      "pages": "1678-1702",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "ISSN": "0021-9606, 1089-7690",
+      "date": "2001-07-22",
+      "journalAbbreviation": "The Journal of Chemical Physics",
+      "DOI": "10.1063/1.1378321",
+      "accessDate": "2023-05-20T14:13:40Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Non-Hamiltonian molecular dynamics: Generalizing Hamiltonian phase space principles to non-Hamiltonian systems",
+      "shortTitle": "Non-Hamiltonian molecular dynamics",
+      "creators": [
+        {
+          "firstName": "Mark E.",
+          "lastName": "Tuckerman",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yi",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Giovanni",
+          "lastName": "Ciccotti",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Glenn J.",
+          "lastName": "Martyna",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-20T14:13:40Z",
+      "dateModified": "2023-05-20T14:13:40Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YQQ2A6N4",
+      "itemID": 7536,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Tuckerman et al. - 2001 - Non-Hamiltonian molecular dynamics Generalizing H.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-20T14:13:35Z",
+          "dateModified": "2023-05-20T14:13:41Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/SC4U2HY8",
+          "path": "/Users/robert/Dropbox/zotero/storage/SC4U2HY8/Tuckerman et al. - 2001 - Non-Hamiltonian molecular dynamics Generalizing H.pdf",
+          "select": "zotero://select/library/items/SC4U2HY8"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Tuckerman2001",
+      "itemKey": "YQQ2A6N4",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YQQ2A6N4"
     },
     {
       "key": "MXWJJ2RP",
