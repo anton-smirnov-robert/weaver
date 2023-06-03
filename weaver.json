@@ -101,6 +101,34 @@
   "collections": {},
   "items": [
     {
+      "key": "WSKGGS9X",
+      "version": 0,
+      "itemType": "webpage",
+      "url": "https://journals.openedition.org/philosophiascientiae/3851",
+      "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "date": "2023-03-14T00:00:00+01:00",
+      "extra": "ISSN: 1281-2463\nPublisher: Université Nancy 2",
+      "accessDate": "2023-05-29T22:45:28Z",
+      "websiteType": "Text",
+      "language": "fr",
+      "abstractNote": "Cahier thématique de Philosophia Scientiæ 29/1 (février 2025) Editeurs invités : Andrea Ariotto, Baris Dirican, Davide Pilotto Date limite de soumission : 1er octobre 2023 Date de notification : 1er janvier 2024 Adresses de soumission : andrea.ariotto@sorbonne-universite.fr ; baris.dirican@ens.psl.eu; davide.pilotto@etu.sorbonne-universite.fr. Appel La plupart des recherches sur les rapports entre la phénoménologie d’Edmund Husserl et les problématiques issues de la philosophie et de l’histoi...",
+      "websiteTitle": "Philosophia Scientiæ",
+      "title": "L'origine de la géométrie d'Edmund Husserl à travers l'histoire et la philosophie des sciences",
+      "creators": [],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-29T22:45:28Z",
+      "dateModified": "2023-05-29T22:45:28Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WSKGGS9X",
+      "itemID": 7563,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "2023",
+      "itemKey": "WSKGGS9X",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WSKGGS9X"
+    },
+    {
       "key": "7CLZ5347",
       "version": 0,
       "itemType": "journalArticle",
@@ -1095,6 +1123,30 @@
       "itemKey": "LJXSW42C",
       "libraryID": 1,
       "select": "zotero://select/library/items/LJXSW42C"
+    },
+    {
+      "key": "SURZ2JI6",
+      "version": 0,
+      "itemType": "attachment",
+      "title": "_2018_Incompleteness.pdf",
+      "linkMode": "imported_file",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "_2018_Incompleteness.pdf",
+      "tags": [],
+      "collections": [
+        "3TXVTZ22"
+      ],
+      "relations": {},
+      "dateAdded": "2023-06-02T10:34:27Z",
+      "dateModified": "2023-06-02T10:34:27Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/SURZ2JI6",
+      "itemID": 7567,
+      "localPath": "/Users/robert/Dropbox/zotero/storage/SURZ2JI6/_2018_Incompleteness.pdf",
+      "defaultPath": "files/7567/_2018_Incompleteness.pdf",
+      "itemKey": "SURZ2JI6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SURZ2JI6"
     },
     {
       "key": "DNV5ID3G",
@@ -7338,6 +7390,55 @@
       "select": "zotero://select/library/items/U697RFRL"
     },
     {
+      "key": "25GXNQJM",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://xlink.rsc.org/?DOI=b108775d",
+      "volume": "4",
+      "issue": "6",
+      "pages": "863-872",
+      "publicationTitle": "Physical Chemistry Chemical Physics",
+      "ISSN": "14639076, 14639084",
+      "date": "2002-3-4",
+      "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+      "DOI": "10.1039/b108775d",
+      "accessDate": "2023-05-28T18:00:29Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Geometric foundation of thermo-statistics, phase transitions, second law of thermodynamics, but without thermodynamic limit",
+      "creators": [
+        {
+          "firstName": "D. H. E.",
+          "lastName": "Gross",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-28T18:00:29Z",
+      "dateModified": "2023-05-28T18:00:29Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/25GXNQJM",
+      "itemID": 7553,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Gross - 2002 - Geometric foundation of thermo-statistics, phase t.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-28T18:00:24Z",
+          "dateModified": "2023-05-28T18:00:30Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LPRSQ5VU",
+          "path": "/Users/robert/Dropbox/zotero/storage/LPRSQ5VU/Gross - 2002 - Geometric foundation of thermo-statistics, phase t.pdf",
+          "select": "zotero://select/library/items/LPRSQ5VU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Gross2002",
+      "itemKey": "25GXNQJM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/25GXNQJM"
+    },
+    {
       "key": "AKHVSZ62",
       "version": 0,
       "itemType": "conferencePaper",
@@ -8885,6 +8986,62 @@
       "itemKey": "2PUBE7ZC",
       "libraryID": 1,
       "select": "zotero://select/library/items/2PUBE7ZC"
+    },
+    {
+      "key": "SU9Z2VQR",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "ANU Press",
+      "date": "2007",
+      "libraryCatalog": "Google Scholar",
+      "title": "Statistical mechanics of nonequilbrium liquids",
+      "creators": [
+        {
+          "firstName": "Denis",
+          "lastName": "J Evans",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gary",
+          "lastName": "P Morriss",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-27T09:56:32Z",
+      "dateModified": "2023-05-27T09:56:32Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/SU9Z2VQR",
+      "itemID": 7545,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Full Text",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-27T09:56:42Z",
+          "dateModified": "2023-05-27T09:56:42Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/QQEQVG97",
+          "path": "/Users/robert/Dropbox/zotero/storage/QQEQVG97/J Evans et P Morriss - 2007 - Statistical mechanics of nonequilbrium liquids.pdf",
+          "select": "zotero://select/library/items/QQEQVG97"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-27T09:57:03Z",
+          "dateModified": "2023-05-27T09:57:03Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/7SRE47AI",
+          "path": "/Users/robert/Dropbox/zotero/storage/7SRE47AI/33616.html",
+          "select": "zotero://select/library/items/7SRE47AI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "JEvans2007",
+      "itemKey": "SU9Z2VQR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SU9Z2VQR"
     },
     {
       "key": "7I6Y2WJ2",
@@ -13054,7 +13211,7 @@
           "version": 0,
           "itemType": "note",
           "parentItem": "D2QQ5LP6",
-          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22What%20do%20mainstream%20scientists%20acknowledge%20as%20original%20scientific%20contributions%3F%20In%20other%20words%2C%20what%20is%20the%20current%20%C3%A9pist%C3%A9m%C3%A8%20in%20natural%20sciences%3F%20This%20essay%20attempts%20to%20characterize%20this%20%C3%A9pist%C3%A9m%C3%A8%20as%20computational%20empiricism.%20Scientific%20works%20are%20primarily%20empirical%2C%20generating%20data%20and%20computational%2C%20to%20analyze%20them%20and%20reproduce%20them%20with%20models.%20This%20%C3%A9pist%C3%A9m%C3%A8%20values%20primarily%20the%20investigation%20of%20specific%20phenomena%20and%20thus%20leads%20to%20the%20fragmentation%20of%20sciences.%20It%20also%20promotes%20attention-catching%20results%20showing%20limits%20of%20earlier%20theories.%20However%2C%20it%20consumes%20these%20theories%20since%20it%20does%20not%20renew%20them%2C%20leading%20more%20and%20more%20fields%20to%20be%20in%20a%20state%20of%20theory%20disruption.%22%2C%22container-title%22%3A%22Philosophy%20World%20Democracy%22%2C%22language%22%3A%22en%22%2C%22source%22%3A%22montevil.org%22%2C%22title%22%3A%22Computational%20empiricism%20%3A%20the%20reigning%20%C3%A9pist%C3%A9m%C3%A8%20of%20the%20sciences%22%2C%22title-short%22%3A%22Computational%20empiricism%22%2C%22URL%22%3A%22https%3A%2F%2Fmontevil.org%2Fpublications%2Farticles%2F2021-montevil-episteme-computational-empiricism%2F%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Montevil%22%2C%22given%22%3A%22M.%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C10%2C20%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222021%22%2C7%2C31%5D%5D%7D%2C%22citation-key%22%3A%22Montevil2021%22%7D%7D%5D\" data-schema-version=\"8\"><h1></h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%22C59L2RCX%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B137.942%2C619.29%2C458.668%2C627.458%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%221%22%7D%7D\">What do mainstream scientists acknowledge as original scientific contributions?</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 1</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%224H377HYN%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%225%22%2C%22position%22%3A%7B%22pageIndex%22%3A4%2C%22rects%22%3A%5B%5B208.225%2C712.968%2C496.094%2C722.93%5D%2C%5B99.213%2C701.013%2C496.114%2C710.975%5D%2C%5B99.213%2C689.057%2C138.255%2C699.02%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%225%22%7D%7D\">protocolization can also be counterproductive since it downplays the work of objectivation, that is to say, the articulation between procedures and theoretical thinking.</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%225%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 5</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%226BWI5IUA%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%229%22%2C%22position%22%3A%7B%22pageIndex%22%3A8%2C%22rects%22%3A%5B%5B270.989%2C460.677%2C496.104%2C470.64%5D%2C%5B99.213%2C448.721%2C496.074%2C458.683%5D%2C%5B99.213%2C436.766%2C412.018%2C446.729%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%7D\">computational empiricism focuses on empirical data and mechanized computations. It cares for numerical questions (like statistics); however, it does not attend its logoi significantly, by analytical means or otherwise.</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 9</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%22YGVI84BS%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%229%22%2C%22position%22%3A%7B%22pageIndex%22%3A8%2C%22rects%22%3A%5B%5B114.157%2C424.811%2C496.111%2C434.773%5D%2C%5B99.213%2C412.856%2C414.246%2C422.818%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%7D\">Computational empiricism is an industrialization of research activity, a paradoxical notion considering that research is about bringing new, singular insights.</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 9</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%22Q5B3PNDU%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%229%22%2C%22position%22%3A%7B%22pageIndex%22%3A8%2C%22rects%22%3A%5B%5B419.608%2C293.304%2C496.09%2C303.267%5D%2C%5B99.213%2C281.349%2C434.636%2C291.311%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%7D\">This organization goes with a cumulative view of science, where productivism is a natural aim.</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 9</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%22LHKMJR2U%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%229%22%2C%22position%22%3A%7B%22pageIndex%22%3A8%2C%22rects%22%3A%5B%5B166.39%2C233.527%2C496.075%2C243.49%5D%2C%5B99.213%2C221.572%2C158.224%2C231.535%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%7D\">partition yields academic peace, even though it might very well be the peace of cemeteries.</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 9</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FHK5PKEFJ%22%2C%22annotationKey%22%3A%22PHX7IQ59%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%229%22%2C%22position%22%3A%7B%22pageIndex%22%3A8%2C%22rects%22%3A%5B%5B145.829%2C173.752%2C496.047%2C183.715%5D%2C%5B99.213%2C161.796%2C496.067%2C171.759%5D%2C%5B99.213%2C149.841%2C496.06%2C159.804%5D%2C%5B99.213%2C137.886%2C273.178%2C147.849%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%7D\">In a somewhat perverse way, it also promotes empirical results that destabilize former theoretical frameworks because they catch attention. However, it does not promote rethinking these frameworks, leading to what may be called a theory disruption that is more or less advanced depending on the fields</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montevil, 2021, p. 9</span>)</span></p>\n</div>",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22What%20do%20mainstream%20scientists%20acknowledge%20as%20original%20scientific%20contributions%3F%20In%20other%20words%2C%20what%20is%20the%20current%20%C3%A9pist%C3%A9m%C3%A8%20in%20natural%20sciences%3F%20This%20essay%20attempts%20to%20characterize%20this%20%C3%A9pist%C3%A9m%C3%A8%20as%20computational%20empiricism.%20Scientific%20works%20are%20primarily%20empirical%2C%20generating%20data%20and%20computational%2C%20to%20analyze%20them%20and%20reproduce%20them%20with%20models.%20This%20%C3%A9pist%C3%A9m%C3%A8%20values%20primarily%20the%20investigation%20of%20specific%20phenomena%20and%20thus%20leads%20to%20the%20fragmentation%20of%20sciences.%20It%20also%20promotes%20attention-catching%20results%20showing%20limits%20of%20earlier%20theories.%20However%2C%20it%20consumes%20these%20theories%20since%20it%20does%20not%20renew%20them%2C%20leading%20more%20and%20more%20fields%20to%20be%20in%20a%20state%20of%20theory%20disruption.%22%2C%22container-title%22%3A%22Philosophy%20World%20Democracy%22%2C%22language%22%3A%22en%22%2C%22source%22%3A%22montevil.org%22%2C%22title%22%3A%22Computational%20empiricism%20%3A%20the%20reigning%20%C3%A9pist%C3%A9m%C3%A8%20of%20the%20sciences%22%2C%22title-short%22%3A%22Computational%20empiricism%22%2C%22URL%22%3A%22https%3A%2F%2Fmontevil.org%2Fpublications%2Farticles%2F2021-montevil-episteme-computational-empiricism%2F%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Mont%C3%A9vil%22%2C%22given%22%3A%22Ma%C3%ABl%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C10%2C20%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222021%22%2C7%2C31%5D%5D%7D%2C%22citation-key%22%3A%22Montevil2021%22%7D%7D%5D\" data-schema-version=\"8\"><h1></h1>\n<p>What do mainstream scientists acknowledge as original scientific contributions? <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 1</span>)</span></p>\n<p>protocolization can also be counterproductive since it downplays the work of objectivation, that is to say, the articulation between procedures and theoretical thinking. <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%225%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 5</span>)</span></p>\n<p>computational empiricism focuses on empirical data and mechanized computations. It cares for numerical questions (like statistics); however, it does not attend its logoi significantly, by analytical means or otherwise. <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 9</span>)</span></p>\n<p>Computational empiricism is an industrialization of research activity, a paradoxical notion considering that research is about bringing new, singular insights. <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 9</span>)</span></p>\n<p>This organization goes with a cumulative view of science, where productivism is a natural aim. <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 9</span>)</span></p>\n<p>partition yields academic peace, even though it might very well be the peace of cemeteries. <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 9</span>)</span></p>\n<p>In a somewhat perverse way, it also promotes empirical results that destabilize former theoretical frameworks because they catch attention. However, it does not promote rethinking these frameworks, leading to what may be called a theory disruption that is more or less advanced depending on the fields <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2Flocal%2FasN0yRvl%2Fitems%2FD2QQ5LP6%22%5D%2C%22locator%22%3A%229%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Montévil, 2021, p. 9</span>)</span></p>\n</div>",
           "tags": [],
           "relations": {},
           "dateAdded": "2023-01-02T14:39:18Z",
@@ -17146,6 +17303,73 @@
       "select": "zotero://select/library/items/MB3TG6DL"
     },
     {
+      "key": "Z9W8MWY7",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.philosophy-world-democracy.org/articles-1/larret-de-l-histoire-des-sciences",
+      "publicationTitle": "Philosophy World Democracy",
+      "date": "2023",
+      "title": "L'arrêt de l'histoire des sciences",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-29T12:52:55Z",
+      "dateModified": "2023-05-29T12:54:24Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/Z9W8MWY7",
+      "itemID": 7562,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Robert2023a",
+      "itemKey": "Z9W8MWY7",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/Z9W8MWY7"
+    },
+    {
+      "key": "KM5YEZC9",
+      "version": 0,
+      "itemType": "journalArticle",
+      "libraryCatalog": "Zotero",
+      "language": "fr",
+      "title": "L'écriture en biologie  : des limites de l'abstraction aux méthodes d'une approche organiciste.",
+      "creators": [
+        {
+          "firstName": "Anton",
+          "lastName": "Robert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-29T12:35:06Z",
+      "dateModified": "2023-05-29T12:35:06Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/KM5YEZC9",
+      "itemID": 7557,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Robert - L'écriture en biologie   des limites de l'abstrac.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-29T12:35:03Z",
+          "dateModified": "2023-05-29T12:35:06Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/FJL5YYFR",
+          "path": "/Users/robert/Dropbox/zotero/storage/FJL5YYFR/Robert - L'écriture en biologie   des limites de l'abstrac.pdf",
+          "select": "zotero://select/library/items/FJL5YYFR"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Roberta",
+      "itemKey": "KM5YEZC9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/KM5YEZC9"
+    },
+    {
       "key": "8U9FWUPM",
       "version": 0,
       "itemType": "journalArticle",
@@ -18038,6 +18262,56 @@
       "select": "zotero://select/library/items/RL9FHEYM"
     },
     {
+      "key": "PG8KNGDA",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://link.springer.com/10.1140/epjb/e2008-00001-9",
+      "volume": "64",
+      "issue": "3-4",
+      "pages": "423-431",
+      "publicationTitle": "The European Physical Journal B",
+      "ISSN": "1434-6028, 1434-6036",
+      "date": "8/2008",
+      "journalAbbreviation": "Eur. Phys. J. B",
+      "DOI": "10.1140/epjb/e2008-00001-9",
+      "accessDate": "2023-05-27T10:03:18Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Stochastic thermodynamics: principles and perspectives",
+      "shortTitle": "Stochastic thermodynamics",
+      "creators": [
+        {
+          "firstName": "U.",
+          "lastName": "Seifert",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-27T10:03:18Z",
+      "dateModified": "2023-05-27T10:03:18Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/PG8KNGDA",
+      "itemID": 7548,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-27T10:03:25Z",
+          "dateModified": "2023-05-27T10:03:25Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/DC4XMIPU",
+          "path": "/Users/robert/Dropbox/zotero/storage/DC4XMIPU/Seifert - 2008 - Stochastic thermodynamics principles and perspect.pdf",
+          "select": "zotero://select/library/items/DC4XMIPU"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Seifert2008",
+      "itemKey": "PG8KNGDA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PG8KNGDA"
+    },
+    {
       "key": "32NJKTQ7",
       "version": 0,
       "itemType": "journalArticle",
@@ -18084,6 +18358,54 @@
       "itemKey": "32NJKTQ7",
       "libraryID": 1,
       "select": "zotero://select/library/items/32NJKTQ7"
+    },
+    {
+      "key": "ZLEA2Y69",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://academic.oup.com/ptps/article-lookup/doi/10.1143/PTPS.130.17",
+      "volume": "130",
+      "pages": "17-27",
+      "publicationTitle": "Progress of Theoretical Physics Supplement",
+      "ISSN": "0375-9687",
+      "date": "1998",
+      "journalAbbreviation": "Prog. Theor. Phys. Suppl.",
+      "DOI": "10.1143/PTPS.130.17",
+      "accessDate": "2023-05-27T14:35:45Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Langevin Equation and Thermodynamics",
+      "creators": [
+        {
+          "firstName": "Ken",
+          "lastName": "Sekimoto",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-27T14:35:45Z",
+      "dateModified": "2023-05-27T14:35:45Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/ZLEA2Y69",
+      "itemID": 7550,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Texte intégral",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-27T14:35:51Z",
+          "dateModified": "2023-05-27T14:35:51Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/4DARRXI7",
+          "path": "/Users/robert/Dropbox/zotero/storage/4DARRXI7/Sekimoto - 1998 - Langevin Equation and Thermodynamics.pdf",
+          "select": "zotero://select/library/items/4DARRXI7"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Sekimoto1998",
+      "itemKey": "ZLEA2Y69",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZLEA2Y69"
     },
     {
       "key": "DBVR2JX2",
@@ -19617,6 +19939,57 @@
       "itemKey": "43F7PIPQ",
       "libraryID": 1,
       "select": "zotero://select/library/items/43F7PIPQ"
+    },
+    {
+      "key": "WYW2J4WK",
+      "version": 0,
+      "itemType": "book",
+      "publisher": "Courier Corporation",
+      "date": "1979",
+      "libraryCatalog": "Google Scholar",
+      "title": "The principles of statistical mechanics",
+      "creators": [
+        {
+          "firstName": "Richard Chace",
+          "lastName": "Tolman",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-31T10:02:32Z",
+      "dateModified": "2023-05-31T10:02:32Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WYW2J4WK",
+      "itemID": 7565,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Richard C. Tolman - The principles of statistical mechanics-Dover Publications (2010).pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-31T10:01:55Z",
+          "dateModified": "2023-05-31T10:02:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/XHRM3W8C",
+          "path": "/Users/robert/Dropbox/zotero/storage/XHRM3W8C/Richard C. Tolman - The principles of statistical mechanics-Dover Publications (2010).pdf",
+          "select": "zotero://select/library/items/XHRM3W8C"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-31T10:02:38Z",
+          "dateModified": "2023-05-31T10:02:38Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/TFKR3PM6",
+          "path": "/Users/robert/Dropbox/zotero/storage/TFKR3PM6/books.html",
+          "select": "zotero://select/library/items/TFKR3PM6"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Tolman1979",
+      "itemKey": "WYW2J4WK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WYW2J4WK"
     },
     {
       "key": "57XK9XXY",
