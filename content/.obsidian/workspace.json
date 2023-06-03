@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ff21fcaf85da31",
+        "id": "2a79b3321be3d6c1",
         "type": "tabs",
         "children": [
           {
-            "id": "d37934c41e8544c0",
+            "id": "f7834cef579f8c07",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "reference/Longo2012.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "reference/Longo2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "reference/Longo2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "reference/Longo2012.md"
+              }
             }
           }
         ]
@@ -147,8 +154,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d37934c41e8544c0",
+  "active": "f7834cef579f8c07",
   "lastOpenFiles": [
+    "reference/Montevil2016.md",
+    "note/note on Hayek1945.md",
     "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
     "projects/theorization_in_sciences/article epistemological mismatch.md",
     "projects/theorization_in_sciences/marketization_of_scientific_research.md",
@@ -177,8 +186,6 @@
     "concept/theoretical gaps.md",
     "images/Pasted image 20230406174519.png",
     "images/Pasted image 20230406174512.png",
-    "concept/natural selection.md",
-    "concept/open-ended evolution.md",
     "images/Pasted image 20230405123654.png",
     "images/Pasted image 20230404124000.png",
     "images/Pasted image 20230403204846.png",
