@@ -18554,6 +18554,71 @@
       "select": "zotero://select/library/items/ZLEA2Y69"
     },
     {
+      "key": "U7TV2KF2",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://www.annualreviews.org/doi/10.1146/annurev.physchem.58.032806.104555",
+      "volume": "59",
+      "issue": "1",
+      "pages": "603-633",
+      "publicationTitle": "Annual Review of Physical Chemistry",
+      "ISSN": "0066-426X, 1545-1593",
+      "date": "2008-05-01",
+      "journalAbbreviation": "Annu. Rev. Phys. Chem.",
+      "DOI": "10.1146/annurev.physchem.58.032806.104555",
+      "accessDate": "2023-06-05T16:44:00Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "abstractNote": "Fluctuation theorems, developed over the past 15 years, have resulted in fundamental breakthroughs in our understanding of how irreversibility emerges from reversible dynamics and have provided new statistical mechanical relationships for free-energy changes. They describe the statistical fluctuations in time-averaged properties of many-particle systems such as fluids driven to nonequilibrium states and provide some of the few analytical expressions that describe nonequilibrium states. Quantitative predictions on fluctuations in small systems that are monitored over short periods can also be made, and therefore the fluctuation theorems allow thermodynamic concepts to be extended to apply to finite systems. For this reason, we anticipate an important role for fluctuation theorems in the design of nanotechnological devices and in the understanding of biological processes. This review discusses these theorems, their physical significance, and results for experimental and model systems.",
+      "title": "Fluctuation Theorems",
+      "creators": [
+        {
+          "firstName": "E.M.",
+          "lastName": "Sevick",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "R.",
+          "lastName": "Prabhakar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stephen R.",
+          "lastName": "Williams",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Debra J.",
+          "lastName": "Searles",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-05T16:44:00Z",
+      "dateModified": "2023-06-05T16:44:00Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/U7TV2KF2",
+      "itemID": 7577,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-05T16:44:06Z",
+          "dateModified": "2023-06-05T16:44:06Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/LV7FKUID",
+          "path": "/Users/robert/Dropbox/zotero/storage/LV7FKUID/Sevick et al. - 2008 - Fluctuation Theorems.pdf",
+          "select": "zotero://select/library/items/LV7FKUID"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Sevick2008",
+      "itemKey": "U7TV2KF2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/U7TV2KF2"
+    },
+    {
       "key": "DBVR2JX2",
       "version": 0,
       "itemType": "journalArticle",
