@@ -4004,6 +4004,43 @@
       "select": "zotero://select/library/items/4PATJMDM"
     },
     {
+      "key": "8YYN7NT5",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://pubs.aip.org/aip/jcp/article/295626",
+      "volume": "125",
+      "issue": "14",
+      "pages": "144109",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "ISSN": "0021-9606, 1089-7690",
+      "date": "2006-10-14",
+      "journalAbbreviation": "The Journal of Chemical Physics",
+      "DOI": "10.1063/1.2338535",
+      "accessDate": "2023-06-05T08:48:14Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "The Jarzynski identity derived from general Hamiltonian or non-Hamiltonian dynamics reproducing NVT or NPT ensembles",
+      "creators": [
+        {
+          "firstName": "Michel A.",
+          "lastName": "Cuendet",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-05T08:48:14Z",
+      "dateModified": "2023-06-05T08:48:14Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/8YYN7NT5",
+      "itemID": 7574,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Cuendet2006",
+      "itemKey": "8YYN7NT5",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8YYN7NT5"
+    },
+    {
       "key": "7UYMQWLS",
       "version": 0,
       "itemType": "journalArticle",
@@ -16795,6 +16832,42 @@
       "itemKey": "YEDYU2JY",
       "libraryID": 1,
       "select": "zotero://select/library/items/YEDYU2JY"
+    },
+    {
+      "key": "JCWJPX8B",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://iopscience.iop.org/article/10.1209/epl/i2002-00196-9",
+      "volume": "59",
+      "issue": "3",
+      "pages": "319-323",
+      "publicationTitle": "Europhysics Letters (EPL)",
+      "ISSN": "0295-5075, 1286-4854",
+      "date": "08/2002",
+      "journalAbbreviation": "Europhys. Lett.",
+      "DOI": "10.1209/epl/i2002-00196-9",
+      "accessDate": "2023-06-05T08:47:36Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "title": "Remarks on non-Hamiltonian statistical mechanics",
+      "creators": [
+        {
+          "firstName": "J. D",
+          "lastName": "Ramshaw",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-05T08:47:37Z",
+      "dateModified": "2023-06-05T08:47:37Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/JCWJPX8B",
+      "itemID": 7573,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Ramshaw2002",
+      "itemKey": "JCWJPX8B",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JCWJPX8B"
     },
     {
       "key": "TLMY2CWD",
