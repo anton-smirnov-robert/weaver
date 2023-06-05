@@ -4033,7 +4033,19 @@
       "dateModified": "2023-06-05T08:48:14Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/8YYN7NT5",
       "itemID": 7574,
-      "attachments": [],
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Cuendet - 2006 - The Jarzynski identity derived from general Hamilt.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-05T11:12:02Z",
+          "dateModified": "2023-06-05T11:12:02Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UZAECSKX",
+          "path": "/Users/robert/Dropbox/zotero/storage/UZAECSKX/Cuendet - 2006 - The Jarzynski identity derived from general Hamilt.pdf",
+          "select": "zotero://select/library/items/UZAECSKX"
+        }
+      ],
       "notes": [],
       "citationKey": "Cuendet2006",
       "itemKey": "8YYN7NT5",
