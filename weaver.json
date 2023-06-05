@@ -16874,7 +16874,19 @@
       "dateModified": "2023-06-05T08:47:37Z",
       "uri": "http://zotero.org/users/local/asN0yRvl/items/JCWJPX8B",
       "itemID": 7573,
-      "attachments": [],
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Ramshaw - 2002 - Remarks on non-Hamiltonian statistical mechanics.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-05T13:16:38Z",
+          "dateModified": "2023-06-05T13:16:38Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/E2Y9R6SA",
+          "path": "/Users/robert/Dropbox/zotero/storage/E2Y9R6SA/Ramshaw - 2002 - Remarks on non-Hamiltonian statistical mechanics.pdf",
+          "select": "zotero://select/library/items/E2Y9R6SA"
+        }
+      ],
       "notes": [],
       "citationKey": "Ramshaw2002",
       "itemKey": "JCWJPX8B",
