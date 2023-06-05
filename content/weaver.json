@@ -16748,6 +16748,55 @@
       "select": "zotero://select/library/items/GCB8ATNP"
     },
     {
+      "key": "YEDYU2JY",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/037596018690294X",
+      "volume": "116",
+      "issue": "3",
+      "pages": "110-114",
+      "publicationTitle": "Physics Letters A",
+      "ISSN": "03759601",
+      "date": "6/1986",
+      "journalAbbreviation": "Physics Letters A",
+      "DOI": "10.1016/0375-9601(86)90294-X",
+      "accessDate": "2023-06-05T07:49:33Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Remarks on entropy and irreversibility in non-hamiltonian systems",
+      "creators": [
+        {
+          "firstName": "John D.",
+          "lastName": "Ramshaw",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-05T07:49:33Z",
+      "dateModified": "2023-06-05T07:49:33Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/YEDYU2JY",
+      "itemID": 7571,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Ramshaw - 1986 - Remarks on entropy and irreversibility in non-hami.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-05T07:49:45Z",
+          "dateModified": "2023-06-05T07:49:45Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/UUZSFH3N",
+          "path": "/Users/robert/Dropbox/zotero/storage/UUZSFH3N/Ramshaw - 1986 - Remarks on entropy and irreversibility in non-hami.pdf",
+          "select": "zotero://select/library/items/UUZSFH3N"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Ramshaw1986",
+      "itemKey": "YEDYU2JY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YEDYU2JY"
+    },
+    {
       "key": "TLMY2CWD",
       "version": 0,
       "itemType": "book",
