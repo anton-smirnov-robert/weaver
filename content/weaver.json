@@ -5708,6 +5708,56 @@
       "select": "zotero://select/library/items/UPMCD7G4"
     },
     {
+      "key": "9N3MEHW9",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "http://link.springer.com/10.1023/B:JOMC.0000007811.79716.4d",
+      "volume": "35",
+      "issue": "1",
+      "pages": "29-53",
+      "publicationTitle": "Journal of Mathematical Chemistry",
+      "ISSN": "0259-9791",
+      "date": "01/2004",
+      "journalAbbreviation": "Journal of Mathematical Chemistry",
+      "DOI": "10.1023/B:JOMC.0000007811.79716.4d",
+      "accessDate": "2023-06-08T22:05:22Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "On the Statistical Mechanics of Non-Hamiltonian Systems: The Generalized Liouville Equation, Entropy, and Time-Dependent Metrics",
+      "shortTitle": "On the Statistical Mechanics of Non-Hamiltonian Systems",
+      "creators": [
+        {
+          "firstName": "Gregory S.",
+          "lastName": "Ezra",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-08T22:05:22Z",
+      "dateModified": "2023-06-08T22:05:22Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/9N3MEHW9",
+      "itemID": 7582,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Ezra - 2004 - On the Statistical Mechanics of Non-Hamiltonian Sy.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-08T22:05:18Z",
+          "dateModified": "2023-06-08T22:05:22Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/USX4EUKD",
+          "path": "/Users/robert/Dropbox/zotero/storage/USX4EUKD/Ezra - 2004 - On the Statistical Mechanics of Non-Hamiltonian Sy.pdf",
+          "select": "zotero://select/library/items/USX4EUKD"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Ezra2004",
+      "itemKey": "9N3MEHW9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/9N3MEHW9"
+    },
+    {
       "key": "2ZCZJJIS",
       "version": 0,
       "itemType": "journalArticle",
