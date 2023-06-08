@@ -699,6 +699,55 @@
       "select": "zotero://select/library/items/HDWLW4FC"
     },
     {
+      "key": "WL6EJXDB",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/0375960185907996",
+      "volume": "111",
+      "issue": "1-2",
+      "pages": "45-46",
+      "publicationTitle": "Physics Letters A",
+      "ISSN": "03759601",
+      "date": "8/1985",
+      "journalAbbreviation": "Physics Letters A",
+      "DOI": "10.1016/0375-9601(85)90799-6",
+      "accessDate": "2023-06-08T21:27:49Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "The rate of entropy change in non-hamiltonian systems",
+      "creators": [
+        {
+          "firstName": "L.",
+          "lastName": "Andrey",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-08T21:27:49Z",
+      "dateModified": "2023-06-08T21:27:49Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/WL6EJXDB",
+      "itemID": 7580,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Andrey - 1985 - The rate of entropy change in non-hamiltonian syst.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-08T21:27:45Z",
+          "dateModified": "2023-06-08T21:27:50Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/HALTUXIM",
+          "path": "/Users/robert/Dropbox/zotero/storage/HALTUXIM/Andrey - 1985 - The rate of entropy change in non-hamiltonian syst.pdf",
+          "select": "zotero://select/library/items/HALTUXIM"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Andrey1985",
+      "itemKey": "WL6EJXDB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WL6EJXDB"
+    },
+    {
       "key": "YBSRRHEW",
       "version": 0,
       "itemType": "journalArticle",
