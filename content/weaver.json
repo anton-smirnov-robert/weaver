@@ -9136,6 +9136,65 @@
       "select": "zotero://select/library/items/2PUBE7ZC"
     },
     {
+      "key": "6WQVSJEK",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://link.aps.org/doi/10.1103/PhysRevE.62.4757",
+      "volume": "62",
+      "issue": "4",
+      "pages": "4757-4763",
+      "publicationTitle": "Physical Review E",
+      "ISSN": "1063-651X, 1095-3787",
+      "date": "2000-10-1",
+      "journalAbbreviation": "Phys. Rev. E",
+      "DOI": "10.1103/PhysRevE.62.4757",
+      "accessDate": "2023-06-09T14:25:49Z",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "language": "en",
+      "title": "Microscopic expressions for the thermodynamic temperature",
+      "creators": [
+        {
+          "firstName": "Owen G.",
+          "lastName": "Jepps",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gary",
+          "lastName": "Ayton",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Denis J.",
+          "lastName": "Evans",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-09T14:25:49Z",
+      "dateModified": "2023-06-09T14:25:49Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/6WQVSJEK",
+      "itemID": 7584,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Version soumise",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-09T14:25:52Z",
+          "dateModified": "2023-06-09T14:25:52Z",
+          "uri": "http://zotero.org/users/local/asN0yRvl/items/C6FD4QNW",
+          "path": "/Users/robert/Dropbox/zotero/storage/C6FD4QNW/Jepps et al. - 2000 - Microscopic expressions for the thermodynamic temp.pdf",
+          "select": "zotero://select/library/items/C6FD4QNW"
+        }
+      ],
+      "notes": [],
+      "citationKey": "Jepps2000",
+      "itemKey": "6WQVSJEK",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/6WQVSJEK"
+    },
+    {
       "key": "SU9Z2VQR",
       "version": 0,
       "itemType": "book",
@@ -16991,6 +17050,48 @@
       "itemKey": "JCWJPX8B",
       "libraryID": 1,
       "select": "zotero://select/library/items/JCWJPX8B"
+    },
+    {
+      "key": "T9B9WYPG",
+      "version": 0,
+      "itemType": "journalArticle",
+      "url": "https://doi.org/10.1063/1.1348024",
+      "volume": "114",
+      "issue": "9",
+      "pages": "4333-4334",
+      "publicationTitle": "The Journal of Chemical Physics",
+      "ISSN": "0021-9606",
+      "date": "2001-03-01",
+      "journalAbbreviation": "The Journal of Chemical Physics",
+      "DOI": "10.1063/1.1348024",
+      "accessDate": "2023-06-09T14:21:31Z",
+      "libraryCatalog": "Silverchair",
+      "abstractNote": "We show that a formula for the temperature of a classical system, originally given by Rugh, can be generalized. The result is that the inverse of the temperature is proportional to the average of the function ∇.(B/B.∇H), where H is the Hamiltonian of the system and B is an arbitrary vector function of the coordinates in phase space. Special cases of the new formula include a number of familiar results including the virial theorem.",
+      "title": "Temperature in the classical microcanonical ensemble",
+      "creators": [
+        {
+          "firstName": "Gerald",
+          "lastName": "Rickayzen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jack G.",
+          "lastName": "Powles",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-09T14:21:31Z",
+      "dateModified": "2023-06-09T14:21:31Z",
+      "uri": "http://zotero.org/users/local/asN0yRvl/items/T9B9WYPG",
+      "itemID": 7583,
+      "attachments": [],
+      "notes": [],
+      "citationKey": "Rickayzen2001",
+      "itemKey": "T9B9WYPG",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/T9B9WYPG"
     },
     {
       "key": "TLMY2CWD",
