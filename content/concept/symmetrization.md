@@ -1,10 +1,10 @@
 ---
 title: "symmetrization"
 date: 2023-04-04
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
-draft: false
+draft: true
 tags:
 - concept
 ---

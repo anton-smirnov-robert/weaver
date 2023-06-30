@@ -1,6 +1,6 @@
 ---
 title: "Blok2015a"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

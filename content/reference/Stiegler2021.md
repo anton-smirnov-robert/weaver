@@ -1,6 +1,6 @@
 ---
 title: "Stiegler2021"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

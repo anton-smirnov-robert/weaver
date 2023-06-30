@@ -1,7 +1,7 @@
 ---
 title: "automaton"
 date: 2022-12-07
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

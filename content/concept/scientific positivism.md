@@ -2,7 +2,7 @@
 ---
 title: "scientific positivism"
 date: 2023-01-02
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

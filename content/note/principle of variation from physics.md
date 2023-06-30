@@ -2,7 +2,7 @@
 ---
 title: "principle of variation from physics"
 date: 2023-04-06
-draft: false
+draft: true
 showthedate: true
 enabletoc: true
 draft: true

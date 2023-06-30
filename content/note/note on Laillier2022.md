@@ -1,7 +1,7 @@
 ---
 title: "note on Laillier2022"
 date: 2023-02-01
-draft: false
+draft: true
 showthedate: true
 enabletoc: true
 tags:

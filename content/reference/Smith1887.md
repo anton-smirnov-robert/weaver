@@ -1,6 +1,6 @@
 ---
 title: "Smith1887"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

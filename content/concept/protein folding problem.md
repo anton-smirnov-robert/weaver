@@ -1,7 +1,7 @@
 ---
 title: "protein folding problem"
 date: 2022-12-08
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

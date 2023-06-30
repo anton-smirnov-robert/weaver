@@ -1,10 +1,10 @@
 ---
 title: "natural selection"
 date: 2023-04-05
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
-draft: false
+draft: true
 tags:
 - concept
 ---

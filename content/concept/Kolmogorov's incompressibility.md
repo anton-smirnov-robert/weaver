@@ -1,7 +1,7 @@
 ---
 title: "Kolmogorov's incompressibility"
 date: 2022-12-11
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

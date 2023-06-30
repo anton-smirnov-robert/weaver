@@ -8,12 +8,11 @@ Hello!
 
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
-I'm a **physical chemist** that bifurcates towards **theoretical biology**.   
-You can take a look at my [PhD project](PhD%20project.md).  
-Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>.
+I'm a **physical chemist**, currently carrying a PhD thesis in **epistemology** and **theoretical biology**.   
+You can take a look at my [PhD project](PhD%20project.md).     
+Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton(dot)smirnov(dot)robert(at)gmail(dot)com </a>.
 
-If you are interested in **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
-
+If you are interested in the website **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
 
 Here are the main points of my <a href="/images/CV_03_23_internet_version.pdf" >CV</a>[^1] : 
 -  **PhD degree** in **physical chemistry** from Paris Sciences et Lettres Research University (2022).  
@@ -21,11 +20,11 @@ Here are the main points of my <a href="/images/CV_03_23_internet_version.pdf" >
 - **Master's degree** in analytical, physical and theoretical chemistry from **Sorbonne Université** (2019).
 - Contracted visitor in **IBM Research Zürich** on quantum computing for chemistry (2018-2019)
 
-To find more details with a narrative, check my [personal story](personal%20story.md). 
+
+### List of articles (📄) and patents (💡)
 
 
-### List of scientific articles (📄) and patents (💡)
-
+📄 Robert, Anton. 2023. « L’arrêt de l’histoire des sciences ». Philosophy World Democracy.
 
 📄 Robert, Anton, Hélène Berthoumieux, et Marie-Laure Bocquet. 2023. « Coupled Interactions at the Ionic Graphene-Water Interface ». _Physical Review Letters_ 130 (7): 076201.
 

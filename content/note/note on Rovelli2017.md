@@ -2,7 +2,7 @@
 ---
 title: "note on Rovelli2017"
 date: 2023-01-18
-draft: false
+draft: true
 showthedate: true
 enabletoc: true
 tags:

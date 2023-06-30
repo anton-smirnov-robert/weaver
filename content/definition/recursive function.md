@@ -1,7 +1,7 @@
 ---
 title: "recursive function"
 date: 2022-12-06
-draft: false
+draft: true
 tags:
 - definition
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Canguilhem1992b"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

@@ -10,7 +10,7 @@ localGraph:
     enableDrag: true
     enableZoom: true
     depth: 2 # set to -1 to show full graph
-    scale: 2
+    scale: 4
     #repelForce: 1
     #centerForce: 0
     linkDistance: 4

@@ -1,6 +1,6 @@
 ---
 title: "Feynman1967"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

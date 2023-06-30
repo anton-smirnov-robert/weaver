@@ -1,7 +1,7 @@
 ---
 title: "chemotaxis"
 date: 2023-03-08
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

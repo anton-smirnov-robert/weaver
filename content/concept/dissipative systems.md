@@ -1,10 +1,10 @@
 ---
 title: "dissipative systems"
 date: 2023-04-17
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
-draft: false
+draft: true
 tags:
 - concept
 ---

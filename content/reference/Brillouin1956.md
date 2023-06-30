@@ -1,6 +1,6 @@
 ---
 title: "Brillouin1956"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

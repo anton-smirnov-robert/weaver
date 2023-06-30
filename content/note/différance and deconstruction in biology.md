@@ -1,7 +1,7 @@
 ---
 title: "différance and deconstruction in biology"
 date: 2023-04-10
-draft: false
+draft: true
 showthedate: true
 enabletoc: true
 draft: true

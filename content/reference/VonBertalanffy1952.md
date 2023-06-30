@@ -1,6 +1,6 @@
 ---
 title: "VonBertalanffy1952"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

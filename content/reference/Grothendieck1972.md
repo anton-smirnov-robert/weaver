@@ -1,6 +1,6 @@
 ---
 title: "Grothendieck1972"
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

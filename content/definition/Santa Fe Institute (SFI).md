@@ -1,7 +1,7 @@
 ---
 title: "Santa Fe Institute (SFI)"
 date: 2022-12-12
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

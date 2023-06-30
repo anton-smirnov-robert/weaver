@@ -1,7 +1,7 @@
 ---
 title: "kin-selection"
 date: 2023-02-28
-draft: false
+draft: true
 showthedate: true
 enabletoc: true
 tags:

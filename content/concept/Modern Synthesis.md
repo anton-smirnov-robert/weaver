@@ -2,7 +2,7 @@
 ---
 title: "Modern Synthesis"
 date: 2023-03-14
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

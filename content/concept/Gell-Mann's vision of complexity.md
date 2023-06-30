@@ -1,7 +1,7 @@
 ---
 title: "Gell-Mann's vision of complexity"
 date: 2022-12-12
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

@@ -2,7 +2,7 @@
 ---
 title: "biological function"
 date: 2023-01-18
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

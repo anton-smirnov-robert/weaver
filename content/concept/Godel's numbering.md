@@ -1,7 +1,7 @@
 ---
 title: "Godel's numbering"
 date: 2022-12-12
-draft: false
+draft: true
 showthedate: true
 enabletoc: false
 tags:

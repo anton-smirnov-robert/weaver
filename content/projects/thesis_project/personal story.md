@@ -2,7 +2,7 @@
 title: "personal story"
 date: 2022-12-06
 showthedate: true
-draft: false
+draft: true
 ---
 
 I grew up in Toulouse, where I ended up doing a two-year intensive scientific class in Lycée Pierre de Fermat. Then I “went up” (we say _monter_ à Paris in the south of France) at the École Normale Supérieure (ENS) de Paris, in the Chemistry Department. In parallel of these three rich years, I pursued a Master degree analytical, physical and theoretical Chemistry (CAPT) at Sorbonne Université, which is a member of Paris Sciences et Lettres (PSL).

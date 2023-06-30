@@ -1,7 +1,7 @@
 ---
 title: "Cantor's diagonal argument"
 date: 2022-12-06
-draft: false
+draft: true
 tags:
 - concept
 ---
