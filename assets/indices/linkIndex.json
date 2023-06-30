@@ -372,28 +372,6 @@
           "text": "about the website"
         }
       ],
-      "/concept/Anfinsens-dogma": [
-        {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/concept/protein-folding-problem",
-          "text": "protein folding problem"
-        },
-        {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/definition/molecular-chaperon",
-          "text": "molecular chaperon"
-        },
-        {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/definition/prion",
-          "text": "prion"
-        },
-        {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/reference/Anfinsen1973",
-          "text": "Anfinsen1973"
-        }
-      ],
       "/concept/Brillouins-relation-between-entropy-and-information": [
         {
           "source": "/concept/Brillouins-relation-between-entropy-and-information",
@@ -685,30 +663,6 @@
           "source": "/concept/Turing-machine",
           "target": "/reference/Turing1936",
           "text": "Turing1936"
-        }
-      ],
-      "/concept/axiom-of-choice": [
-        {
-          "source": "/concept/axiom-of-choice",
-          "target": "/definition/choice-function",
-          "text": "choice function"
-        },
-        {
-          "source": "/concept/axiom-of-choice",
-          "target": "/definition/choice-function",
-          "text": "choice function"
-        }
-      ],
-      "/concept/biological-constraint": [
-        {
-          "source": "/concept/biological-constraint",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        },
-        {
-          "source": "/concept/biological-constraint",
-          "target": "/concept/biological-process",
-          "text": "biological process"
         }
       ],
       "/concept/biological-function": [
@@ -2559,11 +2513,6 @@
       ],
       "/concept/biological-process": [
         {
-          "source": "/concept/biological-constraint",
-          "target": "/concept/biological-process",
-          "text": "biological process"
-        },
-        {
           "source": "/note/note-on-Montevil2015",
           "target": "/concept/biological-process",
           "text": "biological process"
@@ -2762,11 +2711,6 @@
       ],
       "/concept/protein-folding-problem": [
         {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/concept/protein-folding-problem",
-          "text": "protein folding problem"
-        },
-        {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/protein-folding-problem",
           "text": "protein folding problem"
@@ -2884,18 +2828,6 @@
           "text": "blood"
         }
       ],
-      "/definition/choice-function": [
-        {
-          "source": "/concept/axiom-of-choice",
-          "target": "/definition/choice-function",
-          "text": "choice function"
-        },
-        {
-          "source": "/concept/axiom-of-choice",
-          "target": "/definition/choice-function",
-          "text": "choice function"
-        }
-      ],
       "/definition/complexity": [
         {
           "source": "/note/note-on-LiVigni2021",
@@ -3006,11 +2938,6 @@
       ],
       "/definition/molecular-chaperon": [
         {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/definition/molecular-chaperon",
-          "text": "molecular chaperon"
-        },
-        {
           "source": "/concept/protein-folding-problem",
           "target": "/definition/molecular-chaperon",
           "text": "molecular chaperon"
@@ -3021,13 +2948,6 @@
           "source": "/concept/Freges-first-order-logic",
           "target": "/definition/predicate",
           "text": "predicate"
-        }
-      ],
-      "/definition/prion": [
-        {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/definition/prion",
-          "text": "prion"
         }
       ],
       "/definition/recursive-function": [
@@ -3157,13 +3077,6 @@
           "source": "/note/draft-on-the-decline-of-theorization-in-science",
           "target": "/reference/Anderson2007",
           "text": "Anderson2007"
-        }
-      ],
-      "/reference/Anfinsen1973": [
-        {
-          "source": "/concept/Anfinsens-dogma",
-          "target": "/reference/Anfinsen1973",
-          "text": "Anfinsen1973"
         }
       ],
       "/reference/Arora2018": [
@@ -4088,11 +4001,6 @@
         },
         {
           "source": "/PhD-project",
-          "target": "/reference/Montevil2015",
-          "text": "Montevil2015"
-        },
-        {
-          "source": "/concept/biological-constraint",
           "target": "/reference/Montevil2015",
           "text": "Montevil2015"
         },
@@ -5210,26 +5118,6 @@
       "text": "about the website"
     },
     {
-      "source": "/concept/Anfinsens-dogma",
-      "target": "/concept/protein-folding-problem",
-      "text": "protein folding problem"
-    },
-    {
-      "source": "/concept/Anfinsens-dogma",
-      "target": "/definition/molecular-chaperon",
-      "text": "molecular chaperon"
-    },
-    {
-      "source": "/concept/Anfinsens-dogma",
-      "target": "/definition/prion",
-      "text": "prion"
-    },
-    {
-      "source": "/concept/Anfinsens-dogma",
-      "target": "/reference/Anfinsen1973",
-      "text": "Anfinsen1973"
-    },
-    {
       "source": "/concept/Brillouins-relation-between-entropy-and-information",
       "target": "/concept/Maxwells-demon-paradox",
       "text": "Maxwell's demon paradox"
@@ -5483,26 +5371,6 @@
       "source": "/concept/Turing-machine",
       "target": "/reference/Turing1936",
       "text": "Turing1936"
-    },
-    {
-      "source": "/concept/axiom-of-choice",
-      "target": "/definition/choice-function",
-      "text": "choice function"
-    },
-    {
-      "source": "/concept/axiom-of-choice",
-      "target": "/definition/choice-function",
-      "text": "choice function"
-    },
-    {
-      "source": "/concept/biological-constraint",
-      "target": "/reference/Montevil2015",
-      "text": "Montevil2015"
-    },
-    {
-      "source": "/concept/biological-constraint",
-      "target": "/concept/biological-process",
-      "text": "biological process"
     },
     {
       "source": "/concept/biological-function",

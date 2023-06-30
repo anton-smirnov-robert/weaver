@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a79b3321be3d6c1",
+        "id": "d42ce42fed3d5801",
         "type": "tabs",
         "children": [
           {
-            "id": "f7834cef579f8c07",
+            "id": "ddfe889baa0d15de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference/Longo2012.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/Longo2012.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/Longo2012.md",
+                "file": "note/différance and deconstruction in biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/Longo2012.md"
+                "file": "note/différance and deconstruction in biology.md"
               }
             }
           }
@@ -154,8 +154,23 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f7834cef579f8c07",
+  "active": "ddfe889baa0d15de",
   "lastOpenFiles": [
+    "projects/theorization_in_sciences/draft on the decline of theorization in science.md",
+    "note/différance and deconstruction in biology.md",
+    "PhD project.md",
+    "projects/TODO.md",
+    "projects/table of content.md",
+    "projects/quotes.md",
+    "concept/biological measurement.md",
+    "concept/axiom of choice.md",
+    "concept/biological constraint.md",
+    "concept/biological function.md",
+    "concept/Anfinsen's dogma.md",
+    "concept/dissipative systems.md",
+    "manifesto.md",
+    "personal story.md",
+    "reference/Longo2012.md",
     "reference/Montevil2016.md",
     "note/note on Hayek1945.md",
     "projects/theorization_in_sciences/A letter to Michael Polanyi.md",
@@ -165,25 +180,10 @@
     "reference/Godin2020.md",
     "projects/theorization_in_sciences/(v0.2) Le besoin d'une économie des théories scientifiques..md",
     "concept/epistemology of physics.md",
-    "note/différance and deconstruction in biology.md",
-    "dissipative systems.md",
     "note/principle of variation from physics.md",
     "concept/Turing machine.md",
-    "reference/Derrida2019.md",
-    "reference/Stiegler2020a.md",
-    "note/draft on the decline of theorization in science.md",
     "images/Pasted image 20230410100952.png",
-    "note/note on Montevil2019a.md",
     "images/from_physics_to_biology.pdf",
-    "Sans titre.md",
-    "note/note on Montevil2020a.md",
-    "note/note on Montevil2019.md",
-    "note/note on Montevil2021.md",
-    "reference/Feynman1972.md",
-    "reference/Feynman2018.md",
-    "reference/Palmer1982.md",
-    "note/pre-note on the organicist tradition.md",
-    "concept/theoretical gaps.md",
     "images/Pasted image 20230406174519.png",
     "images/Pasted image 20230406174512.png",
     "images/Pasted image 20230405123654.png",
