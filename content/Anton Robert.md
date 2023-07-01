@@ -1,6 +1,6 @@
 ---
 title: "Anton Robert"
-date: 2023-03-30
+date: 2023-06-30
 showthedate: true
 ---
 	
@@ -10,7 +10,7 @@ Hello!
 
 I'm a **physical chemist**, currently carrying out a PhD thesis in **epistemology of biology**.   
 Here is my [PhD project](PhD%20project.md) (in french) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
-If you are interested in the website **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
+If you are interested in my website **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md) or [about the website](about%20the%20website.md).
 
 Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >CV</a>[^1] : 
 - **PhD** in **epistemology of biology**, supervized by Maël Montévil (2023-).
