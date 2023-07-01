@@ -184,9 +184,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     if (d.id === curPage || (d.id === "/" && curPage === "")) {
       return 15
     }
-   // if ( d.id == "/Where-am-I" ) { return 10 }
-   // if ( d.id == "/Anton-Robert" ) { return 10 }
-   // if ( d.id == "/about-the-website" ) { return 5 }
+    if ( d.id == "/Where-am-I" ) { return 10 }
+    if ( d.id == "/Anton-Robert" ) { return 10 }
+    if ( d.id == "/about-the-website" ) { return 5 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 

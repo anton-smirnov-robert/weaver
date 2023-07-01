@@ -1,7 +1,7 @@
 ---
 title: "Crick's central dogma"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:
@@ -9,7 +9,6 @@ tags:
 ---
 
 It postulates that proteins never transmit "sequential information".
-
 "Sequential information" is to be understood as the sequence of bases in DNA or amino-acids in proteins. 
 
 #### Sources

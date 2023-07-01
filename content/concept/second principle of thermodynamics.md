@@ -1,7 +1,7 @@
 ---
 title: "second principle of thermodynamic"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:
@@ -14,4 +14,3 @@ It is maximum at equilibrium for a system at constant energy. In other words, th
 
 The first law of thermodynamic is the conservation of energy (electric, kinetic, mechanical, chemical,...). The second says that, without external aid, there is a "dispersion of energy" such that it tends to make the distribution of energy homogeneous. 
 
-Originally, this is about thermodynamical cycles (Carnot) and “aid” (for machines):

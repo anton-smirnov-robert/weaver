@@ -1,7 +1,7 @@
 ---
 title: "Chaitin's algorithmic randomness"
 date: 2022-12-11
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:

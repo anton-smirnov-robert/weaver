@@ -1,7 +1,7 @@
 ---
 title: "Mendelian inheritance"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:

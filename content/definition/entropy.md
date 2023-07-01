@@ -1,7 +1,7 @@
 ---
 title: "entropy"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: false
 enabletoc: false
 tags:

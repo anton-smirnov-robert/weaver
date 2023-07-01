@@ -1,17 +1,17 @@
 ---
 title: "computability"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:
 - concept
 ---
 
-Three notions of computability are equivalent: 
+Three notions of computability for a function are equivalent: 
 - The existence of a [Turing machine](concept/Turing%20machine.md) for computing the function.
 - The [abacus](definition/abacus.md)-computability.
-- A [recursive function](definition/recursive%20function.md).
+- The fact that the function is a [recursive function](definition/recursive%20function.md).
 
 *A function is computable on a [Turing machine](concept/Turing%20machine.md) if and only if it is a [recursive function](definition/recursive%20function.md).*
 

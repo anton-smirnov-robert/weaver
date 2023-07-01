@@ -1,7 +1,7 @@
 ---
 title: "Shannon's theory of information transmission"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:
@@ -14,4 +14,3 @@ A series of fair coin tosses have a maximal entropy $H$ since all throw are equi
 
 #### Sources 
 [Shannon1948](reference/Shannon1948.md)
-note [note on Longo2012](note/note%20on%20Longo2012.md)

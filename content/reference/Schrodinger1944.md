@@ -1,6 +1,6 @@
 ---
 title: "Schrodinger1944"
-draft: true
+draft: false
 showthedate: false
 enabletoc: false
 tags:

@@ -21,13 +21,287 @@
         },
         {
           "source": "/Where-am-I",
-          "target": "/reference/Longo2012",
-          "text": "Longo2012"
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
         },
         {
           "source": "/Where-am-I",
           "target": "/about-the-website",
           "text": "about the website"
+        }
+      ],
+      "/concept/Brillouins-relation-between-entropy-and-information": [
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/Maxwells-demon-paradox",
+          "text": "Maxwell's demon paradox"
+        },
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/Shannons-theory-of-information-transmission",
+          "text": "Shannon's theory of information transmission"
+        },
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/definition/negentropy",
+          "text": "negentropy"
+        },
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/reference/Brillouin1951",
+          "text": "Brillouin1951"
+        },
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/reference/Brillouin1956",
+          "text": "Brillouin1956"
+        }
+      ],
+      "/concept/Chaitins-algorithmic-randomness": [
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/computability",
+          "text": "computability"
+        },
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
+        }
+      ],
+      "/concept/Cricks-central-dogma": [
+        {
+          "source": "/concept/Cricks-central-dogma",
+          "target": "/reference/Crick1958",
+          "text": "Crick1958"
+        },
+        {
+          "source": "/concept/Cricks-central-dogma",
+          "target": "/reference/Crick1970",
+          "text": "Crick1970"
+        }
+      ],
+      "/concept/Kolmogorovs-incompressibility": [
+        {
+          "source": "/concept/Kolmogorovs-incompressibility",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        }
+      ],
+      "/concept/Laplacian-determinism": [
+        {
+          "source": "/concept/Laplacian-determinism",
+          "target": "/definition/deterministic-system",
+          "text": "deterministic system"
+        },
+        {
+          "source": "/concept/Laplacian-determinism",
+          "target": "/concept/Poincares-unpredictable-determinism",
+          "text": "Poincare's unpredictable determinism"
+        },
+        {
+          "source": "/concept/Laplacian-determinism",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
+        }
+      ],
+      "/concept/Schrodingers-code-script-aperiodic-crystal": [
+        {
+          "source": "/concept/Schrodingers-code-script-aperiodic-crystal",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        }
+      ],
+      "/concept/Shannons-theory-of-information-transmission": [
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/reference/Shannon1948",
+          "text": "Shannon1948"
+        },
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/reference/Shannon1948",
+          "text": "Shannon1948"
+        }
+      ],
+      "/concept/Turing-machine": [
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Turing1936",
+          "text": "Turing1936"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/definition/automaton",
+          "text": "automaton"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/definition/recursive-function",
+          "text": "recursive function"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Sipser2013",
+          "text": "Sipser2013"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Turing1936",
+          "text": "Turing1936"
+        }
+      ],
+      "/concept/computability": [
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/abacus",
+          "text": "abacus"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/recursive-function",
+          "text": "recursive function"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/recursive-function",
+          "text": "recursive function"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Cantors-diagonal-argument",
+          "text": "Cantor's diagonal argument"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/arithmetic-function",
+          "text": "arithmetic function"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/enumerable-set",
+          "text": "enumerable set"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/enumerable-set",
+          "text": "enumerable set"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/reference/Boolos2007",
+          "text": "Boolos2007"
+        }
+      ],
+      "/concept/protein-folding-problem": [
+        {
+          "source": "/concept/protein-folding-problem",
+          "target": "/reference/Zwanzig1992",
+          "text": "Zwanzig1992"
+        },
+        {
+          "source": "/concept/protein-folding-problem",
+          "target": "/concept/Anfinsens-dogma",
+          "text": "Anfinsen's dogma"
+        },
+        {
+          "source": "/concept/protein-folding-problem",
+          "target": "/definition/molecular-chaperon",
+          "text": "molecular chaperon"
+        }
+      ],
+      "/concept/second-principle-of-thermodynamics": [
+        {
+          "source": "/concept/second-principle-of-thermodynamics",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        }
+      ],
+      "/definition/negentropy": [
+        {
+          "source": "/definition/negentropy",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/reference/Brillouin1951",
+          "text": "Brillouin1951"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/reference/Brillouin1956",
+          "text": "Brillouin1956"
         }
       ],
       "/note/note-on-Longo2012": [
@@ -53,6 +327,11 @@
         },
         {
           "source": "/note/note-on-Longo2012",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/note/note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
         },
@@ -63,8 +342,8 @@
         },
         {
           "source": "/note/note-on-Longo2012",
-          "target": "/reference/Danchin2002",
-          "text": "Danchin2002"
+          "target": "/concept/Cricks-central-dogma",
+          "text": "Crick's central dogma"
         },
         {
           "source": "/note/note-on-Longo2012",
@@ -110,11 +389,6 @@
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
-        },
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Schrodinger1944",
-          "text": "Schrodinger1944"
         },
         {
           "source": "/note/note-on-Longo2012",
@@ -175,31 +449,6 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
-        },
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Lucitti2007",
-          "text": "Lucitti2007"
-        },
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Tang2004",
-          "text": "Tang2004"
-        },
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Muller2003",
-          "text": "Muller2003"
-        },
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Rot-Nikcevic2007",
-          "text": "Rot-Nikcevic2007"
-        },
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Jakkaraju2003",
-          "text": "Jakkaraju2003"
         }
       ]
     },
@@ -234,12 +483,27 @@
       ],
       "/concept/Anfinsens-dogma": [
         {
+          "source": "/concept/protein-folding-problem",
+          "target": "/concept/Anfinsens-dogma",
+          "text": "Anfinsen's dogma"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Anfinsens-dogma",
           "text": "Anfinsen's dogma"
         }
       ],
       "/concept/Brillouins-relation-between-entropy-and-information": [
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/concept/Brillouins-relation-between-entropy-and-information",
+          "text": "Brillouin's relation between entropy and information"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
@@ -249,6 +513,13 @@
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Brillouins-relation-between-entropy-and-information",
           "text": "Brillouin's relation between entropy and information"
+        }
+      ],
+      "/concept/Cantors-diagonal-argument": [
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Cantors-diagonal-argument",
+          "text": "Cantor's diagonal argument"
         }
       ],
       "/concept/Chaitins-algorithmic-randomness": [
@@ -268,9 +539,19 @@
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Cricks-central-dogma",
           "text": "Crick's central dogma"
+        },
+        {
+          "source": "/note/note-on-Longo2012",
+          "target": "/concept/Cricks-central-dogma",
+          "text": "Crick's central dogma"
         }
       ],
       "/concept/Kolmogorovs-incompressibility": [
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/Kolmogorovs-incompressibility",
+          "text": "Kolmogorov's incompressibility"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Kolmogorovs-incompressibility",
@@ -284,11 +565,25 @@
           "text": "Laplacian determinism"
         }
       ],
+      "/concept/Maxwells-demon-paradox": [
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/Maxwells-demon-paradox",
+          "text": "Maxwell's demon paradox"
+        }
+      ],
       "/concept/Mendelian-inheritance": [
         {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Mendelian-inheritance",
           "text": "Mendelian inheritance"
+        }
+      ],
+      "/concept/Poincares-unpredictable-determinism": [
+        {
+          "source": "/concept/Laplacian-determinism",
+          "target": "/concept/Poincares-unpredictable-determinism",
+          "text": "Poincare's unpredictable determinism"
         }
       ],
       "/concept/Schrodingers-code-script-aperiodic-crystal": [
@@ -300,12 +595,37 @@
       ],
       "/concept/Shannons-theory-of-information-transmission": [
         {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/Shannons-theory-of-information-transmission",
+          "text": "Shannon's theory of information transmission"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Shannons-theory-of-information-transmission",
           "text": "Shannon's theory of information transmission"
         }
       ],
       "/concept/Turing-machine": [
+        {
+          "source": "/concept/Kolmogorovs-incompressibility",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/Turing-machine",
+          "text": "Turing machine"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/Turing-machine",
@@ -314,7 +634,7 @@
       ],
       "/concept/computability": [
         {
-          "source": "/note/note-on-Longo2012",
+          "source": "/concept/Chaitins-algorithmic-randomness",
           "target": "/concept/computability",
           "text": "computability"
         },
@@ -327,6 +647,23 @@
           "source": "/note/note-on-Longo2012",
           "target": "/concept/computability",
           "text": "computability"
+        },
+        {
+          "source": "/note/note-on-Longo2012",
+          "target": "/concept/computability",
+          "text": "computability"
+        }
+      ],
+      "/concept/halting-problem": [
+        {
+          "source": "/concept/Chaitins-algorithmic-randomness",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/concept/halting-problem",
+          "text": "halting problem"
         }
       ],
       "/concept/protein-folding-problem": [
@@ -338,6 +675,16 @@
       ],
       "/concept/second-principle-of-thermodynamics": [
         {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/concept/second-principle-of-thermodynamics",
+          "text": "second principle of thermodynamics"
+        },
+        {
           "source": "/note/note-on-Longo2012",
           "target": "/concept/second-principle-of-thermodynamics",
           "text": "second principle of thermodynamics"
@@ -348,25 +695,164 @@
           "text": "second principle of thermodynamics"
         }
       ],
+      "/definition/abacus": [
+        {
+          "source": "/concept/computability",
+          "target": "/definition/abacus",
+          "text": "abacus"
+        }
+      ],
+      "/definition/arithmetic-function": [
+        {
+          "source": "/concept/computability",
+          "target": "/definition/arithmetic-function",
+          "text": "arithmetic function"
+        }
+      ],
+      "/definition/automaton": [
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/definition/automaton",
+          "text": "automaton"
+        }
+      ],
+      "/definition/deterministic-system": [
+        {
+          "source": "/concept/Laplacian-determinism",
+          "target": "/definition/deterministic-system",
+          "text": "deterministic system"
+        }
+      ],
       "/definition/entropy": [
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/concept/second-principle-of-thermodynamics",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/definition/entropy",
+          "text": "entropy"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/definition/entropy",
           "text": "entropy"
         }
       ],
+      "/definition/enumerable-set": [
+        {
+          "source": "/concept/computability",
+          "target": "/definition/enumerable-set",
+          "text": "enumerable set"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/enumerable-set",
+          "text": "enumerable set"
+        }
+      ],
+      "/definition/molecular-chaperon": [
+        {
+          "source": "/concept/protein-folding-problem",
+          "target": "/definition/molecular-chaperon",
+          "text": "molecular chaperon"
+        }
+      ],
       "/definition/negentropy": [
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/definition/negentropy",
+          "text": "negentropy"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/definition/negentropy",
           "text": "negentropy"
         }
       ],
-      "/reference/Danchin2002": [
+      "/definition/recursive-function": [
         {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Danchin2002",
-          "text": "Danchin2002"
+          "source": "/concept/Turing-machine",
+          "target": "/definition/recursive-function",
+          "text": "recursive function"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/recursive-function",
+          "text": "recursive function"
+        },
+        {
+          "source": "/concept/computability",
+          "target": "/definition/recursive-function",
+          "text": "recursive function"
+        }
+      ],
+      "/note/note-on-Longo2012": [
+        {
+          "source": "/Where-am-I",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
+        },
+        {
+          "source": "/concept/Laplacian-determinism",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/note/note-on-Longo2012",
+          "text": "note on Longo2012"
+        }
+      ],
+      "/reference/Boolos2007": [
+        {
+          "source": "/concept/computability",
+          "target": "/reference/Boolos2007",
+          "text": "Boolos2007"
+        }
+      ],
+      "/reference/Brillouin1951": [
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/reference/Brillouin1951",
+          "text": "Brillouin1951"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/reference/Brillouin1951",
+          "text": "Brillouin1951"
+        }
+      ],
+      "/reference/Brillouin1956": [
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/reference/Brillouin1956",
+          "text": "Brillouin1956"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/reference/Brillouin1956",
+          "text": "Brillouin1956"
+        }
+      ],
+      "/reference/Crick1958": [
+        {
+          "source": "/concept/Cricks-central-dogma",
+          "target": "/reference/Crick1958",
+          "text": "Crick1958"
+        }
+      ],
+      "/reference/Crick1970": [
+        {
+          "source": "/concept/Cricks-central-dogma",
+          "target": "/reference/Crick1970",
+          "text": "Crick1970"
         }
       ],
       "/reference/Doudna2017": [
@@ -376,19 +862,7 @@
           "text": "Doudna2017"
         }
       ],
-      "/reference/Jakkaraju2003": [
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Jakkaraju2003",
-          "text": "Jakkaraju2003"
-        }
-      ],
       "/reference/Longo2012": [
-        {
-          "source": "/Where-am-I",
-          "target": "/reference/Longo2012",
-          "text": "Longo2012"
-        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Longo2012",
@@ -407,13 +881,6 @@
           "text": "Longo2021"
         }
       ],
-      "/reference/Lucitti2007": [
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Lucitti2007",
-          "text": "Lucitti2007"
-        }
-      ],
       "/reference/Matoba2018": [
         {
           "source": "/note/note-on-Longo2012",
@@ -428,32 +895,50 @@
           "text": "MaynardSmith1999"
         }
       ],
-      "/reference/Muller2003": [
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Muller2003",
-          "text": "Muller2003"
-        }
-      ],
-      "/reference/Rot-Nikcevic2007": [
-        {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Rot-Nikcevic2007",
-          "text": "Rot-Nikcevic2007"
-        }
-      ],
       "/reference/Schrodinger1944": [
+        {
+          "source": "/concept/Brillouins-relation-between-entropy-and-information",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/concept/Schrodingers-code-script-aperiodic-crystal",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
+        {
+          "source": "/definition/negentropy",
+          "target": "/reference/Schrodinger1944",
+          "text": "Schrodinger1944"
+        },
         {
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Schrodinger1944",
           "text": "Schrodinger1944"
         }
       ],
-      "/reference/Tang2004": [
+      "/reference/Shannon1948": [
         {
-          "source": "/note/note-on-Longo2012",
-          "target": "/reference/Tang2004",
-          "text": "Tang2004"
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/reference/Shannon1948",
+          "text": "Shannon1948"
+        },
+        {
+          "source": "/concept/Shannons-theory-of-information-transmission",
+          "target": "/reference/Shannon1948",
+          "text": "Shannon1948"
+        }
+      ],
+      "/reference/Sipser2013": [
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Sipser2013",
+          "text": "Sipser2013"
         }
       ],
       "/reference/Taniguchi2010": [
@@ -461,6 +946,25 @@
           "source": "/note/note-on-Longo2012",
           "target": "/reference/Taniguchi2010",
           "text": "Taniguchi2010"
+        }
+      ],
+      "/reference/Turing1936": [
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Turing1936",
+          "text": "Turing1936"
+        },
+        {
+          "source": "/concept/Turing-machine",
+          "target": "/reference/Turing1936",
+          "text": "Turing1936"
+        }
+      ],
+      "/reference/Zwanzig1992": [
+        {
+          "source": "/concept/protein-folding-problem",
+          "target": "/reference/Zwanzig1992",
+          "text": "Zwanzig1992"
         }
       ]
     }
@@ -483,13 +987,263 @@
     },
     {
       "source": "/Where-am-I",
-      "target": "/reference/Longo2012",
-      "text": "Longo2012"
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
     },
     {
       "source": "/Where-am-I",
       "target": "/about-the-website",
       "text": "about the website"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/concept/Maxwells-demon-paradox",
+      "text": "Maxwell's demon paradox"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/concept/Shannons-theory-of-information-transmission",
+      "text": "Shannon's theory of information transmission"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/concept/second-principle-of-thermodynamics",
+      "text": "second principle of thermodynamics"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/definition/negentropy",
+      "text": "negentropy"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/reference/Brillouin1951",
+      "text": "Brillouin1951"
+    },
+    {
+      "source": "/concept/Brillouins-relation-between-entropy-and-information",
+      "target": "/reference/Brillouin1956",
+      "text": "Brillouin1956"
+    },
+    {
+      "source": "/concept/Chaitins-algorithmic-randomness",
+      "target": "/concept/Kolmogorovs-incompressibility",
+      "text": "Kolmogorov's incompressibility"
+    },
+    {
+      "source": "/concept/Chaitins-algorithmic-randomness",
+      "target": "/concept/computability",
+      "text": "computability"
+    },
+    {
+      "source": "/concept/Chaitins-algorithmic-randomness",
+      "target": "/concept/halting-problem",
+      "text": "halting problem"
+    },
+    {
+      "source": "/concept/Cricks-central-dogma",
+      "target": "/reference/Crick1958",
+      "text": "Crick1958"
+    },
+    {
+      "source": "/concept/Cricks-central-dogma",
+      "target": "/reference/Crick1970",
+      "text": "Crick1970"
+    },
+    {
+      "source": "/concept/Kolmogorovs-incompressibility",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
+    },
+    {
+      "source": "/concept/Laplacian-determinism",
+      "target": "/definition/deterministic-system",
+      "text": "deterministic system"
+    },
+    {
+      "source": "/concept/Laplacian-determinism",
+      "target": "/concept/Poincares-unpredictable-determinism",
+      "text": "Poincare's unpredictable determinism"
+    },
+    {
+      "source": "/concept/Laplacian-determinism",
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
+    },
+    {
+      "source": "/concept/Schrodingers-code-script-aperiodic-crystal",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/concept/Shannons-theory-of-information-transmission",
+      "target": "/reference/Shannon1948",
+      "text": "Shannon1948"
+    },
+    {
+      "source": "/concept/Shannons-theory-of-information-transmission",
+      "target": "/definition/entropy",
+      "text": "entropy"
+    },
+    {
+      "source": "/concept/Shannons-theory-of-information-transmission",
+      "target": "/concept/second-principle-of-thermodynamics",
+      "text": "second principle of thermodynamics"
+    },
+    {
+      "source": "/concept/Shannons-theory-of-information-transmission",
+      "target": "/concept/Brillouins-relation-between-entropy-and-information",
+      "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/concept/Shannons-theory-of-information-transmission",
+      "target": "/reference/Shannon1948",
+      "text": "Shannon1948"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/reference/Turing1936",
+      "text": "Turing1936"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/definition/automaton",
+      "text": "automaton"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/definition/recursive-function",
+      "text": "recursive function"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/reference/Sipser2013",
+      "text": "Sipser2013"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/note/note-on-Longo2012",
+      "text": "note on Longo2012"
+    },
+    {
+      "source": "/concept/Turing-machine",
+      "target": "/reference/Turing1936",
+      "text": "Turing1936"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/definition/abacus",
+      "text": "abacus"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/definition/recursive-function",
+      "text": "recursive function"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/definition/recursive-function",
+      "text": "recursive function"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/concept/Cantors-diagonal-argument",
+      "text": "Cantor's diagonal argument"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/definition/arithmetic-function",
+      "text": "arithmetic function"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/definition/enumerable-set",
+      "text": "enumerable set"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/concept/Turing-machine",
+      "text": "Turing machine"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/definition/enumerable-set",
+      "text": "enumerable set"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/concept/halting-problem",
+      "text": "halting problem"
+    },
+    {
+      "source": "/concept/computability",
+      "target": "/reference/Boolos2007",
+      "text": "Boolos2007"
+    },
+    {
+      "source": "/concept/protein-folding-problem",
+      "target": "/reference/Zwanzig1992",
+      "text": "Zwanzig1992"
+    },
+    {
+      "source": "/concept/protein-folding-problem",
+      "target": "/concept/Anfinsens-dogma",
+      "text": "Anfinsen's dogma"
+    },
+    {
+      "source": "/concept/protein-folding-problem",
+      "target": "/definition/molecular-chaperon",
+      "text": "molecular chaperon"
+    },
+    {
+      "source": "/concept/second-principle-of-thermodynamics",
+      "target": "/definition/entropy",
+      "text": "entropy"
+    },
+    {
+      "source": "/definition/negentropy",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/definition/negentropy",
+      "target": "/reference/Brillouin1951",
+      "text": "Brillouin1951"
+    },
+    {
+      "source": "/definition/negentropy",
+      "target": "/definition/entropy",
+      "text": "entropy"
+    },
+    {
+      "source": "/definition/negentropy",
+      "target": "/concept/Brillouins-relation-between-entropy-and-information",
+      "text": "Brillouin's relation between entropy and information"
+    },
+    {
+      "source": "/definition/negentropy",
+      "target": "/reference/Brillouin1956",
+      "text": "Brillouin1956"
     },
     {
       "source": "/note/note-on-Longo2012",
@@ -513,6 +1267,11 @@
     },
     {
       "source": "/note/note-on-Longo2012",
+      "target": "/reference/Schrodinger1944",
+      "text": "Schrodinger1944"
+    },
+    {
+      "source": "/note/note-on-Longo2012",
       "target": "/concept/Cricks-central-dogma",
       "text": "Crick's central dogma"
     },
@@ -523,8 +1282,8 @@
     },
     {
       "source": "/note/note-on-Longo2012",
-      "target": "/reference/Danchin2002",
-      "text": "Danchin2002"
+      "target": "/concept/Cricks-central-dogma",
+      "text": "Crick's central dogma"
     },
     {
       "source": "/note/note-on-Longo2012",
@@ -570,11 +1329,6 @@
       "source": "/note/note-on-Longo2012",
       "target": "/concept/Brillouins-relation-between-entropy-and-information",
       "text": "Brillouin's relation between entropy and information"
-    },
-    {
-      "source": "/note/note-on-Longo2012",
-      "target": "/reference/Schrodinger1944",
-      "text": "Schrodinger1944"
     },
     {
       "source": "/note/note-on-Longo2012",
@@ -635,31 +1389,6 @@
       "source": "/note/note-on-Longo2012",
       "target": "/reference/Taniguchi2010",
       "text": "Taniguchi2010"
-    },
-    {
-      "source": "/note/note-on-Longo2012",
-      "target": "/reference/Lucitti2007",
-      "text": "Lucitti2007"
-    },
-    {
-      "source": "/note/note-on-Longo2012",
-      "target": "/reference/Tang2004",
-      "text": "Tang2004"
-    },
-    {
-      "source": "/note/note-on-Longo2012",
-      "target": "/reference/Muller2003",
-      "text": "Muller2003"
-    },
-    {
-      "source": "/note/note-on-Longo2012",
-      "target": "/reference/Rot-Nikcevic2007",
-      "text": "Rot-Nikcevic2007"
-    },
-    {
-      "source": "/note/note-on-Longo2012",
-      "target": "/reference/Jakkaraju2003",
-      "text": "Jakkaraju2003"
     }
   ]
 }

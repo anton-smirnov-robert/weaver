@@ -1,7 +1,7 @@
 ---
 title: "Anfinsen's dogma"
 date: 2022-12-08
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 draft : true

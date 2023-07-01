@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "note/note on Longo2012.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "note/note on Longo2012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "note/note on Longo2012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anton Robert.md"
+                "file": "note/note on Longo2012.md"
               }
             }
           }
@@ -156,33 +156,33 @@
   },
   "active": "b14fb23ad5f23ed3",
   "lastOpenFiles": [
-    "Where am I?.md",
-    "Anton Robert.md",
-    "projects/thesis_project/personal story.md",
-    "PhD project.md",
-    "manifesto.md",
-    "images/projet_de_recherche_540.pdf",
-    "projects/thesis_project/PhD project.md",
-    "definition/negentropy.md",
-    "reference/Polanyi1962.md",
-    "note/note on Polanyi1962.md",
+    "definition/entropy.md",
     "note/note on Longo2012.md",
-    "reference/Anfinsen1973.md",
-    "reference/Baker2016.md",
+    "reference/Longo2012.md",
+    "reference/MaynardSmith1999.md",
     "concept/Crick's central dogma.md",
-    "concept/Cantor's diagonal argument.md",
-    "reference/Blok2015a.md",
-    "reference/Audetat2015.md",
-    "note/note on LiVigni2021.md",
-    "note/note on Mossio2014.md",
-    "note/note on Montevil2015.md",
-    "concept/Foucault's épistémè.md",
-    "concept/biological process.md",
-    "definition/allosteric regulation.md",
-    "definition/complexity sciences.md",
-    "definition/Groupe des Dix.md",
-    "note/différance and deconstruction in biology.md",
-    "note/principle of variation from physics.md",
+    "reference/Schrodinger1944.md",
+    "concept/Kolmogorov's incompressibility.md",
+    "reference/Taniguchi2010.md",
+    "concept/protein folding problem.md",
+    "concept/Anfinsen's dogma.md",
+    "concept/second principle of thermodynamics.md",
+    "concept/Shannon's theory of information transmission.md",
+    "concept/computability.md",
+    "reference/Longo2021.md",
+    "reference/Doudna2017.md",
+    "reference/Matoba2018.md",
+    "concept/Brillouin's relation between entropy and information.md",
+    "concept/Chaitin's algorithmic randomness.md",
+    "definition/negentropy.md",
+    "concept/Laplacian determinism.md",
+    "concept/Mendelian inheritance.md",
+    "concept/Turing machine.md",
+    "concept/Schrodinger's code-script aperiodic crystal.md",
+    "Anton Robert.md",
+    "Where am I?.md",
+    "projects/thesis_project/personal story.md",
+    "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
     "images/from_physics_to_biology.pdf",
     "images/Pasted image 20230406174519.png",

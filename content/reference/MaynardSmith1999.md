@@ -1,6 +1,6 @@
 ---
 title: "MaynardSmith1999"
-draft: true
+draft: false
 showthedate: false
 enabletoc: false
 tags:

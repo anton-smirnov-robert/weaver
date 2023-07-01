@@ -8,7 +8,7 @@ Hello!
 
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
-I'm a **physical chemist**, currently carrying a PhD thesis in **epistemology** and **theoretical biology**.   
+I'm a **physical chemist**, currently carrying a PhD thesis in **epistemology of biology**.   
 You can take a look at my [PhD project](PhD%20project.md).     
 Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton(dot)smirnov(dot)robert(at)gmail(dot)com </a>.
 

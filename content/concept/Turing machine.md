@@ -1,7 +1,7 @@
 ---
 title: "Turing machine"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:

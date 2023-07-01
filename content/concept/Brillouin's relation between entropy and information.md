@@ -1,7 +1,7 @@
 ---
 title: "Brillouin's relation between entropy and information"
 date: 2022-12-07
-draft: true
+draft: false
 showthedate: true
 enabletoc: false
 tags:
