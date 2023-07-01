@@ -9,25 +9,15 @@
         },
         {
           "source": "/Anton-Robert",
-          "target": "/Where-am-I",
-          "text": "Where am I?"
+          "target": "/about-Weaver",
+          "text": "about Weaver"
         }
       ],
-      "/Where-am-I": [
+      "/about-Weaver": [
         {
-          "source": "/Where-am-I",
-          "target": "/Anton-Robert",
-          "text": "about me"
-        },
-        {
-          "source": "/Where-am-I",
+          "source": "/about-Weaver",
           "target": "/note/note-on-Longo2012",
           "text": "note on Longo2012"
-        },
-        {
-          "source": "/Where-am-I",
-          "target": "/about-the-website",
-          "text": "about the website"
         }
       ],
       "/concept/Brillouins-relation-between-entropy-and-information": [
@@ -453,13 +443,6 @@
       ]
     },
     "backlinks": {
-      "/Anton-Robert": [
-        {
-          "source": "/Where-am-I",
-          "target": "/Anton-Robert",
-          "text": "about me"
-        }
-      ],
       "/PhD-project": [
         {
           "source": "/Anton-Robert",
@@ -467,18 +450,11 @@
           "text": "PhD project"
         }
       ],
-      "/Where-am-I": [
+      "/about-Weaver": [
         {
           "source": "/Anton-Robert",
-          "target": "/Where-am-I",
-          "text": "Where am I?"
-        }
-      ],
-      "/about-the-website": [
-        {
-          "source": "/Where-am-I",
-          "target": "/about-the-website",
-          "text": "about the website"
+          "target": "/about-Weaver",
+          "text": "about Weaver"
         }
       ],
       "/concept/Anfinsens-dogma": [
@@ -795,7 +771,7 @@
       ],
       "/note/note-on-Longo2012": [
         {
-          "source": "/Where-am-I",
+          "source": "/about-Weaver",
           "target": "/note/note-on-Longo2012",
           "text": "note on Longo2012"
         },
@@ -977,23 +953,13 @@
     },
     {
       "source": "/Anton-Robert",
-      "target": "/Where-am-I",
-      "text": "Where am I?"
+      "target": "/about-Weaver",
+      "text": "about Weaver"
     },
     {
-      "source": "/Where-am-I",
-      "target": "/Anton-Robert",
-      "text": "about me"
-    },
-    {
-      "source": "/Where-am-I",
+      "source": "/about-Weaver",
       "target": "/note/note-on-Longo2012",
       "text": "note on Longo2012"
-    },
-    {
-      "source": "/Where-am-I",
-      "target": "/about-the-website",
-      "text": "about the website"
     },
     {
       "source": "/concept/Brillouins-relation-between-entropy-and-information",

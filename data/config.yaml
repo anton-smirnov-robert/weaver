@@ -64,9 +64,9 @@ page_title:
   "Weaver"
 
 # links to show in the footer
-links:
-  - link_name: Where am I?
-    link: "/Where-am-I"
+#links:
+#- link_name: Where am I?
+#  link: "/Where-am-I"
 
 favicon:
   - { rel: "shortcut icon", href: "weaver.png", type: "image/png" }

@@ -65,7 +65,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
         return colour
       }
       if ( d.id == "/TODO" ) { return "#dadada" }
-      if ( d.id == "/Where-am-I" ) { return "#dadada" }
+      if ( d.id == "/about-Weaver" ) { return "#dadada" }
       if ( d.id == "/Anton-Robert" ) { return "#dadada" } 
       if ( d.id == "/PhD-project" ) { return "#dadada" }
       if ( d.id == "/personal-story" ) { return "#dadada" }

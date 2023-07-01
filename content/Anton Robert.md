@@ -4,13 +4,10 @@ date: 2023-06-30
 showthedate: true
 ---
 	
-Hello!
-
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
 I'm a **physical chemist**, currently carrying out a PhD thesis in **epistemology of biology**.   
 Here is my [PhD project](PhD%20project.md) (in french) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
-If you are interested in my website **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md) or [about the website](about%20the%20website.md).
 
 Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >CV</a>[^1] : 
 - **PhD** in **epistemology of biology**, supervized by Maël Montévil (2023-).
@@ -19,6 +16,8 @@ Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >
 - **Master's degree** in analytical, physical and theoretical chemistry from **Sorbonne Université** (2019).
 - Contracted visitor in **IBM Research Zürich** on quantum computing for chemistry (2018-2019)
 
+This website constitute an example of an original academic workflow using [Obsidian](https://obsidian.md/). 
+Find more [about Weaver](about%20Weaver.md) here.
 
 ### List of research publications (📄) and patents (💡)
 

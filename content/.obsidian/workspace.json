@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68622d1eca2944b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about Weaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -156,9 +168,10 @@
   },
   "active": "b2ac27c4cf4f60c4",
   "lastOpenFiles": [
-    "Where am I?.md",
-    "PhD project.md",
+    "about Weaver.md",
     "Anton Robert.md",
+    "PhD project.md",
+    "about the website.md",
     "note/note on Montevil2019a.md",
     "images/CV_07_23_internet_version.pdf",
     "images/CV_03_23_internet_version.pdf",
@@ -185,7 +198,6 @@
     "definition/negentropy.md",
     "concept/Laplacian determinism.md",
     "concept/Mendelian inheritance.md",
-    "concept/Turing machine.md",
     "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
     "images/from_physics_to_biology.pdf",
