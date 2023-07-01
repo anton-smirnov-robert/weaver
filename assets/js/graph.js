@@ -148,16 +148,16 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       const colour = legendEntry[key]
       svg
         .append("circle")
-        .attr("cx", -width / 2 + 20)
-        .attr("cy", height / 2 - 30 * (i + 1))
-        .attr("r", 6)
+        .attr("cx", -width / 2/scale + 20/scale)
+        .attr("cy", height / 2/scale - 30 * (i + 1)/scale)
+        .attr("r", 6/scale)
         .style("fill", colour)
       svg
         .append("text")
-        .attr("x", -width / 2 + 40)
-        .attr("y", height / 2 - 30 * (i + 1))
+        .attr("x", -width / 2/scale + 40/scale)
+        .attr("y", height / 2/scale - 30 * (i + 1)/scale)
         .text( key.slice(1))
-        .style("font-size", "15px")
+        .style("font-size", "6px")
         .attr("alignment-baseline", "middle")
     })
   }
@@ -184,9 +184,9 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     if (d.id === curPage || (d.id === "/" && curPage === "")) {
       return 15
     }
-    if ( d.id == "/Where-am-I" ) { return 10 }
-    if ( d.id == "/Anton-Robert" ) { return 10 }
-    if ( d.id == "/about-the-website" ) { return 5 }
+   // if ( d.id == "/Where-am-I" ) { return 10 }
+   // if ( d.id == "/Anton-Robert" ) { return 10 }
+   // if ( d.id == "/about-the-website" ) { return 5 }
     return 2 + Math.sqrt(numOut + numIn)
   }
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "199611af6ceb99fa",
+        "id": "f083c8fcb1faeadb",
         "type": "tabs",
         "children": [
           {
-            "id": "b14fb23ad5f23ed3",
+            "id": "b2ac27c4cf4f60c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/note on Longo2012.md",
+                "file": "Anton Robert.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/note on Longo2012.md",
+                "file": "Anton Robert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/note on Longo2012.md",
+                "file": "Anton Robert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/note on Longo2012.md"
+                "file": "Anton Robert.md"
               }
             }
           }
@@ -154,10 +154,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b14fb23ad5f23ed3",
+  "active": "b2ac27c4cf4f60c4",
   "lastOpenFiles": [
-    "definition/entropy.md",
+    "images/CV_07_23_internet_version.pdf",
+    "images/CV_03_23_internet_version.pdf",
+    "images/cv_francais_09_22_no_hyperlink.pdf",
+    "images/Pasted image 20230403194022.png",
     "note/note on Longo2012.md",
+    "definition/entropy.md",
     "reference/Longo2012.md",
     "reference/MaynardSmith1999.md",
     "concept/Crick's central dogma.md",
@@ -181,7 +185,6 @@
     "concept/Schrodinger's code-script aperiodic crystal.md",
     "Anton Robert.md",
     "Where am I?.md",
-    "projects/thesis_project/personal story.md",
     "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
     "images/from_physics_to_biology.pdf",
@@ -192,9 +195,7 @@
     "images/Pasted image 20230403204846.png",
     "images/Pasted image 20230403203403.png",
     "images/Pasted image 20230403202109.png",
-    "images/Pasted image 20230403194022.png",
     "images/Pasted image 20230331170857.png",
-    "images/CV_03_23_internet_version.pdf",
     "images/Curriculum_vitae_03_23.pdf",
     "projects/summary_of_theory",
     "writing"
