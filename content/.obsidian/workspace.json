@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "Where am I?.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "Where am I?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "Where am I?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anton Robert.md"
+                "file": "Where am I?.md"
               }
             }
           }
@@ -156,6 +156,10 @@
   },
   "active": "b2ac27c4cf4f60c4",
   "lastOpenFiles": [
+    "PhD project.md",
+    "Where am I?.md",
+    "Anton Robert.md",
+    "note/note on Montevil2019a.md",
     "images/CV_07_23_internet_version.pdf",
     "images/CV_03_23_internet_version.pdf",
     "images/cv_francais_09_22_no_hyperlink.pdf",
@@ -182,9 +186,6 @@
     "concept/Laplacian determinism.md",
     "concept/Mendelian inheritance.md",
     "concept/Turing machine.md",
-    "concept/Schrodinger's code-script aperiodic crystal.md",
-    "Anton Robert.md",
-    "Where am I?.md",
     "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
     "images/from_physics_to_biology.pdf",

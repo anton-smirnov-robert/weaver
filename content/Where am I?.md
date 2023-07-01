@@ -16,7 +16,7 @@ Weaver continuously needs work to be maintained, but it is not a goal in itself.
 It is like a daily exercise, for leaving the nest with some understanding of articles.
 
 Weaver constitutes an example of an original academic workflow that can be made with numerical technologies. 
-For an **example**, see the [note on Longo2012](note/note%20on%20Longo2012.md). The rest of the website is private, and is worthless to you: make your own one!
+For an **example**, see the [note on Longo2012](note/note%20on%20Longo2012.md). The rest of the website is private, and is worthless to you: make your own!
 
 This is how I organize myself. I split the entries in **four tags**:
 - **definitions**: words that I did not know or common words whose meaning is worth specifying in a given context. 

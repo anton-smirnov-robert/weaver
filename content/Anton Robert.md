@@ -8,20 +8,19 @@ Hello!
 
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
-I'm a **physical chemist**, currently carrying a PhD thesis in **epistemology of biology**.   
-You can take a look at my [PhD project](PhD%20project.md).     
-Here is a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton(dot)smirnov(dot)robert(at)gmail(dot)com </a>.
-
+I'm a **physical chemist**, currently carrying out a PhD thesis in **epistemology of biology**.   
+Here is my [PhD project](PhD%20project.md) (in french) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
 If you are interested in the website **Weaver**, follow the link: [Where am I?](Where%20am%20I?.md)
 
 Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >CV</a>[^1] : 
--  **PhD degree** in **physical chemistry** from Paris Sciences et Lettres Research University (2022).  
-- **Diploma** from the **École Normale Supérieure** **(ENS)** of Paris (2019).
+- **PhD** in **epistemology of biology**, supervized by Maël Montévil (2023-).
+- **PhD degree** in **physical chemistry** from PSL Research University (2019-2022).  
+- **Diploma** from the **École Normale Supérieure** (ENS) of Paris (2019).
 - **Master's degree** in analytical, physical and theoretical chemistry from **Sorbonne Université** (2019).
 - Contracted visitor in **IBM Research Zürich** on quantum computing for chemistry (2018-2019)
 
 
-### List of articles (📄) and patents (💡)
+### List of research publications (📄) and patents (💡)
 
 
 📄 Robert, Anton. 2023. « L’arrêt de l’histoire des sciences ». Philosophy World Democracy.
