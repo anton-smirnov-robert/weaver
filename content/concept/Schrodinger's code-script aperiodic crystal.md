@@ -12,6 +12,7 @@ In 1944, Schrödinger imagine that a “code-script” could be found in “aper
 
 
 >[!quote]
+>
 >Organic chemistry, indeed, in investigating more and more complicated molecules, has come very much nearer to that 'aperiodic crystal' which, in my opinion, is the material carrier of life. — (p.5)
 >
 

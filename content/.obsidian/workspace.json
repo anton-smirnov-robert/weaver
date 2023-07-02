@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f083c8fcb1faeadb",
+        "id": "87eca836d44e46eb",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ac27c4cf4f60c4",
+            "id": "cd4157aa6594c5cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anton Robert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68622d1eca2944b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about Weaver.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anton Robert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anton Robert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anton Robert.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,9 +146,10 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b2ac27c4cf4f60c4",
+  "active": "cd4157aa6594c5cb",
   "lastOpenFiles": [
     "about Weaver.md",
+    "concept/Schrodinger's code-script aperiodic crystal.md",
     "Anton Robert.md",
     "PhD project.md",
     "about the website.md",
@@ -197,7 +178,6 @@
     "concept/Chaitin's algorithmic randomness.md",
     "definition/negentropy.md",
     "concept/Laplacian determinism.md",
-    "concept/Mendelian inheritance.md",
     "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
     "images/from_physics_to_biology.pdf",
