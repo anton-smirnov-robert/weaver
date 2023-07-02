@@ -20,9 +20,7 @@ Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >
 - Contracted visitor in **IBM Research Zürich** on quantum computing for chemistry (2018-2019)
 
 
-
 ### List of research publications (📄) and patents (💡)
-
 
 📄 Robert, Anton. 2023. « L’arrêt de l’histoire des sciences ». Philosophy World Democracy.
 

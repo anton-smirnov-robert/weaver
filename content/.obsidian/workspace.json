@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD project.md",
+                "file": "about Weaver.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD project.md",
+                "file": "Anton Robert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD project.md",
+                "file": "Anton Robert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD project.md"
+                "file": "Anton Robert.md"
               }
             }
           }
@@ -167,12 +166,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "3b59676a6884a5a2",
+  "active": "cd4157aa6594c5cb",
   "lastOpenFiles": [
-    "Anton Robert.md",
     "about Weaver.md",
-    "concept/Schrodinger's code-script aperiodic crystal.md",
     "PhD project.md",
+    "Anton Robert.md",
+    "concept/Schrodinger's code-script aperiodic crystal.md",
     "about the website.md",
     "note/note on Montevil2019a.md",
     "images/CV_07_23_internet_version.pdf",
