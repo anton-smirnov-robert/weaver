@@ -6,22 +6,20 @@ showthedate: true
 	
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
-I'm a **physical chemist**, currently carrying out a second PhD thesis in **epistemology** with the help of Maël Montévil. 
+I'm a **physical chemist**, currently carrying out a second PhD thesis in **epistemology**, with the help of [Maël Montévil](https://montevil.org/). 
 My interest lies in the epistemological differences between physics and **theoretical biology.**
-I try to formalize **methods** for an **organicist approach** to come to fruition. 
-The angle I adopt interrogate a technical the condition of possibility of theorization in biology, which is writing. 
+I try to formalize **modeling methods** for an **organicist approach** to come to fruition.
+My standpoint is to scrutinize the technical condition of possibility of theorization in science, which is **writing**. 
 
-Here is my [PhD project](PhD%20project.md) (in french) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
+Here is my initial [PhD project](PhD%20project.md) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
 
 Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >CV</a>[^1] : 
-- **PhD** in **epistemology of biology**, supervized by Maël Montévil (2023-).
 - **PhD degree** in **physical chemistry** from PSL Research University (2019-2022).  
 - **Diploma** from the **École Normale Supérieure** (ENS) of Paris (2019).
 - **Master's degree** in analytical, physical and theoretical chemistry from **Sorbonne Université** (2019).
 - Contracted visitor in **IBM Research Zürich** on quantum computing for chemistry (2018-2019)
 
-This website constitute an example of an original academic workflow using [Obsidian](https://obsidian.md/). 
-Find more [about Weaver](about%20Weaver.md) here.
+
 
 ### List of research publications (📄) and patents (💡)
 

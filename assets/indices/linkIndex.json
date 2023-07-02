@@ -6,11 +6,6 @@
           "source": "/Anton-Robert",
           "target": "/PhD-project",
           "text": "PhD project"
-        },
-        {
-          "source": "/Anton-Robert",
-          "target": "/about-Weaver",
-          "text": "about Weaver"
         }
       ],
       "/about-Weaver": [
@@ -448,13 +443,6 @@
           "source": "/Anton-Robert",
           "target": "/PhD-project",
           "text": "PhD project"
-        }
-      ],
-      "/about-Weaver": [
-        {
-          "source": "/Anton-Robert",
-          "target": "/about-Weaver",
-          "text": "about Weaver"
         }
       ],
       "/concept/Anfinsens-dogma": [
@@ -950,11 +938,6 @@
       "source": "/Anton-Robert",
       "target": "/PhD-project",
       "text": "PhD project"
-    },
-    {
-      "source": "/Anton-Robert",
-      "target": "/about-Weaver",
-      "text": "about Weaver"
     },
     {
       "source": "/about-Weaver",
