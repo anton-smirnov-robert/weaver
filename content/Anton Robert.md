@@ -6,7 +6,11 @@ showthedate: true
 	
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
-I'm a **physical chemist**, currently carrying out a PhD thesis in **epistemology of biology**.   
+I'm a **physical chemist**, currently carrying out a second PhD thesis in **epistemology** with the help of Maël Montévil. 
+My interest lies in the epistemological differences between physics and **theoretical biology.**
+I try to formalize **methods** for an **organicist approach** to come to fruition. 
+The angle I adopt interrogate a technical the condition of possibility of theorization in biology, which is writing. 
+
 Here is my [PhD project](PhD%20project.md) (in french) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
 
 Here are the main points of my <a href="/images/CV_07_23_internet_version.pdf" >CV</a>[^1] : 
