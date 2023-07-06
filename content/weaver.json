@@ -88,9 +88,9 @@
       "warnTitleCased": false
     },
     "options": {
-      "exportNotes": true,
+      "exportNotes": false,
       "exportFileData": false,
-      "keepUpdated": false,
+      "keepUpdated": true,
       "worker": true,
       "Normalize": false
     }
