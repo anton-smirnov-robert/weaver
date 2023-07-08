@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "87eca836d44e46eb",
+        "id": "d68c8ec15882dc0a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd4157aa6594c5cb",
+            "id": "a350580bd05b949b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/on the closure of constraints.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "note/on the closure of constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "note/on the closure of constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "note/on the closure of constraints.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,14 +146,14 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "cd4157aa6594c5cb",
+  "active": "a350580bd05b949b",
   "lastOpenFiles": [
+    "note/on the closure of constraints.md",
     "reference/Nicolis1986.md",
     "reference/Adib2005.md",
     "reference/Kauffman2003.md",
     "reference/Atkins1984a.md",
     "Anton Robert.md",
-    "note/on the closure of constraints.md",
     "about Weaver.md",
     "PhD project.md",
     "concept/Schrodinger's code-script aperiodic crystal.md",
