@@ -7,9 +7,9 @@ showthedate: true
 <p align="center"><img src="/images/profil.png" height=300px /></p>
 
 I'm a **physical chemist**, currently carrying out a second PhD thesis in **epistemology** with the help of [Maël Montévil](https://montevil.org/). 
-My interest lies in the epistemological differences between physics and **theoretical biology.**
-I try to formalize **modeling methods** for an **organicist approach** to come to fruition.
-My standpoint is to scrutinize the technical condition of possibility of theorization in science, which is **writing**. 
+My interest lies at the crossroad between physics, chemistry, and **theoretical biology.**
+I try to formalize **methods** for an **organicist approach** to come to fruition.
+My angle of approach is to scrutinize a technical condition of possibility of science: **writing**.
 
 Here is my initial [PhD project](PhD%20project.md) and a way to get in touch: <a href="mailto:anton.smirnov.robert@gmail.com"> anton.smirnov.robert(at)gmail.com </a>   
 
