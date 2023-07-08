@@ -18,3 +18,7 @@ tags:
 ### on metaphors:
 
 - "A naked tree is not naked. A genetic program is not a program."
+
+general:
+
+"There is some many things that I don't understand" Daft Punk — Within 

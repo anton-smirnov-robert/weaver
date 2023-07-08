@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d68c8ec15882dc0a",
+        "id": "f154234375ec0c75",
         "type": "tabs",
         "children": [
           {
-            "id": "a350580bd05b949b",
+            "id": "7d77f5f40267f351",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/quotes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects/quotes.md"
+              }
             }
           }
         ]
@@ -146,8 +154,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "a350580bd05b949b",
+  "active": "7d77f5f40267f351",
   "lastOpenFiles": [
+    "projects/quotes.md",
     "note/on the closure of constraints.md",
     "reference/Nicolis1986.md",
     "reference/Adib2005.md",
@@ -177,7 +186,6 @@
     "concept/Shannon's theory of information transmission.md",
     "concept/computability.md",
     "reference/Longo2021.md",
-    "reference/Doudna2017.md",
     "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
     "images/from_physics_to_biology.pdf",
