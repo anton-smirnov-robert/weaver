@@ -1,7 +1,7 @@
 ---
 title: "<% tp.file.title %>"
 date: <% tp.date.now() %>
-draft: false
+draft: true
 showthedate: false
 enabletoc: false
 tags:

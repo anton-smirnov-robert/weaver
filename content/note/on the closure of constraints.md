@@ -1,3 +1,14 @@
+---
+title: "<% tp.file.title %>"
+date: <% tp.date.now() %>
+draft: false
+showthedate: true
+enabletoc: true
+draft: true
+tags:
+- literature-note
+---
+
 
 
 [Atkins1984a](reference/Atkins1984a.md)

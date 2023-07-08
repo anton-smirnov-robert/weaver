@@ -4,7 +4,7 @@ date: <% tp.date.now() %>
 draft: false
 showthedate: true
 enabletoc: false
-draft: false
+draft: true
 tags:
 - concept
 ---
