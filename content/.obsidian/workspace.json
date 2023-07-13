@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "images/projet_de_recherche_540.pdf"
+                "file": "images/CV_07_23_internet_version.pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/projet_de_recherche_540.pdf",
+                "file": "images/CV_07_23_internet_version.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/projet_de_recherche_540.pdf",
+                "file": "images/CV_07_23_internet_version.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/projet_de_recherche_540.pdf"
+                "file": "images/CV_07_23_internet_version.pdf"
               }
             }
           }
@@ -154,8 +154,19 @@
   },
   "active": "9203d8a8f9294a89",
   "lastOpenFiles": [
-    "images/from_physics_to_biology.pdf",
+    "images/Pasted image 20230118122044.png",
     "images/CV_07_23_internet_version.pdf",
+    "images/from_physics_to_biology.pdf",
+    "images/Pasted image 20230320111525.png",
+    "images/Pasted image 20230403194022.png",
+    "images/Pasted image 20230403204846.png",
+    "images/Pasted image 20230405123654.png",
+    "images/Pasted image 20230406174512.png",
+    "images/Pasted image 20230406174519.png",
+    "images/Pasted image 20230410100952.png",
+    "images/profil.png",
+    "images/projet_de_recherche_540.pdf",
+    "images/weaver_logo.png",
     "images/cv_francais_09_22_no_hyperlink.pdf",
     "images/CV_03_23_internet_version.pdf",
     "Anton Robert.md",
@@ -177,23 +188,12 @@
     "concept/Schrodinger's code-script aperiodic crystal.md",
     "about the website.md",
     "note/note on Montevil2019a.md",
-    "images/Pasted image 20230403194022.png",
     "note/note on Longo2012.md",
     "definition/entropy.md",
     "reference/Longo2012.md",
     "reference/MaynardSmith1999.md",
     "concept/Crick's central dogma.md",
     "reference/Schrodinger1944.md",
-    "images/projet_de_recherche_540.pdf",
-    "images/Pasted image 20230410100952.png",
-    "images/Pasted image 20230406174519.png",
-    "images/Pasted image 20230406174512.png",
-    "images/Pasted image 20230405123654.png",
-    "images/Pasted image 20230404124000.png",
-    "images/Pasted image 20230403204846.png",
-    "images/Pasted image 20230403203403.png",
-    "images/Pasted image 20230403202109.png",
-    "images/Pasted image 20230331170857.png",
     "images/Curriculum_vitae_03_23.pdf",
     "projects/summary_of_theory",
     "writing"
