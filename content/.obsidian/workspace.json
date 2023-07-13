@@ -11,11 +11,9 @@
             "id": "9203d8a8f9294a89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Anton Robert.md",
-                "mode": "source",
-                "source": false
+                "file": "images/projet_de_recherche_540.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "images/projet_de_recherche_540.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anton Robert.md",
+                "file": "images/projet_de_recherche_540.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anton Robert.md"
+                "file": "images/projet_de_recherche_540.pdf"
               }
             }
           }
@@ -156,6 +154,11 @@
   },
   "active": "9203d8a8f9294a89",
   "lastOpenFiles": [
+    "images/from_physics_to_biology.pdf",
+    "images/CV_07_23_internet_version.pdf",
+    "images/cv_francais_09_22_no_hyperlink.pdf",
+    "images/CV_03_23_internet_version.pdf",
+    "Anton Robert.md",
     "note/différance and deconstruction in biology.md",
     "note/principle of variation from physics.md",
     "note/pre-note on the organicist tradition.md",
@@ -169,15 +172,11 @@
     "reference/Adib2005.md",
     "reference/Kauffman2003.md",
     "reference/Atkins1984a.md",
-    "Anton Robert.md",
     "about Weaver.md",
     "PhD project.md",
     "concept/Schrodinger's code-script aperiodic crystal.md",
     "about the website.md",
     "note/note on Montevil2019a.md",
-    "images/CV_07_23_internet_version.pdf",
-    "images/CV_03_23_internet_version.pdf",
-    "images/cv_francais_09_22_no_hyperlink.pdf",
     "images/Pasted image 20230403194022.png",
     "note/note on Longo2012.md",
     "definition/entropy.md",
@@ -185,10 +184,8 @@
     "reference/MaynardSmith1999.md",
     "concept/Crick's central dogma.md",
     "reference/Schrodinger1944.md",
-    "concept/Kolmogorov's incompressibility.md",
     "images/projet_de_recherche_540.pdf",
     "images/Pasted image 20230410100952.png",
-    "images/from_physics_to_biology.pdf",
     "images/Pasted image 20230406174519.png",
     "images/Pasted image 20230406174512.png",
     "images/Pasted image 20230405123654.png",
