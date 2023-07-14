@@ -44,3 +44,5 @@ From Maël and co:
 
 
 Abstraction, genericity, writings --- Matter, complexity, specificity. 
+Mathematical and abstract objects, vs matter. 
+Liens avec l'écriture et Chi. 
