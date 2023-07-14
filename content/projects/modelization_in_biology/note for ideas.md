@@ -25,6 +25,7 @@ This book is ideal for philosophers (of science), mathematicians, biologists, et
 
 References: 
 - [Bailly2011](reference/Bailly2011.md) 
+- Le jeu difficile entre rigueur et sens — **Longo**
 - Le cauchemar de Prométhée
 - Aristote (abstraction et l'erreur)
 
@@ -41,12 +42,25 @@ From Maël and co:
 - Genericity and abstraction (shared properties, which are few). Comes from the maths (anhistoric and decontextualis). 
 
 
-
-
 Abstraction, genericity, writings --- Matter, complexity, specificity. 
 Mathematical and abstract objects, vs matter. 
 Liens avec l'écriture et Chi.
 Symétrisation
 Objet matériel concret (conservation des objets) et non des construction théoriques
 **Les objets sous une même mesure ont un lien matériel.** 
-Disruption : désorganisation 
+Disruption : désorganisation. 
+question du formalisme: l'alphabet n'est pas suffisant. 
+mythogramme  (Leroi-Gourhan)
+condition de possibilité de l'objectivité (Derrida)
+
+Les possibles sont donnés.
+Langage qui n'ont pas de sens (sémantique). 
+C'est leur puissance (séparation entre sémantique et syntaxe).
+**Principe de connstruction et principe de preuve**
+
+
+**Formalisme, langage formels et automates.** 
+Le lien entre l'ordinateur et la biologie : insuffisance de l'écriture d'un langage formel. 
+
+
+
