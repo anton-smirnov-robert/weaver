@@ -41,6 +41,7 @@ Ideas:
 - Use of mathematical models in biology — the case of Biophysics (deconstruction). Simulation vs Understanding.  
 - Writing: enshrined in the alphabetical writing (Leroy-Gourhan).  
 - Mutations d’écriture en chimie — Pierre Laszlo
+- Ecriture biologique (tendance à la formalisation)
 
 From Maël and co: 
 - History (of Darwin) is first. Physics understand biology, based on invariances. If species evolve, they must do the same at the microscopic scale --> timescale. 
