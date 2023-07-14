@@ -26,16 +26,21 @@ This book is ideal for philosophers (of science), mathematicians, biologists, et
 References: 
 - [Bailly2011](reference/Bailly2011.md) 
 - Le jeu difficile entre rigueur et sens — **Longo**
-- Le cauchemar de Prométhée
+- Le cauchemar de Prométhée [Longo](reference/Longo.md)
 - Aristote (abstraction et l'erreur)
-
+- Jean Lassègue [Lassegue2017](reference/Lassegue2017.md) 
+- Derrida 
+- Husserl — origine de laa géométrie
+- Sylvain Auroux 
+- Leroi-Gourhan 
+- 
 Ideas: 
 - Contemplation: Look rather than trying to think abstractly about it. Like in drawing: force you not to imagine what this *should* be like, but I it is. 
 - *Organizing data and facts in knowledge that make sense*, rather that to describe organisms: pharmakology of techniques in Science. 
 - politiser l'épistémologie.
 - Use of mathematical models in biology — the case of Biophysics (deconstruction). Simulation vs Understanding.  
 - Writing: enshrined in the alphabetical writing (Leroy-Gourhan).  
-
+- Mutations d’écriture en chimie — Pierre Laszlo
 
 From Maël and co: 
 - History (of Darwin) is first. Physics understand biology, based on invariances. If species evolve, they must do the same at the microscopic scale --> timescale. 
