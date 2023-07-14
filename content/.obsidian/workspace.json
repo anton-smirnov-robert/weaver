@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "98b27c440edaedf8",
+        "id": "ba589f3746cf7a87",
         "type": "tabs",
         "children": [
           {
-            "id": "9203d8a8f9294a89",
+            "id": "89678e4887a42ab3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "images/CV_07_23_internet_version.pdf"
+                "file": "projects/modelization_in_biology/note for ideas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/CV_07_23_internet_version.pdf",
+                "file": "projects/modelization_in_biology/note for ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/CV_07_23_internet_version.pdf",
+                "file": "projects/modelization_in_biology/note for ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/CV_07_23_internet_version.pdf"
+                "file": "projects/modelization_in_biology/note for ideas.md"
               }
             }
           }
@@ -152,10 +154,22 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9203d8a8f9294a89",
+  "active": "89678e4887a42ab3",
   "lastOpenFiles": [
-    "images/Pasted image 20230118122044.png",
+    "projects/phamakology_technoscience/For a pharmakology of technosciences.md",
+    "projects/TODO.md",
+    "projects/modelization_in_biology/note for ideas.md",
+    "projects/phamakology_technoscience",
+    "Sans titre.md",
+    "projects/theorization_in_sciences/(v0.1) Vers une économie anti-entropique des théories scientifiques.md",
+    "about Weaver.md",
+    "note/principle of variation from physics.md",
+    "projects/modelization_in_biology",
+    "note/pre-note on the organicist tradition.md",
+    "note/on the closure of constraints.md",
+    "note/différance and deconstruction in biology.md",
     "images/CV_07_23_internet_version.pdf",
+    "images/Pasted image 20230118122044.png",
     "images/from_physics_to_biology.pdf",
     "images/Pasted image 20230320111525.png",
     "images/Pasted image 20230403194022.png",
@@ -170,10 +184,6 @@
     "images/cv_francais_09_22_no_hyperlink.pdf",
     "images/CV_03_23_internet_version.pdf",
     "Anton Robert.md",
-    "note/différance and deconstruction in biology.md",
-    "note/principle of variation from physics.md",
-    "note/pre-note on the organicist tradition.md",
-    "note/on the closure of constraints.md",
     "templates/note.md",
     "templates/reference.md",
     "templates/definition.md",
@@ -183,17 +193,12 @@
     "reference/Adib2005.md",
     "reference/Kauffman2003.md",
     "reference/Atkins1984a.md",
-    "about Weaver.md",
     "PhD project.md",
     "concept/Schrodinger's code-script aperiodic crystal.md",
     "about the website.md",
     "note/note on Montevil2019a.md",
     "note/note on Longo2012.md",
     "definition/entropy.md",
-    "reference/Longo2012.md",
-    "reference/MaynardSmith1999.md",
-    "concept/Crick's central dogma.md",
-    "reference/Schrodinger1944.md",
     "images/Curriculum_vitae_03_23.pdf",
     "projects/summary_of_theory",
     "writing"
