@@ -31,13 +31,14 @@ References:
 - Jean Lassègue [Lassegue2017](reference/Lassegue2017.md) 
 - Derrida 
 - Husserl — origine de laa géométrie
-- Sylvain Auroux 
+- Sylvain Auroux  
 - Leroi-Gourhan 
-- 
+- Petitot  Notions philosophieque (forme et structure)
 Ideas: 
 - Contemplation: Look rather than trying to think abstractly about it. Like in drawing: force you not to imagine what this *should* be like, but I it is. 
 - *Organizing data and facts in knowledge that make sense*, rather that to describe organisms: pharmakology of techniques in Science. 
 - politiser l'épistémologie.
+- Historicity: problem with formalisms.  
 - Use of mathematical models in biology — the case of Biophysics (deconstruction). Simulation vs Understanding.  
 - Writing: enshrined in the alphabetical writing (Leroy-Gourhan).  
 - Mutations d’écriture en chimie — Pierre Laszlo
