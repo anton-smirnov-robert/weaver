@@ -49,3 +49,4 @@ Liens avec l'écriture et Chi.
 Symétrisation
 Objet matériel concret (conservation des objets) et non des construction théoriques
 **Les objets sous une même mesure ont un lien matériel.** 
+Disruption : désorganisation 
