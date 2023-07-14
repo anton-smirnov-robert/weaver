@@ -45,4 +45,7 @@ From Maël and co:
 
 Abstraction, genericity, writings --- Matter, complexity, specificity. 
 Mathematical and abstract objects, vs matter. 
-Liens avec l'écriture et Chi. 
+Liens avec l'écriture et Chi.
+Symétrisation
+Objet matériel concret (conservation des objets) et non des construction théoriques
+**Les objets sous une même mesure ont un lien matériel.** 
